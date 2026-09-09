@@ -1,0 +1,364 @@
+:root {
+  --eucalipto: #3f5f46;
+  --eucalipto-clara: #6a8f72;
+  --eucalipto-nevoa: #d7e4d9;
+  --madeira: #6e4b32;
+  --madeira-clara: #a67c52;
+  --ceu: #8eb6d4;
+  --ceu-profundo: #5a8fb5;
+  --branco: #fffcf8;
+  --papel: #f3eee6;
+  --tinta: #243028;
+  --tinta-suave: #5a675e;
+  --linha: rgba(62, 52, 40, 0.14);
+  --sombra: 0 18px 40px rgba(36, 48, 40, 0.08);
+  --fonte-marca: "Brygada 1918", Georgia, serif;
+  --fonte-corpo: "Public Sans", system-ui, sans-serif;
+  --max: 68rem;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: var(--tinta);
+  font-family: var(--fonte-corpo);
+  font-size: 1.05rem;
+  line-height: 1.55;
+  background:
+    linear-gradient(180deg, rgba(142, 182, 212, 0.35) 0%, transparent 28%),
+    linear-gradient(160deg, var(--papel) 0%, var(--eucalipto-nevoa) 55%, #e8dfd2 100%);
+  overflow-x: hidden;
+}
+
+.sky {
+  position: fixed;
+  inset: 0 0 auto 0;
+  height: 42vh;
+  pointer-events: none;
+  background:
+    radial-gradient(ellipse 80% 55% at 70% 10%, rgba(255, 252, 248, 0.55), transparent 70%),
+    radial-gradient(ellipse 50% 40% at 15% 20%, rgba(142, 182, 212, 0.35), transparent 65%);
+  z-index: 0;
+}
+
+.hero,
+main,
+.foot {
+  position: relative;
+  z-index: 1;
+}
+
+.hero {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: clamp(1.25rem, 3vw, 2rem) 1.5rem 2rem;
+  min-height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  isolation: isolate;
+}
+
+.brand {
+  margin: 0;
+  font-family: var(--fonte-marca);
+  font-size: clamp(2.8rem, 9vw, 5.4rem);
+  font-weight: 600;
+  line-height: 0.95;
+  letter-spacing: -0.02em;
+  color: var(--eucalipto);
+  animation: rise 0.9s ease-out both;
+}
+
+.hero h1 {
+  margin: 1rem 0 0;
+  max-width: 18ch;
+  font-family: var(--fonte-marca);
+  font-size: clamp(1.35rem, 3.2vw, 1.85rem);
+  font-weight: 500;
+  font-style: italic;
+  color: var(--madeira);
+  animation: rise 0.9s ease-out 0.16s both;
+}
+
+.lede {
+  margin: 1rem 0 0;
+  max-width: 34rem;
+  color: var(--tinta-suave);
+  animation: rise 0.9s ease-out 0.24s both;
+}
+
+.hero-actions {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.85rem 1.25rem;
+  min-height: 3rem;
+  animation: rise 0.9s ease-out 0.32s both;
+}
+
+.meta {
+  margin: 0;
+  font-size: 0.92rem;
+  color: var(--tinta-suave);
+}
+
+.btn {
+  appearance: none;
+  border: 0;
+  border-radius: 0.35rem;
+  padding: 0.75rem 1.25rem;
+  background: var(--madeira);
+  color: var(--branco);
+  font: inherit;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.btn:hover {
+  background: #5a3c28;
+  transform: translateY(-1px);
+}
+
+.btn:disabled {
+  opacity: 0.65;
+  cursor: wait;
+  transform: none;
+}
+
+.status-live {
+  margin: 0;
+  color: var(--ceu-profundo);
+  font-weight: 600;
+  animation: pulse 1.4s ease-in-out infinite;
+}
+
+.hero-silhueta {
+  position: absolute;
+  right: -4%;
+  bottom: 4%;
+  width: min(52vw, 28rem);
+  opacity: 0.18;
+  pointer-events: none;
+  z-index: -1;
+  animation: drift 14s ease-in-out infinite alternate;
+}
+
+main {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 1.5rem 4rem;
+  display: grid;
+  gap: 3rem;
+}
+
+.nacional {
+  padding: 1.75rem 0 0;
+  border-top: 1px solid var(--linha);
+  animation: rise 0.9s ease-out 0.4s both;
+}
+
+.eyebrow {
+  margin: 0;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ceu-profundo);
+}
+
+.nacional h2,
+.estados h2 {
+  margin: 0.35rem 0 0;
+  font-family: var(--fonte-marca);
+  font-size: clamp(1.8rem, 4vw, 2.4rem);
+  font-weight: 600;
+  color: var(--eucalipto);
+}
+
+.nacional-nums {
+  margin-top: 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 14rem));
+  gap: 1.5rem 2.5rem;
+}
+
+.nacional-nums .label {
+  display: block;
+  margin-bottom: 0.35rem;
+  font-size: 0.85rem;
+  color: var(--tinta-suave);
+}
+
+.nacional-nums strong {
+  font-family: var(--fonte-marca);
+  font-size: clamp(2rem, 5vw, 2.85rem);
+  font-weight: 600;
+  color: var(--madeira);
+  letter-spacing: -0.02em;
+}
+
+.fonte {
+  margin-top: 1.25rem;
+  max-width: 40rem;
+}
+
+.estados-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.busca input {
+  width: min(100%, 16rem);
+  border: 1px solid var(--linha);
+  border-radius: 0.35rem;
+  padding: 0.7rem 0.9rem;
+  background: rgba(255, 252, 248, 0.72);
+  color: var(--tinta);
+  font: inherit;
+}
+
+.busca input:focus {
+  outline: 2px solid var(--eucalipto-clara);
+  outline-offset: 1px;
+}
+
+.table-wrap {
+  overflow-x: auto;
+  border-top: 1px solid var(--linha);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.98rem;
+}
+
+th,
+td {
+  padding: 0.95rem 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid var(--linha);
+  white-space: nowrap;
+}
+
+th {
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--tinta-suave);
+}
+
+td.num {
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  color: var(--eucalipto);
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  border-radius: 0.25rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.badge-api {
+  background: rgba(63, 95, 70, 0.12);
+  color: var(--eucalipto);
+}
+
+.badge-estimado {
+  background: rgba(110, 75, 50, 0.12);
+  color: var(--madeira);
+}
+
+.foot {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 1.5rem 2.5rem;
+  color: var(--tinta-suave);
+  font-size: 0.9rem;
+}
+
+.foot a {
+  color: var(--ceu-profundo);
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes drift {
+  from {
+    transform: translateX(0) translateY(0);
+  }
+  to {
+    transform: translateX(-12px) translateY(6px);
+  }
+}
+
+@keyframes pulse {
+  0%,
+  100% {
+    opacity: 0.55;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+@media (max-width: 720px) {
+  .hero {
+    padding-top: 1rem;
+    padding-bottom: 2.5rem;
+  }
+
+  .hero-silhueta {
+    width: 70vw;
+    opacity: 0.12;
+    bottom: 0;
+  }
+
+  .nacional-nums {
+    grid-template-columns: 1fr;
+  }
+
+}

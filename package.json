@@ -1,0 +1,11 @@
+{
+  "name": "precodoboi",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Preço médio da arroba do gado por estado — GitHub Pages",
+  "scripts": {
+    "update": "node scripts/update-prices.mjs",
+    "serve": "npx --yes serve -l 4173 ."
+  }
+}
