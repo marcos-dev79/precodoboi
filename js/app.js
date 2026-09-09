@@ -11,6 +11,8 @@ const el = {
   fonte: document.getElementById("fonte"),
   lista: document.getElementById("lista-estados"),
   filtro: document.getElementById("filtro"),
+  noticiasGrid: document.getElementById("noticias-grid"),
+  noticiasFonte: document.getElementById("noticias-fonte"),
 };
 
 let dadosAtuais = null;
@@ -23,6 +25,13 @@ const brl = new Intl.NumberFormat("pt-BR", {
 const dataHora = new Intl.DateTimeFormat("pt-BR", {
   dateStyle: "short",
   timeStyle: "short",
+});
+
+const dataCurta = new Intl.DateTimeFormat("pt-BR", {
+  day: "2-digit",
+  month: "short",
+  hour: "2-digit",
+  minute: "2-digit",
 });
 
 function parseData(iso) {
@@ -45,20 +54,17 @@ function formatMoney(n) {
   return brl.format(n);
 }
 
-function render(dados) {
+function renderPrecos(dados) {
   dadosAtuais = dados;
 
   el.mediaArroba.textContent = formatMoney(dados.media_nacional.preco_arroba);
 
   const quando = parseData(dados.atualizado_em);
   el.status.textContent = quando
-    ? `Última atualização: ${dataHora.format(quando)}`
+    ? `Cotações: ${dataHora.format(quando)}`
     : "Sem data de atualização";
 
-  el.fonte.textContent = [
-    dados.fonte,
-    ...(dados.notas || []),
-  ]
+  el.fonte.textContent = [dados.fonte, ...(dados.notas || [])]
     .filter(Boolean)
     .join(" · ");
 
@@ -88,13 +94,50 @@ function pintarLista(filtro = "") {
       const badge =
         e.origem === "api"
           ? `<span class="badge badge-api">praça</span>`
-          : `<span class="badge badge-estimado">estimado</span>`;
+          : `<span class="badge badge-estimado">est.</span>`;
       return `<tr>
-        <td>${e.nome}</td>
-        <td>${e.uf}</td>
+        <td>${e.nome} <small>${e.uf}</small></td>
         <td class="num">${formatMoney(e.preco_arroba)}</td>
         <td>${badge}</td>
       </tr>`;
+    })
+    .join("");
+}
+
+function renderNoticias(payload) {
+  if (!payload?.noticias?.length) {
+    el.noticiasGrid.innerHTML =
+      `<p class="meta">Nenhuma notícia disponível no momento.</p>`;
+    return;
+  }
+
+  const quando = parseData(payload.atualizado_em);
+  el.noticiasFonte.textContent = quando
+    ? `${payload.fonte} · ${dataHora.format(quando)}`
+    : payload.fonte || "";
+
+  el.noticiasGrid.innerHTML = payload.noticias
+    .map((n, i) => {
+      const destaque = i === 0 ? " noticia-destaque" : "";
+      const media = n.image
+        ? `<img class="noticia-media" src="${n.image}" alt="" loading="${i === 0 ? "eager" : "lazy"}" />`
+        : `<div class="noticia-media" role="presentation"></div>`;
+      const quandoN = parseData(n.publishedAt);
+      const tempo = quandoN
+        ? `<time datetime="${n.publishedAt}">${dataCurta.format(quandoN)}</time>`
+        : "";
+      const resumo =
+        i === 0 && n.summary
+          ? `<p>${n.summary}${n.summary.length >= 220 ? "…" : ""}</p>`
+          : "";
+
+      return `<a class="noticia${destaque}" href="${n.link}" target="_blank" rel="noopener noreferrer">
+        ${media}
+        <p class="noticia-kicker">${n.fonte || "Pecuária"}</p>
+        <h3>${n.title}</h3>
+        ${resumo}
+        ${tempo}
+      </a>`;
     })
     .join("");
 }
@@ -112,11 +155,9 @@ function salvarLocal(dados) {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(dados));
 }
 
-async function carregarJsonArquivo() {
-  const res = await fetch(`data/prices.json?t=${Date.now()}`, {
-    cache: "no-store",
-  });
-  if (!res.ok) throw new Error("Não foi possível ler data/prices.json");
+async function carregarJson(path) {
+  const res = await fetch(`${path}?t=${Date.now()}`, { cache: "no-store" });
+  if (!res.ok) throw new Error(`Falha ao ler ${path}`);
   return res.json();
 }
 
@@ -129,21 +170,27 @@ function escolherMaisRecente(a, b) {
 }
 
 async function carregarInicial() {
-  const local = lerLocal();
-  let arquivo = null;
-  try {
-    arquivo = await carregarJsonArquivo();
-  } catch (err) {
-    console.warn(err);
-  }
+  const [precosLocal, precosArquivo, noticias] = await Promise.all([
+    Promise.resolve(lerLocal()),
+    carregarJson("data/prices.json").catch((err) => {
+      console.warn(err);
+      return null;
+    }),
+    carregarJson("data/noticias.json").catch((err) => {
+      console.warn(err);
+      return null;
+    }),
+  ]);
 
-  const dados = escolherMaisRecente(local, arquivo);
+  const dados = escolherMaisRecente(precosLocal, precosArquivo);
   if (!dados) {
     el.status.textContent = "Nenhum dado encontrado. Atualize para pesquisar.";
     el.btn.hidden = false;
-    return;
+  } else {
+    renderPrecos(dados);
   }
-  render(dados);
+
+  renderNoticias(noticias);
 }
 
 async function atualizarEmBackground() {
@@ -154,7 +201,7 @@ async function atualizarEmBackground() {
   try {
     const dados = await pesquisarPrecos();
     salvarLocal(dados);
-    render(dados);
+    renderPrecos(dados);
   } catch (err) {
     console.error(err);
     el.status.textContent =

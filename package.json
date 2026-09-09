@@ -5,7 +5,9 @@
   "type": "module",
   "description": "Preço médio da arroba do gado por estado — GitHub Pages",
   "scripts": {
-    "update": "node scripts/update-prices.mjs",
+    "update": "node scripts/update-all.mjs",
+    "update:prices": "node scripts/update-prices.mjs",
+    "update:news": "node scripts/update-news.mjs",
     "serve": "npx --yes serve -l 4173 ."
   }
 }

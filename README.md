@@ -1,6 +1,6 @@
 # Preço do Boi
 
-Site estático com o preço médio da **arroba do gado** por estado brasileiro. Os dados ficam em `data/prices.json` e podem ser atualizados pelo navegador (botão após 24h) ou automaticamente via **GitHub Actions**.
+Site estático com o preço médio da **arroba do gado** por estado e as **5 notícias mais relevantes de pecuária**. Os dados ficam em `data/prices.json` e `data/noticias.json`, atualizados automaticamente via **GitHub Actions**.
 
 ## Pré-requisitos
 
@@ -18,10 +18,12 @@ npm run serve
 
 Abra `http://localhost:4173`.
 
-Para regenerar o JSON na máquina:
+Para regenerar preços e notícias:
 
 ```bash
-npm run update
+npm run update          # preços + notícias
+npm run update:prices   # só preços
+npm run update:news     # só notícias
 ```
 
 ## Publicar no GitHub
@@ -68,8 +70,8 @@ O workflow [`.github/workflows/update-prices.yml`](.github/workflows/update-pric
 
 - roda **todo dia às 12:00 UTC** (`cron: "0 12 * * *"`);
 - também pode ser disparado **manualmente**;
-- executa `npm run update`;
-- faz commit e push de `data/prices.json` se houver mudança.
+- executa `npm run update` (cotações + top 5 notícias de pecuária);
+- faz commit e push de `data/prices.json` e `data/noticias.json` se houver mudança.
 
 O push do JSON dispara de novo o workflow de Pages, republicando o site com os preços novos.
 
@@ -120,13 +122,18 @@ Para testar o botão com dados frescos: abra `/?stale`.
 ```text
 .github/workflows/
   pages.yml           # deploy no GitHub Pages
-  update-prices.yml   # atualiza data/prices.json
-data/prices.json      # preços + data da última atualização
+  update-prices.yml   # atualiza prices.json + noticias.json
+data/prices.json
+data/noticias.json
+scripts/update-all.mjs
 scripts/update-prices.mjs
-js/fetch-prices.js    # lógica de busca (browser e Node)
+scripts/update-news.mjs
+js/fetch-prices.js
+js/fetch-news.js
 index.html
 ```
 
 ## Fonte dos dados
 
-Cotações via [AgroDoc AI](https://agrodocai.com.br/api-docs) (CEPEA/ESALQ e praças). UFs sem praça na API usam estimativa regional. Licença dos dados da API: CC-BY-4.0 — atribuição AgroDoc AI.
+- **Preços:** [AgroDoc AI](https://agrodocai.com.br/api-docs) (CEPEA/ESALQ e praças). UFs sem praça usam estimativa regional. CC-BY-4.0 — atribuição AgroDoc AI.
+- **Notícias:** RSS público do [Canal Rural · Pecuária](https://www.canalrural.com.br/pecuaria/feed/), ranqueado por palavras-chave (arroba, boi gordo, gado, exportação etc.) e frescor.

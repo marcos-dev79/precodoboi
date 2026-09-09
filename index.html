@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta
       name="description"
-      content="Preço médio da arroba do boi por estado brasileiro."
+      content="Portal da arroba do boi: preços por estado e notícias de pecuária."
     />
     <title>Preço do Boi</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Brygada+1918:ital,wght@0,500;0,600;1,500&family=Public+Sans:wght@400;500;600&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Brygada+1918:ital,wght@0,500;0,600;1,500&family=Public+Sans:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
     <link rel="stylesheet" href="css/styles.css" />
@@ -19,13 +19,19 @@
   <body>
     <div class="sky" aria-hidden="true"></div>
 
-    <header class="hero">
-      <p class="brand">Preço do Boi</p>
-      <h1>Arroba do gado em cada estado</h1>
-      <p class="lede">
-        Média da arroba do gado, atualizada a partir das praças brasileiras.
-      </p>
-      <div class="hero-actions">
+    <header class="masthead">
+      <div class="masthead-inner">
+        <div class="masthead-brand">
+          <p class="brand">Preço do Boi</p>
+          <p class="tagline">Portal da pecuária · arroba e notícias</p>
+        </div>
+        <div class="masthead-market">
+          <span class="label">Média Brasil</span>
+          <strong id="media-arroba">—</strong>
+          <span class="unit">/@</span>
+        </div>
+      </div>
+      <div class="masthead-bar">
         <p id="status-atualizacao" class="meta"></p>
         <button id="btn-atualizar" class="btn" type="button" hidden>
           Atualizar Dados
@@ -34,64 +40,60 @@
           Atualizando...
         </p>
       </div>
-      <img
-        class="hero-silhueta"
-        src="assets/gado-silhueta.png"
-        alt=""
-        width="640"
-        height="360"
-      />
     </header>
 
-    <main>
-      <section class="nacional" aria-labelledby="titulo-nacional">
-        <p class="eyebrow">Cantinho nacional</p>
-        <h2 id="titulo-nacional">Média Brasil</h2>
-        <div class="nacional-nums">
-          <div>
-            <span class="label">Arroba</span>
-            <strong id="media-arroba">—</strong>
-          </div>
+    <main class="portal">
+      <section class="noticias" aria-labelledby="titulo-noticias">
+        <div class="section-head">
+          <h1 id="titulo-noticias">Pecuária agora</h1>
+          <p class="meta" id="noticias-fonte"></p>
         </div>
-        <p id="fonte" class="meta fonte"></p>
+
+        <div id="noticias-grid" class="noticias-grid" aria-live="polite">
+          <p class="meta">Carregando notícias...</p>
+        </div>
       </section>
 
-      <section class="estados" aria-labelledby="titulo-estados">
-        <div class="estados-head">
-          <h2 id="titulo-estados">Preços por estado</h2>
+      <aside class="mercado" aria-labelledby="titulo-estados">
+        <div class="section-head">
+          <h2 id="titulo-estados">Mercado por estado</h2>
           <label class="busca">
             <span class="sr-only">Filtrar estado</span>
             <input
               id="filtro"
               type="search"
-              placeholder="Buscar estado ou UF..."
+              placeholder="Buscar UF..."
               autocomplete="off"
             />
           </label>
         </div>
+
         <div class="table-wrap">
           <table>
             <thead>
               <tr>
                 <th>Estado</th>
-                <th>UF</th>
-                <th>Arroba (R$)</th>
+                <th>Arroba</th>
                 <th>Origem</th>
               </tr>
             </thead>
             <tbody id="lista-estados"></tbody>
           </table>
         </div>
-      </section>
+        <p id="fonte" class="meta fonte"></p>
+      </aside>
     </main>
 
     <footer class="foot">
       <p>
-        Dados de referência via
+        Preços via
         <a href="https://agrodocai.com.br/api-docs" rel="noopener noreferrer"
           >AgroDoc AI</a
         >
-        (CEPEA/ESALQ). Atribuição CC-BY-4.0.
+        (CEPEA/ESALQ). Notícias via
+        <a href="https://www.canalrural.com.br/pecuaria/" rel="noopener noreferrer"
+          >Canal Rural</a
+        >.
       </p>
     </footer>
 
