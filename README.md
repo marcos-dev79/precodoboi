@@ -1,6 +1,6 @@
 # Preço do Boi
 
-Site estático com o preço médio da **arroba do gado** por estado e as **5 notícias mais relevantes de pecuária**. Os dados ficam em `data/prices.json` e `data/noticias.json`, atualizados automaticamente via **GitHub Actions**.
+Site estático em **https://precodoboi.me** com o preço médio da **arroba do gado** por estado e notícias de pecuária. Os dados ficam em `data/prices.json` e `data/noticias.json`, atualizados automaticamente via **GitHub Actions**.
 
 ## Pré-requisitos
 
@@ -21,9 +21,11 @@ Abra `http://localhost:4173`.
 Para regenerar preços e notícias:
 
 ```bash
-npm run update          # preços + notícias
-npm run update:prices   # só preços
-npm run update:news     # só notícias
+npm run update            # preços + notícias + histórico + SEO
+npm run update:prices
+npm run update:news
+npm run update:historico  # média mensal CEPEA (12 meses)
+npm run update:seo
 ```
 
 ## Publicar no GitHub
@@ -54,15 +56,28 @@ O deploy está em [`.github/workflows/pages.yml`](.github/workflows/pages.yml): 
 3. Salve / confirme. Isso cria o site Pages no repositório.
 4. Vá em **Actions** → **Deploy GitHub Pages** → **Run workflow** (branch `main`).
 5. Na primeira vez, o ambiente `github-pages` pode pedir aprovação: **Settings → Environments → github-pages** (ou o banner no próprio job) → aprove.
-6. Quando terminar, a URL aparece em **Settings → Pages** (algo como `https://SEU_USUARIO.github.io/SEU_REPO/`).
+6. Quando terminar, a URL aparece em **Settings → Pages**.
+
+### Domínio customizado (Cloudflare + GitHub Pages)
+
+O site usa **https://precodoboi.me** (arquivo [`CNAME`](CNAME) na raiz).
+
+No GitHub → **Settings → Pages → Custom domain**: informe `precodoboi.me` e aguarde o DNS/HTTPS.
+
+Na Cloudflare (DNS), o padrão usual com Pages é:
+
+| Tipo | Nome | Conteúdo |
+|------|------|----------|
+| CNAME | `@` (ou A/ALIAS conforme o plano) | `marcos-dev79.github.io` |
+| CNAME | `www` | `marcos-dev79.github.io` |
+
+Com proxy Cloudflare (nuvem laranja), SSL em **Full** (não Flexible). Se o apex não aceitar CNAME, use os A records oficiais do GitHub Pages.
+
+Canônica, Open Graph, `robots.txt` e `sitemap.xml` apontam para `https://precodoboi.me/`.
 
 ### Erro comum: `Get Pages site failed` / `Not Found`
 
 Significa que o Pages ainda não existe no repositório. Faça o passo 2 acima (Source = **GitHub Actions**) e rode o workflow de novo. O Action **não** consegue criar o site sozinho com o `GITHUB_TOKEN`.
-
-### Se o site abrir em subpasta (`/SEU_REPO/`)
-
-Os caminhos do projeto são relativos (`css/`, `js/`, `data/`), então funciona tanto na raiz quanto em subpasta do Pages. Não é preciso configurar `base` especial.
 
 ## SEO
 
@@ -72,10 +87,9 @@ O site já inclui:
 - Open Graph e Twitter Cards
 - JSON-LD (`WebSite`, `WebPage`, `Dataset`) atualizado no `npm run update`
 - `robots.txt` e `sitemap.xml`
+- domínio canônico `https://precodoboi.me/`
 
-URL canônica configurada: `https://marcos-dev79.github.io/precodoboi/`
-
-Para indexar mais rápido: no [Google Search Console](https://search.google.com/search-console), adicione a propriedade do site e envie o sitemap `https://marcos-dev79.github.io/precodoboi/sitemap.xml`.
+Para indexar mais rápido: no [Google Search Console](https://search.google.com/search-console), adicione a propriedade `https://precodoboi.me` e envie o sitemap `https://precodoboi.me/sitemap.xml`.
 
 ## Action de atualização de preços
 
@@ -135,20 +149,25 @@ Para testar o botão com dados frescos: abra `/?stale`.
 ```text
 .github/workflows/
   pages.yml           # deploy no GitHub Pages
-  update-prices.yml   # atualiza prices.json + noticias.json
+  update-prices.yml   # atualiza prices, noticias, historico, SEO
 data/prices.json
 data/noticias.json
+data/historico.json
 scripts/update-all.mjs
 scripts/update-prices.mjs
 scripts/update-news.mjs
+scripts/update-historico.mjs
+scripts/update-seo.mjs
 js/fetch-prices.js
 js/fetch-news.js
+js/fetch-historico.js
 index.html
 ```
 
 ## Fonte dos dados
 
 - **Preços:** [AgroDoc AI](https://agrodocai.com.br/api-docs) (CEPEA/ESALQ e praças). UFs sem praça usam estimativa regional. CC-BY-4.0 — atribuição AgroDoc AI.
-- **Notícias:** cache em `data/noticias.json` (sem dependência em tempo real no browser):
+- **Histórico:** médias mensais do Indicador do boi gordo [CEPEA/ESALQ](https://www.cepea.org.br/br/indicador/boi-gordo.aspx) (últimos 12 meses) em `data/historico.json`.
+- **Notícias:** cache em `data/noticias.json`:
   - [Canal Rural · Pecuária](https://www.canalrural.com.br/pecuaria/feed/) (RSS), top 5 por relevância
   - [Embrapa · notícias](https://www.embrapa.br/noticias-rss) (lista pública; a página é HTML, não XML), 5 mais recentes

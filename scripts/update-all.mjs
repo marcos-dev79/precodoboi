@@ -18,4 +18,5 @@ function run(script) {
 
 await run("update-prices.mjs");
 await run("update-news.mjs");
+await run("update-historico.mjs");
 await run("update-seo.mjs");

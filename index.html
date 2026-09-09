@@ -22,7 +22,7 @@
     <meta name="theme-color" content="#2f4a36" />
     <link
       rel="canonical"
-      href="https://marcos-dev79.github.io/precodoboi/"
+      href="https://precodoboi.me/"
     />
 
     <meta property="og:locale" content="pt_BR" />
@@ -43,11 +43,11 @@
     <!-- SEO:OGDESC:END -->
     <meta
       property="og:url"
-      content="https://marcos-dev79.github.io/precodoboi/"
+      content="https://precodoboi.me/"
     />
     <meta
       property="og:image"
-      content="https://marcos-dev79.github.io/precodoboi/assets/gado-silhueta.png"
+      content="https://precodoboi.me/assets/gado-silhueta.png"
     />
     <meta property="og:image:alt" content="Silhueta de gado — Preço do Boi" />
 
@@ -64,7 +64,7 @@
     <!-- SEO:TWDESC:END -->
     <meta
       name="twitter:image"
-      content="https://marcos-dev79.github.io/precodoboi/assets/gado-silhueta.png"
+      content="https://precodoboi.me/assets/gado-silhueta.png"
     />
 
     <link rel="icon" href="assets/gado-marca.png" type="image/png" />
@@ -85,19 +85,19 @@
   "@graph": [
     {
       "@type": "WebSite",
-      "@id": "https://marcos-dev79.github.io/precodoboi/#website",
+      "@id": "https://precodoboi.me/#website",
       "name": "Preço do Boi",
-      "url": "https://marcos-dev79.github.io/precodoboi/",
+      "url": "https://precodoboi.me/",
       "description": "Portal com o preço da arroba do boi por estado no Brasil e notícias da pecuária.",
       "inLanguage": "pt-BR"
     },
     {
       "@type": "WebPage",
-      "@id": "https://marcos-dev79.github.io/precodoboi/#webpage",
-      "url": "https://marcos-dev79.github.io/precodoboi/",
+      "@id": "https://precodoboi.me/#webpage",
+      "url": "https://precodoboi.me/",
       "name": "Preço da arroba do boi por estado",
       "isPartOf": {
-        "@id": "https://marcos-dev79.github.io/precodoboi/#website"
+        "@id": "https://precodoboi.me/#website"
       },
       "about": [
         "preço do boi",
@@ -112,7 +112,7 @@
       "@type": "Dataset",
       "name": "Cotação da arroba do boi por estado",
       "description": "Preços médios da arroba do gado (boi gordo) por unidade federativa do Brasil.",
-      "url": "https://marcos-dev79.github.io/precodoboi/",
+      "url": "https://precodoboi.me/",
       "keywords": [
         "preço do boi",
         "arroba",
@@ -149,9 +149,9 @@
             Cotação da arroba do gado por estado · notícias da pecuária
           </p>
         </div>
-        <div class="masthead-market">
-          <span class="label">Média Brasil</span>
-          <strong id="media-arroba">—</strong>
+        <div class="masthead-market" aria-live="polite">
+          <span class="label" id="praca-label">Praça</span>
+          <strong id="praca-preco">—</strong>
           <span class="unit">/@</span>
         </div>
       </div>
@@ -214,6 +214,44 @@
         </div>
         <p id="fonte" class="meta fonte"></p>
       </aside>
+
+      <section class="historico" aria-labelledby="titulo-historico">
+        <div class="section-head">
+          <h2 id="titulo-historico">Histórico · 12 meses</h2>
+          <p class="meta" id="historico-fonte"></p>
+        </div>
+        <div class="historico-resumo" id="historico-resumo" hidden>
+          <div>
+            <span class="label">Mínimo</span>
+            <strong id="hist-min">—</strong>
+          </div>
+          <div>
+            <span class="label">Máximo</span>
+            <strong id="hist-max">—</strong>
+          </div>
+          <div>
+            <span class="label">Variação no período</span>
+            <strong id="hist-var">—</strong>
+          </div>
+        </div>
+        <div id="historico-chart" class="historico-chart" aria-live="polite">
+          <p class="meta">Carregando histórico...</p>
+        </div>
+        <div class="table-wrap historico-table-wrap">
+          <table>
+            <caption class="sr-only">
+              Média mensal da arroba do boi gordo CEPEA/ESALQ nos últimos 12 meses
+            </caption>
+            <thead>
+              <tr>
+                <th scope="col">Mês</th>
+                <th scope="col">Arroba (R$)</th>
+              </tr>
+            </thead>
+            <tbody id="historico-lista"></tbody>
+          </table>
+        </div>
+      </section>
 
       <section class="embrapa" aria-labelledby="titulo-embrapa">
         <div class="section-head">

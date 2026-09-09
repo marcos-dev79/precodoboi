@@ -1,0 +1,73 @@
+{
+  "atualizado_em": "2026-09-09T20:00:02.888Z",
+  "fonte": "CEPEA/ESALQ · Indicador do boi gordo (média mensal à vista)",
+  "feed": "https://www.cepea.org.br/br/indicador/boi-gordo.aspx",
+  "periodo_meses": 12,
+  "resumo": {
+    "minimo": 310.51,
+    "maximo": 362.77,
+    "variacao_periodo_pct": 11.88
+  },
+  "serie": [
+    {
+      "competencia": "2025-10",
+      "label": "Outubro/25",
+      "preco_arroba": 310.51
+    },
+    {
+      "competencia": "2025-11",
+      "label": "Novembro/25",
+      "preco_arroba": 322.08
+    },
+    {
+      "competencia": "2025-12",
+      "label": "Dezembro/25",
+      "preco_arroba": 320.28
+    },
+    {
+      "competencia": "2026-01",
+      "label": "Janeiro/26",
+      "preco_arroba": 320.6
+    },
+    {
+      "competencia": "2026-02",
+      "label": "Fevereiro/26",
+      "preco_arroba": 342.25
+    },
+    {
+      "competencia": "2026-03",
+      "label": "Março/26",
+      "preco_arroba": 350.18
+    },
+    {
+      "competencia": "2026-04",
+      "label": "Abril/26",
+      "preco_arroba": 362.77
+    },
+    {
+      "competencia": "2026-05",
+      "label": "Maio/26",
+      "preco_arroba": 348.46
+    },
+    {
+      "competencia": "2026-06",
+      "label": "Junho/26",
+      "preco_arroba": 347.59
+    },
+    {
+      "competencia": "2026-07",
+      "label": "Julho/26",
+      "preco_arroba": 335.5
+    },
+    {
+      "competencia": "2026-08",
+      "label": "Agosto/26",
+      "preco_arroba": 345.92
+    },
+    {
+      "competencia": "2026-09",
+      "label": "Setembro/26",
+      "preco_arroba": 347.41
+    }
+  ]
+}

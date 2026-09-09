@@ -7,7 +7,7 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
-const SITE = "https://marcos-dev79.github.io/precodoboi";
+const SITE = "https://precodoboi.me";
 
 function brl(n) {
   return Number(n).toLocaleString("pt-BR", {
@@ -44,6 +44,26 @@ async function main() {
       : `Consulte o preço da arroba do boi (gado) por estado no Brasil, média nacional atualizada e notícias da pecuária.`;
 
   let html = await readFile(join(root, "index.html"), "utf8");
+
+  // Garante URLs canônicas no domínio atual (evita github.io residual)
+  html = html
+    .replaceAll("https://marcos-dev79.github.io/precodoboi", SITE)
+    .replace(
+      /(<link\s+rel="canonical"\s+href=")[^"]+(")/,
+      `$1${SITE}/$2`,
+    )
+    .replace(
+      /(<meta\s+property="og:url"\s+content=")[^"]+(")/,
+      `$1${SITE}/$2`,
+    )
+    .replace(
+      /(<meta\s+property="og:image"\s+content=")[^"]+(")/,
+      `$1${SITE}/assets/gado-silhueta.png$2`,
+    )
+    .replace(
+      /(<meta\s+name="twitter:image"\s+content=")[^"]+(")/,
+      `$1${SITE}/assets/gado-silhueta.png$2`,
+    );
 
   html = replaceBlock(
     html,
