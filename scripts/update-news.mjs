@@ -8,13 +8,19 @@ const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const out = join(root, "data", "noticias.json");
 
 async function main() {
-  console.log("Buscando notícias de pecuária...");
+  console.log("Buscando notícias (Canal Rural + Embrapa)...");
   const data = await pesquisarNoticias(5);
   await mkdir(dirname(out), { recursive: true });
   await writeFile(out, JSON.stringify(data, null, 2) + "\n", "utf8");
-  console.log(`Salvo em ${out} (${data.noticias.length} itens)`);
-  for (const n of data.noticias) {
+
+  console.log(`Salvo em ${out}`);
+  console.log(`Canal Rural (${data.canal_rural.noticias.length}):`);
+  for (const n of data.canal_rural.noticias) {
     console.log(`  · [${n.relevancia}] ${n.title}`);
+  }
+  console.log(`Embrapa (${data.embrapa.noticias.length}):`);
+  for (const n of data.embrapa.noticias) {
+    console.log(`  · ${n.title}`);
   }
 }
 

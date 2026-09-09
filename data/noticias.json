@@ -1,16 +1,136 @@
 {
-  "atualizado_em": "2026-09-09T14:14:42.702Z",
-  "fonte": "Canal Rural · RSS pecuária",
-  "feed": "https://www.canalrural.com.br/pecuaria/feed/",
+  "atualizado_em": "2026-09-09T16:16:59.087Z",
+  "canal_rural": {
+    "fonte": "Canal Rural · RSS pecuária",
+    "feed": "https://www.canalrural.com.br/pecuaria/feed/",
+    "noticias": [
+      {
+        "title": "Brasil pode ficar com até 40% da nova demanda dos EUA por carne e arroba do boi pode bater recorde",
+        "link": "https://www.canalrural.com.br/pecuaria/brasil-pode-ficar-com-ate-40-da-nova-demanda-dos-eua-por-carne-e-arroba-do-boi-pode-bater-recorde/",
+        "summary": "Foto: Freepik Na avaliação de Fernando Iglesias, da Safras & Mercado, país é o maior beneficiado da política norte-americano para aumentar importação de carne bovina O post Brasil pode ficar com até 40% da nova demanda d",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/11/close-de-tres-bifes-de-carne-crua-fresca-com-osso-em-papel-artesanal-branco-de-cima.jpg",
+        "publishedAt": "2026-09-09T12:48:00.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 17
+      },
+      {
+        "title": "O sebastianismo e o mercado futuro do boi gordo",
+        "link": "https://www.canalrural.com.br/opiniao-noticias/o-sebastianismo-e-o-mercado-futuro-do-boi-gordo/",
+        "summary": "Imagem gerada por IA para o Canal Rural Rumores sobre a China fazem a bolsa disparar e indicam hora certa para travar o lucro da arroba antes de qualquer tombo de preços O post O sebastianismo e o mercado futuro do boi g",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/09/Gemini_Generated_Image_et5y0let5y0let5y.jpg",
+        "publishedAt": "2026-09-09T14:34:24.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 16
+      },
+      {
+        "title": "Preços da arroba do boi voltam a subir no pós-feriado; veja as cotações",
+        "link": "https://www.canalrural.com.br/pecuaria/precos-da-arroba-do-boi-voltam-a-subir-no-pos-feriado-veja-as-cotacoes/",
+        "summary": "Foto: Raquel Brunelli/Embrapa Mercado futuro já começa a operar contratos superiores a R$ 380 por arroba; ritmo de exportações apresenta ligeira alta neste começo de mês O post Preços da arroba do boi voltam a subir no p",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
+        "publishedAt": "2026-09-08T23:15:50.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 12
+      },
+      {
+        "title": "Exportações de carne bovina somam 2,2 milhões de toneladas até agosto",
+        "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-somam-22-milhoes-de-toneladas-ate-agosto/",
+        "summary": "Embarques caíram em agosto com forte recuo da China, enquanto o acumulado do ano segue acima de 2025 O post Exportações de carne bovina somam 2,2 milhões de toneladas até agosto apareceu primeiro em Canal Rural .",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/07/eua-excluem-pescados-brasileiros-de-novas-tarifas-de-importacao.png",
+        "publishedAt": "2026-09-08T13:59:52.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 10
+      },
+      {
+        "title": "Exportações de carne bovina para a China despencam 88% e EUA assumem liderança",
+        "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-para-a-china-despencam-88-e-eua-assumem-lideranca/",
+        "summary": "Foto: Agência Brasil/arquivo Esgotamento da cota chinesa fez embarques brasileiros recuarem em agosto, mas vendas para EUA, União Europeia, Rússia e Chile avançaram O post Exportações de carne bovina para a China despenc",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carne-bovina-3.jpg",
+        "publishedAt": "2026-09-08T11:33:18.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 10
+      }
+    ]
+  },
+  "embrapa": {
+    "fonte": "Embrapa · notícias",
+    "feed": "https://www.embrapa.br/noticias-rss",
+    "noticias": [
+      {
+        "title": "Pesquisadoras da Unidade participam da 5ª edição do Meninas Cientistas do Pantanal",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147169807/pesquisadoras-da-unidade-participam-da-5-edicao-do-meninas-cientistas-do-pantanal",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147169808&t=1788967704404",
+        "publishedAt": "2026-09-09T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 3
+      },
+      {
+        "title": "Embrapa manifesta pesar pelo falecimento da professora Zélia Amador de Deus",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147169584/embrapa-manifesta-pesar-pelo-falecimento-da-professora-zelia-amador-de-deus",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147169819&t=1788967695314",
+        "publishedAt": "2026-09-09T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 3
+      },
+      {
+        "title": "Quebradeiras de coco do Maranhão e pesquisadores se encontram em treinamento sobre babaçu",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147169378/quebradeiras-de-coco-do-maranhao-e-pesquisadores-se-encontram-em-treinamento-sobre-babacu",
+        "summary": "Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/documents/1354356/0/vera2turmaseler.jpg/441a7c87-ee5c-de0a-c3c7-97bf876fb159?version=1.0&t=1788965723584",
+        "publishedAt": "2026-09-09T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Transferência de Tecnologia"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Analítica Day discute tecnologias e boas práticas em laboratórios",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147158373/analitica-day-discute-tecnologias-e-boas-praticas-em-laboratorios",
+        "summary": "Pesquisa, Desenvolvimento e Inovação",
+        "image": "https://www.embrapa.br/documents/1355145/92982228/AnaliticaPeq.png/ed592d2a-d43c-cbb0-b045-0c750d86221e?version=1.0&t=1788959588250",
+        "publishedAt": "2026-09-09T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Pesquisa, Desenvolvimento e Inovação"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Jovens Talentos 2026 destaca formação científica e desafios da pesquisa no Cerrado",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147132697/jovens-talentos-2026-destaca-formacao-cientifica-e-desafios-da-pesquisa-no-cerrado",
+        "summary": "Pesquisa, Desenvolvimento e Inovação",
+        "image": "https://www.embrapa.br/documents/d/cerrados/whatsapp-image-2026-09-04-at-10-02-38-jpeg?download=true",
+        "publishedAt": "2026-09-08T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Pesquisa, Desenvolvimento e Inovação"
+        ],
+        "relevancia": 1
+      }
+    ]
+  },
   "noticias": [
     {
       "title": "Brasil pode ficar com até 40% da nova demanda dos EUA por carne e arroba do boi pode bater recorde",
       "link": "https://www.canalrural.com.br/pecuaria/brasil-pode-ficar-com-ate-40-da-nova-demanda-dos-eua-por-carne-e-arroba-do-boi-pode-bater-recorde/",
-      "summary": "Foto: Freepik Na avaliação de Fernando Iglesias, da Safras &#038; Mercado, país é o maior beneficiado da política norte-americano para aumentar importação de carne bovina O post Brasil pode ficar com até 40% da nova dema",
+      "summary": "Foto: Freepik Na avaliação de Fernando Iglesias, da Safras & Mercado, país é o maior beneficiado da política norte-americano para aumentar importação de carne bovina O post Brasil pode ficar com até 40% da nova demanda d",
       "image": "https://imagens-cdn.canalrural.com.br/2025/11/close-de-tres-bifes-de-carne-crua-fresca-com-osso-em-papel-artesanal-branco-de-cima.jpg",
       "publishedAt": "2026-09-09T12:48:00.000Z",
       "fonte": "Canal Rural",
       "relevancia": 17
+    },
+    {
+      "title": "O sebastianismo e o mercado futuro do boi gordo",
+      "link": "https://www.canalrural.com.br/opiniao-noticias/o-sebastianismo-e-o-mercado-futuro-do-boi-gordo/",
+      "summary": "Imagem gerada por IA para o Canal Rural Rumores sobre a China fazem a bolsa disparar e indicam hora certa para travar o lucro da arroba antes de qualquer tombo de preços O post O sebastianismo e o mercado futuro do boi g",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/09/Gemini_Generated_Image_et5y0let5y0let5y.jpg",
+      "publishedAt": "2026-09-09T14:34:24.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 16
     },
     {
       "title": "Preços da arroba do boi voltam a subir no pós-feriado; veja as cotações",
@@ -20,15 +140,6 @@
       "publishedAt": "2026-09-08T23:15:50.000Z",
       "fonte": "Canal Rural",
       "relevancia": 12
-    },
-    {
-      "title": "Brazilian Beef participa da Saudi Food Show 2026 na Arábia Saudita",
-      "link": "https://www.canalrural.com.br/pecuaria/brazilian-beef-participa-da-saudi-food-show-2026-na-arabia-saudita/",
-      "summary": "Ação da Abiec com a ApexBrasil reúne dez empresas brasileiras em feira de alimentos em Jeddah e amplia a agenda de promoção da carne bovina no Oriente Médio. O post Brazilian Beef participa da Saudi Food Show 2026 na Ará",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/07/beef-report-2026-aponta-producao-recorde-e-r-1-15-trilhao-na-pecuaria-de-corte.png",
-      "publishedAt": "2026-09-08T14:20:04.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 10
     },
     {
       "title": "Exportações de carne bovina somam 2,2 milhões de toneladas até agosto",
@@ -48,5 +159,7 @@
       "fonte": "Canal Rural",
       "relevancia": 10
     }
-  ]
+  ],
+  "fonte": "Canal Rural · RSS pecuária",
+  "feed": "https://www.canalrural.com.br/pecuaria/feed/"
 }

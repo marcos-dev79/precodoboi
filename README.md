@@ -136,4 +136,6 @@ index.html
 ## Fonte dos dados
 
 - **Preços:** [AgroDoc AI](https://agrodocai.com.br/api-docs) (CEPEA/ESALQ e praças). UFs sem praça usam estimativa regional. CC-BY-4.0 — atribuição AgroDoc AI.
-- **Notícias:** RSS público do [Canal Rural · Pecuária](https://www.canalrural.com.br/pecuaria/feed/), ranqueado por palavras-chave (arroba, boi gordo, gado, exportação etc.) e frescor.
+- **Notícias:** cache em `data/noticias.json` (sem dependência em tempo real no browser):
+  - [Canal Rural · Pecuária](https://www.canalrural.com.br/pecuaria/feed/) (RSS), top 5 por relevância
+  - [Embrapa · notícias](https://www.embrapa.br/noticias-rss) (lista pública; a página é HTML, não XML), 5 mais recentes

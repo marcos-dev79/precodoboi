@@ -13,6 +13,8 @@ const el = {
   filtro: document.getElementById("filtro"),
   noticiasGrid: document.getElementById("noticias-grid"),
   noticiasFonte: document.getElementById("noticias-fonte"),
+  embrapaLista: document.getElementById("embrapa-lista"),
+  embrapaFonte: document.getElementById("embrapa-fonte"),
 };
 
 let dadosAtuais = null;
@@ -105,37 +107,82 @@ function pintarLista(filtro = "") {
 }
 
 function renderNoticias(payload) {
-  if (!payload?.noticias?.length) {
+  const canal = payload?.canal_rural?.noticias?.length
+    ? payload.canal_rural
+    : payload?.noticias?.length
+      ? { fonte: payload.fonte, noticias: payload.noticias }
+      : null;
+
+  if (!canal?.noticias?.length) {
     el.noticiasGrid.innerHTML =
       `<p class="meta">Nenhuma notícia disponível no momento.</p>`;
+  } else {
+    const quando = parseData(payload.atualizado_em);
+    el.noticiasFonte.textContent = quando
+      ? `${canal.fonte} · cache ${dataHora.format(quando)}`
+      : canal.fonte || "";
+
+    el.noticiasGrid.innerHTML = canal.noticias
+      .map((n, i) => {
+        const destaque = i === 0 ? " noticia-destaque" : "";
+        const media = n.image
+          ? `<img class="noticia-media" src="${n.image}" alt="" loading="${i === 0 ? "eager" : "lazy"}" />`
+          : `<div class="noticia-media" role="presentation"></div>`;
+        const quandoN = parseData(n.publishedAt);
+        const tempo = quandoN
+          ? `<time datetime="${n.publishedAt}">${dataCurta.format(quandoN)}</time>`
+          : "";
+        const resumo =
+          i === 0 && n.summary
+            ? `<p>${n.summary}${n.summary.length >= 220 ? "…" : ""}</p>`
+            : "";
+
+        return `<a class="noticia${destaque}" href="${n.link}" target="_blank" rel="noopener noreferrer">
+        ${media}
+        <p class="noticia-kicker">${n.fonte || "Pecuária"}</p>
+        <h3>${n.title}</h3>
+        ${resumo}
+        ${tempo}
+      </a>`;
+      })
+      .join("");
+  }
+
+  renderEmbrapa(payload);
+}
+
+function renderEmbrapa(payload) {
+  const bloco = payload?.embrapa;
+  const lista = bloco?.noticias || [];
+
+  if (!lista.length) {
+    el.embrapaLista.innerHTML =
+      `<p class="meta">Nenhuma notícia da Embrapa no cache.</p>`;
+    el.embrapaFonte.textContent = "";
     return;
   }
 
   const quando = parseData(payload.atualizado_em);
-  el.noticiasFonte.textContent = quando
-    ? `${payload.fonte} · ${dataHora.format(quando)}`
-    : payload.fonte || "";
+  el.embrapaFonte.textContent = quando
+    ? `${bloco.fonte} · cache ${dataHora.format(quando)}`
+    : bloco.fonte || "";
 
-  el.noticiasGrid.innerHTML = payload.noticias
+  el.embrapaLista.innerHTML = lista
     .map((n, i) => {
-      const destaque = i === 0 ? " noticia-destaque" : "";
       const media = n.image
-        ? `<img class="noticia-media" src="${n.image}" alt="" loading="${i === 0 ? "eager" : "lazy"}" />`
+        ? `<img class="noticia-media" src="${n.image}" alt="" loading="lazy" referrerpolicy="no-referrer" />`
         : `<div class="noticia-media" role="presentation"></div>`;
       const quandoN = parseData(n.publishedAt);
       const tempo = quandoN
         ? `<time datetime="${n.publishedAt}">${dataCurta.format(quandoN)}</time>`
         : "";
-      const resumo =
-        i === 0 && n.summary
-          ? `<p>${n.summary}${n.summary.length >= 220 ? "…" : ""}</p>`
-          : "";
+      const tags = n.summary ? `<p>${n.summary}</p>` : "";
 
-      return `<a class="noticia${destaque}" href="${n.link}" target="_blank" rel="noopener noreferrer">
+      return `<a class="noticia embrapa-tile" href="${n.link}" target="_blank" rel="noopener noreferrer">
         ${media}
-        <p class="noticia-kicker">${n.fonte || "Pecuária"}</p>
+        <p class="noticia-kicker">${n.fonte || "Embrapa"}</p>
         <h3>${n.title}</h3>
-        ${resumo}
+        ${tags}
         ${tempo}
       </a>`;
     })
