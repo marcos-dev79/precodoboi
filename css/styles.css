@@ -88,6 +88,13 @@ body {
   font-size: 0.95rem;
 }
 
+.seo-lead {
+  margin: 0.85rem 0 0;
+  max-width: 42rem;
+  color: var(--tinta-suave);
+  font-size: 0.98rem;
+}
+
 .masthead-market {
   display: flex;
   align-items: baseline;

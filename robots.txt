@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marcos-dev79.github.io/precodoboi/sitemap.xml

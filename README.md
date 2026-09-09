@@ -64,6 +64,19 @@ Significa que o Pages ainda não existe no repositório. Faça o passo 2 acima (
 
 Os caminhos do projeto são relativos (`css/`, `js/`, `data/`), então funciona tanto na raiz quanto em subpasta do Pages. Não é preciso configurar `base` especial.
 
+## SEO
+
+O site já inclui:
+
+- título e description focados em “preço do boi / arroba do gado”
+- Open Graph e Twitter Cards
+- JSON-LD (`WebSite`, `WebPage`, `Dataset`) atualizado no `npm run update`
+- `robots.txt` e `sitemap.xml`
+
+URL canônica configurada: `https://marcos-dev79.github.io/precodoboi/`
+
+Para indexar mais rápido: no [Google Search Console](https://search.google.com/search-console), adicione a propriedade do site e envie o sitemap `https://marcos-dev79.github.io/precodoboi/sitemap.xml`.
+
 ## Action de atualização de preços
 
 O workflow [`.github/workflows/update-prices.yml`](.github/workflows/update-prices.yml):
