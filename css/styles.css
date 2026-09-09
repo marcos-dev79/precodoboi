@@ -271,6 +271,38 @@ body {
 
 .historico-chart .dot {
   fill: var(--eucalipto);
+  transition: r 0.15s ease;
+}
+
+.historico-chart .dot-hit {
+  fill: transparent;
+  cursor: pointer;
+}
+
+.historico-chart .dot-tip {
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s ease;
+}
+
+.historico-chart .dot-tip rect {
+  fill: var(--tinta);
+}
+
+.historico-chart .dot-tip text {
+  fill: var(--branco);
+  font-size: 11px;
+  font-family: var(--fonte-corpo);
+  font-weight: 600;
+}
+
+.historico-chart .dot-group:hover .dot {
+  r: 5.5;
+  fill: var(--madeira);
+}
+
+.historico-chart .dot-group:hover .dot-tip {
+  opacity: 1;
 }
 
 .historico-chart .label-x,

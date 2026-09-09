@@ -435,12 +435,26 @@ function montarSvgHistorico(serie) {
     .join("");
 
   const dots = serie
-    .map(
-      (s, i) =>
-        `<circle class="dot" cx="${xAt(i)}" cy="${yAt(s.preco_arroba)}" r="3.5">
-          <title>${s.label}: ${formatMoney(s.preco_arroba)}</title>
-        </circle>`,
-    )
+    .map((s, i) => {
+      const cx = xAt(i);
+      const cy = yAt(s.preco_arroba);
+      const valor = formatMoney(s.preco_arroba);
+      const tip = `${s.label}: ${valor}`;
+      const tipY = cy - 18;
+      const tipW = Math.max(78, tip.length * 6.2);
+      const tipX = Math.min(
+        Math.max(cx - tipW / 2, pad.l),
+        w - pad.r - tipW,
+      );
+      return `<g class="dot-group">
+        <circle class="dot-hit" cx="${cx}" cy="${cy}" r="14" />
+        <circle class="dot" cx="${cx}" cy="${cy}" r="3.5" />
+        <g class="dot-tip" transform="translate(${tipX} ${tipY})">
+          <rect width="${tipW}" height="22" rx="4" ry="4" />
+          <text x="${tipW / 2}" y="15" text-anchor="middle">${tip}</text>
+        </g>
+      </g>`;
+    })
     .join("");
 
   return `<svg viewBox="0 0 ${w} ${h}" role="img" aria-label="Gráfico da média mensal da arroba nos últimos 12 meses">
