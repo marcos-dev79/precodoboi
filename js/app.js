@@ -3,26 +3,83 @@ import { pesquisarPrecos } from "./fetch-prices.js";
 const STORAGE_KEY = "precodoboi:prices";
 const MS_24H = 24 * 60 * 60 * 1000;
 
+function $(id) {
+  return document.getElementById(id);
+}
+
+function setText(id, value) {
+  const node = $(id);
+  if (node) node.textContent = value ?? "";
+}
+
+function setHtml(id, value) {
+  const node = $(id);
+  if (node) node.innerHTML = value ?? "";
+}
+
+function setHidden(id, hidden) {
+  const node = $(id);
+  if (node) node.hidden = Boolean(hidden);
+}
+
 const el = {
-  status: document.getElementById("status-atualizacao"),
-  btn: document.getElementById("btn-atualizar"),
-  msg: document.getElementById("msg-atualizando"),
-  pracaLabel: document.getElementById("praca-label"),
-  pracaPreco: document.getElementById("praca-preco"),
-  fonte: document.getElementById("fonte"),
-  lista: document.getElementById("lista-estados"),
-  filtro: document.getElementById("filtro"),
-  noticiasGrid: document.getElementById("noticias-grid"),
-  noticiasFonte: document.getElementById("noticias-fonte"),
-  embrapaLista: document.getElementById("embrapa-lista"),
-  embrapaFonte: document.getElementById("embrapa-fonte"),
-  historicoFonte: document.getElementById("historico-fonte"),
-  historicoResumo: document.getElementById("historico-resumo"),
-  historicoChart: document.getElementById("historico-chart"),
-  historicoLista: document.getElementById("historico-lista"),
-  histMin: document.getElementById("hist-min"),
-  histMax: document.getElementById("hist-max"),
-  histVar: document.getElementById("hist-var"),
+  get status() {
+    return $("status-atualizacao");
+  },
+  get btn() {
+    return $("btn-atualizar");
+  },
+  get msg() {
+    return $("msg-atualizando");
+  },
+  get pracaLabel() {
+    return $("praca-label");
+  },
+  get pracaPreco() {
+    return $("praca-preco");
+  },
+  get fonte() {
+    return $("fonte");
+  },
+  get lista() {
+    return $("lista-estados");
+  },
+  get filtro() {
+    return $("filtro");
+  },
+  get noticiasGrid() {
+    return $("noticias-grid");
+  },
+  get noticiasFonte() {
+    return $("noticias-fonte");
+  },
+  get embrapaLista() {
+    return $("embrapa-lista");
+  },
+  get embrapaFonte() {
+    return $("embrapa-fonte");
+  },
+  get historicoFonte() {
+    return $("historico-fonte");
+  },
+  get historicoResumo() {
+    return $("historico-resumo");
+  },
+  get historicoChart() {
+    return $("historico-chart");
+  },
+  get historicoLista() {
+    return $("historico-lista");
+  },
+  get histMin() {
+    return $("hist-min");
+  },
+  get histMax() {
+    return $("hist-max");
+  },
+  get histVar() {
+    return $("hist-var");
+  },
 };
 
 let dadosAtuais = null;
@@ -126,22 +183,26 @@ function renderPrecos(dados) {
   iniciarRotacaoPracas(dados.estados);
 
   const quando = parseData(dados.atualizado_em);
-  el.status.textContent = quando
-    ? `Cotações: ${dataHora.format(quando)}`
-    : "Sem data de atualização";
+  setText(
+    "status-atualizacao",
+    quando
+      ? `Cotações: ${dataHora.format(quando)}`
+      : "Sem data de atualização",
+  );
 
-  el.fonte.textContent = [dados.fonte, ...(dados.notas || [])]
-    .filter(Boolean)
-    .join(" · ");
+  setText(
+    "fonte",
+    [dados.fonte, ...(dados.notas || [])].filter(Boolean).join(" · "),
+  );
 
   const stale = estaDesatualizado(dados.atualizado_em);
-  el.btn.hidden = !stale || el.btn.disabled;
+  if (el.btn) el.btn.hidden = !stale || el.btn.disabled;
 
-  pintarLista(el.filtro.value);
+  pintarLista(el.filtro?.value || "");
 }
 
 function pintarLista(filtro = "") {
-  if (!dadosAtuais) return;
+  if (!dadosAtuais || !el.lista) return;
 
   const q = filtro.trim().toLowerCase();
   const rows = dadosAtuais.estados
@@ -155,19 +216,22 @@ function pintarLista(filtro = "") {
     })
     .sort((a, b) => b.preco_arroba - a.preco_arroba);
 
-  el.lista.innerHTML = rows
-    .map((e) => {
-      const badge =
-        e.origem === "api"
-          ? `<span class="badge badge-api">praça</span>`
-          : `<span class="badge badge-estimado">est.</span>`;
-      return `<tr>
+  setHtml(
+    "lista-estados",
+    rows
+      .map((e) => {
+        const badge =
+          e.origem === "api"
+            ? `<span class="badge badge-api">praça</span>`
+            : `<span class="badge badge-estimado">est.</span>`;
+        return `<tr>
         <td>${e.nome} <small>${e.uf}</small></td>
         <td class="num">${formatMoney(e.preco_arroba)}</td>
         <td>${badge}</td>
       </tr>`;
-    })
-    .join("");
+      })
+      .join(""),
+  );
 }
 
 function renderNoticias(payload) {
@@ -178,38 +242,46 @@ function renderNoticias(payload) {
       : null;
 
   if (!canal?.noticias?.length) {
-    el.noticiasGrid.innerHTML =
-      `<p class="meta">Nenhuma notícia disponível no momento.</p>`;
+    setHtml(
+      "noticias-grid",
+      `<p class="meta">Nenhuma notícia disponível no momento.</p>`,
+    );
   } else {
     const quando = parseData(payload.atualizado_em);
-    el.noticiasFonte.textContent = quando
-      ? `${canal.fonte} · cache ${dataHora.format(quando)}`
-      : canal.fonte || "";
+    setText(
+      "noticias-fonte",
+      quando
+        ? `${canal.fonte} · cache ${dataHora.format(quando)}`
+        : canal.fonte || "",
+    );
 
-    el.noticiasGrid.innerHTML = canal.noticias
-      .map((n, i) => {
-        const destaque = i === 0 ? " noticia-destaque" : "";
-        const media = n.image
-          ? `<img class="noticia-media" src="${n.image}" alt="" loading="${i === 0 ? "eager" : "lazy"}" />`
-          : `<div class="noticia-media" role="presentation"></div>`;
-        const quandoN = parseData(n.publishedAt);
-        const tempo = quandoN
-          ? `<time datetime="${n.publishedAt}">${dataCurta.format(quandoN)}</time>`
-          : "";
-        const resumo =
-          i === 0 && n.summary
-            ? `<p>${n.summary}${n.summary.length >= 220 ? "…" : ""}</p>`
+    setHtml(
+      "noticias-grid",
+      canal.noticias
+        .map((n, i) => {
+          const destaque = i === 0 ? " noticia-destaque" : "";
+          const media = n.image
+            ? `<img class="noticia-media" src="${n.image}" alt="" loading="${i === 0 ? "eager" : "lazy"}" />`
+            : `<div class="noticia-media" role="presentation"></div>`;
+          const quandoN = parseData(n.publishedAt);
+          const tempo = quandoN
+            ? `<time datetime="${n.publishedAt}">${dataCurta.format(quandoN)}</time>`
             : "";
+          const resumo =
+            i === 0 && n.summary
+              ? `<p>${n.summary}${n.summary.length >= 220 ? "…" : ""}</p>`
+              : "";
 
-        return `<a class="noticia${destaque}" href="${n.link}" target="_blank" rel="noopener noreferrer">
+          return `<a class="noticia${destaque}" href="${n.link}" target="_blank" rel="noopener noreferrer">
         ${media}
         <p class="noticia-kicker">${n.fonte || "Pecuária"}</p>
         <h3>${n.title}</h3>
         ${resumo}
         ${tempo}
       </a>`;
-      })
-      .join("");
+        })
+        .join(""),
+    );
   }
 
   renderEmbrapa(payload);
@@ -220,79 +292,109 @@ function renderEmbrapa(payload) {
   const lista = bloco?.noticias || [];
 
   if (!lista.length) {
-    el.embrapaLista.innerHTML =
-      `<p class="meta">Nenhuma notícia da Embrapa no cache.</p>`;
-    el.embrapaFonte.textContent = "";
+    setHtml(
+      "embrapa-lista",
+      `<p class="meta">Nenhuma notícia da Embrapa no cache.</p>`,
+    );
+    setText("embrapa-fonte", "");
     return;
   }
 
   const quando = parseData(payload.atualizado_em);
-  el.embrapaFonte.textContent = quando
-    ? `${bloco.fonte} · cache ${dataHora.format(quando)}`
-    : bloco.fonte || "";
+  setText(
+    "embrapa-fonte",
+    quando
+      ? `${bloco.fonte} · cache ${dataHora.format(quando)}`
+      : bloco.fonte || "",
+  );
 
-  el.embrapaLista.innerHTML = lista
-    .map((n, i) => {
-      const media = n.image
-        ? `<img class="noticia-media" src="${n.image}" alt="" loading="lazy" referrerpolicy="no-referrer" />`
-        : `<div class="noticia-media" role="presentation"></div>`;
-      const quandoN = parseData(n.publishedAt);
-      const tempo = quandoN
-        ? `<time datetime="${n.publishedAt}">${dataCurta.format(quandoN)}</time>`
-        : "";
-      const tags = n.summary ? `<p>${n.summary}</p>` : "";
+  setHtml(
+    "embrapa-lista",
+    lista
+      .map((n) => {
+        const media = n.image
+          ? `<img class="noticia-media" src="${n.image}" alt="" loading="lazy" referrerpolicy="no-referrer" />`
+          : `<div class="noticia-media" role="presentation"></div>`;
+        const quandoN = parseData(n.publishedAt);
+        const tempo = quandoN
+          ? `<time datetime="${n.publishedAt}">${dataCurta.format(quandoN)}</time>`
+          : "";
+        const tags = n.summary ? `<p>${n.summary}</p>` : "";
 
-      return `<a class="noticia embrapa-tile" href="${n.link}" target="_blank" rel="noopener noreferrer">
+        return `<a class="noticia embrapa-tile" href="${n.link}" target="_blank" rel="noopener noreferrer">
         ${media}
         <p class="noticia-kicker">${n.fonte || "Embrapa"}</p>
         <h3>${n.title}</h3>
         ${tags}
         ${tempo}
       </a>`;
-    })
-    .join("");
+      })
+      .join(""),
+  );
 }
 
 function renderHistorico(payload) {
   const serie = payload?.serie || [];
   if (!serie.length) {
-    el.historicoChart.innerHTML =
-      `<p class="meta">Histórico indisponível no momento.</p>`;
-    el.historicoLista.innerHTML = "";
-    el.historicoResumo.hidden = true;
+    setHtml(
+      "historico-chart",
+      `<p class="meta">Histórico indisponível no momento.</p>`,
+    );
+    setHtml("historico-lista", "");
+    setHidden("historico-resumo", true);
     return;
   }
 
   const quando = parseData(payload.atualizado_em);
-  el.historicoFonte.textContent = quando
-    ? `${payload.fonte} · cache ${dataHora.format(quando)}`
-    : payload.fonte || "";
+  setText(
+    "historico-fonte",
+    quando
+      ? `${payload.fonte} · cache ${dataHora.format(quando)}`
+      : payload.fonte || "",
+  );
 
   const resumo = payload.resumo || {};
-  el.historicoResumo.hidden = false;
-  el.histMin.textContent = formatMoney(resumo.minimo ?? Math.min(...serie.map((s) => s.preco_arroba)));
-  el.histMax.textContent = formatMoney(resumo.maximo ?? Math.max(...serie.map((s) => s.preco_arroba)));
+  setHidden("historico-resumo", false);
+  setText(
+    "hist-min",
+    formatMoney(
+      resumo.minimo ?? Math.min(...serie.map((s) => s.preco_arroba)),
+    ),
+  );
+  setText(
+    "hist-max",
+    formatMoney(
+      resumo.maximo ?? Math.max(...serie.map((s) => s.preco_arroba)),
+    ),
+  );
 
   const variacao = resumo.variacao_periodo_pct;
+  const histVar = el.histVar;
   if (variacao == null || Number.isNaN(variacao)) {
-    el.histVar.textContent = "—";
-    el.histVar.className = "";
+    setText("hist-var", "—");
+    if (histVar) histVar.className = "";
   } else {
     const sinal = variacao > 0 ? "+" : "";
-    el.histVar.textContent = `${sinal}${variacao.toLocaleString("pt-BR")}%`;
-    el.histVar.className = variacao >= 0 ? "alta" : "baixa";
+    setText(
+      "hist-var",
+      `${sinal}${variacao.toLocaleString("pt-BR")}%`,
+    );
+    if (histVar) histVar.className = variacao >= 0 ? "alta" : "baixa";
   }
 
-  el.historicoChart.innerHTML = montarSvgHistorico(serie);
-  el.historicoLista.innerHTML = [...serie]
-    .reverse()
-    .map(
-      (p) => `<tr>
+  setHtml("historico-chart", montarSvgHistorico(serie));
+  setHtml(
+    "historico-lista",
+    [...serie]
+      .reverse()
+      .map(
+        (p) => `<tr>
         <td>${p.label}</td>
         <td class="num">${formatMoney(p.preco_arroba)}</td>
       </tr>`,
-    )
-    .join("");
+      )
+      .join(""),
+  );
 }
 
 function montarSvgHistorico(serie) {
@@ -396,8 +498,8 @@ async function carregarInicial() {
 
   const dados = escolherMaisRecente(precosLocal, precosArquivo);
   if (!dados) {
-    el.status.textContent = "Nenhum dado encontrado. Atualize para pesquisar.";
-    el.btn.hidden = false;
+    setText("status-atualizacao", "Nenhum dado encontrado. Atualize para pesquisar.");
+    if (el.btn) el.btn.hidden = false;
   } else {
     renderPrecos(dados);
   }
@@ -407,9 +509,11 @@ async function carregarInicial() {
 }
 
 async function atualizarEmBackground() {
-  el.btn.disabled = true;
-  el.btn.hidden = true;
-  el.msg.hidden = false;
+  if (el.btn) {
+    el.btn.disabled = true;
+    el.btn.hidden = true;
+  }
+  if (el.msg) el.msg.hidden = false;
 
   try {
     const dados = await pesquisarPrecos();
@@ -417,26 +521,28 @@ async function atualizarEmBackground() {
     renderPrecos(dados);
   } catch (err) {
     console.error(err);
-    el.status.textContent =
-      "Falha ao atualizar. Tente de novo em alguns minutos.";
-    if (dadosAtuais && estaDesatualizado(dadosAtuais.atualizado_em)) {
+    setText(
+      "status-atualizacao",
+      "Falha ao atualizar. Tente de novo em alguns minutos.",
+    );
+    if (dadosAtuais && estaDesatualizado(dadosAtuais.atualizado_em) && el.btn) {
       el.btn.hidden = false;
     }
   } finally {
-    el.btn.disabled = false;
-    el.msg.hidden = true;
-    if (dadosAtuais && estaDesatualizado(dadosAtuais.atualizado_em)) {
+    if (el.btn) el.btn.disabled = false;
+    if (el.msg) el.msg.hidden = true;
+    if (dadosAtuais && estaDesatualizado(dadosAtuais.atualizado_em) && el.btn) {
       el.btn.hidden = false;
     }
   }
 }
 
-el.btn.addEventListener("click", () => {
+el.btn?.addEventListener("click", () => {
   void atualizarEmBackground();
 });
 
-el.filtro.addEventListener("input", () => {
-  pintarLista(el.filtro.value);
+el.filtro?.addEventListener("input", () => {
+  pintarLista(el.filtro?.value || "");
 });
 
 void carregarInicial();
