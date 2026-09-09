@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-09T16:16:59.087Z",
+  "atualizado_em": "2026-09-09T21:08:40.282Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -56,42 +56,22 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Pesquisadoras da Unidade participam da 5ª edição do Meninas Cientistas do Pantanal",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147169807/pesquisadoras-da-unidade-participam-da-5-edicao-do-meninas-cientistas-do-pantanal",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147169808&t=1788967704404",
-        "publishedAt": "2026-09-09T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Embrapa manifesta pesar pelo falecimento da professora Zélia Amador de Deus",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147169584/embrapa-manifesta-pesar-pelo-falecimento-da-professora-zelia-amador-de-deus",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147169819&t=1788967695314",
-        "publishedAt": "2026-09-09T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Quebradeiras de coco do Maranhão e pesquisadores se encontram em treinamento sobre babaçu",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147169378/quebradeiras-de-coco-do-maranhao-e-pesquisadores-se-encontram-em-treinamento-sobre-babacu",
-        "summary": "Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/documents/1354356/0/vera2turmaseler.jpg/441a7c87-ee5c-de0a-c3c7-97bf876fb159?version=1.0&t=1788965723584",
+        "title": "Inscrições abertas para bolsistas de Técnico Agrícola ou Florestal pela Fapeg até 30 de setembro",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147175395/inscricoes-abertas-para-bolsistas-de-tecnico-agricola-ou-florestal-pela-fapeg-ate-30-de-setembro",
+        "summary": "Comunicação",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147175396&t=1788984920369",
         "publishedAt": "2026-09-09T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Transferência de Tecnologia"
+          "Comunicação"
         ],
         "relevancia": 3
       },
       {
-        "title": "Analítica Day discute tecnologias e boas práticas em laboratórios",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147158373/analitica-day-discute-tecnologias-e-boas-praticas-em-laboratorios",
+        "title": "Últimos dias para inscrição em capacitação sobre prevenção e controle do carrapato",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147175048/ultimos-dias-para-inscricao-em-capacitacao-sobre-prevencao-e-controle-do-carrapato",
         "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/documents/1355145/92982228/AnaliticaPeq.png/ed592d2a-d43c-cbb0-b045-0c750d86221e?version=1.0&t=1788959588250",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147175049&t=1788984920398",
         "publishedAt": "2026-09-09T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
@@ -100,16 +80,36 @@
         "relevancia": 3
       },
       {
-        "title": "Jovens Talentos 2026 destaca formação científica e desafios da pesquisa no Cerrado",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147132697/jovens-talentos-2026-destaca-formacao-cientifica-e-desafios-da-pesquisa-no-cerrado",
+        "title": "Embrapa Soja promove capacitação para classificadores de soja",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147173213/embrapa-soja-promove-capacitacao-para-classificadores-de-soja",
         "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/documents/d/cerrados/whatsapp-image-2026-09-04-at-10-02-38-jpeg?download=true",
-        "publishedAt": "2026-09-08T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1355202/0/classificacao+de+sementes+de+soja.jpeg/808c6ab3-d7b3-29e4-bb2f-089673b26d7a?version=1.0&t=1788975359551",
+        "publishedAt": "2026-09-09T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 1
+        "relevancia": 3
+      },
+      {
+        "title": "Inscrições abertas para a 2ª Seleção de Vinhos de BRS Lorena",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147172860/inscricoes-abertas-para-a-2-selecao-de-vinhos-de-brs-lorena",
+        "summary": "",
+        "image": "https://www.embrapa.br/documents/1355300/1529380/Garrafa+com+selo+1+selec%C3%A7%C3%A3o+e+ta%C3%A7a+vinho_cred_+Ander+Pereira.jpg/52747ef7-e200-1ff3-aada-50402a3913eb?version=1.0&t=1788974751905",
+        "publishedAt": "2026-09-09T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 3
+      },
+      {
+        "title": "Pesquisadoras da Embrapa participam da 5ª edição do Meninas Cientistas do Pantanal",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147169807/pesquisadoras-da-embrapa-participam-da-5-edicao-do-meninas-cientistas-do-pantanal",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147169808&t=1788984920482",
+        "publishedAt": "2026-09-09T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 3
       }
     ]
   },
