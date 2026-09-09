@@ -6,7 +6,7 @@ Site estático com o preço médio da **arroba do gado** por estado brasileiro. 
 
 - Conta no [GitHub](https://github.com)
 - [Git](https://git-scm.com/) instalado
-- [Node.js 20+](https://nodejs.org/) (só para rodar localmente ou forçar uma atualização manual)
+- [Node.js 24+](https://nodejs.org/) (só para rodar localmente ou forçar uma atualização manual)
 
 ## Rodar localmente
 
@@ -43,12 +43,20 @@ Substitua `SEU_USUARIO` e `SEU_REPO` pelos nomes reais.
 
 ## Ativar o GitHub Pages
 
+> **Importante:** o workflow de deploy só funciona **depois** de ativar o Pages. Sem isso, o Action falha com `Get Pages site failed` / `Not Found`.
+
 O deploy está em [`.github/workflows/pages.yml`](.github/workflows/pages.yml): a cada push em `main`/`master` (ou execução manual), o site sobe no Pages.
 
 1. No GitHub, abra o repositório → **Settings** → **Pages**.
-2. Em **Build and deployment** → **Source**, escolha **GitHub Actions**.
-3. Vá em **Actions** e, se o workflow **Deploy GitHub Pages** estiver aguardando aprovação na primeira vez, clique em **Run workflow** ou aprove o job.
-4. Quando terminar, a URL aparece em **Settings → Pages** (algo como `https://SEU_USUARIO.github.io/SEU_REPO/`).
+2. Em **Build and deployment** → **Source**, escolha **GitHub Actions** (não “Deploy from a branch”).
+3. Salve / confirme. Isso cria o site Pages no repositório.
+4. Vá em **Actions** → **Deploy GitHub Pages** → **Run workflow** (branch `main`).
+5. Na primeira vez, o ambiente `github-pages` pode pedir aprovação: **Settings → Environments → github-pages** (ou o banner no próprio job) → aprove.
+6. Quando terminar, a URL aparece em **Settings → Pages** (algo como `https://SEU_USUARIO.github.io/SEU_REPO/`).
+
+### Erro comum: `Get Pages site failed` / `Not Found`
+
+Significa que o Pages ainda não existe no repositório. Faça o passo 2 acima (Source = **GitHub Actions**) e rode o workflow de novo. O Action **não** consegue criar o site sozinho com o `GITHUB_TOKEN`.
 
 ### Se o site abrir em subpasta (`/SEU_REPO/`)
 
