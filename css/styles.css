@@ -11,8 +11,8 @@
   --tinta: #1c2620;
   --tinta-suave: #5a675e;
   --linha: rgba(36, 48, 40, 0.12);
-  --fonte-marca: "Brygada 1918", Georgia, serif;
-  --fonte-corpo: "Public Sans", system-ui, sans-serif;
+  --fonte-marca: "Bitter", "Palatino Linotype", Palatino, serif;
+  --fonte-corpo: "Cabin", "Trebuchet MS", sans-serif;
   --max: 72rem;
 }
 
@@ -208,14 +208,6 @@ body {
   border-top: 1px solid var(--linha);
 }
 
-.historico h2 {
-  margin: 0;
-  font-family: var(--fonte-marca);
-  font-size: clamp(1.35rem, 2.6vw, 1.75rem);
-  font-weight: 600;
-  color: var(--eucalipto);
-}
-
 .historico-resumo {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 12rem));
@@ -292,14 +284,6 @@ body {
   max-height: 16rem;
 }
 
-.embrapa h2 {
-  margin: 0;
-  font-family: var(--fonte-marca);
-  font-size: clamp(1.35rem, 2.6vw, 1.75rem);
-  font-weight: 600;
-  color: var(--eucalipto);
-}
-
 .embrapa-lista {
   display: grid;
   grid-template-columns: repeat(5, minmax(0, 1fr));
@@ -323,8 +307,7 @@ body {
   margin-bottom: 1rem;
 }
 
-.noticias h1,
-.mercado h2 {
+.section-head h2 {
   margin: 0;
   font-family: var(--fonte-marca);
   font-size: clamp(1.45rem, 3vw, 1.9rem);
