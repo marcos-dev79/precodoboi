@@ -1,9 +1,18 @@
 {
-  "atualizado_em": "2026-09-09T21:08:40.282Z",
+  "atualizado_em": "2026-09-10T15:21:52.868Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-chega-a-r-350-por-arroba-em-sp-com-melhora-dos-negocios/",
+        "summary": "Foto: Christiano Antonucci/Secom-MT Preço avançou R$ 5 por arroba e indicador Cepea/Esalq acumula alta de 1,5% em setembro O post Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios apareceu primeiro em Ca",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
+        "publishedAt": "2026-09-10T13:52:05.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
       {
         "title": "Brasil pode ficar com até 40% da nova demanda dos EUA por carne e arroba do boi pode bater recorde",
         "link": "https://www.canalrural.com.br/pecuaria/brasil-pode-ficar-com-ate-40-da-nova-demanda-dos-eua-por-carne-e-arroba-do-boi-pode-bater-recorde/",
@@ -11,7 +20,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2025/11/close-de-tres-bifes-de-carne-crua-fresca-com-osso-em-papel-artesanal-branco-de-cima.jpg",
         "publishedAt": "2026-09-09T12:48:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 17
+        "relevancia": 15
       },
       {
         "title": "O sebastianismo e o mercado futuro do boi gordo",
@@ -20,7 +29,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/09/Gemini_Generated_Image_et5y0let5y0let5y.jpg",
         "publishedAt": "2026-09-09T14:34:24.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 16
+        "relevancia": 14
+      },
+      {
+        "title": "Arroba do boi volta a subir com especulações sobre a China",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-volta-a-subir-com-especulacoes-sobre-a-china/",
+        "summary": "Imagem gerada por IA Possível retorno precoce da cota de importação chinesa fazendo uso de rotas marítimas mais extensas tem mexido com o mercado O post Arroba do boi volta a subir com especulações sobre a China apareceu",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
+        "publishedAt": "2026-09-09T22:40:29.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 10
       },
       {
         "title": "Preços da arroba do boi voltam a subir no pós-feriado; veja as cotações",
@@ -28,24 +46,6 @@
         "summary": "Foto: Raquel Brunelli/Embrapa Mercado futuro já começa a operar contratos superiores a R$ 380 por arroba; ritmo de exportações apresenta ligeira alta neste começo de mês O post Preços da arroba do boi voltam a subir no p",
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
         "publishedAt": "2026-09-08T23:15:50.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
-        "title": "Exportações de carne bovina somam 2,2 milhões de toneladas até agosto",
-        "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-somam-22-milhoes-de-toneladas-ate-agosto/",
-        "summary": "Embarques caíram em agosto com forte recuo da China, enquanto o acumulado do ano segue acima de 2025 O post Exportações de carne bovina somam 2,2 milhões de toneladas até agosto apareceu primeiro em Canal Rural .",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/07/eua-excluem-pescados-brasileiros-de-novas-tarifas-de-importacao.png",
-        "publishedAt": "2026-09-08T13:59:52.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 10
-      },
-      {
-        "title": "Exportações de carne bovina para a China despencam 88% e EUA assumem liderança",
-        "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-para-a-china-despencam-88-e-eua-assumem-lideranca/",
-        "summary": "Foto: Agência Brasil/arquivo Esgotamento da cota chinesa fez embarques brasileiros recuarem em agosto, mas vendas para EUA, União Europeia, Rússia e Chile avançaram O post Exportações de carne bovina para a China despenc",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carne-bovina-3.jpg",
-        "publishedAt": "2026-09-08T11:33:18.000Z",
         "fonte": "Canal Rural",
         "relevancia": 10
       }
@@ -56,6 +56,57 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
+        "title": "Bovinos leiteiros da Embrapa Cerrados são ofertados em leilão on-line na próxima terça (15)",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147195469/bovinos-leiteiros-da-embrapa-cerrados-sao-ofertados-em-leilao-on-line-na-proxima-terca-15",
+        "summary": "Melhoramento genético · Produção animal · Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/documents/1355008/103354088/Leil%C3%A3o+CTZL_edit.jpg/86be8f11-709f-b87b-8f98-de635763bca8?version=1.0&t=1789053146244",
+        "publishedAt": "2026-09-10T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Melhoramento genético",
+          "Produção animal",
+          "Transferência de Tecnologia"
+        ],
+        "relevancia": 7
+      },
+      {
+        "title": "Visita à Embrapa Cerrados aproxima estudantes da pesquisa científica",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147195205/visita-a-embrapa-cerrados-aproxima-estudantes-da-pesquisa-cientifica",
+        "summary": "Pesquisa, Desenvolvimento e Inovação",
+        "image": "https://www.embrapa.br/documents/d/cerrados/visita-alunos-cmb_amv_dsc08764-jpg?download=true",
+        "publishedAt": "2026-09-10T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Pesquisa, Desenvolvimento e Inovação"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Forrageiras são a base da pecuária moderna no Brasil, comprova pesquisador",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147190896/forrageiras-sao-a-base-da-pecuaria-moderna-no-brasil-comprova-pesquisador",
+        "summary": "Melhoramento genético · Produção animal · Transferência de Tecnologia · Mercado de Cultivares e Sementes",
+        "image": "https://www.embrapa.br/documents/1355008/103354088/BRS+Carin%C3%A1s+-+Allan+Kardec+Ramos.jpg/5ab72365-6e3d-1acb-fbd4-ead4ad4456a7?version=1.0&t=1789044281134",
+        "publishedAt": "2026-09-10T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Melhoramento genético",
+          "Produção animal",
+          "Transferência de Tecnologia",
+          "Mercado de Cultivares e Sementes"
+        ],
+        "relevancia": 9
+      },
+      {
+        "title": "Carga útil com microrganismos promotores de crescimento de plantas serão enviados em Operação Potiguar 2",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147188513/carga-util-com-microrganismos-promotores-de-crescimento-de-plantas-serao-enviados-em-operacao-potiguar-2",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147188514&t=1789038996920",
+        "publishedAt": "2026-09-10T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 3
+      },
+      {
         "title": "Inscrições abertas para bolsistas de Técnico Agrícola ou Florestal pela Fapeg até 30 de setembro",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147175395/inscricoes-abertas-para-bolsistas-de-tecnico-agricola-ou-florestal-pela-fapeg-ate-30-de-setembro",
         "summary": "Comunicação",
@@ -65,55 +116,20 @@
         "tags": [
           "Comunicação"
         ],
-        "relevancia": 3
-      },
-      {
-        "title": "Últimos dias para inscrição em capacitação sobre prevenção e controle do carrapato",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147175048/ultimos-dias-para-inscricao-em-capacitacao-sobre-prevencao-e-controle-do-carrapato",
-        "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147175049&t=1788984920398",
-        "publishedAt": "2026-09-09T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Pesquisa, Desenvolvimento e Inovação"
-        ],
-        "relevancia": 3
-      },
-      {
-        "title": "Embrapa Soja promove capacitação para classificadores de soja",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147173213/embrapa-soja-promove-capacitacao-para-classificadores-de-soja",
-        "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/documents/1355202/0/classificacao+de+sementes+de+soja.jpeg/808c6ab3-d7b3-29e4-bb2f-089673b26d7a?version=1.0&t=1788975359551",
-        "publishedAt": "2026-09-09T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Pesquisa, Desenvolvimento e Inovação"
-        ],
-        "relevancia": 3
-      },
-      {
-        "title": "Inscrições abertas para a 2ª Seleção de Vinhos de BRS Lorena",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147172860/inscricoes-abertas-para-a-2-selecao-de-vinhos-de-brs-lorena",
-        "summary": "",
-        "image": "https://www.embrapa.br/documents/1355300/1529380/Garrafa+com+selo+1+selec%C3%A7%C3%A3o+e+ta%C3%A7a+vinho_cred_+Ander+Pereira.jpg/52747ef7-e200-1ff3-aada-50402a3913eb?version=1.0&t=1788974751905",
-        "publishedAt": "2026-09-09T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Pesquisadoras da Embrapa participam da 5ª edição do Meninas Cientistas do Pantanal",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147169807/pesquisadoras-da-embrapa-participam-da-5-edicao-do-meninas-cientistas-do-pantanal",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147169808&t=1788984920482",
-        "publishedAt": "2026-09-09T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
+        "relevancia": 1
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-chega-a-r-350-por-arroba-em-sp-com-melhora-dos-negocios/",
+      "summary": "Foto: Christiano Antonucci/Secom-MT Preço avançou R$ 5 por arroba e indicador Cepea/Esalq acumula alta de 1,5% em setembro O post Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios apareceu primeiro em Ca",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
+      "publishedAt": "2026-09-10T13:52:05.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
     {
       "title": "Brasil pode ficar com até 40% da nova demanda dos EUA por carne e arroba do boi pode bater recorde",
       "link": "https://www.canalrural.com.br/pecuaria/brasil-pode-ficar-com-ate-40-da-nova-demanda-dos-eua-por-carne-e-arroba-do-boi-pode-bater-recorde/",
@@ -121,7 +137,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2025/11/close-de-tres-bifes-de-carne-crua-fresca-com-osso-em-papel-artesanal-branco-de-cima.jpg",
       "publishedAt": "2026-09-09T12:48:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 17
+      "relevancia": 15
     },
     {
       "title": "O sebastianismo e o mercado futuro do boi gordo",
@@ -130,7 +146,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/09/Gemini_Generated_Image_et5y0let5y0let5y.jpg",
       "publishedAt": "2026-09-09T14:34:24.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 16
+      "relevancia": 14
+    },
+    {
+      "title": "Arroba do boi volta a subir com especulações sobre a China",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-volta-a-subir-com-especulacoes-sobre-a-china/",
+      "summary": "Imagem gerada por IA Possível retorno precoce da cota de importação chinesa fazendo uso de rotas marítimas mais extensas tem mexido com o mercado O post Arroba do boi volta a subir com especulações sobre a China apareceu",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
+      "publishedAt": "2026-09-09T22:40:29.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 10
     },
     {
       "title": "Preços da arroba do boi voltam a subir no pós-feriado; veja as cotações",
@@ -138,24 +163,6 @@
       "summary": "Foto: Raquel Brunelli/Embrapa Mercado futuro já começa a operar contratos superiores a R$ 380 por arroba; ritmo de exportações apresenta ligeira alta neste começo de mês O post Preços da arroba do boi voltam a subir no p",
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
       "publishedAt": "2026-09-08T23:15:50.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
-      "title": "Exportações de carne bovina somam 2,2 milhões de toneladas até agosto",
-      "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-somam-22-milhoes-de-toneladas-ate-agosto/",
-      "summary": "Embarques caíram em agosto com forte recuo da China, enquanto o acumulado do ano segue acima de 2025 O post Exportações de carne bovina somam 2,2 milhões de toneladas até agosto apareceu primeiro em Canal Rural .",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/07/eua-excluem-pescados-brasileiros-de-novas-tarifas-de-importacao.png",
-      "publishedAt": "2026-09-08T13:59:52.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 10
-    },
-    {
-      "title": "Exportações de carne bovina para a China despencam 88% e EUA assumem liderança",
-      "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-para-a-china-despencam-88-e-eua-assumem-lideranca/",
-      "summary": "Foto: Agência Brasil/arquivo Esgotamento da cota chinesa fez embarques brasileiros recuarem em agosto, mas vendas para EUA, União Europeia, Rússia e Chile avançaram O post Exportações de carne bovina para a China despenc",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carne-bovina-3.jpg",
-      "publishedAt": "2026-09-08T11:33:18.000Z",
       "fonte": "Canal Rural",
       "relevancia": 10
     }
