@@ -71,11 +71,11 @@ async function main() {
     )
     .replace(
       /(<meta\s+property="og:image"\s+content=")[^"]+(")/,
-      `$1${SITE}/assets/gado-silhueta.png$2`,
+      `$1${SITE}/assets/og-share.jpg$2`,
     )
     .replace(
       /(<meta\s+name="twitter:image"\s+content=")[^"]+(")/,
-      `$1${SITE}/assets/gado-silhueta.png$2`,
+      `$1${SITE}/assets/og-share.jpg$2`,
     );
 
   html = replaceBlock(
