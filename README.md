@@ -98,9 +98,10 @@ O workflow [`.github/workflows/update-prices.yml`](.github/workflows/update-pric
 - roda **todo dia às 12:00 UTC** (`cron: "0 12 * * *"`);
 - também pode ser disparado **manualmente**;
 - executa `npm run update` (cotações + top 5 notícias de pecuária);
-- faz commit e push de `data/prices.json` e `data/noticias.json` se houver mudança.
+- faz commit e push de `data/prices.json` e `data/noticias.json` se houver mudança;
+- dispara o **Deploy GitHub Pages** em seguida (push com `GITHUB_TOKEN` sozinho não republica o site).
 
-O push do JSON dispara de novo o workflow de Pages, republicando o site com os preços novos.
+O [`.github/workflows/pages.yml`](.github/workflows/pages.yml) também tem cron próprio (**12:30 UTC**) como rede de segurança diária, além de rodar em push humano e via `workflow_dispatch`.
 
 ### Como “gerar” / ativar o Action
 

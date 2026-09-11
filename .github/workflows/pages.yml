@@ -3,6 +3,9 @@ name: Deploy GitHub Pages
 on:
   push:
     branches: [main, master]
+  # Redeploy diário (rede de segurança se o dispatch do update falhar)
+  schedule:
+    - cron: "30 12 * * *"
   workflow_dispatch:
 
 permissions:

@@ -38,9 +38,8 @@ jobs:
           fi
 
       # Push com GITHUB_TOKEN não dispara outros workflows (evita loop).
-      # Por isso o deploy do Pages precisa ser acionado explicitamente.
+      # Sempre republica o site após o update diário (mesmo sem diff no git).
       - name: Publicar no GitHub Pages
-        if: steps.commit.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: gh workflow run "Deploy GitHub Pages" --ref "${{ github.ref_name }}"
