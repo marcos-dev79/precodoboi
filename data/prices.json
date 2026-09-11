@@ -1,10 +1,10 @@
 {
-  "atualizado_em": "2026-09-10T15:21:50.958Z",
+  "atualizado_em": "2026-09-11T13:49:12.309Z",
   "fonte": "CEPEA/ESALQ · NoticiasAgricolas · Scot Consultoria",
   "licenca": "CC-BY-4.0 · atribuicao AgroDoc AI",
   "referencia_cepea_sp": 349.5,
   "media_nacional": {
-    "preco_arroba": 335.85
+    "preco_arroba": 335.89
   },
   "estados": [
     {
@@ -40,14 +40,6 @@
       "praca": "MS"
     },
     {
-      "uf": "PA",
-      "nome": "Pará",
-      "regiao": "Norte",
-      "preco_arroba": 347,
-      "origem": "api",
-      "praca": "PA"
-    },
-    {
       "uf": "ES",
       "nome": "Espírito Santo",
       "regiao": "Sudeste",
@@ -67,9 +59,17 @@
       "uf": "MG",
       "nome": "Minas Gerais",
       "regiao": "Sudeste",
-      "preco_arroba": 343,
+      "preco_arroba": 345,
       "origem": "api",
       "praca": "MG"
+    },
+    {
+      "uf": "PA",
+      "nome": "Pará",
+      "regiao": "Norte",
+      "preco_arroba": 345,
+      "origem": "api",
+      "praca": "PA"
     },
     {
       "uf": "RS",
@@ -99,7 +99,7 @@
       "uf": "GO",
       "nome": "Goiás",
       "regiao": "Centro-Oeste",
-      "preco_arroba": 337,
+      "preco_arroba": 338,
       "origem": "api",
       "praca": "GO"
     },

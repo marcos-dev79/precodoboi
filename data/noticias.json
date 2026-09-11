@@ -1,24 +1,24 @@
 {
-  "atualizado_em": "2026-09-10T15:21:52.868Z",
+  "atualizado_em": "2026-09-11T13:49:13.883Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Arroba do boi segue em alta mesmo com frigoríficos operando com escalas confortáveis",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-segue-em-alta-mesmo-com-frigorificos-operando-com-escalas-confortaveis/",
+        "summary": "Foto gerada por IA Mercado segue atento ao comportamento dos preços da carne no atacado e ao ritmo diário de exportação O post Arroba do boi segue em alta mesmo com frigoríficos operando com escalas confortáveis apareceu",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/10/boi-gordo-precos-no-Brasil.png",
+        "publishedAt": "2026-09-10T22:07:24.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
       {
         "title": "Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios",
         "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-chega-a-r-350-por-arroba-em-sp-com-melhora-dos-negocios/",
         "summary": "Foto: Christiano Antonucci/Secom-MT Preço avançou R$ 5 por arroba e indicador Cepea/Esalq acumula alta de 1,5% em setembro O post Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios apareceu primeiro em Ca",
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
         "publishedAt": "2026-09-10T13:52:05.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 15
-      },
-      {
-        "title": "Brasil pode ficar com até 40% da nova demanda dos EUA por carne e arroba do boi pode bater recorde",
-        "link": "https://www.canalrural.com.br/pecuaria/brasil-pode-ficar-com-ate-40-da-nova-demanda-dos-eua-por-carne-e-arroba-do-boi-pode-bater-recorde/",
-        "summary": "Foto: Freepik Na avaliação de Fernando Iglesias, da Safras & Mercado, país é o maior beneficiado da política norte-americano para aumentar importação de carne bovina O post Brasil pode ficar com até 40% da nova demanda d",
-        "image": "https://imagens-cdn.canalrural.com.br/2025/11/close-de-tres-bifes-de-carne-crua-fresca-com-osso-em-papel-artesanal-branco-de-cima.jpg",
-        "publishedAt": "2026-09-09T12:48:00.000Z",
         "fonte": "Canal Rural",
         "relevancia": 15
       },
@@ -32,22 +32,22 @@
         "relevancia": 14
       },
       {
+        "title": "Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia",
+        "link": "https://www.canalrural.com.br/pecuaria/brasil-habilita-21-novos-frigorificos-para-exportar-carne-bovina-a-indonesia/",
+        "summary": "Com a nova aprovação, total de unidades autorizadas a atender o mercado indonésio sobe de 52 para 73. O post Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia apareceu primeiro em Canal Rural .",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
+        "publishedAt": "2026-09-10T18:52:20.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 13
+      },
+      {
         "title": "Arroba do boi volta a subir com especulações sobre a China",
         "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-volta-a-subir-com-especulacoes-sobre-a-china/",
         "summary": "Imagem gerada por IA Possível retorno precoce da cota de importação chinesa fazendo uso de rotas marítimas mais extensas tem mexido com o mercado O post Arroba do boi volta a subir com especulações sobre a China apareceu",
         "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
         "publishedAt": "2026-09-09T22:40:29.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 10
-      },
-      {
-        "title": "Preços da arroba do boi voltam a subir no pós-feriado; veja as cotações",
-        "link": "https://www.canalrural.com.br/pecuaria/precos-da-arroba-do-boi-voltam-a-subir-no-pos-feriado-veja-as-cotacoes/",
-        "summary": "Foto: Raquel Brunelli/Embrapa Mercado futuro já começa a operar contratos superiores a R$ 380 por arroba; ritmo de exportações apresenta ligeira alta neste começo de mês O post Preços da arroba do boi voltam a subir no p",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
-        "publishedAt": "2026-09-08T23:15:50.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 10
+        "relevancia": 8
       }
     ]
   },
@@ -56,18 +56,42 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Bovinos leiteiros da Embrapa Cerrados são ofertados em leilão on-line na próxima terça (15)",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147195469/bovinos-leiteiros-da-embrapa-cerrados-sao-ofertados-em-leilao-on-line-na-proxima-terca-15",
-        "summary": "Melhoramento genético · Produção animal · Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/documents/1355008/103354088/Leil%C3%A3o+CTZL_edit.jpg/86be8f11-709f-b87b-8f98-de635763bca8?version=1.0&t=1789053146244",
-        "publishedAt": "2026-09-10T12:00:00.000Z",
+        "title": "Simpósio internacional discute desafios e apresenta novidades na reprodução e fertilidade em gado de corte",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147217362/simposio-internacional-discute-desafios-e-apresenta-novidades-na-reproducao-e-fertilidade-em-gado-de-corte",
+        "summary": "Melhoramento genético · Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/documents/1355108/0/Card_Divulga%C3%A7%C3%A3o_SIMFertCorte.png/6f4cbb59-129e-d8a7-1f63-419668c58d78?version=1.0&t=1789132949253",
+        "publishedAt": "2026-09-11T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Melhoramento genético",
-          "Produção animal",
           "Transferência de Tecnologia"
         ],
         "relevancia": 7
+      },
+      {
+        "title": "Café com Negócios debate inovação aberta como chave para o desenvolvimento tecnológico",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147202896/cafe-com-negocios-debate-inovacao-aberta-como-chave-para-o-desenvolvimento-tecnologico",
+        "summary": "Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/documents/1355072/74848445/Foto_Caf%C3%A9+com+Neg%C3%B3cios_02_09_2026_Williams.jpg/af980c11-66b7-3e9b-ff43-fd7eecfff0dd?version=1.0&t=1789128921319",
+        "publishedAt": "2026-09-10T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Transferência de Tecnologia"
+        ],
+        "relevancia": 1
+      },
+      {
+        "title": "Encontro reúne produtoras e mulheres de negócios em diálogo sobre liderança e desafios da atividade pecuária",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147195982/encontro-reune-produtoras-e-mulheres-de-negocios-em-dialogo-sobre-lideranca-e-desafios-da-atividade-pecuaria",
+        "summary": "Comunicação · Gestão Estratégica",
+        "image": "https://www.embrapa.br/documents/1355108/146204684/Visita_BPW_SET26.jpeg/a23c0954-e9fb-c138-a584-428a13b71e1f?version=1.0&t=1789056622667",
+        "publishedAt": "2026-09-10T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Comunicação",
+          "Gestão Estratégica"
+        ],
+        "relevancia": 6
       },
       {
         "title": "Visita à Embrapa Cerrados aproxima estudantes da pesquisa científica",
@@ -79,7 +103,7 @@
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Forrageiras são a base da pecuária moderna no Brasil, comprova pesquisador",
@@ -94,48 +118,26 @@
           "Transferência de Tecnologia",
           "Mercado de Cultivares e Sementes"
         ],
-        "relevancia": 9
-      },
-      {
-        "title": "Carga útil com microrganismos promotores de crescimento de plantas serão enviados em Operação Potiguar 2",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147188513/carga-util-com-microrganismos-promotores-de-crescimento-de-plantas-serao-enviados-em-operacao-potiguar-2",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147188514&t=1789038996920",
-        "publishedAt": "2026-09-10T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Inscrições abertas para bolsistas de Técnico Agrícola ou Florestal pela Fapeg até 30 de setembro",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147175395/inscricoes-abertas-para-bolsistas-de-tecnico-agricola-ou-florestal-pela-fapeg-ate-30-de-setembro",
-        "summary": "Comunicação",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147175396&t=1788984920369",
-        "publishedAt": "2026-09-09T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Comunicação"
-        ],
-        "relevancia": 1
+        "relevancia": 7
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Arroba do boi segue em alta mesmo com frigoríficos operando com escalas confortáveis",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-segue-em-alta-mesmo-com-frigorificos-operando-com-escalas-confortaveis/",
+      "summary": "Foto gerada por IA Mercado segue atento ao comportamento dos preços da carne no atacado e ao ritmo diário de exportação O post Arroba do boi segue em alta mesmo com frigoríficos operando com escalas confortáveis apareceu",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/10/boi-gordo-precos-no-Brasil.png",
+      "publishedAt": "2026-09-10T22:07:24.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
     {
       "title": "Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios",
       "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-chega-a-r-350-por-arroba-em-sp-com-melhora-dos-negocios/",
       "summary": "Foto: Christiano Antonucci/Secom-MT Preço avançou R$ 5 por arroba e indicador Cepea/Esalq acumula alta de 1,5% em setembro O post Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios apareceu primeiro em Ca",
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
       "publishedAt": "2026-09-10T13:52:05.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 15
-    },
-    {
-      "title": "Brasil pode ficar com até 40% da nova demanda dos EUA por carne e arroba do boi pode bater recorde",
-      "link": "https://www.canalrural.com.br/pecuaria/brasil-pode-ficar-com-ate-40-da-nova-demanda-dos-eua-por-carne-e-arroba-do-boi-pode-bater-recorde/",
-      "summary": "Foto: Freepik Na avaliação de Fernando Iglesias, da Safras & Mercado, país é o maior beneficiado da política norte-americano para aumentar importação de carne bovina O post Brasil pode ficar com até 40% da nova demanda d",
-      "image": "https://imagens-cdn.canalrural.com.br/2025/11/close-de-tres-bifes-de-carne-crua-fresca-com-osso-em-papel-artesanal-branco-de-cima.jpg",
-      "publishedAt": "2026-09-09T12:48:00.000Z",
       "fonte": "Canal Rural",
       "relevancia": 15
     },
@@ -149,22 +151,22 @@
       "relevancia": 14
     },
     {
+      "title": "Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia",
+      "link": "https://www.canalrural.com.br/pecuaria/brasil-habilita-21-novos-frigorificos-para-exportar-carne-bovina-a-indonesia/",
+      "summary": "Com a nova aprovação, total de unidades autorizadas a atender o mercado indonésio sobe de 52 para 73. O post Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia apareceu primeiro em Canal Rural .",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
+      "publishedAt": "2026-09-10T18:52:20.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 13
+    },
+    {
       "title": "Arroba do boi volta a subir com especulações sobre a China",
       "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-volta-a-subir-com-especulacoes-sobre-a-china/",
       "summary": "Imagem gerada por IA Possível retorno precoce da cota de importação chinesa fazendo uso de rotas marítimas mais extensas tem mexido com o mercado O post Arroba do boi volta a subir com especulações sobre a China apareceu",
       "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
       "publishedAt": "2026-09-09T22:40:29.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 10
-    },
-    {
-      "title": "Preços da arroba do boi voltam a subir no pós-feriado; veja as cotações",
-      "link": "https://www.canalrural.com.br/pecuaria/precos-da-arroba-do-boi-voltam-a-subir-no-pos-feriado-veja-as-cotacoes/",
-      "summary": "Foto: Raquel Brunelli/Embrapa Mercado futuro já começa a operar contratos superiores a R$ 380 por arroba; ritmo de exportações apresenta ligeira alta neste começo de mês O post Preços da arroba do boi voltam a subir no p",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
-      "publishedAt": "2026-09-08T23:15:50.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 10
+      "relevancia": 8
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
