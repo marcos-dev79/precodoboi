@@ -216,8 +216,6 @@ body {
 
 .bezerro {
   padding-top: 0.15rem;
-  position: sticky;
-  top: 1rem;
 }
 
 .bezerro-destaque {
@@ -629,10 +627,6 @@ td.num {
 @media (max-width: 960px) {
   .portal {
     grid-template-columns: 1fr;
-  }
-
-  .bezerro {
-    position: static;
   }
 
   .noticias-grid {
