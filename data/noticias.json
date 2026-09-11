@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-11T14:17:52.864Z",
+  "atualizado_em": "2026-09-11T15:24:08.706Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -12,15 +12,6 @@
         "publishedAt": "2026-09-10T22:07:24.000Z",
         "fonte": "Canal Rural",
         "relevancia": 15
-      },
-      {
-        "title": "O sebastianismo e o mercado futuro do boi gordo",
-        "link": "https://www.canalrural.com.br/opiniao-noticias/o-sebastianismo-e-o-mercado-futuro-do-boi-gordo/",
-        "summary": "Imagem gerada por IA para o Canal Rural Rumores sobre a China fazem a bolsa disparar e indicam hora certa para travar o lucro da arroba antes de qualquer tombo de preços O post O sebastianismo e o mercado futuro do boi g",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/09/Gemini_Generated_Image_et5y0let5y0let5y.jpg",
-        "publishedAt": "2026-09-09T14:34:24.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 14
       },
       {
         "title": "Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia",
@@ -37,6 +28,15 @@
         "summary": "Foto: Christiano Antonucci/Secom-MT Preço avançou R$ 5 por arroba e indicador Cepea/Esalq acumula alta de 1,5% em setembro O post Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios apareceu primeiro em Ca",
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
         "publishedAt": "2026-09-10T13:52:05.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 13
+      },
+      {
+        "title": "O sebastianismo e o mercado futuro do boi gordo",
+        "link": "https://www.canalrural.com.br/opiniao-noticias/o-sebastianismo-e-o-mercado-futuro-do-boi-gordo/",
+        "summary": "Imagem gerada por IA para o Canal Rural Rumores sobre a China fazem a bolsa disparar e indicam hora certa para travar o lucro da arroba antes de qualquer tombo de preços O post O sebastianismo e o mercado futuro do boi g",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/09/Gemini_Generated_Image_et5y0let5y0let5y.jpg",
+        "publishedAt": "2026-09-09T14:34:24.000Z",
         "fonte": "Canal Rural",
         "relevancia": 13
       },
@@ -133,15 +133,6 @@
       "relevancia": 15
     },
     {
-      "title": "O sebastianismo e o mercado futuro do boi gordo",
-      "link": "https://www.canalrural.com.br/opiniao-noticias/o-sebastianismo-e-o-mercado-futuro-do-boi-gordo/",
-      "summary": "Imagem gerada por IA para o Canal Rural Rumores sobre a China fazem a bolsa disparar e indicam hora certa para travar o lucro da arroba antes de qualquer tombo de preços O post O sebastianismo e o mercado futuro do boi g",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/09/Gemini_Generated_Image_et5y0let5y0let5y.jpg",
-      "publishedAt": "2026-09-09T14:34:24.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 14
-    },
-    {
       "title": "Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia",
       "link": "https://www.canalrural.com.br/pecuaria/brasil-habilita-21-novos-frigorificos-para-exportar-carne-bovina-a-indonesia/",
       "summary": "Com a nova aprovação, total de unidades autorizadas a atender o mercado indonésio sobe de 52 para 73. O post Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia apareceu primeiro em Canal Rural .",
@@ -156,6 +147,15 @@
       "summary": "Foto: Christiano Antonucci/Secom-MT Preço avançou R$ 5 por arroba e indicador Cepea/Esalq acumula alta de 1,5% em setembro O post Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios apareceu primeiro em Ca",
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
       "publishedAt": "2026-09-10T13:52:05.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 13
+    },
+    {
+      "title": "O sebastianismo e o mercado futuro do boi gordo",
+      "link": "https://www.canalrural.com.br/opiniao-noticias/o-sebastianismo-e-o-mercado-futuro-do-boi-gordo/",
+      "summary": "Imagem gerada por IA para o Canal Rural Rumores sobre a China fazem a bolsa disparar e indicam hora certa para travar o lucro da arroba antes de qualquer tombo de preços O post O sebastianismo e o mercado futuro do boi g",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/09/Gemini_Generated_Image_et5y0let5y0let5y.jpg",
+      "publishedAt": "2026-09-09T14:34:24.000Z",
       "fonte": "Canal Rural",
       "relevancia": 13
     },
