@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-11T13:49:13.883Z",
+  "atualizado_em": "2026-09-11T13:57:08.328Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -10,15 +10,6 @@
         "summary": "Foto gerada por IA Mercado segue atento ao comportamento dos preços da carne no atacado e ao ritmo diário de exportação O post Arroba do boi segue em alta mesmo com frigoríficos operando com escalas confortáveis apareceu",
         "image": "https://imagens-cdn.canalrural.com.br/2025/10/boi-gordo-precos-no-Brasil.png",
         "publishedAt": "2026-09-10T22:07:24.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 15
-      },
-      {
-        "title": "Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-chega-a-r-350-por-arroba-em-sp-com-melhora-dos-negocios/",
-        "summary": "Foto: Christiano Antonucci/Secom-MT Preço avançou R$ 5 por arroba e indicador Cepea/Esalq acumula alta de 1,5% em setembro O post Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios apareceu primeiro em Ca",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
-        "publishedAt": "2026-09-10T13:52:05.000Z",
         "fonte": "Canal Rural",
         "relevancia": 15
       },
@@ -37,6 +28,15 @@
         "summary": "Com a nova aprovação, total de unidades autorizadas a atender o mercado indonésio sobe de 52 para 73. O post Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia apareceu primeiro em Canal Rural .",
         "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
         "publishedAt": "2026-09-10T18:52:20.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 13
+      },
+      {
+        "title": "Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-chega-a-r-350-por-arroba-em-sp-com-melhora-dos-negocios/",
+        "summary": "Foto: Christiano Antonucci/Secom-MT Preço avançou R$ 5 por arroba e indicador Cepea/Esalq acumula alta de 1,5% em setembro O post Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios apareceu primeiro em Ca",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
+        "publishedAt": "2026-09-10T13:52:05.000Z",
         "fonte": "Canal Rural",
         "relevancia": 13
       },
@@ -133,15 +133,6 @@
       "relevancia": 15
     },
     {
-      "title": "Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-chega-a-r-350-por-arroba-em-sp-com-melhora-dos-negocios/",
-      "summary": "Foto: Christiano Antonucci/Secom-MT Preço avançou R$ 5 por arroba e indicador Cepea/Esalq acumula alta de 1,5% em setembro O post Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios apareceu primeiro em Ca",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
-      "publishedAt": "2026-09-10T13:52:05.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 15
-    },
-    {
       "title": "O sebastianismo e o mercado futuro do boi gordo",
       "link": "https://www.canalrural.com.br/opiniao-noticias/o-sebastianismo-e-o-mercado-futuro-do-boi-gordo/",
       "summary": "Imagem gerada por IA para o Canal Rural Rumores sobre a China fazem a bolsa disparar e indicam hora certa para travar o lucro da arroba antes de qualquer tombo de preços O post O sebastianismo e o mercado futuro do boi g",
@@ -156,6 +147,15 @@
       "summary": "Com a nova aprovação, total de unidades autorizadas a atender o mercado indonésio sobe de 52 para 73. O post Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia apareceu primeiro em Canal Rural .",
       "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
       "publishedAt": "2026-09-10T18:52:20.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 13
+    },
+    {
+      "title": "Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-chega-a-r-350-por-arroba-em-sp-com-melhora-dos-negocios/",
+      "summary": "Foto: Christiano Antonucci/Secom-MT Preço avançou R$ 5 por arroba e indicador Cepea/Esalq acumula alta de 1,5% em setembro O post Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios apareceu primeiro em Ca",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
+      "publishedAt": "2026-09-10T13:52:05.000Z",
       "fonte": "Canal Rural",
       "relevancia": 13
     },
