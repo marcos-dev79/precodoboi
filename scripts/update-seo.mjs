@@ -32,16 +32,29 @@ async function main() {
   const prices = JSON.parse(
     await readFile(join(root, "data", "prices.json"), "utf8"),
   );
+  let bezerroPreco = null;
+  try {
+    const bezerros = JSON.parse(
+      await readFile(join(root, "data", "bezerros.json"), "utf8"),
+    );
+    bezerroPreco = bezerros.indicador?.preco_cabeca;
+  } catch {
+    /* opcional */
+  }
+
   const media = prices.media_nacional?.preco_arroba;
   const quando = prices.atualizado_em
     ? new Date(prices.atualizado_em).toLocaleString("pt-BR")
     : "";
   const mediaTxt = media != null ? brl(media) : "";
+  const bezerroTxt = bezerroPreco != null ? brl(bezerroPreco) : "";
 
   const desc =
     media != null
-      ? `Preço da arroba do boi hoje: média Brasil ${mediaTxt}. Consulte a cotação do gado (boi gordo) por estado e notícias da pecuária. Atualizado em ${quando}.`
-      : `Consulte o preço da arroba do boi (gado) por estado no Brasil, média nacional atualizada e notícias da pecuária.`;
+      ? `Preço da arroba do boi hoje: média Brasil ${mediaTxt}.${
+          bezerroTxt ? ` Bezerro CEPEA/MS: ${bezerroTxt}/cabeça.` : ""
+        } Cotação do gado por estado e notícias da pecuária. Atualizado em ${quando}.`
+      : `Consulte o preço da arroba do boi e do bezerro (CEPEA/MS), cotação por estado e notícias da pecuária.`;
 
   let html = await readFile(join(root, "index.html"), "utf8");
 
@@ -90,30 +103,43 @@ async function main() {
         name: "Preço do Boi",
         url: `${SITE}/`,
         description:
-          "Portal com o preço da arroba do boi por estado no Brasil e notícias da pecuária.",
+          "Portal com o preço da arroba do boi por estado, preço do bezerro (CEPEA/MS) e notícias da pecuária.",
         inLanguage: "pt-BR",
       },
       {
         "@type": "WebPage",
         "@id": `${SITE}/#webpage`,
         url: `${SITE}/`,
-        name: "Preço da arroba do boi por estado",
+        name: "Preço da arroba do boi e do bezerro",
         isPartOf: { "@id": `${SITE}/#website` },
-        about: ["preço do boi", "arroba do gado", "boi gordo", "pecuária"],
+        about: [
+          "preço do boi",
+          "arroba do gado",
+          "boi gordo",
+          "preço do bezerro",
+          "pecuária",
+        ],
         inLanguage: "pt-BR",
         dateModified: prices.atualizado_em || undefined,
       },
       {
         "@type": "Dataset",
-        name: "Cotação da arroba do boi por estado",
+        name: "Cotação da arroba do boi e do bezerro",
         description:
-          "Preços médios da arroba do gado (boi gordo) por unidade federativa do Brasil.",
+          "Preços médios da arroba do gado (boi gordo) por UF e Indicador do Bezerro CEPEA/ESALQ (MS).",
         url: `${SITE}/`,
-        keywords: ["preço do boi", "arroba", "boi gordo", "pecuária", "CEPEA"],
+        keywords: [
+          "preço do boi",
+          "arroba",
+          "boi gordo",
+          "bezerro",
+          "pecuária",
+          "CEPEA",
+        ],
         creator: { "@type": "Organization", name: "Preço do Boi" },
         license: "https://creativecommons.org/licenses/by/4.0/",
         dateModified: prices.atualizado_em || undefined,
-        variableMeasured:
+        variableMeasured: [
           media != null
             ? {
                 "@type": "PropertyValue",
@@ -121,7 +147,16 @@ async function main() {
                 value: media,
                 unitText: "BRL per arroba",
               }
-            : undefined,
+            : null,
+          bezerroPreco != null
+            ? {
+                "@type": "PropertyValue",
+                name: "Indicador do Bezerro CEPEA/ESALQ MS",
+                value: bezerroPreco,
+                unitText: "BRL per head",
+              }
+            : null,
+        ].filter(Boolean),
       },
     ],
   };
@@ -133,7 +168,11 @@ async function main() {
   );
 
   await writeFile(join(root, "index.html"), html, "utf8");
-  console.log("SEO atualizado:", mediaTxt || "(sem média)");
+  console.log(
+    "SEO atualizado:",
+    mediaTxt || "(sem média)",
+    bezerroTxt ? `· bezerro ${bezerroTxt}` : "",
+  );
 }
 
 main().catch((err) => {

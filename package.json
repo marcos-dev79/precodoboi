@@ -7,7 +7,9 @@
   "scripts": {
     "update": "node scripts/update-all.mjs",
     "update:prices": "node scripts/update-prices.mjs",
+    "update:bezerros": "node scripts/update-bezerros.mjs",
     "update:news": "node scripts/update-news.mjs",
+
     "update:historico": "node scripts/update-historico.mjs",
     "update:seo": "node scripts/update-seo.mjs",
     "serve": "npx --yes serve -l 4173 ."

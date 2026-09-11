@@ -1,6 +1,8 @@
 import { pesquisarPrecos } from "./fetch-prices.js";
+import { pesquisarBezerros } from "./fetch-bezerros.js";
 
 const STORAGE_KEY = "precodoboi:prices";
+const STORAGE_BEZERROS = "precodoboi:bezerros";
 const MS_24H = 24 * 60 * 60 * 1000;
 
 function $(id) {
@@ -80,9 +82,28 @@ const el = {
   get histVar() {
     return $("hist-var");
   },
+  get bezerroFonte() {
+    return $("bezerro-fonte");
+  },
+  get bezerroPreco() {
+    return $("bezerro-preco");
+  },
+  get bezerroPraca() {
+    return $("bezerro-praca");
+  },
+  get bezerroNome() {
+    return $("bezerro-nome");
+  },
+  get bezerroResumo() {
+    return $("bezerro-resumo");
+  },
+  get bezerroNota() {
+    return $("bezerro-nota");
+  },
 };
 
 let dadosAtuais = null;
+let bezerrosAtuais = null;
 let pracasRotacao = [];
 let pracaTimer = null;
 let pracaIndex = -1;
@@ -182,23 +203,81 @@ function renderPrecos(dados) {
 
   iniciarRotacaoPracas(dados.estados);
 
-  const quando = parseData(dados.atualizado_em);
-  setText(
-    "status-atualizacao",
-    quando
-      ? `Cotações: ${dataHora.format(quando)}`
-      : "Sem data de atualização",
-  );
-
   setText(
     "fonte",
     [dados.fonte, ...(dados.notas || [])].filter(Boolean).join(" · "),
   );
 
-  const stale = estaDesatualizado(dados.atualizado_em);
-  if (el.btn) el.btn.hidden = !stale || el.btn.disabled;
-
   pintarLista(el.filtro?.value || "");
+  atualizarStatusCombinado();
+}
+
+function renderBezerros(payload) {
+  bezerrosAtuais = payload;
+  const ind = payload?.indicador;
+  if (!ind || !Number.isFinite(Number(ind.preco_cabeca))) {
+    setText("bezerro-preco", "—");
+    setText("bezerro-fonte", "Sem cotação do bezerro no momento.");
+    setHidden("bezerro-resumo", true);
+    atualizarStatusCombinado();
+    return;
+  }
+
+  setText("bezerro-preco", formatMoney(ind.preco_cabeca));
+  setText(
+    "bezerro-praca",
+    `${ind.uf || "MS"} · ${ind.praca || "CEPEA/ESALQ"}`,
+  );
+  setText("bezerro-nome", ind.nome || "Indicador do Bezerro");
+
+  const quando = parseData(payload.atualizado_em);
+  setText(
+    "bezerro-fonte",
+    quando
+      ? `Atualizado ${dataHora.format(quando)}`
+      : payload.fonte || "",
+  );
+
+  const rel = payload.relacao_troca;
+  if (rel?.arrobas_por_bezerro != null && rel?.bezerros_por_boi_20_arrobas != null) {
+    setText(
+      "bezerro-arrobas",
+      `${Number(rel.arrobas_por_bezerro).toLocaleString("pt-BR", {
+        maximumFractionDigits: 2,
+      })} @`,
+    );
+    setText(
+      "bezerro-troca",
+      Number(rel.bezerros_por_boi_20_arrobas).toLocaleString("pt-BR", {
+        maximumFractionDigits: 2,
+      }),
+    );
+    setHidden("bezerro-resumo", false);
+  } else {
+    setHidden("bezerro-resumo", true);
+  }
+
+  setText(
+    "bezerro-nota",
+    [payload.fonte, ...(payload.notas || [])].filter(Boolean).join(" · "),
+  );
+
+  atualizarStatusCombinado();
+}
+
+function atualizarStatusCombinado() {
+  const datas = [dadosAtuais?.atualizado_em, bezerrosAtuais?.atualizado_em]
+    .map(parseData)
+    .filter(Boolean);
+  if (!datas.length) return;
+
+  const maisRecente = new Date(Math.max(...datas.map((d) => d.getTime())));
+  const stale =
+    estaDesatualizado(dadosAtuais?.atualizado_em) ||
+    estaDesatualizado(bezerrosAtuais?.atualizado_em);
+
+  setText("status-atualizacao", `Cotações: ${dataHora.format(maisRecente)}`);
+  if (el.btn) el.btn.hidden = !stale || el.btn.disabled;
 }
 
 function pintarLista(filtro = "") {
@@ -466,17 +545,17 @@ function montarSvgHistorico(serie) {
   </svg>`;
 }
 
-function lerLocal() {
+function lerLocal(key = STORAGE_KEY) {
   try {
-    const raw = localStorage.getItem(STORAGE_KEY);
+    const raw = localStorage.getItem(key);
     return raw ? JSON.parse(raw) : null;
   } catch {
     return null;
   }
 }
 
-function salvarLocal(dados) {
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(dados));
+function salvarLocal(key, dados) {
+  localStorage.setItem(key, JSON.stringify(dados));
 }
 
 async function carregarJson(path) {
@@ -494,9 +573,21 @@ function escolherMaisRecente(a, b) {
 }
 
 async function carregarInicial() {
-  const [precosLocal, precosArquivo, noticias, historico] = await Promise.all([
-    Promise.resolve(lerLocal()),
+  const [
+    precosLocal,
+    precosArquivo,
+    bezerrosLocal,
+    bezerrosArquivo,
+    noticias,
+    historico,
+  ] = await Promise.all([
+    Promise.resolve(lerLocal(STORAGE_KEY)),
     carregarJson("data/prices.json").catch((err) => {
+      console.warn(err);
+      return null;
+    }),
+    Promise.resolve(lerLocal(STORAGE_BEZERROS)),
+    carregarJson("data/bezerros.json").catch((err) => {
       console.warn(err);
       return null;
     }),
@@ -518,6 +609,9 @@ async function carregarInicial() {
     renderPrecos(dados);
   }
 
+  const bezerros = escolherMaisRecente(bezerrosLocal, bezerrosArquivo);
+  if (bezerros) renderBezerros(bezerros);
+
   renderNoticias(noticias);
   renderHistorico(historico);
 }
@@ -531,23 +625,34 @@ async function atualizarEmBackground() {
 
   try {
     const dados = await pesquisarPrecos();
-    salvarLocal(dados);
+    salvarLocal(STORAGE_KEY, dados);
     renderPrecos(dados);
+
+    try {
+      const bezerros = await pesquisarBezerros({
+        referencia_cepea_sp: dados.referencia_cepea_sp,
+      });
+      salvarLocal(STORAGE_BEZERROS, bezerros);
+      renderBezerros(bezerros);
+    } catch (errBezerro) {
+      console.warn(errBezerro);
+    }
   } catch (err) {
     console.error(err);
     setText(
       "status-atualizacao",
       "Falha ao atualizar. Tente de novo em alguns minutos.",
     );
-    if (dadosAtuais && estaDesatualizado(dadosAtuais.atualizado_em) && el.btn) {
-      el.btn.hidden = false;
+    if (
+      (dadosAtuais && estaDesatualizado(dadosAtuais.atualizado_em)) ||
+      (bezerrosAtuais && estaDesatualizado(bezerrosAtuais.atualizado_em))
+    ) {
+      if (el.btn) el.btn.hidden = false;
     }
   } finally {
     if (el.btn) el.btn.disabled = false;
     if (el.msg) el.msg.hidden = true;
-    if (dadosAtuais && estaDesatualizado(dadosAtuais.atualizado_em) && el.btn) {
-      el.btn.hidden = false;
-    }
+    atualizarStatusCombinado();
   }
 }
 

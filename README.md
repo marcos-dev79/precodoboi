@@ -1,6 +1,6 @@
 # Preço do Boi
 
-Site estático em **https://precodoboi.me** com o preço médio da **arroba do gado** por estado e notícias de pecuária. Os dados ficam em `data/prices.json` e `data/noticias.json`, atualizados automaticamente via **GitHub Actions**.
+Site estático em **https://precodoboi.me** com o preço médio da **arroba do gado** por estado, o **preço do bezerro** (CEPEA/MS) e notícias de pecuária. Os dados ficam em `data/prices.json`, `data/bezerros.json` e `data/noticias.json`, atualizados automaticamente via **GitHub Actions**.
 
 ## Pré-requisitos
 
@@ -21,8 +21,9 @@ Abra `http://localhost:4173`.
 Para regenerar preços e notícias:
 
 ```bash
-npm run update            # preços + notícias + histórico + SEO
+npm run update            # preços + bezerros + notícias + histórico + SEO
 npm run update:prices
+npm run update:bezerros
 npm run update:news
 npm run update:historico  # média mensal CEPEA (12 meses)
 npm run update:seo
@@ -97,8 +98,8 @@ O workflow [`.github/workflows/update-prices.yml`](.github/workflows/update-pric
 
 - roda **todo dia às 12:00 UTC** (`cron: "0 12 * * *"`);
 - também pode ser disparado **manualmente**;
-- executa `npm run update` (cotações + top 5 notícias de pecuária);
-- faz commit e push de `data/prices.json` e `data/noticias.json` se houver mudança;
+- executa `npm run update` (arroba, bezerro, notícias, histórico e SEO);
+- faz commit e push de `data/prices.json`, `data/bezerros.json` e `data/noticias.json` se houver mudança;
 - dispara o **Deploy GitHub Pages** em seguida (push com `GITHUB_TOKEN` sozinho não republica o site).
 
 O [`.github/workflows/pages.yml`](.github/workflows/pages.yml) também tem cron próprio (**12:30 UTC**) como rede de segurança diária, além de rodar em push humano e via `workflow_dispatch`.
@@ -152,14 +153,17 @@ Para testar o botão com dados frescos: abra `/?stale`.
   pages.yml           # deploy no GitHub Pages
   update-prices.yml   # atualiza prices, noticias, historico, SEO
 data/prices.json
+data/bezerros.json
 data/noticias.json
 data/historico.json
 scripts/update-all.mjs
 scripts/update-prices.mjs
+scripts/update-bezerros.mjs
 scripts/update-news.mjs
 scripts/update-historico.mjs
 scripts/update-seo.mjs
 js/fetch-prices.js
+js/fetch-bezerros.js
 js/fetch-news.js
 js/fetch-historico.js
 index.html
@@ -167,7 +171,8 @@ index.html
 
 ## Fonte dos dados
 
-- **Preços:** [AgroDoc AI](https://agrodocai.com.br/api-docs) (CEPEA/ESALQ e praças). UFs sem praça usam estimativa regional. CC-BY-4.0 — atribuição AgroDoc AI.
+- **Preços (arroba):** [AgroDoc AI](https://agrodocai.com.br/api-docs) (CEPEA/ESALQ e praças). UFs sem praça usam estimativa regional. CC-BY-4.0 — atribuição AgroDoc AI.
+- **Bezerro:** Indicador do Bezerro CEPEA/ESALQ (MS), R$/cabeça, via AgroDoc (`bezerro_ms`) em `data/bezerros.json`.
 - **Histórico:** médias mensais do Indicador do boi gordo [CEPEA/ESALQ](https://www.cepea.org.br/br/indicador/boi-gordo.aspx) (últimos 12 meses) em `data/historico.json`.
 - **Notícias:** cache em `data/noticias.json`:
   - [Canal Rural · Pecuária](https://www.canalrural.com.br/pecuaria/feed/) (RSS), top 5 por relevância
