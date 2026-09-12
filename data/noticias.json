@@ -1,9 +1,18 @@
 {
-  "atualizado_em": "2026-09-11T15:24:08.706Z",
+  "atualizado_em": "2026-09-12T14:31:09.098Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Pecuária de olho em 2027: fórum debate mercado do boi, exportações e indústria",
+        "link": "https://www.canalrural.com.br/pecuaria/pecuaria-de-olho-em-2027-forum-debate-mercado-do-boi-exportacoes-e-industria/",
+        "summary": "Foto: Pedro Guerreiro/Ag. Pará Evento da Datagro reúne pecuaristas, frigoríficos, especialistas e mercado financeiro para discutir preços, exportações, futuros, cria e confinamento O post Pecuária de olho em 2027: fórum ",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/04/Pecuaria.jpg",
+        "publishedAt": "2026-09-11T20:27:36.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 14
+      },
       {
         "title": "Arroba do boi segue em alta mesmo com frigoríficos operando com escalas confortáveis",
         "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-segue-em-alta-mesmo-com-frigorificos-operando-com-escalas-confortaveis/",
@@ -11,16 +20,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/2025/10/boi-gordo-precos-no-Brasil.png",
         "publishedAt": "2026-09-10T22:07:24.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
+        "relevancia": 13
       },
       {
-        "title": "Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia",
-        "link": "https://www.canalrural.com.br/pecuaria/brasil-habilita-21-novos-frigorificos-para-exportar-carne-bovina-a-indonesia/",
-        "summary": "Com a nova aprovação, total de unidades autorizadas a atender o mercado indonésio sobe de 52 para 73. O post Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia apareceu primeiro em Canal Rural .",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
-        "publishedAt": "2026-09-10T18:52:20.000Z",
+        "title": "Queda do custo alimentar não eleva lucro do confinamento no Centro-Oeste",
+        "link": "https://www.canalrural.com.br/pecuaria/queda-do-custo-alimentar-nao-eleva-lucro-do-confinamento-no-centro-oeste/",
+        "summary": "Icap mostra recuo de 9,38% na alimentação em agosto, mas ciclo mais longo e menor produção elevaram o custo da arroba produzida na região. O post Queda do custo alimentar não eleva lucro do confinamento no Centro-Oeste a",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/09/queda-do-custo-alimentar-nao-eleva-lucro-do-confinamento-no-centro-oeste.png",
+        "publishedAt": "2026-09-11T15:57:27.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 12
       },
       {
         "title": "Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios",
@@ -29,25 +38,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
         "publishedAt": "2026-09-10T13:52:05.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 12
       },
       {
-        "title": "O sebastianismo e o mercado futuro do boi gordo",
-        "link": "https://www.canalrural.com.br/opiniao-noticias/o-sebastianismo-e-o-mercado-futuro-do-boi-gordo/",
-        "summary": "Imagem gerada por IA para o Canal Rural Rumores sobre a China fazem a bolsa disparar e indicam hora certa para travar o lucro da arroba antes de qualquer tombo de preços O post O sebastianismo e o mercado futuro do boi g",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/09/Gemini_Generated_Image_et5y0let5y0let5y.jpg",
-        "publishedAt": "2026-09-09T14:34:24.000Z",
+        "title": "Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia",
+        "link": "https://www.canalrural.com.br/pecuaria/brasil-habilita-21-novos-frigorificos-para-exportar-carne-bovina-a-indonesia/",
+        "summary": "Com a nova aprovação, total de unidades autorizadas a atender o mercado indonésio sobe de 52 para 73. O post Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia apareceu primeiro em Canal Rural .",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
+        "publishedAt": "2026-09-10T18:52:20.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
-      },
-      {
-        "title": "Arroba do boi volta a subir com especulações sobre a China",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-volta-a-subir-com-especulacoes-sobre-a-china/",
-        "summary": "Imagem gerada por IA Possível retorno precoce da cota de importação chinesa fazendo uso de rotas marítimas mais extensas tem mexido com o mercado O post Arroba do boi volta a subir com especulações sobre a China apareceu",
-        "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
-        "publishedAt": "2026-09-09T22:40:29.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 8
+        "relevancia": 11
       }
     ]
   },
@@ -56,24 +56,21 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Simpósio internacional discute desafios e apresenta novidades na reprodução e fertilidade em gado de corte",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147217362/simposio-internacional-discute-desafios-e-apresenta-novidades-na-reproducao-e-fertilidade-em-gado-de-corte",
-        "summary": "Melhoramento genético · Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/documents/1355108/0/Card_Divulga%C3%A7%C3%A3o_SIMFertCorte.png/6f4cbb59-129e-d8a7-1f63-419668c58d78?version=1.0&t=1789132949253",
-        "publishedAt": "2026-09-11T12:00:00.000Z",
+        "title": "Embrapa Meio-Norte abre leilão de 132 bovinos e ovinos no Piauí",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147240617/embrapa-meio-norte-abre-leilao-de-132-bovinos-e-ovinos-no-piaui",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147241218&t=1789222010619",
+        "publishedAt": "2026-09-12T12:00:00.000Z",
         "fonte": "Embrapa",
-        "tags": [
-          "Melhoramento genético",
-          "Transferência de Tecnologia"
-        ],
+        "tags": [],
         "relevancia": 7
       },
       {
-        "title": "Café com Negócios debate inovação aberta como chave para o desenvolvimento tecnológico",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147202896/cafe-com-negocios-debate-inovacao-aberta-como-chave-para-o-desenvolvimento-tecnologico",
+        "title": "E-campo: curso on-line ensina teoria e prática de coleções entomológicas",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147225214/e-campo-curso-on-line-ensina-teoria-e-pratica-de-colecoes-entomologicas",
         "summary": "Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/documents/1355072/74848445/Foto_Caf%C3%A9+com+Neg%C3%B3cios_02_09_2026_Williams.jpg/af980c11-66b7-3e9b-ff43-fd7eecfff0dd?version=1.0&t=1789128921319",
-        "publishedAt": "2026-09-10T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/d/cerrados/229800080o-jpg?download=true",
+        "publishedAt": "2026-09-11T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Transferência de Tecnologia"
@@ -81,24 +78,11 @@
         "relevancia": 1
       },
       {
-        "title": "Encontro reúne produtoras e mulheres de negócios em diálogo sobre liderança e desafios da atividade pecuária",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147195982/encontro-reune-produtoras-e-mulheres-de-negocios-em-dialogo-sobre-lideranca-e-desafios-da-atividade-pecuaria",
-        "summary": "Comunicação · Gestão Estratégica",
-        "image": "https://www.embrapa.br/documents/1355108/146204684/Visita_BPW_SET26.jpeg/a23c0954-e9fb-c138-a584-428a13b71e1f?version=1.0&t=1789056622667",
-        "publishedAt": "2026-09-10T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Comunicação",
-          "Gestão Estratégica"
-        ],
-        "relevancia": 6
-      },
-      {
-        "title": "Visita à Embrapa Cerrados aproxima estudantes da pesquisa científica",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147195205/visita-a-embrapa-cerrados-aproxima-estudantes-da-pesquisa-cientifica",
+        "title": "Nanoatrazina se acumula em microalgas, mas tem transferência limitada para organismos aquáticos",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147223152/nanoatrazina-se-acumula-em-microalgas-mas-tem-transferencia-limitada-para-organismos-aquaticos",
         "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/documents/d/cerrados/visita-alunos-cmb_amv_dsc08764-jpg?download=true",
-        "publishedAt": "2026-09-10T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1355145/92982228/nanoMicoAlgas.jpg/416dc017-caea-1fd8-eaa5-efb609baf452?version=1.0&t=1789148289301",
+        "publishedAt": "2026-09-11T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
@@ -106,23 +90,42 @@
         "relevancia": 1
       },
       {
-        "title": "Forrageiras são a base da pecuária moderna no Brasil, comprova pesquisador",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147190896/forrageiras-sao-a-base-da-pecuaria-moderna-no-brasil-comprova-pesquisador",
-        "summary": "Melhoramento genético · Produção animal · Transferência de Tecnologia · Mercado de Cultivares e Sementes",
-        "image": "https://www.embrapa.br/documents/1355008/103354088/BRS+Carin%C3%A1s+-+Allan+Kardec+Ramos.jpg/5ab72365-6e3d-1acb-fbd4-ead4ad4456a7?version=1.0&t=1789044281134",
-        "publishedAt": "2026-09-10T12:00:00.000Z",
+        "title": "Projeto apoia cidades na construção de sistemas alimentares mais saudáveis, sustentáveis e circulares",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147221429/projeto-apoia-cidades-na-construcao-de-sistemas-alimentares-mais-saudaveis-sustentaveis-e-circulares",
+        "summary": "Segurança alimentar, nutrição e saúde",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147221588&t=1789161074364",
+        "publishedAt": "2026-09-11T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Segurança alimentar, nutrição e saúde"
+        ],
+        "relevancia": 1
+      },
+      {
+        "title": "Simpósio internacional discute desafios e apresenta novidades na reprodução e fertilidade em gado de corte",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147217362/simposio-internacional-discute-desafios-e-apresenta-novidades-na-reproducao-e-fertilidade-em-gado-de-corte",
+        "summary": "Melhoramento genético · Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/documents/1355108/0/post+1.jpeg/7a9d7aa2-9ce9-6bcf-265d-ff5aa82150b9?version=1.0&t=1789153225452",
+        "publishedAt": "2026-09-11T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Melhoramento genético",
-          "Produção animal",
-          "Transferência de Tecnologia",
-          "Mercado de Cultivares e Sementes"
+          "Transferência de Tecnologia"
         ],
-        "relevancia": 7
+        "relevancia": 5
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Pecuária de olho em 2027: fórum debate mercado do boi, exportações e indústria",
+      "link": "https://www.canalrural.com.br/pecuaria/pecuaria-de-olho-em-2027-forum-debate-mercado-do-boi-exportacoes-e-industria/",
+      "summary": "Foto: Pedro Guerreiro/Ag. Pará Evento da Datagro reúne pecuaristas, frigoríficos, especialistas e mercado financeiro para discutir preços, exportações, futuros, cria e confinamento O post Pecuária de olho em 2027: fórum ",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/04/Pecuaria.jpg",
+      "publishedAt": "2026-09-11T20:27:36.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 14
+    },
     {
       "title": "Arroba do boi segue em alta mesmo com frigoríficos operando com escalas confortáveis",
       "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-segue-em-alta-mesmo-com-frigorificos-operando-com-escalas-confortaveis/",
@@ -130,16 +133,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/2025/10/boi-gordo-precos-no-Brasil.png",
       "publishedAt": "2026-09-10T22:07:24.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
+      "relevancia": 13
     },
     {
-      "title": "Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia",
-      "link": "https://www.canalrural.com.br/pecuaria/brasil-habilita-21-novos-frigorificos-para-exportar-carne-bovina-a-indonesia/",
-      "summary": "Com a nova aprovação, total de unidades autorizadas a atender o mercado indonésio sobe de 52 para 73. O post Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia apareceu primeiro em Canal Rural .",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
-      "publishedAt": "2026-09-10T18:52:20.000Z",
+      "title": "Queda do custo alimentar não eleva lucro do confinamento no Centro-Oeste",
+      "link": "https://www.canalrural.com.br/pecuaria/queda-do-custo-alimentar-nao-eleva-lucro-do-confinamento-no-centro-oeste/",
+      "summary": "Icap mostra recuo de 9,38% na alimentação em agosto, mas ciclo mais longo e menor produção elevaram o custo da arroba produzida na região. O post Queda do custo alimentar não eleva lucro do confinamento no Centro-Oeste a",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/09/queda-do-custo-alimentar-nao-eleva-lucro-do-confinamento-no-centro-oeste.png",
+      "publishedAt": "2026-09-11T15:57:27.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 12
     },
     {
       "title": "Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios",
@@ -148,25 +151,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
       "publishedAt": "2026-09-10T13:52:05.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 12
     },
     {
-      "title": "O sebastianismo e o mercado futuro do boi gordo",
-      "link": "https://www.canalrural.com.br/opiniao-noticias/o-sebastianismo-e-o-mercado-futuro-do-boi-gordo/",
-      "summary": "Imagem gerada por IA para o Canal Rural Rumores sobre a China fazem a bolsa disparar e indicam hora certa para travar o lucro da arroba antes de qualquer tombo de preços O post O sebastianismo e o mercado futuro do boi g",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/09/Gemini_Generated_Image_et5y0let5y0let5y.jpg",
-      "publishedAt": "2026-09-09T14:34:24.000Z",
+      "title": "Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia",
+      "link": "https://www.canalrural.com.br/pecuaria/brasil-habilita-21-novos-frigorificos-para-exportar-carne-bovina-a-indonesia/",
+      "summary": "Com a nova aprovação, total de unidades autorizadas a atender o mercado indonésio sobe de 52 para 73. O post Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia apareceu primeiro em Canal Rural .",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
+      "publishedAt": "2026-09-10T18:52:20.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
-    },
-    {
-      "title": "Arroba do boi volta a subir com especulações sobre a China",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-volta-a-subir-com-especulacoes-sobre-a-china/",
-      "summary": "Imagem gerada por IA Possível retorno precoce da cota de importação chinesa fazendo uso de rotas marítimas mais extensas tem mexido com o mercado O post Arroba do boi volta a subir com especulações sobre a China apareceu",
-      "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
-      "publishedAt": "2026-09-09T22:40:29.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 8
+      "relevancia": 11
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
