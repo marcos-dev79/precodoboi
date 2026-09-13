@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-12T14:31:09.098Z",
+  "atualizado_em": "2026-09-13T15:11:33.324Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -11,7 +11,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/04/Pecuaria.jpg",
         "publishedAt": "2026-09-11T20:27:36.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 14
+        "relevancia": 12
       },
       {
         "title": "Arroba do boi segue em alta mesmo com frigoríficos operando com escalas confortáveis",
@@ -20,7 +20,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2025/10/boi-gordo-precos-no-Brasil.png",
         "publishedAt": "2026-09-10T22:07:24.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 12
       },
       {
         "title": "Queda do custo alimentar não eleva lucro do confinamento no Centro-Oeste",
@@ -29,25 +29,25 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/09/queda-do-custo-alimentar-nao-eleva-lucro-do-confinamento-no-centro-oeste.png",
         "publishedAt": "2026-09-11T15:57:27.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 12
+        "relevancia": 10
       },
       {
-        "title": "Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-chega-a-r-350-por-arroba-em-sp-com-melhora-dos-negocios/",
-        "summary": "Foto: Christiano Antonucci/Secom-MT Preço avançou R$ 5 por arroba e indicador Cepea/Esalq acumula alta de 1,5% em setembro O post Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios apareceu primeiro em Ca",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
-        "publishedAt": "2026-09-10T13:52:05.000Z",
+        "title": "Tecnologia dos EUA pode ajudar no monitoramento de javalis em lavouras e na pecuária brasileira",
+        "link": "https://www.canalrural.com.br/agricultura/tecnologia-dos-eua-pode-ajudar-no-monitoramento-de-javalis-em-lavouras-e-na-pecuaria-brasileira/",
+        "summary": "Foto: Federação da Agricultura do Paraná/ Divulgação Produtores paranaenses foram conhecer empresa norte-americana que utiliza imagens de satélite para observação diária em cada talhão O post Tecnologia dos EUA pode ajud",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/G7i992zR-javali.jpg",
+        "publishedAt": "2026-09-13T14:26:24.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 12
+        "relevancia": 8
       },
       {
-        "title": "Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia",
-        "link": "https://www.canalrural.com.br/pecuaria/brasil-habilita-21-novos-frigorificos-para-exportar-carne-bovina-a-indonesia/",
-        "summary": "Com a nova aprovação, total de unidades autorizadas a atender o mercado indonésio sobe de 52 para 73. O post Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia apareceu primeiro em Canal Rural .",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
-        "publishedAt": "2026-09-10T18:52:20.000Z",
+        "title": "Preço da arroba do boi: veja o fechamento do mercado em 9 estados",
+        "link": "https://www.canalrural.com.br/pecuaria/preco-da-arroba-do-boi-veja-o-fechamento-do-mercado-em-9-estados/",
+        "summary": "Semana termina com ritmo moderado de negociações, mas cotações médias em São Paulo chegam a R$ 350 O post Preço da arroba do boi: veja o fechamento do mercado em 9 estados apareceu primeiro em Canal Rural .",
+        "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
+        "publishedAt": "2026-09-11T23:02:49.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 11
+        "relevancia": 8
       }
     ]
   },
@@ -56,6 +56,20 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
+        "title": "Touros melhoradores são uma ferramenta de lucro na pecuária de corte",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147246643/touros-melhoradores-sao-uma-ferramenta-de-lucro-na-pecuaria-de-corte",
+        "summary": "Melhoramento genético · Pesquisa, Desenvolvimento e Inovação · Produção animal",
+        "image": "https://www.embrapa.br/documents/1355008/103354088/Touro+BRGN+-+Fabiano+Bastos+%282%29.jpg/fc763759-8479-dc48-1a7e-4d7d8cd25ffa?version=1.0&t=1789254014069",
+        "publishedAt": "2026-09-12T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Melhoramento genético",
+          "Pesquisa, Desenvolvimento e Inovação",
+          "Produção animal"
+        ],
+        "relevancia": 6
+      },
+      {
         "title": "Embrapa Meio-Norte abre leilão de 132 bovinos e ovinos no Piauí",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147240617/embrapa-meio-norte-abre-leilao-de-132-bovinos-e-ovinos-no-piaui",
         "summary": "",
@@ -63,7 +77,7 @@
         "publishedAt": "2026-09-12T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 7
+        "relevancia": 5
       },
       {
         "title": "E-campo: curso on-line ensina teoria e prática de coleções entomológicas",
@@ -75,7 +89,7 @@
         "tags": [
           "Transferência de Tecnologia"
         ],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Nanoatrazina se acumula em microalgas, mas tem transferência limitada para organismos aquáticos",
@@ -87,32 +101,19 @@
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Projeto apoia cidades na construção de sistemas alimentares mais saudáveis, sustentáveis e circulares",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147221429/projeto-apoia-cidades-na-construcao-de-sistemas-alimentares-mais-saudaveis-sustentaveis-e-circulares",
         "summary": "Segurança alimentar, nutrição e saúde",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147221588&t=1789161074364",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147221588&t=1789261996369",
         "publishedAt": "2026-09-11T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Segurança alimentar, nutrição e saúde"
         ],
-        "relevancia": 1
-      },
-      {
-        "title": "Simpósio internacional discute desafios e apresenta novidades na reprodução e fertilidade em gado de corte",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147217362/simposio-internacional-discute-desafios-e-apresenta-novidades-na-reproducao-e-fertilidade-em-gado-de-corte",
-        "summary": "Melhoramento genético · Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/documents/1355108/0/post+1.jpeg/7a9d7aa2-9ce9-6bcf-265d-ff5aa82150b9?version=1.0&t=1789153225452",
-        "publishedAt": "2026-09-11T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Melhoramento genético",
-          "Transferência de Tecnologia"
-        ],
-        "relevancia": 5
+        "relevancia": 0
       }
     ]
   },
@@ -124,7 +125,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/04/Pecuaria.jpg",
       "publishedAt": "2026-09-11T20:27:36.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 14
+      "relevancia": 12
     },
     {
       "title": "Arroba do boi segue em alta mesmo com frigoríficos operando com escalas confortáveis",
@@ -133,7 +134,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2025/10/boi-gordo-precos-no-Brasil.png",
       "publishedAt": "2026-09-10T22:07:24.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 12
     },
     {
       "title": "Queda do custo alimentar não eleva lucro do confinamento no Centro-Oeste",
@@ -142,25 +143,25 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/09/queda-do-custo-alimentar-nao-eleva-lucro-do-confinamento-no-centro-oeste.png",
       "publishedAt": "2026-09-11T15:57:27.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 12
+      "relevancia": 10
     },
     {
-      "title": "Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-chega-a-r-350-por-arroba-em-sp-com-melhora-dos-negocios/",
-      "summary": "Foto: Christiano Antonucci/Secom-MT Preço avançou R$ 5 por arroba e indicador Cepea/Esalq acumula alta de 1,5% em setembro O post Boi gordo chega a R$ 350 por arroba em SP com melhora dos negócios apareceu primeiro em Ca",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
-      "publishedAt": "2026-09-10T13:52:05.000Z",
+      "title": "Tecnologia dos EUA pode ajudar no monitoramento de javalis em lavouras e na pecuária brasileira",
+      "link": "https://www.canalrural.com.br/agricultura/tecnologia-dos-eua-pode-ajudar-no-monitoramento-de-javalis-em-lavouras-e-na-pecuaria-brasileira/",
+      "summary": "Foto: Federação da Agricultura do Paraná/ Divulgação Produtores paranaenses foram conhecer empresa norte-americana que utiliza imagens de satélite para observação diária em cada talhão O post Tecnologia dos EUA pode ajud",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/G7i992zR-javali.jpg",
+      "publishedAt": "2026-09-13T14:26:24.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 12
+      "relevancia": 8
     },
     {
-      "title": "Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia",
-      "link": "https://www.canalrural.com.br/pecuaria/brasil-habilita-21-novos-frigorificos-para-exportar-carne-bovina-a-indonesia/",
-      "summary": "Com a nova aprovação, total de unidades autorizadas a atender o mercado indonésio sobe de 52 para 73. O post Brasil habilita 21 novos frigoríficos para exportar carne bovina à Indonésia apareceu primeiro em Canal Rural .",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
-      "publishedAt": "2026-09-10T18:52:20.000Z",
+      "title": "Preço da arroba do boi: veja o fechamento do mercado em 9 estados",
+      "link": "https://www.canalrural.com.br/pecuaria/preco-da-arroba-do-boi-veja-o-fechamento-do-mercado-em-9-estados/",
+      "summary": "Semana termina com ritmo moderado de negociações, mas cotações médias em São Paulo chegam a R$ 350 O post Preço da arroba do boi: veja o fechamento do mercado em 9 estados apareceu primeiro em Canal Rural .",
+      "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
+      "publishedAt": "2026-09-11T23:02:49.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 11
+      "relevancia": 8
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
