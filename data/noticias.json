@@ -1,9 +1,36 @@
 {
-  "atualizado_em": "2026-09-13T15:11:33.324Z",
+  "atualizado_em": "2026-09-14T17:09:12.273Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Arroba do boi sobe, mas exportações de carne têm queda de 29% no início de setembro",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-sobe-mas-exportacoes-de-carne-tem-queda-de-29-no-inicio-de-setembro/",
+        "summary": "Foto: Freepik Quantidade total embarcada pelo país chegou a 40,582 mil toneladas, com média diária de 10,145 mil toneladas nos primeiros dias do mês O post Arroba do boi sobe, mas exportações de carne têm queda de 29% no",
+        "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
+        "publishedAt": "2026-09-13T22:02:00.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 14
+      },
+      {
+        "title": "Exportação de carne bovina de MT aos EUA sobe 50,4% em agosto",
+        "link": "https://www.canalrural.com.br/pecuaria/exportacao-de-carne-bovina-de-mt-aos-eua-sobe-504-em-agosto/",
+        "summary": "Estado embarcou 8,2 mil toneladas ao mercado norte-americano no mês, em um cenário de avanço das vendas para destinos fora da China. O post Exportação de carne bovina de MT aos EUA sobe 50,4% em agosto apareceu primeiro ",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
+        "publishedAt": "2026-09-14T15:11:05.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 13
+      },
+      {
+        "title": "Você viu? Brasil pode ficar com até 40% da nova demanda dos EUA por carne e arroba pode bater recorde",
+        "link": "https://www.canalrural.com.br/pecuaria/voce-viu-brasil-pode-ficar-com-ate-40-da-nova-demanda-dos-eua-por-carne-e-arroba-pode-bater-recorde/",
+        "summary": "Foto: Freepik País é o maior beneficiado da política norte-americano de aumento de importação da proteína, na visão de analista de Safras & Mercado O post Você viu? Brasil pode ficar com até 40% da nova demanda dos EUA p",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/11/close-de-tres-bifes-de-carne-crua-fresca-com-osso-em-papel-artesanal-branco-de-cima.jpg",
+        "publishedAt": "2026-09-13T20:05:00.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 13
+      },
       {
         "title": "Pecuária de olho em 2027: fórum debate mercado do boi, exportações e indústria",
         "link": "https://www.canalrural.com.br/pecuaria/pecuaria-de-olho-em-2027-forum-debate-mercado-do-boi-exportacoes-e-industria/",
@@ -11,43 +38,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/04/Pecuaria.jpg",
         "publishedAt": "2026-09-11T20:27:36.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 12
+        "relevancia": 11
       },
       {
-        "title": "Arroba do boi segue em alta mesmo com frigoríficos operando com escalas confortáveis",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-segue-em-alta-mesmo-com-frigorificos-operando-com-escalas-confortaveis/",
-        "summary": "Foto gerada por IA Mercado segue atento ao comportamento dos preços da carne no atacado e ao ritmo diário de exportação O post Arroba do boi segue em alta mesmo com frigoríficos operando com escalas confortáveis apareceu",
-        "image": "https://imagens-cdn.canalrural.com.br/2025/10/boi-gordo-precos-no-Brasil.png",
-        "publishedAt": "2026-09-10T22:07:24.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
-        "title": "Queda do custo alimentar não eleva lucro do confinamento no Centro-Oeste",
-        "link": "https://www.canalrural.com.br/pecuaria/queda-do-custo-alimentar-nao-eleva-lucro-do-confinamento-no-centro-oeste/",
-        "summary": "Icap mostra recuo de 9,38% na alimentação em agosto, mas ciclo mais longo e menor produção elevaram o custo da arroba produzida na região. O post Queda do custo alimentar não eleva lucro do confinamento no Centro-Oeste a",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/09/queda-do-custo-alimentar-nao-eleva-lucro-do-confinamento-no-centro-oeste.png",
-        "publishedAt": "2026-09-11T15:57:27.000Z",
+        "title": "Mercado do boi gordo inicia segunda quinzena de setembro com negociações lentas",
+        "link": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-inicia-segunda-quinzena-de-setembro-com-negociacoes-lentas/",
+        "summary": "Foto: Reprodução/Giro do Boi. Frigoríficos reduzem atuação nas compras, enquanto pecuaristas aguardam melhores preços para negociar os animais O post Mercado do boi gordo inicia segunda quinzena de setembro com negociaçõ",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/03/fazenda_09.03.2026.jpg",
+        "publishedAt": "2026-09-14T12:40:45.000Z",
         "fonte": "Canal Rural",
         "relevancia": 10
-      },
-      {
-        "title": "Tecnologia dos EUA pode ajudar no monitoramento de javalis em lavouras e na pecuária brasileira",
-        "link": "https://www.canalrural.com.br/agricultura/tecnologia-dos-eua-pode-ajudar-no-monitoramento-de-javalis-em-lavouras-e-na-pecuaria-brasileira/",
-        "summary": "Foto: Federação da Agricultura do Paraná/ Divulgação Produtores paranaenses foram conhecer empresa norte-americana que utiliza imagens de satélite para observação diária em cada talhão O post Tecnologia dos EUA pode ajud",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/G7i992zR-javali.jpg",
-        "publishedAt": "2026-09-13T14:26:24.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 8
-      },
-      {
-        "title": "Preço da arroba do boi: veja o fechamento do mercado em 9 estados",
-        "link": "https://www.canalrural.com.br/pecuaria/preco-da-arroba-do-boi-veja-o-fechamento-do-mercado-em-9-estados/",
-        "summary": "Semana termina com ritmo moderado de negociações, mas cotações médias em São Paulo chegam a R$ 350 O post Preço da arroba do boi: veja o fechamento do mercado em 9 estados apareceu primeiro em Canal Rural .",
-        "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
-        "publishedAt": "2026-09-11T23:02:49.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 8
       }
     ]
   },
@@ -67,17 +67,17 @@
           "Pesquisa, Desenvolvimento e Inovação",
           "Produção animal"
         ],
-        "relevancia": 6
+        "relevancia": 5
       },
       {
         "title": "Embrapa Meio-Norte abre leilão de 132 bovinos e ovinos no Piauí",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147240617/embrapa-meio-norte-abre-leilao-de-132-bovinos-e-ovinos-no-piaui",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147241218&t=1789222010619",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147241218&t=1789221993034",
         "publishedAt": "2026-09-12T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 5
+        "relevancia": 4
       },
       {
         "title": "E-campo: curso on-line ensina teoria e prática de coleções entomológicas",
@@ -107,7 +107,7 @@
         "title": "Projeto apoia cidades na construção de sistemas alimentares mais saudáveis, sustentáveis e circulares",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147221429/projeto-apoia-cidades-na-construcao-de-sistemas-alimentares-mais-saudaveis-sustentaveis-e-circulares",
         "summary": "Segurança alimentar, nutrição e saúde",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147221588&t=1789261996369",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147221588&t=1789161263411",
         "publishedAt": "2026-09-11T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
@@ -119,49 +119,49 @@
   },
   "noticias": [
     {
+      "title": "Arroba do boi sobe, mas exportações de carne têm queda de 29% no início de setembro",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-sobe-mas-exportacoes-de-carne-tem-queda-de-29-no-inicio-de-setembro/",
+      "summary": "Foto: Freepik Quantidade total embarcada pelo país chegou a 40,582 mil toneladas, com média diária de 10,145 mil toneladas nos primeiros dias do mês O post Arroba do boi sobe, mas exportações de carne têm queda de 29% no",
+      "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
+      "publishedAt": "2026-09-13T22:02:00.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 14
+    },
+    {
+      "title": "Exportação de carne bovina de MT aos EUA sobe 50,4% em agosto",
+      "link": "https://www.canalrural.com.br/pecuaria/exportacao-de-carne-bovina-de-mt-aos-eua-sobe-504-em-agosto/",
+      "summary": "Estado embarcou 8,2 mil toneladas ao mercado norte-americano no mês, em um cenário de avanço das vendas para destinos fora da China. O post Exportação de carne bovina de MT aos EUA sobe 50,4% em agosto apareceu primeiro ",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
+      "publishedAt": "2026-09-14T15:11:05.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 13
+    },
+    {
+      "title": "Você viu? Brasil pode ficar com até 40% da nova demanda dos EUA por carne e arroba pode bater recorde",
+      "link": "https://www.canalrural.com.br/pecuaria/voce-viu-brasil-pode-ficar-com-ate-40-da-nova-demanda-dos-eua-por-carne-e-arroba-pode-bater-recorde/",
+      "summary": "Foto: Freepik País é o maior beneficiado da política norte-americano de aumento de importação da proteína, na visão de analista de Safras & Mercado O post Você viu? Brasil pode ficar com até 40% da nova demanda dos EUA p",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/11/close-de-tres-bifes-de-carne-crua-fresca-com-osso-em-papel-artesanal-branco-de-cima.jpg",
+      "publishedAt": "2026-09-13T20:05:00.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 13
+    },
+    {
       "title": "Pecuária de olho em 2027: fórum debate mercado do boi, exportações e indústria",
       "link": "https://www.canalrural.com.br/pecuaria/pecuaria-de-olho-em-2027-forum-debate-mercado-do-boi-exportacoes-e-industria/",
       "summary": "Foto: Pedro Guerreiro/Ag. Pará Evento da Datagro reúne pecuaristas, frigoríficos, especialistas e mercado financeiro para discutir preços, exportações, futuros, cria e confinamento O post Pecuária de olho em 2027: fórum ",
       "image": "https://imagens-cdn.canalrural.com.br/2026/04/Pecuaria.jpg",
       "publishedAt": "2026-09-11T20:27:36.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 12
+      "relevancia": 11
     },
     {
-      "title": "Arroba do boi segue em alta mesmo com frigoríficos operando com escalas confortáveis",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-segue-em-alta-mesmo-com-frigorificos-operando-com-escalas-confortaveis/",
-      "summary": "Foto gerada por IA Mercado segue atento ao comportamento dos preços da carne no atacado e ao ritmo diário de exportação O post Arroba do boi segue em alta mesmo com frigoríficos operando com escalas confortáveis apareceu",
-      "image": "https://imagens-cdn.canalrural.com.br/2025/10/boi-gordo-precos-no-Brasil.png",
-      "publishedAt": "2026-09-10T22:07:24.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
-      "title": "Queda do custo alimentar não eleva lucro do confinamento no Centro-Oeste",
-      "link": "https://www.canalrural.com.br/pecuaria/queda-do-custo-alimentar-nao-eleva-lucro-do-confinamento-no-centro-oeste/",
-      "summary": "Icap mostra recuo de 9,38% na alimentação em agosto, mas ciclo mais longo e menor produção elevaram o custo da arroba produzida na região. O post Queda do custo alimentar não eleva lucro do confinamento no Centro-Oeste a",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/09/queda-do-custo-alimentar-nao-eleva-lucro-do-confinamento-no-centro-oeste.png",
-      "publishedAt": "2026-09-11T15:57:27.000Z",
+      "title": "Mercado do boi gordo inicia segunda quinzena de setembro com negociações lentas",
+      "link": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-inicia-segunda-quinzena-de-setembro-com-negociacoes-lentas/",
+      "summary": "Foto: Reprodução/Giro do Boi. Frigoríficos reduzem atuação nas compras, enquanto pecuaristas aguardam melhores preços para negociar os animais O post Mercado do boi gordo inicia segunda quinzena de setembro com negociaçõ",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/03/fazenda_09.03.2026.jpg",
+      "publishedAt": "2026-09-14T12:40:45.000Z",
       "fonte": "Canal Rural",
       "relevancia": 10
-    },
-    {
-      "title": "Tecnologia dos EUA pode ajudar no monitoramento de javalis em lavouras e na pecuária brasileira",
-      "link": "https://www.canalrural.com.br/agricultura/tecnologia-dos-eua-pode-ajudar-no-monitoramento-de-javalis-em-lavouras-e-na-pecuaria-brasileira/",
-      "summary": "Foto: Federação da Agricultura do Paraná/ Divulgação Produtores paranaenses foram conhecer empresa norte-americana que utiliza imagens de satélite para observação diária em cada talhão O post Tecnologia dos EUA pode ajud",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/G7i992zR-javali.jpg",
-      "publishedAt": "2026-09-13T14:26:24.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 8
-    },
-    {
-      "title": "Preço da arroba do boi: veja o fechamento do mercado em 9 estados",
-      "link": "https://www.canalrural.com.br/pecuaria/preco-da-arroba-do-boi-veja-o-fechamento-do-mercado-em-9-estados/",
-      "summary": "Semana termina com ritmo moderado de negociações, mas cotações médias em São Paulo chegam a R$ 350 O post Preço da arroba do boi: veja o fechamento do mercado em 9 estados apareceu primeiro em Canal Rural .",
-      "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
-      "publishedAt": "2026-09-11T23:02:49.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 8
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
