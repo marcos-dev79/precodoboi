@@ -1,10 +1,10 @@
 {
-  "atualizado_em": "2026-09-14T17:09:10.323Z",
+  "atualizado_em": "2026-09-15T15:48:54.104Z",
   "fonte": "CEPEA/ESALQ · NoticiasAgricolas · Scot Consultoria",
   "licenca": "CC-BY-4.0 · atribuicao AgroDoc AI",
   "referencia_cepea_sp": 349.5,
   "media_nacional": {
-    "preco_arroba": 335.89
+    "preco_arroba": 335.96
   },
   "estados": [
     {
@@ -83,7 +83,7 @@
       "uf": "TO",
       "nome": "Tocantins",
       "regiao": "Norte",
-      "preco_arroba": 340,
+      "preco_arroba": 342,
       "origem": "api",
       "praca": "TO"
     },

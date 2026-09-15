@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-14T17:09:12.273Z",
+  "atualizado_em": "2026-09-15T15:48:56.386Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -11,7 +11,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
         "publishedAt": "2026-09-13T22:02:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 14
+        "relevancia": 12
       },
       {
         "title": "Exportação de carne bovina de MT aos EUA sobe 50,4% em agosto",
@@ -20,7 +20,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
         "publishedAt": "2026-09-14T15:11:05.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 11
       },
       {
         "title": "Você viu? Brasil pode ficar com até 40% da nova demanda dos EUA por carne e arroba pode bater recorde",
@@ -29,7 +29,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2025/11/close-de-tres-bifes-de-carne-crua-fresca-com-osso-em-papel-artesanal-branco-de-cima.jpg",
         "publishedAt": "2026-09-13T20:05:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 11
       },
       {
         "title": "Pecuária de olho em 2027: fórum debate mercado do boi, exportações e indústria",
@@ -41,13 +41,13 @@
         "relevancia": 11
       },
       {
-        "title": "Mercado do boi gordo inicia segunda quinzena de setembro com negociações lentas",
-        "link": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-inicia-segunda-quinzena-de-setembro-com-negociacoes-lentas/",
-        "summary": "Foto: Reprodução/Giro do Boi. Frigoríficos reduzem atuação nas compras, enquanto pecuaristas aguardam melhores preços para negociar os animais O post Mercado do boi gordo inicia segunda quinzena de setembro com negociaçõ",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/03/fazenda_09.03.2026.jpg",
-        "publishedAt": "2026-09-14T12:40:45.000Z",
+        "title": "Preços do boi: confira como as cotações da arroba começaram a semana",
+        "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-confira-como-as-cotacoes-da-arroba-comecaram-a-semana/",
+        "summary": "Foto: Gilson Abreu/AEN Indústrias de maior porte continuam com escalas mais confortáveis, enquanto os frigoríficos menores ainda sentem dificuldades O post Preços do boi: confira como as cotações da arroba começaram a se",
+        "image": "https://imagens-cdn.canalrural.com.br/2023/09/pecuaria-boi-parana-scaled-1.jpg",
+        "publishedAt": "2026-09-14T22:43:32.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 10
+        "relevancia": 9
       }
     ]
   },
@@ -56,64 +56,68 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Touros melhoradores são uma ferramenta de lucro na pecuária de corte",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147246643/touros-melhoradores-sao-uma-ferramenta-de-lucro-na-pecuaria-de-corte",
-        "summary": "Melhoramento genético · Pesquisa, Desenvolvimento e Inovação · Produção animal",
-        "image": "https://www.embrapa.br/documents/1355008/103354088/Touro+BRGN+-+Fabiano+Bastos+%282%29.jpg/fc763759-8479-dc48-1a7e-4d7d8cd25ffa?version=1.0&t=1789254014069",
-        "publishedAt": "2026-09-12T12:00:00.000Z",
+        "title": "Projeto Qualigen registra 14 novos nascimentos e amplia atuação na pecuária familiar",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147302215/projeto-qualigen-registra-14-novos-nascimentos-e-amplia-atuacao-na-pecuaria-familiar",
+        "summary": "Agricultura familiar",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147302216&t=1789483264389",
+        "publishedAt": "2026-09-15T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Melhoramento genético",
-          "Pesquisa, Desenvolvimento e Inovação",
-          "Produção animal"
+          "Agricultura familiar"
         ],
-        "relevancia": 5
+        "relevancia": 8
       },
       {
-        "title": "Embrapa Meio-Norte abre leilão de 132 bovinos e ovinos no Piauí",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147240617/embrapa-meio-norte-abre-leilao-de-132-bovinos-e-ovinos-no-piaui",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147241218&t=1789221993034",
-        "publishedAt": "2026-09-12T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 4
-      },
-      {
-        "title": "E-campo: curso on-line ensina teoria e prática de coleções entomológicas",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147225214/e-campo-curso-on-line-ensina-teoria-e-pratica-de-colecoes-entomologicas",
+        "title": "Embrapa Maranhão oferece capacitação on-line sobre produção sustentável em pequenos espaços",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147296394/embrapa-maranhao-oferece-capacitacao-on-line-sobre-producao-sustentavel-em-pequenos-espacos",
         "summary": "Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/documents/d/cerrados/229800080o-jpg?download=true",
-        "publishedAt": "2026-09-11T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1354356/0/Card+Sisteminha+-+Quadrado.png/2e3cdcdf-6d41-3c9a-8592-ce91d5c8048f?version=1.0&t=1789472643601",
+        "publishedAt": "2026-09-15T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Transferência de Tecnologia"
         ],
-        "relevancia": 0
+        "relevancia": 3
       },
       {
-        "title": "Nanoatrazina se acumula em microalgas, mas tem transferência limitada para organismos aquáticos",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147223152/nanoatrazina-se-acumula-em-microalgas-mas-tem-transferencia-limitada-para-organismos-aquaticos",
-        "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/documents/1355145/92982228/nanoMicoAlgas.jpg/416dc017-caea-1fd8-eaa5-efb609baf452?version=1.0&t=1789148289301",
-        "publishedAt": "2026-09-11T12:00:00.000Z",
+        "title": "Associação de agrônomos de SP premia pesquisadores da Embrapa",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147281615/associacao-de-agronomos-de-sp-premia-pesquisadores-da-embrapa",
+        "summary": "Agricultura de Baixo Carbono",
+        "image": "https://www.embrapa.br/documents/1355331/54295255/Premio_AEASP_1.jpg/a421ac5d-88f3-eca6-247c-d0482d899a93?t=1789413073628",
+        "publishedAt": "2026-09-14T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Pesquisa, Desenvolvimento e Inovação"
+          "Agricultura de Baixo Carbono"
         ],
-        "relevancia": 0
+        "relevancia": 1
       },
       {
-        "title": "Projeto apoia cidades na construção de sistemas alimentares mais saudáveis, sustentáveis e circulares",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147221429/projeto-apoia-cidades-na-construcao-de-sistemas-alimentares-mais-saudaveis-sustentaveis-e-circulares",
-        "summary": "Segurança alimentar, nutrição e saúde",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147221588&t=1789161263411",
-        "publishedAt": "2026-09-11T12:00:00.000Z",
+        "title": "ECOARIDO reúne especialistas para debater inovação e sustentabilidade da pecuária no Semiárido",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147279516/ecoarido-reune-especialistas-para-debater-inovacao-e-sustentabilidade-da-pecuaria-no-semiarido",
+        "summary": "Pesquisa, Desenvolvimento e Inovação · Produção animal · ILPF · Convivência com a Seca",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147279439&t=1789415643917",
+        "publishedAt": "2026-09-14T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Segurança alimentar, nutrição e saúde"
+          "Pesquisa, Desenvolvimento e Inovação",
+          "Produção animal",
+          "ILPF",
+          "Convivência com a Seca"
         ],
-        "relevancia": 0
+        "relevancia": 6
+      },
+      {
+        "title": "Agroecol 2026 abre chamada para submissão de trabalhos",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147277921/agroecol-2026-abre-chamada-para-submissao-de-trabalhos",
+        "summary": "Agricultura familiar · Agroecologia e produção orgânica",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147277922&t=1789415648527",
+        "publishedAt": "2026-09-14T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Agricultura familiar",
+          "Agroecologia e produção orgânica"
+        ],
+        "relevancia": 1
       }
     ]
   },
@@ -125,7 +129,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
       "publishedAt": "2026-09-13T22:02:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 14
+      "relevancia": 12
     },
     {
       "title": "Exportação de carne bovina de MT aos EUA sobe 50,4% em agosto",
@@ -134,7 +138,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
       "publishedAt": "2026-09-14T15:11:05.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 11
     },
     {
       "title": "Você viu? Brasil pode ficar com até 40% da nova demanda dos EUA por carne e arroba pode bater recorde",
@@ -143,7 +147,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2025/11/close-de-tres-bifes-de-carne-crua-fresca-com-osso-em-papel-artesanal-branco-de-cima.jpg",
       "publishedAt": "2026-09-13T20:05:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 11
     },
     {
       "title": "Pecuária de olho em 2027: fórum debate mercado do boi, exportações e indústria",
@@ -155,13 +159,13 @@
       "relevancia": 11
     },
     {
-      "title": "Mercado do boi gordo inicia segunda quinzena de setembro com negociações lentas",
-      "link": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-inicia-segunda-quinzena-de-setembro-com-negociacoes-lentas/",
-      "summary": "Foto: Reprodução/Giro do Boi. Frigoríficos reduzem atuação nas compras, enquanto pecuaristas aguardam melhores preços para negociar os animais O post Mercado do boi gordo inicia segunda quinzena de setembro com negociaçõ",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/03/fazenda_09.03.2026.jpg",
-      "publishedAt": "2026-09-14T12:40:45.000Z",
+      "title": "Preços do boi: confira como as cotações da arroba começaram a semana",
+      "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-confira-como-as-cotacoes-da-arroba-comecaram-a-semana/",
+      "summary": "Foto: Gilson Abreu/AEN Indústrias de maior porte continuam com escalas mais confortáveis, enquanto os frigoríficos menores ainda sentem dificuldades O post Preços do boi: confira como as cotações da arroba começaram a se",
+      "image": "https://imagens-cdn.canalrural.com.br/2023/09/pecuaria-boi-parana-scaled-1.jpg",
+      "publishedAt": "2026-09-14T22:43:32.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 10
+      "relevancia": 9
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
