@@ -1,17 +1,35 @@
 {
-  "atualizado_em": "2026-09-15T15:48:56.386Z",
+  "atualizado_em": "2026-09-16T15:40:51.528Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
       {
-        "title": "Arroba do boi sobe, mas exportações de carne têm queda de 29% no início de setembro",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-sobe-mas-exportacoes-de-carne-tem-queda-de-29-no-inicio-de-setembro/",
-        "summary": "Foto: Freepik Quantidade total embarcada pelo país chegou a 40,582 mil toneladas, com média diária de 10,145 mil toneladas nos primeiros dias do mês O post Arroba do boi sobe, mas exportações de carne têm queda de 29% no",
-        "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
-        "publishedAt": "2026-09-13T22:02:00.000Z",
+        "title": "Boi gordo: preço da arroba continua em ascensão; confira as cotações",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-preco-da-arroba-continua-em-ascensao-confira-as-cotacoes/",
+        "summary": "Imagem gerada por IA para o Canal Rural Os preçosnas principais praças do Brasil seguem em alta, segundo dados da Safras & Mercado O post Boi gordo: preço da arroba continua em ascensão; confira as cotações apareceu prim",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
+        "publishedAt": "2026-09-15T22:28:57.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 12
+        "relevancia": 16
+      },
+      {
+        "title": "Produção de carnes no Brasil deve chegar a 34,26 milhões de toneladas em 2027",
+        "link": "https://www.canalrural.com.br/pecuaria/producao-de-carnes-no-brasil-deve-chegar-a-3426-milhoes-de-toneladas-em-2027/",
+        "summary": "Projeção da Conab indica alta de 0,5% sobre 2026, com avanço de frango e suínos e recuo na carne bovina. O post Produção de carnes no Brasil deve chegar a 34,26 milhões de toneladas em 2027 apareceu primeiro em Canal Rur",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/07/beef-report-2026-aponta-producao-recorde-e-r-1-15-trilhao-na-pecuaria-de-corte.png",
+        "publishedAt": "2026-09-16T15:11:30.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 10
+      },
+      {
+        "title": "Boi gordo chega a R$ 360 com pecuaristas resistentes e oferta restrita",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-chega-a-r-360-com-pecuaristas-resistentes-e-oferta-restrita/",
+        "summary": "Foto: Semagro/MS Queda de braço entre produtores e frigoríficos e dificuldade para completar escalas pressionam os preços no mercado O post Boi gordo chega a R$ 360 com pecuaristas resistentes e oferta restrita apareceu ",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/sAn0leu0-semagro-ms-02.jpg",
+        "publishedAt": "2026-09-16T12:31:18.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 10
       },
       {
         "title": "Exportação de carne bovina de MT aos EUA sobe 50,4% em agosto",
@@ -20,34 +38,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
         "publishedAt": "2026-09-14T15:11:05.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 11
+        "relevancia": 10
       },
       {
-        "title": "Você viu? Brasil pode ficar com até 40% da nova demanda dos EUA por carne e arroba pode bater recorde",
-        "link": "https://www.canalrural.com.br/pecuaria/voce-viu-brasil-pode-ficar-com-ate-40-da-nova-demanda-dos-eua-por-carne-e-arroba-pode-bater-recorde/",
-        "summary": "Foto: Freepik País é o maior beneficiado da política norte-americano de aumento de importação da proteína, na visão de analista de Safras & Mercado O post Você viu? Brasil pode ficar com até 40% da nova demanda dos EUA p",
-        "image": "https://imagens-cdn.canalrural.com.br/2025/11/close-de-tres-bifes-de-carne-crua-fresca-com-osso-em-papel-artesanal-branco-de-cima.jpg",
-        "publishedAt": "2026-09-13T20:05:00.000Z",
+        "title": "Abate de bovinos cresce 4% no segundo trimestre de 2026, informa IBGE",
+        "link": "https://www.canalrural.com.br/pecuaria/abate-de-bovinos-cresce-4-no-segundo-trimestre-de-2026-informa-ibge/",
+        "summary": "Etapa de Ituiutaba (MG) reuniu mais de 2,2 mil carcaças e mostrou o alto nível dos rebanhos Nelore da região. Foto: Divulgação. Levantamento também mostra alta no abate de suínos, queda em frangos e avanço na produção de",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/10/Novilhas_14.10.2025-1.jpg",
+        "publishedAt": "2026-09-15T16:43:01.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 11
-      },
-      {
-        "title": "Pecuária de olho em 2027: fórum debate mercado do boi, exportações e indústria",
-        "link": "https://www.canalrural.com.br/pecuaria/pecuaria-de-olho-em-2027-forum-debate-mercado-do-boi-exportacoes-e-industria/",
-        "summary": "Foto: Pedro Guerreiro/Ag. Pará Evento da Datagro reúne pecuaristas, frigoríficos, especialistas e mercado financeiro para discutir preços, exportações, futuros, cria e confinamento O post Pecuária de olho em 2027: fórum ",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/04/Pecuaria.jpg",
-        "publishedAt": "2026-09-11T20:27:36.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 11
-      },
-      {
-        "title": "Preços do boi: confira como as cotações da arroba começaram a semana",
-        "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-confira-como-as-cotacoes-da-arroba-comecaram-a-semana/",
-        "summary": "Foto: Gilson Abreu/AEN Indústrias de maior porte continuam com escalas mais confortáveis, enquanto os frigoríficos menores ainda sentem dificuldades O post Preços do boi: confira como as cotações da arroba começaram a se",
-        "image": "https://imagens-cdn.canalrural.com.br/2023/09/pecuaria-boi-parana-scaled-1.jpg",
-        "publishedAt": "2026-09-14T22:43:32.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 9
+        "relevancia": 7
       }
     ]
   },
@@ -56,23 +56,11 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Projeto Qualigen registra 14 novos nascimentos e amplia atuação na pecuária familiar",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147302215/projeto-qualigen-registra-14-novos-nascimentos-e-amplia-atuacao-na-pecuaria-familiar",
-        "summary": "Agricultura familiar",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147302216&t=1789483264389",
-        "publishedAt": "2026-09-15T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Agricultura familiar"
-        ],
-        "relevancia": 8
-      },
-      {
-        "title": "Embrapa Maranhão oferece capacitação on-line sobre produção sustentável em pequenos espaços",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147296394/embrapa-maranhao-oferece-capacitacao-on-line-sobre-producao-sustentavel-em-pequenos-espacos",
+        "title": "Delegação da Tunísia conhece tecnologias para convivência com o Semiárido",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147399694/delegacao-da-tunisia-conhece-tecnologias-para-convivencia-com-o-semiarido",
         "summary": "Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/documents/1354356/0/Card+Sisteminha+-+Quadrado.png/2e3cdcdf-6d41-3c9a-8592-ce91d5c8048f?version=1.0&t=1789472643601",
-        "publishedAt": "2026-09-15T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1355026/144739781/Delega%C3%A7%C3%A3o_Tunisia_Fotos_Renata_Alecrim.jpeg/836006e5-96b4-85da-1627-093937afed2c?version=1.0&t=1789572056852",
+        "publishedAt": "2026-09-16T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Transferência de Tecnologia"
@@ -80,42 +68,49 @@
         "relevancia": 3
       },
       {
-        "title": "Associação de agrônomos de SP premia pesquisadores da Embrapa",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147281615/associacao-de-agronomos-de-sp-premia-pesquisadores-da-embrapa",
-        "summary": "Agricultura de Baixo Carbono",
-        "image": "https://www.embrapa.br/documents/1355331/54295255/Premio_AEASP_1.jpg/a421ac5d-88f3-eca6-247c-d0482d899a93?t=1789413073628",
-        "publishedAt": "2026-09-14T12:00:00.000Z",
+        "title": "Pesquisador Davi José Silva é agraciado com Prêmio Nordeste de Ciência do Solo",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147363821/pesquisador-davi-jose-silva-e-agraciado-com-premio-nordeste-de-ciencia-do-solo",
+        "summary": "Pesquisa, Desenvolvimento e Inovação",
+        "image": "https://www.embrapa.br/documents/1355026/144739781/IMG_3562.JPG.jpeg/54e72c13-7dce-a604-8ba2-95d411af7044?version=1.0&t=1789564651656",
+        "publishedAt": "2026-09-16T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Agricultura de Baixo Carbono"
+          "Pesquisa, Desenvolvimento e Inovação"
         ],
+        "relevancia": 3
+      },
+      {
+        "title": "Com recorde de público, eventos de ciências do solo e mudanças climáticas debatem desafios para o Nordeste",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147342273/com-recorde-de-publico-eventos-de-ciencias-do-solo-e-mudancas-climaticas-debatem-desafios-para-o-nordeste",
+        "summary": "Mudanças climáticas · Recursos naturais",
+        "image": "https://www.embrapa.br/documents/1355026/144739781/2026-09-14-Abertura_IX_Reuniao_Nordestina_de_Ciencia_do_Solo_e_VII_SMUD-Foto-Fernanda-Birolo+%2817%29.JPG.jpeg/152e7f09-457c-b1e3-eeb1-e172c2eee98c?version=1.0&t=1789564575613",
+        "publishedAt": "2026-09-16T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Mudanças climáticas",
+          "Recursos naturais"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Do laboratório ao campo: Embrapa apresenta soluções sustentáveis durante o Inova Amazônia Summit",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147311720/do-laboratorio-ao-campo-embrapa-apresenta-solucoes-sustentaveis-durante-o-inova-amazonia-summit",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147311721&t=1789503900882",
+        "publishedAt": "2026-09-15T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
         "relevancia": 1
       },
       {
-        "title": "ECOARIDO reúne especialistas para debater inovação e sustentabilidade da pecuária no Semiárido",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147279516/ecoarido-reune-especialistas-para-debater-inovacao-e-sustentabilidade-da-pecuaria-no-semiarido",
-        "summary": "Pesquisa, Desenvolvimento e Inovação · Produção animal · ILPF · Convivência com a Seca",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147279439&t=1789415643917",
-        "publishedAt": "2026-09-14T12:00:00.000Z",
+        "title": "Custos de produção de frango de corte e de suínos sobem em agosto",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147311257/custos-de-producao-de-frango-de-corte-e-de-suinos-sobem-em-agosto",
+        "summary": "Estudos socioeconômicos e ambientais",
+        "image": null,
+        "publishedAt": "2026-09-15T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Pesquisa, Desenvolvimento e Inovação",
-          "Produção animal",
-          "ILPF",
-          "Convivência com a Seca"
-        ],
-        "relevancia": 6
-      },
-      {
-        "title": "Agroecol 2026 abre chamada para submissão de trabalhos",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147277921/agroecol-2026-abre-chamada-para-submissao-de-trabalhos",
-        "summary": "Agricultura familiar · Agroecologia e produção orgânica",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147277922&t=1789415648527",
-        "publishedAt": "2026-09-14T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Agricultura familiar",
-          "Agroecologia e produção orgânica"
+          "Estudos socioeconômicos e ambientais"
         ],
         "relevancia": 1
       }
@@ -123,13 +118,31 @@
   },
   "noticias": [
     {
-      "title": "Arroba do boi sobe, mas exportações de carne têm queda de 29% no início de setembro",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-sobe-mas-exportacoes-de-carne-tem-queda-de-29-no-inicio-de-setembro/",
-      "summary": "Foto: Freepik Quantidade total embarcada pelo país chegou a 40,582 mil toneladas, com média diária de 10,145 mil toneladas nos primeiros dias do mês O post Arroba do boi sobe, mas exportações de carne têm queda de 29% no",
-      "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
-      "publishedAt": "2026-09-13T22:02:00.000Z",
+      "title": "Boi gordo: preço da arroba continua em ascensão; confira as cotações",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-preco-da-arroba-continua-em-ascensao-confira-as-cotacoes/",
+      "summary": "Imagem gerada por IA para o Canal Rural Os preçosnas principais praças do Brasil seguem em alta, segundo dados da Safras & Mercado O post Boi gordo: preço da arroba continua em ascensão; confira as cotações apareceu prim",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
+      "publishedAt": "2026-09-15T22:28:57.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 12
+      "relevancia": 16
+    },
+    {
+      "title": "Produção de carnes no Brasil deve chegar a 34,26 milhões de toneladas em 2027",
+      "link": "https://www.canalrural.com.br/pecuaria/producao-de-carnes-no-brasil-deve-chegar-a-3426-milhoes-de-toneladas-em-2027/",
+      "summary": "Projeção da Conab indica alta de 0,5% sobre 2026, com avanço de frango e suínos e recuo na carne bovina. O post Produção de carnes no Brasil deve chegar a 34,26 milhões de toneladas em 2027 apareceu primeiro em Canal Rur",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/07/beef-report-2026-aponta-producao-recorde-e-r-1-15-trilhao-na-pecuaria-de-corte.png",
+      "publishedAt": "2026-09-16T15:11:30.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 10
+    },
+    {
+      "title": "Boi gordo chega a R$ 360 com pecuaristas resistentes e oferta restrita",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-chega-a-r-360-com-pecuaristas-resistentes-e-oferta-restrita/",
+      "summary": "Foto: Semagro/MS Queda de braço entre produtores e frigoríficos e dificuldade para completar escalas pressionam os preços no mercado O post Boi gordo chega a R$ 360 com pecuaristas resistentes e oferta restrita apareceu ",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/sAn0leu0-semagro-ms-02.jpg",
+      "publishedAt": "2026-09-16T12:31:18.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 10
     },
     {
       "title": "Exportação de carne bovina de MT aos EUA sobe 50,4% em agosto",
@@ -138,34 +151,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
       "publishedAt": "2026-09-14T15:11:05.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 11
+      "relevancia": 10
     },
     {
-      "title": "Você viu? Brasil pode ficar com até 40% da nova demanda dos EUA por carne e arroba pode bater recorde",
-      "link": "https://www.canalrural.com.br/pecuaria/voce-viu-brasil-pode-ficar-com-ate-40-da-nova-demanda-dos-eua-por-carne-e-arroba-pode-bater-recorde/",
-      "summary": "Foto: Freepik País é o maior beneficiado da política norte-americano de aumento de importação da proteína, na visão de analista de Safras & Mercado O post Você viu? Brasil pode ficar com até 40% da nova demanda dos EUA p",
-      "image": "https://imagens-cdn.canalrural.com.br/2025/11/close-de-tres-bifes-de-carne-crua-fresca-com-osso-em-papel-artesanal-branco-de-cima.jpg",
-      "publishedAt": "2026-09-13T20:05:00.000Z",
+      "title": "Abate de bovinos cresce 4% no segundo trimestre de 2026, informa IBGE",
+      "link": "https://www.canalrural.com.br/pecuaria/abate-de-bovinos-cresce-4-no-segundo-trimestre-de-2026-informa-ibge/",
+      "summary": "Etapa de Ituiutaba (MG) reuniu mais de 2,2 mil carcaças e mostrou o alto nível dos rebanhos Nelore da região. Foto: Divulgação. Levantamento também mostra alta no abate de suínos, queda em frangos e avanço na produção de",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/10/Novilhas_14.10.2025-1.jpg",
+      "publishedAt": "2026-09-15T16:43:01.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 11
-    },
-    {
-      "title": "Pecuária de olho em 2027: fórum debate mercado do boi, exportações e indústria",
-      "link": "https://www.canalrural.com.br/pecuaria/pecuaria-de-olho-em-2027-forum-debate-mercado-do-boi-exportacoes-e-industria/",
-      "summary": "Foto: Pedro Guerreiro/Ag. Pará Evento da Datagro reúne pecuaristas, frigoríficos, especialistas e mercado financeiro para discutir preços, exportações, futuros, cria e confinamento O post Pecuária de olho em 2027: fórum ",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/04/Pecuaria.jpg",
-      "publishedAt": "2026-09-11T20:27:36.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 11
-    },
-    {
-      "title": "Preços do boi: confira como as cotações da arroba começaram a semana",
-      "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-confira-como-as-cotacoes-da-arroba-comecaram-a-semana/",
-      "summary": "Foto: Gilson Abreu/AEN Indústrias de maior porte continuam com escalas mais confortáveis, enquanto os frigoríficos menores ainda sentem dificuldades O post Preços do boi: confira como as cotações da arroba começaram a se",
-      "image": "https://imagens-cdn.canalrural.com.br/2023/09/pecuaria-boi-parana-scaled-1.jpg",
-      "publishedAt": "2026-09-14T22:43:32.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 9
+      "relevancia": 7
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
