@@ -1,9 +1,18 @@
 {
-  "atualizado_em": "2026-09-16T15:40:51.528Z",
+  "atualizado_em": "2026-09-17T15:46:44.391Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Boi gordo: escalas apertadas de frigoríficos menores elevam arroba; veja cotações",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-escalas-apertadas-de-frigorificos-menores-elevam-arroba-veja-cotacoes/",
+        "summary": "Imagem gerada por IA O mercado atacadista, por sua vez, opera com preços acomodados após as altas recentes O post Boi gordo: escalas apertadas de frigoríficos menores elevam arroba; veja cotações apareceu primeiro em Can",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
+        "publishedAt": "2026-09-16T22:52:15.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 16
+      },
       {
         "title": "Boi gordo: preço da arroba continua em ascensão; confira as cotações",
         "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-preco-da-arroba-continua-em-ascensao-confira-as-cotacoes/",
@@ -11,16 +20,25 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
         "publishedAt": "2026-09-15T22:28:57.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 16
+        "relevancia": 14
+      },
+      {
+        "title": "China deve retomar compras de carne bovina para a cota de 2027, diz Datagro",
+        "link": "https://www.canalrural.com.br/pecuaria/china-deve-retomar-compras-de-carne-bovina-para-a-cota-de-2027-diz-datagro/",
+        "summary": "Foto: Freepik Analista vê intensificação dos negócios entre o fim de setembro e o início de outubro, com embarques voltados à entrada da nova cota chinesa em janeiro. O post China deve retomar compras de carne bovina par",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/11/close-de-tres-bifes-de-carne-crua-fresca-com-osso-em-papel-artesanal-branco-de-cima.jpg",
+        "publishedAt": "2026-09-16T19:31:35.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 10
       },
       {
         "title": "Produção de carnes no Brasil deve chegar a 34,26 milhões de toneladas em 2027",
         "link": "https://www.canalrural.com.br/pecuaria/producao-de-carnes-no-brasil-deve-chegar-a-3426-milhoes-de-toneladas-em-2027/",
-        "summary": "Projeção da Conab indica alta de 0,5% sobre 2026, com avanço de frango e suínos e recuo na carne bovina. O post Produção de carnes no Brasil deve chegar a 34,26 milhões de toneladas em 2027 apareceu primeiro em Canal Rur",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/07/beef-report-2026-aponta-producao-recorde-e-r-1-15-trilhao-na-pecuaria-de-corte.png",
+        "summary": "Foto: Freepik Projeção da Conab indica alta de 0,5% sobre 2026, com avanço de frango e suínos e recuo na carne bovina. O post Produção de carnes no Brasil deve chegar a 34,26 milhões de toneladas em 2027 apareceu primeir",
+        "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
         "publishedAt": "2026-09-16T15:11:30.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 10
+        "relevancia": 8
       },
       {
         "title": "Boi gordo chega a R$ 360 com pecuaristas resistentes e oferta restrita",
@@ -29,25 +47,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/sAn0leu0-semagro-ms-02.jpg",
         "publishedAt": "2026-09-16T12:31:18.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 10
-      },
-      {
-        "title": "Exportação de carne bovina de MT aos EUA sobe 50,4% em agosto",
-        "link": "https://www.canalrural.com.br/pecuaria/exportacao-de-carne-bovina-de-mt-aos-eua-sobe-504-em-agosto/",
-        "summary": "Estado embarcou 8,2 mil toneladas ao mercado norte-americano no mês, em um cenário de avanço das vendas para destinos fora da China. O post Exportação de carne bovina de MT aos EUA sobe 50,4% em agosto apareceu primeiro ",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
-        "publishedAt": "2026-09-14T15:11:05.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 10
-      },
-      {
-        "title": "Abate de bovinos cresce 4% no segundo trimestre de 2026, informa IBGE",
-        "link": "https://www.canalrural.com.br/pecuaria/abate-de-bovinos-cresce-4-no-segundo-trimestre-de-2026-informa-ibge/",
-        "summary": "Etapa de Ituiutaba (MG) reuniu mais de 2,2 mil carcaças e mostrou o alto nível dos rebanhos Nelore da região. Foto: Divulgação. Levantamento também mostra alta no abate de suínos, queda em frangos e avanço na produção de",
-        "image": "https://imagens-cdn.canalrural.com.br/2025/10/Novilhas_14.10.2025-1.jpg",
-        "publishedAt": "2026-09-15T16:43:01.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 7
+        "relevancia": 8
       }
     ]
   },
@@ -65,7 +65,7 @@
         "tags": [
           "Transferência de Tecnologia"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Pesquisador Davi José Silva é agraciado com Prêmio Nordeste de Ciência do Solo",
@@ -77,7 +77,7 @@
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Com recorde de público, eventos de ciências do solo e mudanças climáticas debatem desafios para o Nordeste",
@@ -90,17 +90,17 @@
           "Mudanças climáticas",
           "Recursos naturais"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Do laboratório ao campo: Embrapa apresenta soluções sustentáveis durante o Inova Amazônia Summit",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147311720/do-laboratorio-ao-campo-embrapa-apresenta-solucoes-sustentaveis-durante-o-inova-amazonia-summit",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147311721&t=1789503900882",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147311721&t=1789585992956",
         "publishedAt": "2026-09-15T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Custos de produção de frango de corte e de suínos sobem em agosto",
@@ -112,11 +112,20 @@
         "tags": [
           "Estudos socioeconômicos e ambientais"
         ],
-        "relevancia": 1
+        "relevancia": 0
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Boi gordo: escalas apertadas de frigoríficos menores elevam arroba; veja cotações",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-escalas-apertadas-de-frigorificos-menores-elevam-arroba-veja-cotacoes/",
+      "summary": "Imagem gerada por IA O mercado atacadista, por sua vez, opera com preços acomodados após as altas recentes O post Boi gordo: escalas apertadas de frigoríficos menores elevam arroba; veja cotações apareceu primeiro em Can",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
+      "publishedAt": "2026-09-16T22:52:15.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 16
+    },
     {
       "title": "Boi gordo: preço da arroba continua em ascensão; confira as cotações",
       "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-preco-da-arroba-continua-em-ascensao-confira-as-cotacoes/",
@@ -124,16 +133,25 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
       "publishedAt": "2026-09-15T22:28:57.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 16
+      "relevancia": 14
+    },
+    {
+      "title": "China deve retomar compras de carne bovina para a cota de 2027, diz Datagro",
+      "link": "https://www.canalrural.com.br/pecuaria/china-deve-retomar-compras-de-carne-bovina-para-a-cota-de-2027-diz-datagro/",
+      "summary": "Foto: Freepik Analista vê intensificação dos negócios entre o fim de setembro e o início de outubro, com embarques voltados à entrada da nova cota chinesa em janeiro. O post China deve retomar compras de carne bovina par",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/11/close-de-tres-bifes-de-carne-crua-fresca-com-osso-em-papel-artesanal-branco-de-cima.jpg",
+      "publishedAt": "2026-09-16T19:31:35.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 10
     },
     {
       "title": "Produção de carnes no Brasil deve chegar a 34,26 milhões de toneladas em 2027",
       "link": "https://www.canalrural.com.br/pecuaria/producao-de-carnes-no-brasil-deve-chegar-a-3426-milhoes-de-toneladas-em-2027/",
-      "summary": "Projeção da Conab indica alta de 0,5% sobre 2026, com avanço de frango e suínos e recuo na carne bovina. O post Produção de carnes no Brasil deve chegar a 34,26 milhões de toneladas em 2027 apareceu primeiro em Canal Rur",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/07/beef-report-2026-aponta-producao-recorde-e-r-1-15-trilhao-na-pecuaria-de-corte.png",
+      "summary": "Foto: Freepik Projeção da Conab indica alta de 0,5% sobre 2026, com avanço de frango e suínos e recuo na carne bovina. O post Produção de carnes no Brasil deve chegar a 34,26 milhões de toneladas em 2027 apareceu primeir",
+      "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
       "publishedAt": "2026-09-16T15:11:30.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 10
+      "relevancia": 8
     },
     {
       "title": "Boi gordo chega a R$ 360 com pecuaristas resistentes e oferta restrita",
@@ -142,25 +160,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/sAn0leu0-semagro-ms-02.jpg",
       "publishedAt": "2026-09-16T12:31:18.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 10
-    },
-    {
-      "title": "Exportação de carne bovina de MT aos EUA sobe 50,4% em agosto",
-      "link": "https://www.canalrural.com.br/pecuaria/exportacao-de-carne-bovina-de-mt-aos-eua-sobe-504-em-agosto/",
-      "summary": "Estado embarcou 8,2 mil toneladas ao mercado norte-americano no mês, em um cenário de avanço das vendas para destinos fora da China. O post Exportação de carne bovina de MT aos EUA sobe 50,4% em agosto apareceu primeiro ",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
-      "publishedAt": "2026-09-14T15:11:05.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 10
-    },
-    {
-      "title": "Abate de bovinos cresce 4% no segundo trimestre de 2026, informa IBGE",
-      "link": "https://www.canalrural.com.br/pecuaria/abate-de-bovinos-cresce-4-no-segundo-trimestre-de-2026-informa-ibge/",
-      "summary": "Etapa de Ituiutaba (MG) reuniu mais de 2,2 mil carcaças e mostrou o alto nível dos rebanhos Nelore da região. Foto: Divulgação. Levantamento também mostra alta no abate de suínos, queda em frangos e avanço na produção de",
-      "image": "https://imagens-cdn.canalrural.com.br/2025/10/Novilhas_14.10.2025-1.jpg",
-      "publishedAt": "2026-09-15T16:43:01.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 7
+      "relevancia": 8
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",

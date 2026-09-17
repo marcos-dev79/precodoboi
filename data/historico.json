@@ -1,12 +1,12 @@
 {
-  "atualizado_em": "2026-09-16T15:40:52.088Z",
-  "fonte": "CEPEA/ESALQ · Indicador do boi gordo (média mensal à vista) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback)",
+  "atualizado_em": "2026-09-17T15:46:44.876Z",
+  "fonte": "CEPEA/ESALQ · Indicador do boi gordo (média mensal à vista) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback)",
   "feed": "https://www.cepea.org.br/br/indicador/boi-gordo.aspx",
   "periodo_meses": 12,
   "resumo": {
     "minimo": 310.51,
     "maximo": 362.77,
-    "variacao_periodo_pct": 13.04
+    "variacao_periodo_pct": 13.46
   },
   "serie": [
     {
@@ -67,7 +67,7 @@
     {
       "competencia": "2026-09",
       "label": "Setembro/26",
-      "preco_arroba": 351
+      "preco_arroba": 352.3
     }
   ]
 }
