@@ -1,9 +1,18 @@
 {
-  "atualizado_em": "2026-09-17T15:46:44.391Z",
+  "atualizado_em": "2026-09-18T15:19:45.571Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Preços do boi gordo continuam trajetória de alta; veja as cotações",
+        "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-gordo-continuam-trajetoria-de-alta-veja-as-cotacoes/",
+        "summary": "Foto: Arquivo/Canal Rural No atacado, a elevada competitividade dos cortes suínos e da carne de frango limita o espaço para novos avanços da carne bovina O post Preços do boi gordo continuam trajetória de alta; veja as c",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi-1.jpg",
+        "publishedAt": "2026-09-17T22:36:33.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 16
+      },
       {
         "title": "Boi gordo: escalas apertadas de frigoríficos menores elevam arroba; veja cotações",
         "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-escalas-apertadas-de-frigorificos-menores-elevam-arroba-veja-cotacoes/",
@@ -11,43 +20,34 @@
         "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
         "publishedAt": "2026-09-16T22:52:15.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 16
-      },
-      {
-        "title": "Boi gordo: preço da arroba continua em ascensão; confira as cotações",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-preco-da-arroba-continua-em-ascensao-confira-as-cotacoes/",
-        "summary": "Imagem gerada por IA para o Canal Rural Os preçosnas principais praças do Brasil seguem em alta, segundo dados da Safras & Mercado O post Boi gordo: preço da arroba continua em ascensão; confira as cotações apareceu prim",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
-        "publishedAt": "2026-09-15T22:28:57.000Z",
-        "fonte": "Canal Rural",
         "relevancia": 14
       },
       {
-        "title": "China deve retomar compras de carne bovina para a cota de 2027, diz Datagro",
-        "link": "https://www.canalrural.com.br/pecuaria/china-deve-retomar-compras-de-carne-bovina-para-a-cota-de-2027-diz-datagro/",
-        "summary": "Foto: Freepik Analista vê intensificação dos negócios entre o fim de setembro e o início de outubro, com embarques voltados à entrada da nova cota chinesa em janeiro. O post China deve retomar compras de carne bovina par",
-        "image": "https://imagens-cdn.canalrural.com.br/2025/11/close-de-tres-bifes-de-carne-crua-fresca-com-osso-em-papel-artesanal-branco-de-cima.jpg",
-        "publishedAt": "2026-09-16T19:31:35.000Z",
+        "title": "Mato Grosso lidera exportações de carne bovina com 564,1 mil toneladas até agosto",
+        "link": "https://www.canalrural.com.br/pecuaria/mato-grosso-lidera-exportacoes-de-carne-bovina-com-5641-mil-toneladas-ate-agosto/",
+        "summary": "Estado respondeu por 25,6% dos embarques brasileiros da proteína em 2026 e movimentou US$ 3,2 bilhões no período O post Mato Grosso lidera exportações de carne bovina com 564,1 mil toneladas até agosto apareceu primeiro ",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/07/eua-excluem-pescados-brasileiros-de-novas-tarifas-de-importacao.png",
+        "publishedAt": "2026-09-18T14:47:43.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 12
+      },
+      {
+        "title": "Exportações de carne bovina caem 25,5% em agosto, mas acumulado do ano ainda é positivo",
+        "link": "https://www.canalrural.com.br/economia/exportacoes-de-carne-bovina-caem-255-em-agosto-mas-acumulado-do-ano-ainda-e-positivo/",
+        "summary": "Foto: Abiec Estados Unidos ganharam relevância como parceiros após implantação da cota chinesa; ao todo, 171 países adquirem a proteína brasileira O post Exportações de carne bovina caem 25,5% em agosto, mas acumulado do",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carneabiec.jpg",
+        "publishedAt": "2026-09-17T19:58:09.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 12
+      },
+      {
+        "title": "Abiec prevê retomada da carne bovina brasileira na UE no 1º semestre de 2027",
+        "link": "https://www.canalrural.com.br/pecuaria/abiec-preve-retomada-da-carne-bovina-brasileira-na-ue-no-1o-semestre-de-2027/",
+        "summary": "Foto: RastreIA/divulgação Setor trabalha pela reinclusão do Brasil na lista de habilitados e por uma transição para atender às exigências europeias sobre antimicrobianos. O post Abiec prevê retomada da carne bovina brasi",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/04/carne-ia.jpg",
+        "publishedAt": "2026-09-17T21:03:12.000Z",
         "fonte": "Canal Rural",
         "relevancia": 10
-      },
-      {
-        "title": "Produção de carnes no Brasil deve chegar a 34,26 milhões de toneladas em 2027",
-        "link": "https://www.canalrural.com.br/pecuaria/producao-de-carnes-no-brasil-deve-chegar-a-3426-milhoes-de-toneladas-em-2027/",
-        "summary": "Foto: Freepik Projeção da Conab indica alta de 0,5% sobre 2026, com avanço de frango e suínos e recuo na carne bovina. O post Produção de carnes no Brasil deve chegar a 34,26 milhões de toneladas em 2027 apareceu primeir",
-        "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
-        "publishedAt": "2026-09-16T15:11:30.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 8
-      },
-      {
-        "title": "Boi gordo chega a R$ 360 com pecuaristas resistentes e oferta restrita",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-chega-a-r-360-com-pecuaristas-resistentes-e-oferta-restrita/",
-        "summary": "Foto: Semagro/MS Queda de braço entre produtores e frigoríficos e dificuldade para completar escalas pressionam os preços no mercado O post Boi gordo chega a R$ 360 com pecuaristas resistentes e oferta restrita apareceu ",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/sAn0leu0-semagro-ms-02.jpg",
-        "publishedAt": "2026-09-16T12:31:18.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 8
       }
     ]
   },
@@ -56,67 +56,69 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Delegação da Tunísia conhece tecnologias para convivência com o Semiárido",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147399694/delegacao-da-tunisia-conhece-tecnologias-para-convivencia-com-o-semiarido",
-        "summary": "Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/documents/1355026/144739781/Delega%C3%A7%C3%A3o_Tunisia_Fotos_Renata_Alecrim.jpeg/836006e5-96b4-85da-1627-093937afed2c?version=1.0&t=1789572056852",
-        "publishedAt": "2026-09-16T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Transferência de Tecnologia"
-        ],
-        "relevancia": 1
-      },
-      {
-        "title": "Pesquisador Davi José Silva é agraciado com Prêmio Nordeste de Ciência do Solo",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147363821/pesquisador-davi-jose-silva-e-agraciado-com-premio-nordeste-de-ciencia-do-solo",
-        "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/documents/1355026/144739781/IMG_3562.JPG.jpeg/54e72c13-7dce-a604-8ba2-95d411af7044?version=1.0&t=1789564651656",
-        "publishedAt": "2026-09-16T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Pesquisa, Desenvolvimento e Inovação"
-        ],
-        "relevancia": 1
-      },
-      {
-        "title": "Com recorde de público, eventos de ciências do solo e mudanças climáticas debatem desafios para o Nordeste",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147342273/com-recorde-de-publico-eventos-de-ciencias-do-solo-e-mudancas-climaticas-debatem-desafios-para-o-nordeste",
-        "summary": "Mudanças climáticas · Recursos naturais",
-        "image": "https://www.embrapa.br/documents/1355026/144739781/2026-09-14-Abertura_IX_Reuniao_Nordestina_de_Ciencia_do_Solo_e_VII_SMUD-Foto-Fernanda-Birolo+%2817%29.JPG.jpeg/152e7f09-457c-b1e3-eeb1-e172c2eee98c?version=1.0&t=1789564575613",
-        "publishedAt": "2026-09-16T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Mudanças climáticas",
-          "Recursos naturais"
-        ],
-        "relevancia": 1
-      },
-      {
-        "title": "Do laboratório ao campo: Embrapa apresenta soluções sustentáveis durante o Inova Amazônia Summit",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147311720/do-laboratorio-ao-campo-embrapa-apresenta-solucoes-sustentaveis-durante-o-inova-amazonia-summit",
+        "title": "Embrapa Trigo lança Guia de Cultivares em versão digital",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147682509/embrapa-trigo-lanca-guia-de-cultivares-em-versao-digital",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147311721&t=1789585992956",
-        "publishedAt": "2026-09-15T12:00:00.000Z",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147683726&t=1789744392614",
+        "publishedAt": "2026-09-18T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 0
+        "relevancia": 3
       },
       {
-        "title": "Custos de produção de frango de corte e de suínos sobem em agosto",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147311257/custos-de-producao-de-frango-de-corte-e-de-suinos-sobem-em-agosto",
-        "summary": "Estudos socioeconômicos e ambientais",
-        "image": null,
-        "publishedAt": "2026-09-15T12:00:00.000Z",
+        "title": "Últimos dias para inscrições na 2ª Seleção de Vinhos de BRS Lorena",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147172860/ultimos-dias-para-inscricoes-na-2-selecao-de-vinhos-de-brs-lorena",
+        "summary": "",
+        "image": "https://www.embrapa.br/documents/1355300/1529380/Garrafa+com+selo+1+selec%C3%A7%C3%A3o+e+ta%C3%A7a+vinho_cred_+Ander+Pereira.jpg/52747ef7-e200-1ff3-aada-50402a3913eb?version=1.0&t=1788974751905",
+        "publishedAt": "2026-09-18T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 3
+      },
+      {
+        "title": "Lançamento de trigo na CerealTec",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147677224/lancamento-de-trigo-na-cerealtec",
+        "summary": "Melhoramento genético",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147678693&t=1789739283215",
+        "publishedAt": "2026-09-18T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Estudos socioeconômicos e ambientais"
+          "Melhoramento genético"
         ],
-        "relevancia": 0
+        "relevancia": 3
+      },
+      {
+        "title": "Sistema de Alerta reinicia neste mês de setembro",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147675166/sistema-de-alerta-reinicia-neste-mes-de-setembro",
+        "summary": "",
+        "image": "https://www.embrapa.br/documents/1354346/0/WhatsApp+Image+2026-09-18+at+09.57.28.jpeg/e467324b-03eb-e6d1-1c39-85b7ed6a55ed?version=1.0&t=1789736276701",
+        "publishedAt": "2026-09-18T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 3
+      },
+      {
+        "title": "Escolas do Campo: Embrapa integra rede de instituições parceiras em Pelotas",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147617919/escolas-do-campo-embrapa-integra-rede-de-instituicoes-parceiras-em-pelotas",
+        "summary": "",
+        "image": "https://www.embrapa.br/documents/1354346/0/WhatsApp+Image+2026-09-17+at+14.59.57.jpeg/98822c68-e0f6-f7e5-3465-98bb1ef28a06?version=1.0&t=1789668484265",
+        "publishedAt": "2026-09-17T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 1
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Preços do boi gordo continuam trajetória de alta; veja as cotações",
+      "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-gordo-continuam-trajetoria-de-alta-veja-as-cotacoes/",
+      "summary": "Foto: Arquivo/Canal Rural No atacado, a elevada competitividade dos cortes suínos e da carne de frango limita o espaço para novos avanços da carne bovina O post Preços do boi gordo continuam trajetória de alta; veja as c",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi-1.jpg",
+      "publishedAt": "2026-09-17T22:36:33.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 16
+    },
     {
       "title": "Boi gordo: escalas apertadas de frigoríficos menores elevam arroba; veja cotações",
       "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-escalas-apertadas-de-frigorificos-menores-elevam-arroba-veja-cotacoes/",
@@ -124,43 +126,34 @@
       "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
       "publishedAt": "2026-09-16T22:52:15.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 16
-    },
-    {
-      "title": "Boi gordo: preço da arroba continua em ascensão; confira as cotações",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-preco-da-arroba-continua-em-ascensao-confira-as-cotacoes/",
-      "summary": "Imagem gerada por IA para o Canal Rural Os preçosnas principais praças do Brasil seguem em alta, segundo dados da Safras & Mercado O post Boi gordo: preço da arroba continua em ascensão; confira as cotações apareceu prim",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
-      "publishedAt": "2026-09-15T22:28:57.000Z",
-      "fonte": "Canal Rural",
       "relevancia": 14
     },
     {
-      "title": "China deve retomar compras de carne bovina para a cota de 2027, diz Datagro",
-      "link": "https://www.canalrural.com.br/pecuaria/china-deve-retomar-compras-de-carne-bovina-para-a-cota-de-2027-diz-datagro/",
-      "summary": "Foto: Freepik Analista vê intensificação dos negócios entre o fim de setembro e o início de outubro, com embarques voltados à entrada da nova cota chinesa em janeiro. O post China deve retomar compras de carne bovina par",
-      "image": "https://imagens-cdn.canalrural.com.br/2025/11/close-de-tres-bifes-de-carne-crua-fresca-com-osso-em-papel-artesanal-branco-de-cima.jpg",
-      "publishedAt": "2026-09-16T19:31:35.000Z",
+      "title": "Mato Grosso lidera exportações de carne bovina com 564,1 mil toneladas até agosto",
+      "link": "https://www.canalrural.com.br/pecuaria/mato-grosso-lidera-exportacoes-de-carne-bovina-com-5641-mil-toneladas-ate-agosto/",
+      "summary": "Estado respondeu por 25,6% dos embarques brasileiros da proteína em 2026 e movimentou US$ 3,2 bilhões no período O post Mato Grosso lidera exportações de carne bovina com 564,1 mil toneladas até agosto apareceu primeiro ",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/07/eua-excluem-pescados-brasileiros-de-novas-tarifas-de-importacao.png",
+      "publishedAt": "2026-09-18T14:47:43.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 12
+    },
+    {
+      "title": "Exportações de carne bovina caem 25,5% em agosto, mas acumulado do ano ainda é positivo",
+      "link": "https://www.canalrural.com.br/economia/exportacoes-de-carne-bovina-caem-255-em-agosto-mas-acumulado-do-ano-ainda-e-positivo/",
+      "summary": "Foto: Abiec Estados Unidos ganharam relevância como parceiros após implantação da cota chinesa; ao todo, 171 países adquirem a proteína brasileira O post Exportações de carne bovina caem 25,5% em agosto, mas acumulado do",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carneabiec.jpg",
+      "publishedAt": "2026-09-17T19:58:09.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 12
+    },
+    {
+      "title": "Abiec prevê retomada da carne bovina brasileira na UE no 1º semestre de 2027",
+      "link": "https://www.canalrural.com.br/pecuaria/abiec-preve-retomada-da-carne-bovina-brasileira-na-ue-no-1o-semestre-de-2027/",
+      "summary": "Foto: RastreIA/divulgação Setor trabalha pela reinclusão do Brasil na lista de habilitados e por uma transição para atender às exigências europeias sobre antimicrobianos. O post Abiec prevê retomada da carne bovina brasi",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/04/carne-ia.jpg",
+      "publishedAt": "2026-09-17T21:03:12.000Z",
       "fonte": "Canal Rural",
       "relevancia": 10
-    },
-    {
-      "title": "Produção de carnes no Brasil deve chegar a 34,26 milhões de toneladas em 2027",
-      "link": "https://www.canalrural.com.br/pecuaria/producao-de-carnes-no-brasil-deve-chegar-a-3426-milhoes-de-toneladas-em-2027/",
-      "summary": "Foto: Freepik Projeção da Conab indica alta de 0,5% sobre 2026, com avanço de frango e suínos e recuo na carne bovina. O post Produção de carnes no Brasil deve chegar a 34,26 milhões de toneladas em 2027 apareceu primeir",
-      "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
-      "publishedAt": "2026-09-16T15:11:30.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 8
-    },
-    {
-      "title": "Boi gordo chega a R$ 360 com pecuaristas resistentes e oferta restrita",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-chega-a-r-360-com-pecuaristas-resistentes-e-oferta-restrita/",
-      "summary": "Foto: Semagro/MS Queda de braço entre produtores e frigoríficos e dificuldade para completar escalas pressionam os preços no mercado O post Boi gordo chega a R$ 360 com pecuaristas resistentes e oferta restrita apareceu ",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/sAn0leu0-semagro-ms-02.jpg",
-      "publishedAt": "2026-09-16T12:31:18.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 8
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
