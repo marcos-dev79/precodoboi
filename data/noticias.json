@@ -1,9 +1,27 @@
 {
-  "atualizado_em": "2026-09-18T15:19:45.571Z",
+  "atualizado_em": "2026-09-19T14:57:12.274Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Arroba do boi gordo: confira como o mercado encerrou a semana",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-confira-como-o-mercado-encerrou-a-semana/",
+        "summary": "Foto: Christiano Antonucci/Secom-MT Negociações continuam acima da referência média por conta de restrições na oferta, principalmente de frigoríficos de menor porte O post Arroba do boi gordo: confira como o mercado ence",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
+        "publishedAt": "2026-09-18T22:28:09.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 16
+      },
+      {
+        "title": "Rebanho bovino dos EUA e oportunidades para o Brasil: assista ao Radar Rural",
+        "link": "https://www.canalrural.com.br/pecuaria/rebanho-bovino-dos-eua-e-oportunidades-para-o-brasil-assista-ao-radar-rural/",
+        "summary": "Foto: Arte Canal Rural Atividade pecuária norte-americana enfrenta desafios que reduzem a oferta de carne. Especialista mostra como o Brasil pode se beneficiar desse quadro O post Rebanho bovino dos EUA e oportunidades p",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/09/Radar-Rural.jpg",
+        "publishedAt": "2026-09-18T21:21:12.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
       {
         "title": "Preços do boi gordo continuam trajetória de alta; veja as cotações",
         "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-gordo-continuam-trajetoria-de-alta-veja-as-cotacoes/",
@@ -11,16 +29,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi-1.jpg",
         "publishedAt": "2026-09-17T22:36:33.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 16
+        "relevancia": 14
       },
       {
-        "title": "Boi gordo: escalas apertadas de frigoríficos menores elevam arroba; veja cotações",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-escalas-apertadas-de-frigorificos-menores-elevam-arroba-veja-cotacoes/",
-        "summary": "Imagem gerada por IA O mercado atacadista, por sua vez, opera com preços acomodados após as altas recentes O post Boi gordo: escalas apertadas de frigoríficos menores elevam arroba; veja cotações apareceu primeiro em Can",
-        "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
-        "publishedAt": "2026-09-16T22:52:15.000Z",
+        "title": "Abiec diz que cota de carne bovina na China pode acabar em março de 2027",
+        "link": "https://www.canalrural.com.br/pecuaria/abiec-diz-que-cota-de-carne-bovina-na-china-pode-acabar-em-marco-de-2027/",
+        "summary": "Entidade discute com o governo uma proposta para dividir os volumes entre frigoríficos e distribuir os embarques ao longo do ano. O post Abiec diz que cota de carne bovina na China pode acabar em março de 2027 apareceu p",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
+        "publishedAt": "2026-09-18T15:12:36.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 14
+        "relevancia": 10
       },
       {
         "title": "Mato Grosso lidera exportações de carne bovina com 564,1 mil toneladas até agosto",
@@ -28,24 +46,6 @@
         "summary": "Estado respondeu por 25,6% dos embarques brasileiros da proteína em 2026 e movimentou US$ 3,2 bilhões no período O post Mato Grosso lidera exportações de carne bovina com 564,1 mil toneladas até agosto apareceu primeiro ",
         "image": "https://imagens-cdn.canalrural.com.br/2026/07/eua-excluem-pescados-brasileiros-de-novas-tarifas-de-importacao.png",
         "publishedAt": "2026-09-18T14:47:43.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
-        "title": "Exportações de carne bovina caem 25,5% em agosto, mas acumulado do ano ainda é positivo",
-        "link": "https://www.canalrural.com.br/economia/exportacoes-de-carne-bovina-caem-255-em-agosto-mas-acumulado-do-ano-ainda-e-positivo/",
-        "summary": "Foto: Abiec Estados Unidos ganharam relevância como parceiros após implantação da cota chinesa; ao todo, 171 países adquirem a proteína brasileira O post Exportações de carne bovina caem 25,5% em agosto, mas acumulado do",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carneabiec.jpg",
-        "publishedAt": "2026-09-17T19:58:09.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
-        "title": "Abiec prevê retomada da carne bovina brasileira na UE no 1º semestre de 2027",
-        "link": "https://www.canalrural.com.br/pecuaria/abiec-preve-retomada-da-carne-bovina-brasileira-na-ue-no-1o-semestre-de-2027/",
-        "summary": "Foto: RastreIA/divulgação Setor trabalha pela reinclusão do Brasil na lista de habilitados e por uma transição para atender às exigências europeias sobre antimicrobianos. O post Abiec prevê retomada da carne bovina brasi",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/04/carne-ia.jpg",
-        "publishedAt": "2026-09-17T21:03:12.000Z",
         "fonte": "Canal Rural",
         "relevancia": 10
       }
@@ -56,60 +56,86 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Embrapa Trigo lança Guia de Cultivares em versão digital",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147682509/embrapa-trigo-lanca-guia-de-cultivares-em-versao-digital",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147683726&t=1789744392614",
-        "publishedAt": "2026-09-18T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Últimos dias para inscrições na 2ª Seleção de Vinhos de BRS Lorena",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147172860/ultimos-dias-para-inscricoes-na-2-selecao-de-vinhos-de-brs-lorena",
-        "summary": "",
-        "image": "https://www.embrapa.br/documents/1355300/1529380/Garrafa+com+selo+1+selec%C3%A7%C3%A3o+e+ta%C3%A7a+vinho_cred_+Ander+Pereira.jpg/52747ef7-e200-1ff3-aada-50402a3913eb?version=1.0&t=1788974751905",
-        "publishedAt": "2026-09-18T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Lançamento de trigo na CerealTec",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147677224/lancamento-de-trigo-na-cerealtec",
-        "summary": "Melhoramento genético",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147678693&t=1789739283215",
+        "title": "Pesquisadores apresentam alternativas sobre pecuária no Semiárido em Simpósio",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147700331/pesquisadores-apresentam-alternativas-sobre-pecuaria-no-semiarido-em-simposio",
+        "summary": "Mudanças climáticas · Pesquisa, Desenvolvimento e Inovação · Produção animal · Agricultura de Baixo Carbono · Convivência com a Seca",
+        "image": "https://www.embrapa.br/documents/1355090/86934705/ECOARIDO+%281%29.jpg/ba541166-53b6-40bf-23ba-351e588b43f2?version=1.0&t=1789759356368",
         "publishedAt": "2026-09-18T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Melhoramento genético"
+          "Mudanças climáticas",
+          "Pesquisa, Desenvolvimento e Inovação",
+          "Produção animal",
+          "Agricultura de Baixo Carbono",
+          "Convivência com a Seca"
         ],
-        "relevancia": 3
+        "relevancia": 6
       },
       {
-        "title": "Sistema de Alerta reinicia neste mês de setembro",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147675166/sistema-de-alerta-reinicia-neste-mes-de-setembro",
+        "title": "Dia de Campo apresenta provas de desempenho da raça Charolesa em Bagé",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147697736/dia-de-campo-apresenta-provas-de-desempenho-da-raca-charolesa-em-bage",
         "summary": "",
-        "image": "https://www.embrapa.br/documents/1354346/0/WhatsApp+Image+2026-09-18+at+09.57.28.jpeg/e467324b-03eb-e6d1-1c39-85b7ed6a55ed?version=1.0&t=1789736276701",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147697737&t=1789756965381",
         "publishedAt": "2026-09-18T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
-        "title": "Escolas do Campo: Embrapa integra rede de instituições parceiras em Pelotas",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147617919/escolas-do-campo-embrapa-integra-rede-de-instituicoes-parceiras-em-pelotas",
+        "title": "Manhã de Campo aborda Integração Lavoura-Pecuária",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147696364/manha-de-campo-aborda-integracao-lavoura-pecuaria",
         "summary": "",
-        "image": "https://www.embrapa.br/documents/1354346/0/WhatsApp+Image+2026-09-17+at+14.59.57.jpeg/98822c68-e0f6-f7e5-3465-98bb1ef28a06?version=1.0&t=1789668484265",
-        "publishedAt": "2026-09-17T12:00:00.000Z",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147696365&t=1789756444378",
+        "publishedAt": "2026-09-18T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
+        "relevancia": 6
+      },
+      {
+        "title": "Microrganismos encontrados em fezes bovinas indicam a capacidade de converter pasto em carne",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147690740/microrganismos-encontrados-em-fezes-bovinas-indicam-a-capacidade-de-converter-pasto-em-carne",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147690741&t=1789751533098",
+        "publishedAt": "2026-09-18T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 8
+      },
+      {
+        "title": "Estudo destaca protagonismo e desafios das mulheres na transformação digital da agricultura",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147686950/estudo-destaca-protagonismo-e-desafios-das-mulheres-na-transformacao-digital-da-agricultura",
+        "summary": "Agricultura familiar · Agroecologia e produção orgânica · Biodiversidade",
+        "image": "https://www.embrapa.br/documents/1355145/92982228/DSC04136.jpg/bb703b2e-80cf-0183-f381-becd87c43313?version=1.0&t=1789747369900",
+        "publishedAt": "2026-09-18T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Agricultura familiar",
+          "Agroecologia e produção orgânica",
+          "Biodiversidade"
+        ],
         "relevancia": 1
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Arroba do boi gordo: confira como o mercado encerrou a semana",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-confira-como-o-mercado-encerrou-a-semana/",
+      "summary": "Foto: Christiano Antonucci/Secom-MT Negociações continuam acima da referência média por conta de restrições na oferta, principalmente de frigoríficos de menor porte O post Arroba do boi gordo: confira como o mercado ence",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
+      "publishedAt": "2026-09-18T22:28:09.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 16
+    },
+    {
+      "title": "Rebanho bovino dos EUA e oportunidades para o Brasil: assista ao Radar Rural",
+      "link": "https://www.canalrural.com.br/pecuaria/rebanho-bovino-dos-eua-e-oportunidades-para-o-brasil-assista-ao-radar-rural/",
+      "summary": "Foto: Arte Canal Rural Atividade pecuária norte-americana enfrenta desafios que reduzem a oferta de carne. Especialista mostra como o Brasil pode se beneficiar desse quadro O post Rebanho bovino dos EUA e oportunidades p",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/09/Radar-Rural.jpg",
+      "publishedAt": "2026-09-18T21:21:12.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
     {
       "title": "Preços do boi gordo continuam trajetória de alta; veja as cotações",
       "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-gordo-continuam-trajetoria-de-alta-veja-as-cotacoes/",
@@ -117,16 +143,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi-1.jpg",
       "publishedAt": "2026-09-17T22:36:33.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 16
+      "relevancia": 14
     },
     {
-      "title": "Boi gordo: escalas apertadas de frigoríficos menores elevam arroba; veja cotações",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-escalas-apertadas-de-frigorificos-menores-elevam-arroba-veja-cotacoes/",
-      "summary": "Imagem gerada por IA O mercado atacadista, por sua vez, opera com preços acomodados após as altas recentes O post Boi gordo: escalas apertadas de frigoríficos menores elevam arroba; veja cotações apareceu primeiro em Can",
-      "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
-      "publishedAt": "2026-09-16T22:52:15.000Z",
+      "title": "Abiec diz que cota de carne bovina na China pode acabar em março de 2027",
+      "link": "https://www.canalrural.com.br/pecuaria/abiec-diz-que-cota-de-carne-bovina-na-china-pode-acabar-em-marco-de-2027/",
+      "summary": "Entidade discute com o governo uma proposta para dividir os volumes entre frigoríficos e distribuir os embarques ao longo do ano. O post Abiec diz que cota de carne bovina na China pode acabar em março de 2027 apareceu p",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
+      "publishedAt": "2026-09-18T15:12:36.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 14
+      "relevancia": 10
     },
     {
       "title": "Mato Grosso lidera exportações de carne bovina com 564,1 mil toneladas até agosto",
@@ -134,24 +160,6 @@
       "summary": "Estado respondeu por 25,6% dos embarques brasileiros da proteína em 2026 e movimentou US$ 3,2 bilhões no período O post Mato Grosso lidera exportações de carne bovina com 564,1 mil toneladas até agosto apareceu primeiro ",
       "image": "https://imagens-cdn.canalrural.com.br/2026/07/eua-excluem-pescados-brasileiros-de-novas-tarifas-de-importacao.png",
       "publishedAt": "2026-09-18T14:47:43.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
-      "title": "Exportações de carne bovina caem 25,5% em agosto, mas acumulado do ano ainda é positivo",
-      "link": "https://www.canalrural.com.br/economia/exportacoes-de-carne-bovina-caem-255-em-agosto-mas-acumulado-do-ano-ainda-e-positivo/",
-      "summary": "Foto: Abiec Estados Unidos ganharam relevância como parceiros após implantação da cota chinesa; ao todo, 171 países adquirem a proteína brasileira O post Exportações de carne bovina caem 25,5% em agosto, mas acumulado do",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carneabiec.jpg",
-      "publishedAt": "2026-09-17T19:58:09.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
-      "title": "Abiec prevê retomada da carne bovina brasileira na UE no 1º semestre de 2027",
-      "link": "https://www.canalrural.com.br/pecuaria/abiec-preve-retomada-da-carne-bovina-brasileira-na-ue-no-1o-semestre-de-2027/",
-      "summary": "Foto: RastreIA/divulgação Setor trabalha pela reinclusão do Brasil na lista de habilitados e por uma transição para atender às exigências europeias sobre antimicrobianos. O post Abiec prevê retomada da carne bovina brasi",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/04/carne-ia.jpg",
-      "publishedAt": "2026-09-17T21:03:12.000Z",
       "fonte": "Canal Rural",
       "relevancia": 10
     }
