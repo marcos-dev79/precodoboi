@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-19T14:57:12.274Z",
+  "atualizado_em": "2026-09-20T14:59:57.278Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -11,7 +11,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
         "publishedAt": "2026-09-18T22:28:09.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 16
+        "relevancia": 14
       },
       {
         "title": "Rebanho bovino dos EUA e oportunidades para o Brasil: assista ao Radar Rural",
@@ -20,7 +20,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/09/Radar-Rural.jpg",
         "publishedAt": "2026-09-18T21:21:12.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
+        "relevancia": 13
       },
       {
         "title": "Preços do boi gordo continuam trajetória de alta; veja as cotações",
@@ -29,16 +29,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi-1.jpg",
         "publishedAt": "2026-09-17T22:36:33.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 14
+        "relevancia": 13
       },
       {
-        "title": "Abiec diz que cota de carne bovina na China pode acabar em março de 2027",
-        "link": "https://www.canalrural.com.br/pecuaria/abiec-diz-que-cota-de-carne-bovina-na-china-pode-acabar-em-marco-de-2027/",
-        "summary": "Entidade discute com o governo uma proposta para dividir os volumes entre frigoríficos e distribuir os embarques ao longo do ano. O post Abiec diz que cota de carne bovina na China pode acabar em março de 2027 apareceu p",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
-        "publishedAt": "2026-09-18T15:12:36.000Z",
+        "title": "‘Boi bolinha’: como evitar excesso de gordura na recria do gado?",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-bolinha-como-evitar-excesso-de-gordura-na-recria-do-gado/",
+        "summary": "Lotes de bovinos de recria na fazenda Nova Piratininga. Foto: Reprodução/Giro do Boi Zootecnista Rafael Neiva explica como manejar a dieta na recria confinada para evitar a deposição excessiva de gordura nos bovinos O po",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/08/Nova_Piratininga_bovinos_confinamento_pasto_pastagem_18.12.2024-9.jpg",
+        "publishedAt": "2026-09-19T18:01:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 10
+        "relevancia": 11
       },
       {
         "title": "Mato Grosso lidera exportações de carne bovina com 564,1 mil toneladas até agosto",
@@ -47,7 +47,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/07/eua-excluem-pescados-brasileiros-de-novas-tarifas-de-importacao.png",
         "publishedAt": "2026-09-18T14:47:43.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 10
+        "relevancia": 9
       }
     ]
   },
@@ -69,37 +69,37 @@
           "Agricultura de Baixo Carbono",
           "Convivência com a Seca"
         ],
-        "relevancia": 6
+        "relevancia": 5
       },
       {
         "title": "Dia de Campo apresenta provas de desempenho da raça Charolesa em Bagé",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147697736/dia-de-campo-apresenta-provas-de-desempenho-da-raca-charolesa-em-bage",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147697737&t=1789756965381",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147697737&t=1789756958844",
         "publishedAt": "2026-09-18T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Manhã de Campo aborda Integração Lavoura-Pecuária",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147696364/manha-de-campo-aborda-integracao-lavoura-pecuaria",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147696365&t=1789756444378",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147696365&t=1789756416516",
         "publishedAt": "2026-09-18T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 6
+        "relevancia": 5
       },
       {
         "title": "Microrganismos encontrados em fezes bovinas indicam a capacidade de converter pasto em carne",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147690740/microrganismos-encontrados-em-fezes-bovinas-indicam-a-capacidade-de-converter-pasto-em-carne",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147690741&t=1789751533098",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147690741&t=1789751548599",
         "publishedAt": "2026-09-18T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 8
+        "relevancia": 7
       },
       {
         "title": "Estudo destaca protagonismo e desafios das mulheres na transformação digital da agricultura",
@@ -113,7 +113,7 @@
           "Agroecologia e produção orgânica",
           "Biodiversidade"
         ],
-        "relevancia": 1
+        "relevancia": 0
       }
     ]
   },
@@ -125,7 +125,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
       "publishedAt": "2026-09-18T22:28:09.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 16
+      "relevancia": 14
     },
     {
       "title": "Rebanho bovino dos EUA e oportunidades para o Brasil: assista ao Radar Rural",
@@ -134,7 +134,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/09/Radar-Rural.jpg",
       "publishedAt": "2026-09-18T21:21:12.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
+      "relevancia": 13
     },
     {
       "title": "Preços do boi gordo continuam trajetória de alta; veja as cotações",
@@ -143,16 +143,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi-1.jpg",
       "publishedAt": "2026-09-17T22:36:33.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 14
+      "relevancia": 13
     },
     {
-      "title": "Abiec diz que cota de carne bovina na China pode acabar em março de 2027",
-      "link": "https://www.canalrural.com.br/pecuaria/abiec-diz-que-cota-de-carne-bovina-na-china-pode-acabar-em-marco-de-2027/",
-      "summary": "Entidade discute com o governo uma proposta para dividir os volumes entre frigoríficos e distribuir os embarques ao longo do ano. O post Abiec diz que cota de carne bovina na China pode acabar em março de 2027 apareceu p",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
-      "publishedAt": "2026-09-18T15:12:36.000Z",
+      "title": "‘Boi bolinha’: como evitar excesso de gordura na recria do gado?",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-bolinha-como-evitar-excesso-de-gordura-na-recria-do-gado/",
+      "summary": "Lotes de bovinos de recria na fazenda Nova Piratininga. Foto: Reprodução/Giro do Boi Zootecnista Rafael Neiva explica como manejar a dieta na recria confinada para evitar a deposição excessiva de gordura nos bovinos O po",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/08/Nova_Piratininga_bovinos_confinamento_pasto_pastagem_18.12.2024-9.jpg",
+      "publishedAt": "2026-09-19T18:01:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 10
+      "relevancia": 11
     },
     {
       "title": "Mato Grosso lidera exportações de carne bovina com 564,1 mil toneladas até agosto",
@@ -161,7 +161,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/07/eua-excluem-pescados-brasileiros-de-novas-tarifas-de-importacao.png",
       "publishedAt": "2026-09-18T14:47:43.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 10
+      "relevancia": 9
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
