@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-20T14:59:57.278Z",
+  "atualizado_em": "2026-09-21T17:17:59.721Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -10,15 +10,6 @@
         "summary": "Foto: Christiano Antonucci/Secom-MT Negociações continuam acima da referência média por conta de restrições na oferta, principalmente de frigoríficos de menor porte O post Arroba do boi gordo: confira como o mercado ence",
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
         "publishedAt": "2026-09-18T22:28:09.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 14
-      },
-      {
-        "title": "Rebanho bovino dos EUA e oportunidades para o Brasil: assista ao Radar Rural",
-        "link": "https://www.canalrural.com.br/pecuaria/rebanho-bovino-dos-eua-e-oportunidades-para-o-brasil-assista-ao-radar-rural/",
-        "summary": "Foto: Arte Canal Rural Atividade pecuária norte-americana enfrenta desafios que reduzem a oferta de carne. Especialista mostra como o Brasil pode se beneficiar desse quadro O post Rebanho bovino dos EUA e oportunidades p",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/09/Radar-Rural.jpg",
-        "publishedAt": "2026-09-18T21:21:12.000Z",
         "fonte": "Canal Rural",
         "relevancia": 13
       },
@@ -32,20 +23,29 @@
         "relevancia": 13
       },
       {
+        "title": "Rebanho bovino dos EUA e oportunidades para o Brasil: assista ao Radar Rural",
+        "link": "https://www.canalrural.com.br/pecuaria/rebanho-bovino-dos-eua-e-oportunidades-para-o-brasil-assista-ao-radar-rural/",
+        "summary": "Foto: Arte Canal Rural Atividade pecuária norte-americana enfrenta desafios que reduzem a oferta de carne. Especialista mostra como o Brasil pode se beneficiar desse quadro O post Rebanho bovino dos EUA e oportunidades p",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/09/Radar-Rural.jpg",
+        "publishedAt": "2026-09-18T21:21:12.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 12
+      },
+      {
+        "title": "Arroba do boi tem alta de quase 5% e expectativa para último trimestre é ainda melhor",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-tem-alta-de-quase-5-e-expectativa-para-ultimo-trimestre-e-ainda-melhor/",
+        "summary": "Foto: Sérgio Medeiros Mercado futuro negocia valores R$ 20 acima do spot, mas expectativa é de reajuste; China, EUA e demanda interna devem elevar valores O post Arroba do boi tem alta de quase 5% e expectativa para últi",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/article-2-2.jpg",
+        "publishedAt": "2026-09-20T22:02:00.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 10
+      },
+      {
         "title": "‘Boi bolinha’: como evitar excesso de gordura na recria do gado?",
         "link": "https://www.canalrural.com.br/pecuaria/boi-bolinha-como-evitar-excesso-de-gordura-na-recria-do-gado/",
         "summary": "Lotes de bovinos de recria na fazenda Nova Piratininga. Foto: Reprodução/Giro do Boi Zootecnista Rafael Neiva explica como manejar a dieta na recria confinada para evitar a deposição excessiva de gordura nos bovinos O po",
         "image": "https://imagens-cdn.canalrural.com.br/2025/08/Nova_Piratininga_bovinos_confinamento_pasto_pastagem_18.12.2024-9.jpg",
         "publishedAt": "2026-09-19T18:01:00.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 11
-      },
-      {
-        "title": "Mato Grosso lidera exportações de carne bovina com 564,1 mil toneladas até agosto",
-        "link": "https://www.canalrural.com.br/pecuaria/mato-grosso-lidera-exportacoes-de-carne-bovina-com-5641-mil-toneladas-ate-agosto/",
-        "summary": "Estado respondeu por 25,6% dos embarques brasileiros da proteína em 2026 e movimentou US$ 3,2 bilhões no período O post Mato Grosso lidera exportações de carne bovina com 564,1 mil toneladas até agosto apareceu primeiro ",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/07/eua-excluem-pescados-brasileiros-de-novas-tarifas-de-importacao.png",
-        "publishedAt": "2026-09-18T14:47:43.000Z",
         "fonte": "Canal Rural",
         "relevancia": 9
       }
@@ -55,6 +55,33 @@
     "fonte": "Embrapa · notícias",
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
+      {
+        "title": "Primavera dos Museus: Embrapa apresenta pesquisas na foz do São Francisco em mostra no Tamar",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147883851/primavera-dos-museus-embrapa-apresenta-pesquisas-na-foz-do-sao-francisco-em-mostra-no-tamar",
+        "summary": "Recursos naturais",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147883852&t=1790005524093",
+        "publishedAt": "2026-09-21T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Recursos naturais"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Palestras no INMET marcam Dia Nacional do Cerrado",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147879795/palestras-no-inmet-marcam-dia-nacional-do-cerrado",
+        "summary": "Pesquisa, Desenvolvimento e Inovação · Recursos naturais · Gestão ambiental e territorial · Zoneamentos",
+        "image": "https://www.embrapa.br/documents/1355008/103354088/Dia+do+Cerrado+INMET+1+-+Breno+Lobato.jpg/e294af0a-f89a-f939-15c5-7f60387b93b9?version=1.0&t=1789997664279",
+        "publishedAt": "2026-09-21T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Pesquisa, Desenvolvimento e Inovação",
+          "Recursos naturais",
+          "Gestão ambiental e territorial",
+          "Zoneamentos"
+        ],
+        "relevancia": 3
+      },
       {
         "title": "Pesquisadores apresentam alternativas sobre pecuária no Semiárido em Simpósio",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147700331/pesquisadores-apresentam-alternativas-sobre-pecuaria-no-semiarido-em-simposio",
@@ -75,7 +102,7 @@
         "title": "Dia de Campo apresenta provas de desempenho da raça Charolesa em Bagé",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147697736/dia-de-campo-apresenta-provas-de-desempenho-da-raca-charolesa-em-bage",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147697737&t=1789756958844",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147697737&t=1790005524248",
         "publishedAt": "2026-09-18T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
@@ -85,35 +112,11 @@
         "title": "Manhã de Campo aborda Integração Lavoura-Pecuária",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147696364/manha-de-campo-aborda-integracao-lavoura-pecuaria",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147696365&t=1789756416516",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147696365&t=1790005524270",
         "publishedAt": "2026-09-18T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
         "relevancia": 5
-      },
-      {
-        "title": "Microrganismos encontrados em fezes bovinas indicam a capacidade de converter pasto em carne",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147690740/microrganismos-encontrados-em-fezes-bovinas-indicam-a-capacidade-de-converter-pasto-em-carne",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147690741&t=1789751548599",
-        "publishedAt": "2026-09-18T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 7
-      },
-      {
-        "title": "Estudo destaca protagonismo e desafios das mulheres na transformação digital da agricultura",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147686950/estudo-destaca-protagonismo-e-desafios-das-mulheres-na-transformacao-digital-da-agricultura",
-        "summary": "Agricultura familiar · Agroecologia e produção orgânica · Biodiversidade",
-        "image": "https://www.embrapa.br/documents/1355145/92982228/DSC04136.jpg/bb703b2e-80cf-0183-f381-becd87c43313?version=1.0&t=1789747369900",
-        "publishedAt": "2026-09-18T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Agricultura familiar",
-          "Agroecologia e produção orgânica",
-          "Biodiversidade"
-        ],
-        "relevancia": 0
       }
     ]
   },
@@ -124,15 +127,6 @@
       "summary": "Foto: Christiano Antonucci/Secom-MT Negociações continuam acima da referência média por conta de restrições na oferta, principalmente de frigoríficos de menor porte O post Arroba do boi gordo: confira como o mercado ence",
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
       "publishedAt": "2026-09-18T22:28:09.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 14
-    },
-    {
-      "title": "Rebanho bovino dos EUA e oportunidades para o Brasil: assista ao Radar Rural",
-      "link": "https://www.canalrural.com.br/pecuaria/rebanho-bovino-dos-eua-e-oportunidades-para-o-brasil-assista-ao-radar-rural/",
-      "summary": "Foto: Arte Canal Rural Atividade pecuária norte-americana enfrenta desafios que reduzem a oferta de carne. Especialista mostra como o Brasil pode se beneficiar desse quadro O post Rebanho bovino dos EUA e oportunidades p",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/09/Radar-Rural.jpg",
-      "publishedAt": "2026-09-18T21:21:12.000Z",
       "fonte": "Canal Rural",
       "relevancia": 13
     },
@@ -146,20 +140,29 @@
       "relevancia": 13
     },
     {
+      "title": "Rebanho bovino dos EUA e oportunidades para o Brasil: assista ao Radar Rural",
+      "link": "https://www.canalrural.com.br/pecuaria/rebanho-bovino-dos-eua-e-oportunidades-para-o-brasil-assista-ao-radar-rural/",
+      "summary": "Foto: Arte Canal Rural Atividade pecuária norte-americana enfrenta desafios que reduzem a oferta de carne. Especialista mostra como o Brasil pode se beneficiar desse quadro O post Rebanho bovino dos EUA e oportunidades p",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/09/Radar-Rural.jpg",
+      "publishedAt": "2026-09-18T21:21:12.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 12
+    },
+    {
+      "title": "Arroba do boi tem alta de quase 5% e expectativa para último trimestre é ainda melhor",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-tem-alta-de-quase-5-e-expectativa-para-ultimo-trimestre-e-ainda-melhor/",
+      "summary": "Foto: Sérgio Medeiros Mercado futuro negocia valores R$ 20 acima do spot, mas expectativa é de reajuste; China, EUA e demanda interna devem elevar valores O post Arroba do boi tem alta de quase 5% e expectativa para últi",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/article-2-2.jpg",
+      "publishedAt": "2026-09-20T22:02:00.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 10
+    },
+    {
       "title": "‘Boi bolinha’: como evitar excesso de gordura na recria do gado?",
       "link": "https://www.canalrural.com.br/pecuaria/boi-bolinha-como-evitar-excesso-de-gordura-na-recria-do-gado/",
       "summary": "Lotes de bovinos de recria na fazenda Nova Piratininga. Foto: Reprodução/Giro do Boi Zootecnista Rafael Neiva explica como manejar a dieta na recria confinada para evitar a deposição excessiva de gordura nos bovinos O po",
       "image": "https://imagens-cdn.canalrural.com.br/2025/08/Nova_Piratininga_bovinos_confinamento_pasto_pastagem_18.12.2024-9.jpg",
       "publishedAt": "2026-09-19T18:01:00.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 11
-    },
-    {
-      "title": "Mato Grosso lidera exportações de carne bovina com 564,1 mil toneladas até agosto",
-      "link": "https://www.canalrural.com.br/pecuaria/mato-grosso-lidera-exportacoes-de-carne-bovina-com-5641-mil-toneladas-ate-agosto/",
-      "summary": "Estado respondeu por 25,6% dos embarques brasileiros da proteína em 2026 e movimentou US$ 3,2 bilhões no período O post Mato Grosso lidera exportações de carne bovina com 564,1 mil toneladas até agosto apareceu primeiro ",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/07/eua-excluem-pescados-brasileiros-de-novas-tarifas-de-importacao.png",
-      "publishedAt": "2026-09-18T14:47:43.000Z",
       "fonte": "Canal Rural",
       "relevancia": 9
     }
