@@ -1,24 +1,24 @@
 {
-  "atualizado_em": "2026-09-21T17:17:59.721Z",
+  "atualizado_em": "2026-09-22T15:51:35.143Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Mercado do boi gordo: veja como a arroba iniciou a semana",
+        "link": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-veja-como-a-arroba-iniciou-a-semana/",
+        "summary": "Foto: Raquel Brunelli/Embrapa Frigoríficos de menor porte continuam convivendo com escalas de abate encurtadas, que dá suporte aos negócios O post Mercado do boi gordo: veja como a arroba iniciou a semana apareceu primei",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
+        "publishedAt": "2026-09-21T21:23:49.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 16
+      },
       {
         "title": "Arroba do boi gordo: confira como o mercado encerrou a semana",
         "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-confira-como-o-mercado-encerrou-a-semana/",
         "summary": "Foto: Christiano Antonucci/Secom-MT Negociações continuam acima da referência média por conta de restrições na oferta, principalmente de frigoríficos de menor porte O post Arroba do boi gordo: confira como o mercado ence",
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
         "publishedAt": "2026-09-18T22:28:09.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 13
-      },
-      {
-        "title": "Preços do boi gordo continuam trajetória de alta; veja as cotações",
-        "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-gordo-continuam-trajetoria-de-alta-veja-as-cotacoes/",
-        "summary": "Foto: Arquivo/Canal Rural No atacado, a elevada competitividade dos cortes suínos e da carne de frango limita o espaço para novos avanços da carne bovina O post Preços do boi gordo continuam trajetória de alta; veja as c",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi-1.jpg",
-        "publishedAt": "2026-09-17T22:36:33.000Z",
         "fonte": "Canal Rural",
         "relevancia": 13
       },
@@ -38,7 +38,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/article-2-2.jpg",
         "publishedAt": "2026-09-20T22:02:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 10
+        "relevancia": 8
       },
       {
         "title": "‘Boi bolinha’: como evitar excesso de gordura na recria do gado?",
@@ -47,7 +47,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2025/08/Nova_Piratininga_bovinos_confinamento_pasto_pastagem_18.12.2024-9.jpg",
         "publishedAt": "2026-09-19T18:01:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 9
+        "relevancia": 8
       }
     ]
   },
@@ -56,86 +56,80 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Primavera dos Museus: Embrapa apresenta pesquisas na foz do São Francisco em mostra no Tamar",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147883851/primavera-dos-museus-embrapa-apresenta-pesquisas-na-foz-do-sao-francisco-em-mostra-no-tamar",
-        "summary": "Recursos naturais",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147883852&t=1790005524093",
-        "publishedAt": "2026-09-21T12:00:00.000Z",
+        "title": "Embrapa participa da Expofeira de Bagé com ações de pesquisa, educação e tecnologias para a agropecuária",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147937517/embrapa-participa-da-expofeira-de-bage-com-acoes-de-pesquisa-educacao-e-tecnologias-para-a-agropecuaria",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147937518&t=1790087117559",
+        "publishedAt": "2026-09-22T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 3
+      },
+      {
+        "title": "Ciência agrícola brasileira atrai delegações de três continentes em busca de tecnologias sustentáveis",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147918179/ciencia-agricola-brasileira-atrai-delegacoes-de-tres-continentes-em-busca-de-tecnologias-sustentaveis",
+        "summary": "Pesquisa, Desenvolvimento e Inovação",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147918180&t=1790074826434",
+        "publishedAt": "2026-09-22T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Recursos naturais"
+          "Pesquisa, Desenvolvimento e Inovação"
         ],
         "relevancia": 3
       },
       {
-        "title": "Palestras no INMET marcam Dia Nacional do Cerrado",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147879795/palestras-no-inmet-marcam-dia-nacional-do-cerrado",
-        "summary": "Pesquisa, Desenvolvimento e Inovação · Recursos naturais · Gestão ambiental e territorial · Zoneamentos",
-        "image": "https://www.embrapa.br/documents/1355008/103354088/Dia+do+Cerrado+INMET+1+-+Breno+Lobato.jpg/e294af0a-f89a-f939-15c5-7f60387b93b9?version=1.0&t=1789997664279",
+        "title": "Inova Amazônia Summit: diretora Ana Euler debate governança da bioeconomia e visita Embrapa Acre",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147918038/inova-amazonia-summit-diretora-ana-euler-debate-governanca-da-bioeconomia-e-visita-embrapa-acre",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147918106&t=1790027782724",
+        "publishedAt": "2026-09-21T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 1
+      },
+      {
+        "title": "Integração e foco em pesquisa orientam nova gestão da Embrapa Roraima",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147915866/integracao-e-foco-em-pesquisa-orientam-nova-gestao-da-embrapa-roraima",
+        "summary": "Comunicação · Gestão Estratégica",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147915867&t=1790027782753",
         "publishedAt": "2026-09-21T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Pesquisa, Desenvolvimento e Inovação",
-          "Recursos naturais",
-          "Gestão ambiental e territorial",
-          "Zoneamentos"
+          "Comunicação",
+          "Gestão Estratégica"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
-        "title": "Pesquisadores apresentam alternativas sobre pecuária no Semiárido em Simpósio",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147700331/pesquisadores-apresentam-alternativas-sobre-pecuaria-no-semiarido-em-simposio",
-        "summary": "Mudanças climáticas · Pesquisa, Desenvolvimento e Inovação · Produção animal · Agricultura de Baixo Carbono · Convivência com a Seca",
-        "image": "https://www.embrapa.br/documents/1355090/86934705/ECOARIDO+%281%29.jpg/ba541166-53b6-40bf-23ba-351e588b43f2?version=1.0&t=1789759356368",
-        "publishedAt": "2026-09-18T12:00:00.000Z",
+        "title": "Boas práticas de fabricação da farinha orientam cuidados com higiene, processamento e qualidade do produto",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147914456/boas-praticas-de-fabricacao-da-farinha-orientam-cuidados-com-higiene-processamento-e-qualidade-do-produto",
+        "summary": "Transferência de Tecnologia",
+        "image": null,
+        "publishedAt": "2026-09-21T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Mudanças climáticas",
-          "Pesquisa, Desenvolvimento e Inovação",
-          "Produção animal",
-          "Agricultura de Baixo Carbono",
-          "Convivência com a Seca"
+          "Transferência de Tecnologia"
         ],
-        "relevancia": 5
-      },
-      {
-        "title": "Dia de Campo apresenta provas de desempenho da raça Charolesa em Bagé",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147697736/dia-de-campo-apresenta-provas-de-desempenho-da-raca-charolesa-em-bage",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147697737&t=1790005524248",
-        "publishedAt": "2026-09-18T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 0
-      },
-      {
-        "title": "Manhã de Campo aborda Integração Lavoura-Pecuária",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147696364/manha-de-campo-aborda-integracao-lavoura-pecuaria",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147696365&t=1790005524270",
-        "publishedAt": "2026-09-18T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 5
+        "relevancia": 1
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Mercado do boi gordo: veja como a arroba iniciou a semana",
+      "link": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-veja-como-a-arroba-iniciou-a-semana/",
+      "summary": "Foto: Raquel Brunelli/Embrapa Frigoríficos de menor porte continuam convivendo com escalas de abate encurtadas, que dá suporte aos negócios O post Mercado do boi gordo: veja como a arroba iniciou a semana apareceu primei",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
+      "publishedAt": "2026-09-21T21:23:49.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 16
+    },
     {
       "title": "Arroba do boi gordo: confira como o mercado encerrou a semana",
       "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-confira-como-o-mercado-encerrou-a-semana/",
       "summary": "Foto: Christiano Antonucci/Secom-MT Negociações continuam acima da referência média por conta de restrições na oferta, principalmente de frigoríficos de menor porte O post Arroba do boi gordo: confira como o mercado ence",
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
       "publishedAt": "2026-09-18T22:28:09.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 13
-    },
-    {
-      "title": "Preços do boi gordo continuam trajetória de alta; veja as cotações",
-      "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-gordo-continuam-trajetoria-de-alta-veja-as-cotacoes/",
-      "summary": "Foto: Arquivo/Canal Rural No atacado, a elevada competitividade dos cortes suínos e da carne de frango limita o espaço para novos avanços da carne bovina O post Preços do boi gordo continuam trajetória de alta; veja as c",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi-1.jpg",
-      "publishedAt": "2026-09-17T22:36:33.000Z",
       "fonte": "Canal Rural",
       "relevancia": 13
     },
@@ -155,7 +149,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/article-2-2.jpg",
       "publishedAt": "2026-09-20T22:02:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 10
+      "relevancia": 8
     },
     {
       "title": "‘Boi bolinha’: como evitar excesso de gordura na recria do gado?",
@@ -164,7 +158,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2025/08/Nova_Piratininga_bovinos_confinamento_pasto_pastagem_18.12.2024-9.jpg",
       "publishedAt": "2026-09-19T18:01:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 9
+      "relevancia": 8
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
