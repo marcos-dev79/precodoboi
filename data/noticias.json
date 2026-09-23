@@ -1,9 +1,27 @@
 {
-  "atualizado_em": "2026-09-22T15:51:35.143Z",
+  "atualizado_em": "2026-09-23T15:41:07.039Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Boi gordo tem mais um dia de alta e arroba em SP segue próxima de R$ 360",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-tem-mais-uma-dia-de-alta-e-arroba-em-sp-segue-proxima-de-r-360/",
+        "summary": "Negociações ganham ritmo em importantes regiões pecuárias, enquanto preços avançam e produtores resistem a ofertas menores, aponta Cepea O post Boi gordo tem mais um dia de alta e arroba em SP segue próxima de R$ 360 apa",
+        "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
+        "publishedAt": "2026-09-23T12:51:15.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
+      {
+        "title": "Arroba do boi gordo continua em elevação; veja as cotações do dia",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-continua-em-elevacao-veja-as-cotacoes-do-dia/",
+        "summary": "Foto: Giro do Boi/ Reprodução Preços ganham suporte por conta das escalas de abate apertadas entre os frigoríficos de pequeno e médio porte O post Arroba do boi gordo continua em elevação; veja as cotações do dia aparece",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/manejo-da-sanidade-reproducao-touros-vacas-estacao-de-monta.jpg",
+        "publishedAt": "2026-09-22T22:24:49.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
       {
         "title": "Mercado do boi gordo: veja como a arroba iniciou a semana",
         "link": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-veja-como-a-arroba-iniciou-a-semana/",
@@ -11,43 +29,25 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
         "publishedAt": "2026-09-21T21:23:49.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 16
+        "relevancia": 14
       },
       {
-        "title": "Arroba do boi gordo: confira como o mercado encerrou a semana",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-confira-como-o-mercado-encerrou-a-semana/",
-        "summary": "Foto: Christiano Antonucci/Secom-MT Negociações continuam acima da referência média por conta de restrições na oferta, principalmente de frigoríficos de menor porte O post Arroba do boi gordo: confira como o mercado ence",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
-        "publishedAt": "2026-09-18T22:28:09.000Z",
+        "title": "Outubro é única janela segura para Brasil exportar parte da cota uruguaia de carne à China",
+        "link": "https://www.canalrural.com.br/pecuaria/outubro-e-unica-janela-segura-para-brasil-exportar-parte-da-cota-uruguaia-de-carne-a-china/",
+        "summary": "Imagem gerada por IA para o Canal Rural Medida ainda depende de autorização dos asiáticos, alerta o analista da consultoria Safras & Mercado Fernando Henrique Iglesias O post Outubro é única janela segura para Brasil exp",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/09/carne-bovina-brasil-china-uruguai.jpg",
+        "publishedAt": "2026-09-22T21:11:35.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 9
       },
       {
-        "title": "Rebanho bovino dos EUA e oportunidades para o Brasil: assista ao Radar Rural",
-        "link": "https://www.canalrural.com.br/pecuaria/rebanho-bovino-dos-eua-e-oportunidades-para-o-brasil-assista-ao-radar-rural/",
-        "summary": "Foto: Arte Canal Rural Atividade pecuária norte-americana enfrenta desafios que reduzem a oferta de carne. Especialista mostra como o Brasil pode se beneficiar desse quadro O post Rebanho bovino dos EUA e oportunidades p",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/09/Radar-Rural.jpg",
-        "publishedAt": "2026-09-18T21:21:12.000Z",
+        "title": "Embrapa gera R$ 27 à sociedade para cada R$ 1 investido em pesquisa, diz presidente",
+        "link": "https://www.canalrural.com.br/pecuaria/embrapa-gera-r-27-a-sociedade-para-cada-r-1-investido-em-pesquisa-diz-presidente/",
+        "summary": "Foto: Divulgação. Silvia Massruhá destaca que a instituição mantém pesquisas para gado de leite e corte e busca ampliar o uso de tecnologias nas propriedades O post Embrapa gera R$ 27 à sociedade para cada R$ 1 investido",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/09/jzUZweUz-silvia_22.09.2026-1.jpg",
+        "publishedAt": "2026-09-22T20:01:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
-        "title": "Arroba do boi tem alta de quase 5% e expectativa para último trimestre é ainda melhor",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-tem-alta-de-quase-5-e-expectativa-para-ultimo-trimestre-e-ainda-melhor/",
-        "summary": "Foto: Sérgio Medeiros Mercado futuro negocia valores R$ 20 acima do spot, mas expectativa é de reajuste; China, EUA e demanda interna devem elevar valores O post Arroba do boi tem alta de quase 5% e expectativa para últi",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/article-2-2.jpg",
-        "publishedAt": "2026-09-20T22:02:00.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 8
-      },
-      {
-        "title": "‘Boi bolinha’: como evitar excesso de gordura na recria do gado?",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-bolinha-como-evitar-excesso-de-gordura-na-recria-do-gado/",
-        "summary": "Lotes de bovinos de recria na fazenda Nova Piratininga. Foto: Reprodução/Giro do Boi Zootecnista Rafael Neiva explica como manejar a dieta na recria confinada para evitar a deposição excessiva de gordura nos bovinos O po",
-        "image": "https://imagens-cdn.canalrural.com.br/2025/08/Nova_Piratininga_bovinos_confinamento_pasto_pastagem_18.12.2024-9.jpg",
-        "publishedAt": "2026-09-19T18:01:00.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 8
+        "relevancia": 7
       }
     ]
   },
@@ -56,59 +56,60 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Embrapa participa da Expofeira de Bagé com ações de pesquisa, educação e tecnologias para a agropecuária",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147937517/embrapa-participa-da-expofeira-de-bage-com-acoes-de-pesquisa-educacao-e-tecnologias-para-a-agropecuaria",
+        "title": "Pesquisadores utilizam Lidar para levantamento de solos em Roraima",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147990484/pesquisadores-utilizam-lidar-para-levantamento-de-solos-em-roraima",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147937518&t=1790087117559",
-        "publishedAt": "2026-09-22T12:00:00.000Z",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147990485&t=1790174413063",
+        "publishedAt": "2026-09-23T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
         "relevancia": 3
       },
       {
-        "title": "Ciência agrícola brasileira atrai delegações de três continentes em busca de tecnologias sustentáveis",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147918179/ciencia-agricola-brasileira-atrai-delegacoes-de-tres-continentes-em-busca-de-tecnologias-sustentaveis",
-        "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147918180&t=1790074826434",
-        "publishedAt": "2026-09-22T12:00:00.000Z",
+        "title": "Cadeia produtiva do mel no Maranhão é tema de debate técnico",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147988977/cadeia-produtiva-do-mel-no-maranhao-e-tema-de-debate-tecnico",
+        "summary": "",
+        "image": "https://www.embrapa.br/documents/1354356/0/maxresdefault.jpg/f9bd7d20-1269-faae-ed95-88a15a27fbd4?version=1.0&t=1790173707596",
+        "publishedAt": "2026-09-23T12:00:00.000Z",
         "fonte": "Embrapa",
-        "tags": [
-          "Pesquisa, Desenvolvimento e Inovação"
-        ],
+        "tags": [],
         "relevancia": 3
       },
       {
-        "title": "Inova Amazônia Summit: diretora Ana Euler debate governança da bioeconomia e visita Embrapa Acre",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147918038/inova-amazonia-summit-diretora-ana-euler-debate-governanca-da-bioeconomia-e-visita-embrapa-acre",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147918106&t=1790027782724",
-        "publishedAt": "2026-09-21T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 1
-      },
-      {
-        "title": "Integração e foco em pesquisa orientam nova gestão da Embrapa Roraima",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147915866/integracao-e-foco-em-pesquisa-orientam-nova-gestao-da-embrapa-roraima",
-        "summary": "Comunicação · Gestão Estratégica",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147915867&t=1790027782753",
-        "publishedAt": "2026-09-21T12:00:00.000Z",
+        "title": "Embrapa apresenta novas cultivares e inovações da pesquisa no 15º Congresso Brasileiro do Algodão",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147952814/embrapa-apresenta-novas-cultivares-e-inovacoes-da-pesquisa-no-15-congresso-brasileiro-do-algodao",
+        "summary": "Pesquisa, Desenvolvimento e Inovação · Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/documents/1355081/0/CBA+%282%29.jpg/58a674b7-ff12-049d-ef8c-de1b684c7dff?version=1.0&t=1790126283390",
+        "publishedAt": "2026-09-23T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Comunicação",
-          "Gestão Estratégica"
-        ],
-        "relevancia": 1
-      },
-      {
-        "title": "Boas práticas de fabricação da farinha orientam cuidados com higiene, processamento e qualidade do produto",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147914456/boas-praticas-de-fabricacao-da-farinha-orientam-cuidados-com-higiene-processamento-e-qualidade-do-produto",
-        "summary": "Transferência de Tecnologia",
-        "image": null,
-        "publishedAt": "2026-09-21T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
+          "Pesquisa, Desenvolvimento e Inovação",
           "Transferência de Tecnologia"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Pesquisa da Embrapa orienta produtores de Roraima no controle ao Moko da Bananeira",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147947443/pesquisa-da-embrapa-orienta-produtores-de--roraima-no-controle-ao-moko-da-bananeira",
+        "summary": "Produção vegetal · Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147947444&t=1790169487862",
+        "publishedAt": "2026-09-22T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Produção vegetal",
+          "Transferência de Tecnologia"
+        ],
+        "relevancia": 1
+      },
+      {
+        "title": "Embrapa realiza curso sobre cultivo de mandioca em Silves (AM)",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147947087/embrapa-realiza-curso-sobre-cultivo-de-mandioca-em-silves-am",
+        "summary": "Agricultura familiar",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147947088&t=1790165981592",
+        "publishedAt": "2026-09-22T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Agricultura familiar"
         ],
         "relevancia": 1
       }
@@ -116,49 +117,49 @@
   },
   "noticias": [
     {
+      "title": "Boi gordo tem mais um dia de alta e arroba em SP segue próxima de R$ 360",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-tem-mais-uma-dia-de-alta-e-arroba-em-sp-segue-proxima-de-r-360/",
+      "summary": "Negociações ganham ritmo em importantes regiões pecuárias, enquanto preços avançam e produtores resistem a ofertas menores, aponta Cepea O post Boi gordo tem mais um dia de alta e arroba em SP segue próxima de R$ 360 apa",
+      "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
+      "publishedAt": "2026-09-23T12:51:15.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
+    {
+      "title": "Arroba do boi gordo continua em elevação; veja as cotações do dia",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-continua-em-elevacao-veja-as-cotacoes-do-dia/",
+      "summary": "Foto: Giro do Boi/ Reprodução Preços ganham suporte por conta das escalas de abate apertadas entre os frigoríficos de pequeno e médio porte O post Arroba do boi gordo continua em elevação; veja as cotações do dia aparece",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/manejo-da-sanidade-reproducao-touros-vacas-estacao-de-monta.jpg",
+      "publishedAt": "2026-09-22T22:24:49.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
+    {
       "title": "Mercado do boi gordo: veja como a arroba iniciou a semana",
       "link": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-veja-como-a-arroba-iniciou-a-semana/",
       "summary": "Foto: Raquel Brunelli/Embrapa Frigoríficos de menor porte continuam convivendo com escalas de abate encurtadas, que dá suporte aos negócios O post Mercado do boi gordo: veja como a arroba iniciou a semana apareceu primei",
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
       "publishedAt": "2026-09-21T21:23:49.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 16
+      "relevancia": 14
     },
     {
-      "title": "Arroba do boi gordo: confira como o mercado encerrou a semana",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-confira-como-o-mercado-encerrou-a-semana/",
-      "summary": "Foto: Christiano Antonucci/Secom-MT Negociações continuam acima da referência média por conta de restrições na oferta, principalmente de frigoríficos de menor porte O post Arroba do boi gordo: confira como o mercado ence",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
-      "publishedAt": "2026-09-18T22:28:09.000Z",
+      "title": "Outubro é única janela segura para Brasil exportar parte da cota uruguaia de carne à China",
+      "link": "https://www.canalrural.com.br/pecuaria/outubro-e-unica-janela-segura-para-brasil-exportar-parte-da-cota-uruguaia-de-carne-a-china/",
+      "summary": "Imagem gerada por IA para o Canal Rural Medida ainda depende de autorização dos asiáticos, alerta o analista da consultoria Safras & Mercado Fernando Henrique Iglesias O post Outubro é única janela segura para Brasil exp",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/09/carne-bovina-brasil-china-uruguai.jpg",
+      "publishedAt": "2026-09-22T21:11:35.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 9
     },
     {
-      "title": "Rebanho bovino dos EUA e oportunidades para o Brasil: assista ao Radar Rural",
-      "link": "https://www.canalrural.com.br/pecuaria/rebanho-bovino-dos-eua-e-oportunidades-para-o-brasil-assista-ao-radar-rural/",
-      "summary": "Foto: Arte Canal Rural Atividade pecuária norte-americana enfrenta desafios que reduzem a oferta de carne. Especialista mostra como o Brasil pode se beneficiar desse quadro O post Rebanho bovino dos EUA e oportunidades p",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/09/Radar-Rural.jpg",
-      "publishedAt": "2026-09-18T21:21:12.000Z",
+      "title": "Embrapa gera R$ 27 à sociedade para cada R$ 1 investido em pesquisa, diz presidente",
+      "link": "https://www.canalrural.com.br/pecuaria/embrapa-gera-r-27-a-sociedade-para-cada-r-1-investido-em-pesquisa-diz-presidente/",
+      "summary": "Foto: Divulgação. Silvia Massruhá destaca que a instituição mantém pesquisas para gado de leite e corte e busca ampliar o uso de tecnologias nas propriedades O post Embrapa gera R$ 27 à sociedade para cada R$ 1 investido",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/09/jzUZweUz-silvia_22.09.2026-1.jpg",
+      "publishedAt": "2026-09-22T20:01:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
-      "title": "Arroba do boi tem alta de quase 5% e expectativa para último trimestre é ainda melhor",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-tem-alta-de-quase-5-e-expectativa-para-ultimo-trimestre-e-ainda-melhor/",
-      "summary": "Foto: Sérgio Medeiros Mercado futuro negocia valores R$ 20 acima do spot, mas expectativa é de reajuste; China, EUA e demanda interna devem elevar valores O post Arroba do boi tem alta de quase 5% e expectativa para últi",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/article-2-2.jpg",
-      "publishedAt": "2026-09-20T22:02:00.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 8
-    },
-    {
-      "title": "‘Boi bolinha’: como evitar excesso de gordura na recria do gado?",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-bolinha-como-evitar-excesso-de-gordura-na-recria-do-gado/",
-      "summary": "Lotes de bovinos de recria na fazenda Nova Piratininga. Foto: Reprodução/Giro do Boi Zootecnista Rafael Neiva explica como manejar a dieta na recria confinada para evitar a deposição excessiva de gordura nos bovinos O po",
-      "image": "https://imagens-cdn.canalrural.com.br/2025/08/Nova_Piratininga_bovinos_confinamento_pasto_pastagem_18.12.2024-9.jpg",
-      "publishedAt": "2026-09-19T18:01:00.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 8
+      "relevancia": 7
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
