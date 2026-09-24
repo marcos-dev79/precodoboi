@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-23T15:41:07.039Z",
+  "atualizado_em": "2026-09-24T16:01:57.569Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -11,7 +11,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
         "publishedAt": "2026-09-23T12:51:15.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
+        "relevancia": 13
       },
       {
         "title": "Arroba do boi gordo continua em elevação; veja as cotações do dia",
@@ -20,7 +20,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/manejo-da-sanidade-reproducao-touros-vacas-estacao-de-monta.jpg",
         "publishedAt": "2026-09-22T22:24:49.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
+        "relevancia": 13
       },
       {
         "title": "Mercado do boi gordo: veja como a arroba iniciou a semana",
@@ -29,25 +29,25 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
         "publishedAt": "2026-09-21T21:23:49.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 14
+        "relevancia": 13
       },
       {
-        "title": "Outubro é única janela segura para Brasil exportar parte da cota uruguaia de carne à China",
-        "link": "https://www.canalrural.com.br/pecuaria/outubro-e-unica-janela-segura-para-brasil-exportar-parte-da-cota-uruguaia-de-carne-a-china/",
-        "summary": "Imagem gerada por IA para o Canal Rural Medida ainda depende de autorização dos asiáticos, alerta o analista da consultoria Safras & Mercado Fernando Henrique Iglesias O post Outubro é única janela segura para Brasil exp",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/09/carne-bovina-brasil-china-uruguai.jpg",
-        "publishedAt": "2026-09-22T21:11:35.000Z",
+        "title": "Bezerro sobe mais que boi gordo e relação de troca é a pior em quase 5 anos",
+        "link": "https://www.canalrural.com.br/pecuaria/bezerro-sobe-mais-que-boi-gordo-e-relacao-de-troca-e-a-pior-em-quase-5-anos/",
+        "summary": "Foto: Divulgação. Pecuarista paulista precisa de 9,7 arrobas de boi gordo para comprar um animal de reposição, maior quantidade desde outubro de 2021 O post Bezerro sobe mais que boi gordo e relação de troca é a pior em ",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/01/GuiaBem-Estar-AnimalBezerro25.03.2025-1.jpg",
+        "publishedAt": "2026-09-24T11:38:51.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 12
+      },
+      {
+        "title": "Preços do boi gordo seguem em alta; confira as cotações do dia",
+        "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-gordo-seguem-em-alta-confira-as-cotacoes-do-dia/",
+        "summary": "Foto gerada por IA Tendência de curto prazo aponta para novos reajustes, especialmente em operações envolvendo frigoríficos de pequeno e médio porte O post Preços do boi gordo seguem em alta; confira as cotações do dia a",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/08/derivativos-boi-gordo.jpg",
+        "publishedAt": "2026-09-23T22:18:07.000Z",
         "fonte": "Canal Rural",
         "relevancia": 9
-      },
-      {
-        "title": "Embrapa gera R$ 27 à sociedade para cada R$ 1 investido em pesquisa, diz presidente",
-        "link": "https://www.canalrural.com.br/pecuaria/embrapa-gera-r-27-a-sociedade-para-cada-r-1-investido-em-pesquisa-diz-presidente/",
-        "summary": "Foto: Divulgação. Silvia Massruhá destaca que a instituição mantém pesquisas para gado de leite e corte e busca ampliar o uso de tecnologias nas propriedades O post Embrapa gera R$ 27 à sociedade para cada R$ 1 investido",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/09/jzUZweUz-silvia_22.09.2026-1.jpg",
-        "publishedAt": "2026-09-22T20:01:00.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 7
       }
     ]
   },
@@ -56,14 +56,24 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Pesquisadores utilizam Lidar para levantamento de solos em Roraima",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147990484/pesquisadores-utilizam-lidar-para-levantamento-de-solos-em-roraima",
+        "title": "Adoção de tecnologias digitais por comunidades marajoaras tem resultados positivos",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148041659/adocao-de-tecnologias-digitais-por-comunidades-marajoaras-tem-resultados-positivos",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147990485&t=1790174413063",
-        "publishedAt": "2026-09-23T12:00:00.000Z",
+        "image": null,
+        "publishedAt": "2026-09-24T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
         "relevancia": 3
+      },
+      {
+        "title": "Pesquisadores utilizam Lidar para levantamento de solos em Roraima",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147990484/pesquisadores-utilizam-lidar-para-levantamento-de-solos-em-roraima",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147990485&t=1790257913804",
+        "publishedAt": "2026-09-23T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 1
       },
       {
         "title": "Cadeia produtiva do mel no Maranhão é tema de debate técnico",
@@ -73,7 +83,7 @@
         "publishedAt": "2026-09-23T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Embrapa apresenta novas cultivares e inovações da pesquisa no 15º Congresso Brasileiro do Algodão",
@@ -86,32 +96,20 @@
           "Pesquisa, Desenvolvimento e Inovação",
           "Transferência de Tecnologia"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Pesquisa da Embrapa orienta produtores de Roraima no controle ao Moko da Bananeira",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147947443/pesquisa-da-embrapa-orienta-produtores-de--roraima-no-controle-ao-moko-da-bananeira",
         "summary": "Produção vegetal · Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147947444&t=1790169487862",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147947444&t=1790257916155",
         "publishedAt": "2026-09-22T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Produção vegetal",
           "Transferência de Tecnologia"
         ],
-        "relevancia": 1
-      },
-      {
-        "title": "Embrapa realiza curso sobre cultivo de mandioca em Silves (AM)",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147947087/embrapa-realiza-curso-sobre-cultivo-de-mandioca-em-silves-am",
-        "summary": "Agricultura familiar",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147947088&t=1790165981592",
-        "publishedAt": "2026-09-22T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Agricultura familiar"
-        ],
-        "relevancia": 1
+        "relevancia": 0
       }
     ]
   },
@@ -123,7 +121,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
       "publishedAt": "2026-09-23T12:51:15.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
+      "relevancia": 13
     },
     {
       "title": "Arroba do boi gordo continua em elevação; veja as cotações do dia",
@@ -132,7 +130,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/manejo-da-sanidade-reproducao-touros-vacas-estacao-de-monta.jpg",
       "publishedAt": "2026-09-22T22:24:49.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
+      "relevancia": 13
     },
     {
       "title": "Mercado do boi gordo: veja como a arroba iniciou a semana",
@@ -141,25 +139,25 @@
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
       "publishedAt": "2026-09-21T21:23:49.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 14
+      "relevancia": 13
     },
     {
-      "title": "Outubro é única janela segura para Brasil exportar parte da cota uruguaia de carne à China",
-      "link": "https://www.canalrural.com.br/pecuaria/outubro-e-unica-janela-segura-para-brasil-exportar-parte-da-cota-uruguaia-de-carne-a-china/",
-      "summary": "Imagem gerada por IA para o Canal Rural Medida ainda depende de autorização dos asiáticos, alerta o analista da consultoria Safras & Mercado Fernando Henrique Iglesias O post Outubro é única janela segura para Brasil exp",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/09/carne-bovina-brasil-china-uruguai.jpg",
-      "publishedAt": "2026-09-22T21:11:35.000Z",
+      "title": "Bezerro sobe mais que boi gordo e relação de troca é a pior em quase 5 anos",
+      "link": "https://www.canalrural.com.br/pecuaria/bezerro-sobe-mais-que-boi-gordo-e-relacao-de-troca-e-a-pior-em-quase-5-anos/",
+      "summary": "Foto: Divulgação. Pecuarista paulista precisa de 9,7 arrobas de boi gordo para comprar um animal de reposição, maior quantidade desde outubro de 2021 O post Bezerro sobe mais que boi gordo e relação de troca é a pior em ",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/01/GuiaBem-Estar-AnimalBezerro25.03.2025-1.jpg",
+      "publishedAt": "2026-09-24T11:38:51.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 12
+    },
+    {
+      "title": "Preços do boi gordo seguem em alta; confira as cotações do dia",
+      "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-gordo-seguem-em-alta-confira-as-cotacoes-do-dia/",
+      "summary": "Foto gerada por IA Tendência de curto prazo aponta para novos reajustes, especialmente em operações envolvendo frigoríficos de pequeno e médio porte O post Preços do boi gordo seguem em alta; confira as cotações do dia a",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/08/derivativos-boi-gordo.jpg",
+      "publishedAt": "2026-09-23T22:18:07.000Z",
       "fonte": "Canal Rural",
       "relevancia": 9
-    },
-    {
-      "title": "Embrapa gera R$ 27 à sociedade para cada R$ 1 investido em pesquisa, diz presidente",
-      "link": "https://www.canalrural.com.br/pecuaria/embrapa-gera-r-27-a-sociedade-para-cada-r-1-investido-em-pesquisa-diz-presidente/",
-      "summary": "Foto: Divulgação. Silvia Massruhá destaca que a instituição mantém pesquisas para gado de leite e corte e busca ampliar o uso de tecnologias nas propriedades O post Embrapa gera R$ 27 à sociedade para cada R$ 1 investido",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/09/jzUZweUz-silvia_22.09.2026-1.jpg",
-      "publishedAt": "2026-09-22T20:01:00.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 7
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
