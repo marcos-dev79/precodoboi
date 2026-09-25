@@ -1,9 +1,18 @@
 {
-  "atualizado_em": "2026-09-24T16:01:57.569Z",
+  "atualizado_em": "2026-09-25T16:02:33.779Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Arroba do boi gordo não para de subir: confira as cotações",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-nao-para-de-subir-confira-as-cotacoes/",
+        "summary": "Foto: Gabriel Faria/Embrapa Encurtamento das escalas de abate reforça a perspectiva de novos ajustes positivos no curto prazo O post Arroba do boi gordo não para de subir: confira as cotações apareceu primeiro em Canal R",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-1.jpg",
+        "publishedAt": "2026-09-24T22:22:56.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
       {
         "title": "Boi gordo tem mais um dia de alta e arroba em SP segue próxima de R$ 360",
         "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-tem-mais-uma-dia-de-alta-e-arroba-em-sp-segue-proxima-de-r-360/",
@@ -11,7 +20,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
         "publishedAt": "2026-09-23T12:51:15.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 12
       },
       {
         "title": "Arroba do boi gordo continua em elevação; veja as cotações do dia",
@@ -20,16 +29,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/manejo-da-sanidade-reproducao-touros-vacas-estacao-de-monta.jpg",
         "publishedAt": "2026-09-22T22:24:49.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
-      },
-      {
-        "title": "Mercado do boi gordo: veja como a arroba iniciou a semana",
-        "link": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-veja-como-a-arroba-iniciou-a-semana/",
-        "summary": "Foto: Raquel Brunelli/Embrapa Frigoríficos de menor porte continuam convivendo com escalas de abate encurtadas, que dá suporte aos negócios O post Mercado do boi gordo: veja como a arroba iniciou a semana apareceu primei",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
-        "publishedAt": "2026-09-21T21:23:49.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 12
       },
       {
         "title": "Bezerro sobe mais que boi gordo e relação de troca é a pior em quase 5 anos",
@@ -38,7 +38,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/01/GuiaBem-Estar-AnimalBezerro25.03.2025-1.jpg",
         "publishedAt": "2026-09-24T11:38:51.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 12
+        "relevancia": 10
       },
       {
         "title": "Preços do boi gordo seguem em alta; confira as cotações do dia",
@@ -47,7 +47,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2025/08/derivativos-boi-gordo.jpg",
         "publishedAt": "2026-09-23T22:18:07.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 9
+        "relevancia": 7
       }
     ]
   },
@@ -56,24 +56,34 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Adoção de tecnologias digitais por comunidades marajoaras tem resultados positivos",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148041659/adocao-de-tecnologias-digitais-por-comunidades-marajoaras-tem-resultados-positivos",
+        "title": "Dia de Campo apresenta avaliações de desempenho da raça Charolesa",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148075509/dia-de-campo-apresenta-avaliacoes-de-desempenho-da-raca-charolesa",
         "summary": "",
-        "image": null,
-        "publishedAt": "2026-09-24T12:00:00.000Z",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148075510&t=1790350632053",
+        "publishedAt": "2026-09-25T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
         "relevancia": 3
       },
       {
-        "title": "Pesquisadores utilizam Lidar para levantamento de solos em Roraima",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147990484/pesquisadores-utilizam-lidar-para-levantamento-de-solos-em-roraima",
+        "title": "Adoção de tecnologias digitais por comunidades marajoaras tem resultados positivos",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148041659/adocao-de-tecnologias-digitais-por-comunidades-marajoaras-tem-resultados-positivos",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147990485&t=1790257913804",
-        "publishedAt": "2026-09-23T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1355331/54295255/foto+principal+CCI+Breves.jpg/f15b8eef-9830-e610-69b3-4dc523b56bfa?t=1790262969626",
+        "publishedAt": "2026-09-24T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
         "relevancia": 1
+      },
+      {
+        "title": "Pesquisadores utilizam Lidar para levantamento de solos em Roraima",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147990484/pesquisadores-utilizam-lidar-para-levantamento-de-solos-em-roraima",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=147990485&t=1790340590604",
+        "publishedAt": "2026-09-23T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 0
       },
       {
         "title": "Cadeia produtiva do mel no Maranhão é tema de debate técnico",
@@ -83,7 +93,7 @@
         "publishedAt": "2026-09-23T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Embrapa apresenta novas cultivares e inovações da pesquisa no 15º Congresso Brasileiro do Algodão",
@@ -96,24 +106,20 @@
           "Pesquisa, Desenvolvimento e Inovação",
           "Transferência de Tecnologia"
         ],
-        "relevancia": 1
-      },
-      {
-        "title": "Pesquisa da Embrapa orienta produtores de Roraima no controle ao Moko da Bananeira",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/147947443/pesquisa-da-embrapa-orienta-produtores-de--roraima-no-controle-ao-moko-da-bananeira",
-        "summary": "Produção vegetal · Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=147947444&t=1790257916155",
-        "publishedAt": "2026-09-22T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Produção vegetal",
-          "Transferência de Tecnologia"
-        ],
         "relevancia": 0
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Arroba do boi gordo não para de subir: confira as cotações",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-nao-para-de-subir-confira-as-cotacoes/",
+      "summary": "Foto: Gabriel Faria/Embrapa Encurtamento das escalas de abate reforça a perspectiva de novos ajustes positivos no curto prazo O post Arroba do boi gordo não para de subir: confira as cotações apareceu primeiro em Canal R",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-1.jpg",
+      "publishedAt": "2026-09-24T22:22:56.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
     {
       "title": "Boi gordo tem mais um dia de alta e arroba em SP segue próxima de R$ 360",
       "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-tem-mais-uma-dia-de-alta-e-arroba-em-sp-segue-proxima-de-r-360/",
@@ -121,7 +127,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
       "publishedAt": "2026-09-23T12:51:15.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 12
     },
     {
       "title": "Arroba do boi gordo continua em elevação; veja as cotações do dia",
@@ -130,16 +136,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/manejo-da-sanidade-reproducao-touros-vacas-estacao-de-monta.jpg",
       "publishedAt": "2026-09-22T22:24:49.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
-    },
-    {
-      "title": "Mercado do boi gordo: veja como a arroba iniciou a semana",
-      "link": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-veja-como-a-arroba-iniciou-a-semana/",
-      "summary": "Foto: Raquel Brunelli/Embrapa Frigoríficos de menor porte continuam convivendo com escalas de abate encurtadas, que dá suporte aos negócios O post Mercado do boi gordo: veja como a arroba iniciou a semana apareceu primei",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
-      "publishedAt": "2026-09-21T21:23:49.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 12
     },
     {
       "title": "Bezerro sobe mais que boi gordo e relação de troca é a pior em quase 5 anos",
@@ -148,7 +145,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/01/GuiaBem-Estar-AnimalBezerro25.03.2025-1.jpg",
       "publishedAt": "2026-09-24T11:38:51.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 12
+      "relevancia": 10
     },
     {
       "title": "Preços do boi gordo seguem em alta; confira as cotações do dia",
@@ -157,7 +154,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2025/08/derivativos-boi-gordo.jpg",
       "publishedAt": "2026-09-23T22:18:07.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 9
+      "relevancia": 7
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
