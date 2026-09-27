@@ -1,9 +1,18 @@
 {
-  "atualizado_em": "2026-09-26T15:14:49.337Z",
+  "atualizado_em": "2026-09-27T15:54:40.144Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Semana do boi gordo mostra que arroba ainda tem espaço para novas altas",
+        "link": "https://www.canalrural.com.br/pecuaria/semana-do-boi-gordo-mostrou-que-arroba-ainda-tem-espaco-para-novas-altas/",
+        "summary": "Foto: Arquivo/Canal Rural Frigoríficos de pequeno e médio porte seguem com dificuldades para avançar na compra de boiadas O post Semana do boi gordo mostra que arroba ainda tem espaço para novas altas apareceu primeiro e",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi-1.jpg",
+        "publishedAt": "2026-09-26T21:02:53.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
       {
         "title": "Arroba do boi gordo não para de subir: confira as cotações",
         "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-nao-para-de-subir-confira-as-cotacoes/",
@@ -11,7 +20,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-1.jpg",
         "publishedAt": "2026-09-24T22:22:56.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 12
       },
       {
         "title": "Boi gordo tem mais um dia de alta e arroba em SP segue próxima de R$ 360",
@@ -32,22 +41,13 @@
         "relevancia": 12
       },
       {
-        "title": "Arroba do boi continua em disparada: veja como o mercado encerrou a semana",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-continua-em-disparada-veja-como-o-mercado-encerrou-a-semana/",
-        "summary": "Imagem gerada por IA Excessão é Mato Grosso, onde as escalas de abate apresentam relativo conforto O post Arroba do boi continua em disparada: veja como o mercado encerrou a semana apareceu primeiro em Canal Rural .",
-        "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
-        "publishedAt": "2026-09-25T22:28:29.000Z",
+        "title": "Pecuária responde por um terço da proteína global, revela FAO",
+        "link": "https://www.canalrural.com.br/pecuaria/pecuaria-responde-por-um-terco-da-proteina-global-revela-fao/",
+        "summary": "Foto: reprodução/Planeta Campo Segundo a entidade, a segurança alimentar depende do abastecimento local e nacional, uma vez que apenas 15% da carne, 12% dos laticínios e 3% dos ovos produzidos globalmente são comercializ",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/07/Captura-de-tela-2026-07-15-165754.png",
+        "publishedAt": "2026-09-27T12:03:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 10
-      },
-      {
-        "title": "Bezerro sobe mais que boi gordo e relação de troca é a pior em quase 5 anos",
-        "link": "https://www.canalrural.com.br/pecuaria/bezerro-sobe-mais-que-boi-gordo-e-relacao-de-troca-e-a-pior-em-quase-5-anos/",
-        "summary": "Foto: Divulgação. Pecuarista paulista precisa de 9,7 arrobas de boi gordo para comprar um animal de reposição, maior quantidade desde outubro de 2021 O post Bezerro sobe mais que boi gordo e relação de troca é a pior em ",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/01/GuiaBem-Estar-AnimalBezerro25.03.2025-1.jpg",
-        "publishedAt": "2026-09-24T11:38:51.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 9
+        "relevancia": 11
       }
     ]
   },
@@ -65,7 +65,7 @@
         "tags": [
           "Agroenergia"
         ],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Inscrições abertas para o Agroecol 2026: evento reunirá ciência, saberes tradicionais e práticas agroecológicas",
@@ -79,7 +79,7 @@
           "Agroecologia e produção orgânica",
           "Segurança alimentar, nutrição e saúde"
         ],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Evento leva alunos a vivenciar atividades práticas sobre solo, clima, pesquisa e florestas plantadas",
@@ -89,7 +89,7 @@
         "publishedAt": "2026-09-25T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Cientistas verificam integridade de amostras da Operação Potiguar 2",
@@ -101,7 +101,7 @@
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Dia de Campo apresenta avaliações de desempenho da raça Charolesa",
@@ -111,11 +111,20 @@
         "publishedAt": "2026-09-25T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 1
+        "relevancia": 0
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Semana do boi gordo mostra que arroba ainda tem espaço para novas altas",
+      "link": "https://www.canalrural.com.br/pecuaria/semana-do-boi-gordo-mostrou-que-arroba-ainda-tem-espaco-para-novas-altas/",
+      "summary": "Foto: Arquivo/Canal Rural Frigoríficos de pequeno e médio porte seguem com dificuldades para avançar na compra de boiadas O post Semana do boi gordo mostra que arroba ainda tem espaço para novas altas apareceu primeiro e",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi-1.jpg",
+      "publishedAt": "2026-09-26T21:02:53.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
     {
       "title": "Arroba do boi gordo não para de subir: confira as cotações",
       "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-nao-para-de-subir-confira-as-cotacoes/",
@@ -123,7 +132,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-1.jpg",
       "publishedAt": "2026-09-24T22:22:56.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 12
     },
     {
       "title": "Boi gordo tem mais um dia de alta e arroba em SP segue próxima de R$ 360",
@@ -144,22 +153,13 @@
       "relevancia": 12
     },
     {
-      "title": "Arroba do boi continua em disparada: veja como o mercado encerrou a semana",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-continua-em-disparada-veja-como-o-mercado-encerrou-a-semana/",
-      "summary": "Imagem gerada por IA Excessão é Mato Grosso, onde as escalas de abate apresentam relativo conforto O post Arroba do boi continua em disparada: veja como o mercado encerrou a semana apareceu primeiro em Canal Rural .",
-      "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
-      "publishedAt": "2026-09-25T22:28:29.000Z",
+      "title": "Pecuária responde por um terço da proteína global, revela FAO",
+      "link": "https://www.canalrural.com.br/pecuaria/pecuaria-responde-por-um-terco-da-proteina-global-revela-fao/",
+      "summary": "Foto: reprodução/Planeta Campo Segundo a entidade, a segurança alimentar depende do abastecimento local e nacional, uma vez que apenas 15% da carne, 12% dos laticínios e 3% dos ovos produzidos globalmente são comercializ",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/07/Captura-de-tela-2026-07-15-165754.png",
+      "publishedAt": "2026-09-27T12:03:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 10
-    },
-    {
-      "title": "Bezerro sobe mais que boi gordo e relação de troca é a pior em quase 5 anos",
-      "link": "https://www.canalrural.com.br/pecuaria/bezerro-sobe-mais-que-boi-gordo-e-relacao-de-troca-e-a-pior-em-quase-5-anos/",
-      "summary": "Foto: Divulgação. Pecuarista paulista precisa de 9,7 arrobas de boi gordo para comprar um animal de reposição, maior quantidade desde outubro de 2021 O post Bezerro sobe mais que boi gordo e relação de troca é a pior em ",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/01/GuiaBem-Estar-AnimalBezerro25.03.2025-1.jpg",
-      "publishedAt": "2026-09-24T11:38:51.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 9
+      "relevancia": 11
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
