@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-27T15:54:40.144Z",
+  "atualizado_em": "2026-09-28T18:51:38.018Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -11,7 +11,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi-1.jpg",
         "publishedAt": "2026-09-26T21:02:53.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
+        "relevancia": 13
       },
       {
         "title": "Arroba do boi gordo não para de subir: confira as cotações",
@@ -23,31 +23,31 @@
         "relevancia": 12
       },
       {
-        "title": "Boi gordo tem mais um dia de alta e arroba em SP segue próxima de R$ 360",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-tem-mais-uma-dia-de-alta-e-arroba-em-sp-segue-proxima-de-r-360/",
-        "summary": "Negociações ganham ritmo em importantes regiões pecuárias, enquanto preços avançam e produtores resistem a ofertas menores, aponta Cepea O post Boi gordo tem mais um dia de alta e arroba em SP segue próxima de R$ 360 apa",
-        "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
-        "publishedAt": "2026-09-23T12:51:15.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
-        "title": "Arroba do boi gordo continua em elevação; veja as cotações do dia",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-continua-em-elevacao-veja-as-cotacoes-do-dia/",
-        "summary": "Foto: Giro do Boi/ Reprodução Preços ganham suporte por conta das escalas de abate apertadas entre os frigoríficos de pequeno e médio porte O post Arroba do boi gordo continua em elevação; veja as cotações do dia aparece",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/manejo-da-sanidade-reproducao-touros-vacas-estacao-de-monta.jpg",
-        "publishedAt": "2026-09-22T22:24:49.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
         "title": "Pecuária responde por um terço da proteína global, revela FAO",
         "link": "https://www.canalrural.com.br/pecuaria/pecuaria-responde-por-um-terco-da-proteina-global-revela-fao/",
         "summary": "Foto: reprodução/Planeta Campo Segundo a entidade, a segurança alimentar depende do abastecimento local e nacional, uma vez que apenas 15% da carne, 12% dos laticínios e 3% dos ovos produzidos globalmente são comercializ",
         "image": "https://imagens-cdn.canalrural.com.br/2026/07/Captura-de-tela-2026-07-15-165754.png",
         "publishedAt": "2026-09-27T12:03:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 11
+        "relevancia": 9
+      },
+      {
+        "title": "Bezerro sobe mais que boi gordo e relação de troca é a pior em quase 5 anos",
+        "link": "https://www.canalrural.com.br/pecuaria/bezerro-sobe-mais-que-boi-gordo-e-relacao-de-troca-e-a-pior-em-quase-5-anos/",
+        "summary": "Foto: Divulgação. Pecuarista paulista precisa de 9,7 arrobas de boi gordo para comprar um animal de reposição, maior quantidade desde outubro de 2021 O post Bezerro sobe mais que boi gordo e relação de troca é a pior em ",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/01/GuiaBem-Estar-AnimalBezerro25.03.2025-1.jpg",
+        "publishedAt": "2026-09-24T11:38:51.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 9
+      },
+      {
+        "title": "Arroba do boi continua em disparada: veja como o mercado encerrou a semana",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-continua-em-disparada-veja-como-o-mercado-encerrou-a-semana/",
+        "summary": "Imagem gerada por IA Excessão é Mato Grosso, onde as escalas de abate apresentam relativo conforto O post Arroba do boi continua em disparada: veja como o mercado encerrou a semana apareceu primeiro em Canal Rural .",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
+        "publishedAt": "2026-09-25T22:28:29.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 7
       }
     ]
   },
@@ -55,6 +55,54 @@
     "fonte": "Embrapa · notícias",
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
+      {
+        "title": "Patente reconhece tecnologia da Embrapa para produção e estabilização de fungos usados no controle de pragas",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148175727/patente-reconhece-tecnologia-da-embrapa-que-produz-e-estabiliza-fungos-para-controle-de-pragas",
+        "summary": "Pesca e aquicultura",
+        "image": "https://www.embrapa.br/documents/1355145/92982228/PatenteMascarin.jpg/73ac29a7-416b-4bd3-8292-d616f23e7a72?version=1.0&t=1790618681975",
+        "publishedAt": "2026-09-28T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Pesca e aquicultura"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Embalagem de papelão conserva morangos e ajuda a reduzir desperdício",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148167828/embalagem-de-papelao-conserva-morangos-e-ajuda-a-reduzir-desperdicio",
+        "summary": "Pesquisa, Desenvolvimento e Inovação",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148168206&t=1790606686648",
+        "publishedAt": "2026-09-28T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Pesquisa, Desenvolvimento e Inovação"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Cultivar de trigo forrageiro será apresentada a criadores de Angus",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148167543/cultivar-de-trigo-forrageiro-sera-apresentada-a-criadores-de-angus",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148167588&t=1790605939114",
+        "publishedAt": "2026-09-28T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 3
+      },
+      {
+        "title": "Extremos climáticos sobem em ritmo acelerado e atingem nova área crítica na porção centro-norte da Amazônia",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148159654/extremos-climaticos-sobem-em-ritmo-acelerado-e-atingem-nova-area-critica-na-porcao-centro-norte-da-amazonia",
+        "summary": "Biodiversidade · Pesquisa, Desenvolvimento e Inovação · Código Florestal",
+        "image": "https://www.embrapa.br/documents/1354300/106681924/DJI_0209_Vinicius_Braga+%281%29+ok+ok+ok.jpg/db500304-c1aa-54bd-14d9-4a6678e90134?version=1.0&t=1790595309806",
+        "publishedAt": "2026-09-28T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Biodiversidade",
+          "Pesquisa, Desenvolvimento e Inovação",
+          "Código Florestal"
+        ],
+        "relevancia": 3
+      },
       {
         "title": "Bioeconomia como motor de transformação nos territórios",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148088163/bioeconomia-como-motor-de-transformacao-nos-territorios",
@@ -65,52 +113,6 @@
         "tags": [
           "Agroenergia"
         ],
-        "relevancia": 0
-      },
-      {
-        "title": "Inscrições abertas para o Agroecol 2026: evento reunirá ciência, saberes tradicionais e práticas agroecológicas",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148087164/inscricoes-abertas-para-o-agroecol-2026-evento-reunira-ciencia-saberes-tradicionais-e-praticas-agroecologicas",
-        "summary": "Agricultura familiar · Agroecologia e produção orgânica · Segurança alimentar, nutrição e saúde",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148087165&t=1790420121766",
-        "publishedAt": "2026-09-25T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Agricultura familiar",
-          "Agroecologia e produção orgânica",
-          "Segurança alimentar, nutrição e saúde"
-        ],
-        "relevancia": 0
-      },
-      {
-        "title": "Evento leva alunos a vivenciar atividades práticas sobre solo, clima, pesquisa e florestas plantadas",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148082635/evento-leva-alunos-a-vivenciar-atividades-praticas-sobre-solo-clima-pesquisa-e-florestas-plantadas",
-        "summary": "",
-        "image": "https://www.embrapa.br/documents/1355099/114618686/Dia+%C3%A1rvore+-+caminhada.jpg/200b7833-ee5d-b7b9-e90d-d109b33b4003?version=1.0&t=1790363744713",
-        "publishedAt": "2026-09-25T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 0
-      },
-      {
-        "title": "Cientistas verificam integridade de amostras da Operação Potiguar 2",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148078224/cientistas-verificam-integridade-de-amostras-da-operacao-potiguar-2",
-        "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148078225&t=1790420123054",
-        "publishedAt": "2026-09-25T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Pesquisa, Desenvolvimento e Inovação"
-        ],
-        "relevancia": 0
-      },
-      {
-        "title": "Dia de Campo apresenta avaliações de desempenho da raça Charolesa",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148075509/dia-de-campo-apresenta-avaliacoes-de-desempenho-da-raca-charolesa",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148075510&t=1790420124125",
-        "publishedAt": "2026-09-25T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
         "relevancia": 0
       }
     ]
@@ -123,7 +125,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi-1.jpg",
       "publishedAt": "2026-09-26T21:02:53.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
+      "relevancia": 13
     },
     {
       "title": "Arroba do boi gordo não para de subir: confira as cotações",
@@ -135,31 +137,31 @@
       "relevancia": 12
     },
     {
-      "title": "Boi gordo tem mais um dia de alta e arroba em SP segue próxima de R$ 360",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-tem-mais-uma-dia-de-alta-e-arroba-em-sp-segue-proxima-de-r-360/",
-      "summary": "Negociações ganham ritmo em importantes regiões pecuárias, enquanto preços avançam e produtores resistem a ofertas menores, aponta Cepea O post Boi gordo tem mais um dia de alta e arroba em SP segue próxima de R$ 360 apa",
-      "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
-      "publishedAt": "2026-09-23T12:51:15.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
-      "title": "Arroba do boi gordo continua em elevação; veja as cotações do dia",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-continua-em-elevacao-veja-as-cotacoes-do-dia/",
-      "summary": "Foto: Giro do Boi/ Reprodução Preços ganham suporte por conta das escalas de abate apertadas entre os frigoríficos de pequeno e médio porte O post Arroba do boi gordo continua em elevação; veja as cotações do dia aparece",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/manejo-da-sanidade-reproducao-touros-vacas-estacao-de-monta.jpg",
-      "publishedAt": "2026-09-22T22:24:49.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
       "title": "Pecuária responde por um terço da proteína global, revela FAO",
       "link": "https://www.canalrural.com.br/pecuaria/pecuaria-responde-por-um-terco-da-proteina-global-revela-fao/",
       "summary": "Foto: reprodução/Planeta Campo Segundo a entidade, a segurança alimentar depende do abastecimento local e nacional, uma vez que apenas 15% da carne, 12% dos laticínios e 3% dos ovos produzidos globalmente são comercializ",
       "image": "https://imagens-cdn.canalrural.com.br/2026/07/Captura-de-tela-2026-07-15-165754.png",
       "publishedAt": "2026-09-27T12:03:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 11
+      "relevancia": 9
+    },
+    {
+      "title": "Bezerro sobe mais que boi gordo e relação de troca é a pior em quase 5 anos",
+      "link": "https://www.canalrural.com.br/pecuaria/bezerro-sobe-mais-que-boi-gordo-e-relacao-de-troca-e-a-pior-em-quase-5-anos/",
+      "summary": "Foto: Divulgação. Pecuarista paulista precisa de 9,7 arrobas de boi gordo para comprar um animal de reposição, maior quantidade desde outubro de 2021 O post Bezerro sobe mais que boi gordo e relação de troca é a pior em ",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/01/GuiaBem-Estar-AnimalBezerro25.03.2025-1.jpg",
+      "publishedAt": "2026-09-24T11:38:51.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 9
+    },
+    {
+      "title": "Arroba do boi continua em disparada: veja como o mercado encerrou a semana",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-continua-em-disparada-veja-como-o-mercado-encerrou-a-semana/",
+      "summary": "Imagem gerada por IA Excessão é Mato Grosso, onde as escalas de abate apresentam relativo conforto O post Arroba do boi continua em disparada: veja como o mercado encerrou a semana apareceu primeiro em Canal Rural .",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
+      "publishedAt": "2026-09-25T22:28:29.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 7
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
