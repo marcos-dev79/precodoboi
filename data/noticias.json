@@ -1,24 +1,33 @@
 {
-  "atualizado_em": "2026-09-28T18:51:38.018Z",
+  "atualizado_em": "2026-09-29T17:09:12.625Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Mercado pecuário: veja como a arroba do boi gordo iniciou a semana",
+        "link": "https://www.canalrural.com.br/pecuaria/mercado-pecuario-veja-como-a-arroba-do-boi-gordo-iniciou-a-semana/",
+        "summary": "Escalas de abate permanecem relativamente curtas, com programações concentradas entre seis e sete dias úteis na média nacional O post Mercado pecuário: veja como a arroba do boi gordo iniciou a semana apareceu primeiro e",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/09/boiada-nelore.png",
+        "publishedAt": "2026-09-28T22:53:44.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 16
+      },
+      {
+        "title": "Exportações de carne bovina crescem 5% em setembro, mas ainda recuam 32% no ano",
+        "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-crescem-5-em-setembro-mas-ainda-recuam-32-no-ano/",
+        "summary": "Foto: Freepik Embarques continuam abaixo do registrado há um ano, enquanto preço médio da carne brasileira no exterior permanece valorizado O post Exportações de carne bovina crescem 5% em setembro, mas ainda recuam 32% ",
+        "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
+        "publishedAt": "2026-09-29T11:55:10.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 12
+      },
       {
         "title": "Semana do boi gordo mostra que arroba ainda tem espaço para novas altas",
         "link": "https://www.canalrural.com.br/pecuaria/semana-do-boi-gordo-mostrou-que-arroba-ainda-tem-espaco-para-novas-altas/",
         "summary": "Foto: Arquivo/Canal Rural Frigoríficos de pequeno e médio porte seguem com dificuldades para avançar na compra de boiadas O post Semana do boi gordo mostra que arroba ainda tem espaço para novas altas apareceu primeiro e",
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi-1.jpg",
         "publishedAt": "2026-09-26T21:02:53.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 13
-      },
-      {
-        "title": "Arroba do boi gordo não para de subir: confira as cotações",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-nao-para-de-subir-confira-as-cotacoes/",
-        "summary": "Foto: Gabriel Faria/Embrapa Encurtamento das escalas de abate reforça a perspectiva de novos ajustes positivos no curto prazo O post Arroba do boi gordo não para de subir: confira as cotações apareceu primeiro em Canal R",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-1.jpg",
-        "publishedAt": "2026-09-24T22:22:56.000Z",
         "fonte": "Canal Rural",
         "relevancia": 12
       },
@@ -29,16 +38,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/07/Captura-de-tela-2026-07-15-165754.png",
         "publishedAt": "2026-09-27T12:03:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 9
-      },
-      {
-        "title": "Bezerro sobe mais que boi gordo e relação de troca é a pior em quase 5 anos",
-        "link": "https://www.canalrural.com.br/pecuaria/bezerro-sobe-mais-que-boi-gordo-e-relacao-de-troca-e-a-pior-em-quase-5-anos/",
-        "summary": "Foto: Divulgação. Pecuarista paulista precisa de 9,7 arrobas de boi gordo para comprar um animal de reposição, maior quantidade desde outubro de 2021 O post Bezerro sobe mais que boi gordo e relação de troca é a pior em ",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/01/GuiaBem-Estar-AnimalBezerro25.03.2025-1.jpg",
-        "publishedAt": "2026-09-24T11:38:51.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 9
+        "relevancia": 8
       },
       {
         "title": "Arroba do boi continua em disparada: veja como o mercado encerrou a semana",
@@ -56,83 +56,90 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Patente reconhece tecnologia da Embrapa para produção e estabilização de fungos usados no controle de pragas",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148175727/patente-reconhece-tecnologia-da-embrapa-que-produz-e-estabiliza-fungos-para-controle-de-pragas",
-        "summary": "Pesca e aquicultura",
-        "image": "https://www.embrapa.br/documents/1355145/92982228/PatenteMascarin.jpg/73ac29a7-416b-4bd3-8292-d616f23e7a72?version=1.0&t=1790618681975",
-        "publishedAt": "2026-09-28T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Pesca e aquicultura"
-        ],
-        "relevancia": 3
-      },
-      {
-        "title": "Embalagem de papelão conserva morangos e ajuda a reduzir desperdício",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148167828/embalagem-de-papelao-conserva-morangos-e-ajuda-a-reduzir-desperdicio",
-        "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148168206&t=1790606686648",
-        "publishedAt": "2026-09-28T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Pesquisa, Desenvolvimento e Inovação"
-        ],
-        "relevancia": 3
-      },
-      {
-        "title": "Cultivar de trigo forrageiro será apresentada a criadores de Angus",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148167543/cultivar-de-trigo-forrageiro-sera-apresentada-a-criadores-de-angus",
+        "title": "Ciclone mobiliza empregados da Embrapa Clima Temperado para recuperação da infraestrutura",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148214531/ciclone-mobiliza-empregados-da-embrapa-clima-temperado-para-recuperacao-da-infraestrutura",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148167588&t=1790605939114",
-        "publishedAt": "2026-09-28T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1354346/0/compressedImage+%281%29.jpeg/dd6f4d93-20df-02b8-f832-a3ecc81dfbf8?version=1.0&t=1790700854355",
+        "publishedAt": "2026-09-29T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
         "relevancia": 3
       },
       {
-        "title": "Extremos climáticos sobem em ritmo acelerado e atingem nova área crítica na porção centro-norte da Amazônia",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148159654/extremos-climaticos-sobem-em-ritmo-acelerado-e-atingem-nova-area-critica-na-porcao-centro-norte-da-amazonia",
-        "summary": "Biodiversidade · Pesquisa, Desenvolvimento e Inovação · Código Florestal",
-        "image": "https://www.embrapa.br/documents/1354300/106681924/DJI_0209_Vinicius_Braga+%281%29+ok+ok+ok.jpg/db500304-c1aa-54bd-14d9-4a6678e90134?version=1.0&t=1790595309806",
-        "publishedAt": "2026-09-28T12:00:00.000Z",
+        "title": "Atividades educativas e demonstrações de tecnologias definem presença da Embrapa na 100ª Expofeira de Pelotas",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148209623/atividades-educativas-e-demonstracoes-de-tecnologias-definem-presenca-da-embrapa-na-100-expofeira-de-pelotas",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148209624&t=1790693429296",
+        "publishedAt": "2026-09-29T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 3
+      },
+      {
+        "title": "Capacitação orienta sobre gestão de dados de solos em ambientes digitais",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148204976/capacitacao-orienta-sobre-gestao-de-dados-de-solos-em-ambientes-digitais",
+        "summary": "Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/documents/1355331/54295255/manuseio-solo-2-Lilian_Alves.jpg/89c76aae-32f4-f05d-5f13-bed1b54b3ab6?version=1.0&t=1790685832015",
+        "publishedAt": "2026-09-29T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Biodiversidade",
-          "Pesquisa, Desenvolvimento e Inovação",
-          "Código Florestal"
+          "Transferência de Tecnologia"
         ],
         "relevancia": 3
       },
       {
-        "title": "Bioeconomia como motor de transformação nos territórios",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148088163/bioeconomia-como-motor-de-transformacao-nos-territorios",
-        "summary": "Agroenergia",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148088164&t=1790420121645",
-        "publishedAt": "2026-09-25T12:00:00.000Z",
+        "title": "Dia de Campo promove intercâmbio sobre agroecologia e controle biológico",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148205403/dia-de-campo-promove-intercambio-sobre-agroecologia-e-controle-biologico",
+        "summary": "Agricultura familiar · Agroecologia e produção orgânica · Biodiversidade",
+        "image": "https://www.embrapa.br/documents/1355145/92982228/BeatrizParanhos+em+apresentacao.jpeg/cee02610-d2a0-43c0-6184-1974d29ffead?version=1.0&t=1790686470478",
+        "publishedAt": "2026-09-29T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Agroenergia"
+          "Agricultura familiar",
+          "Agroecologia e produção orgânica",
+          "Biodiversidade"
         ],
-        "relevancia": 0
+        "relevancia": 3
+      },
+      {
+        "title": "Pesquisas sobre Velho Chico são destaque na Primavera dos Museus no Tamar em SE",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148186126/pesquisas-sobre-velho-chico-sao-destaque-na-primavera-dos-museus-no-tamar-em-se",
+        "summary": "Comunicação",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148186127&t=1790653227813",
+        "publishedAt": "2026-09-29T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Comunicação"
+        ],
+        "relevancia": 3
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Mercado pecuário: veja como a arroba do boi gordo iniciou a semana",
+      "link": "https://www.canalrural.com.br/pecuaria/mercado-pecuario-veja-como-a-arroba-do-boi-gordo-iniciou-a-semana/",
+      "summary": "Escalas de abate permanecem relativamente curtas, com programações concentradas entre seis e sete dias úteis na média nacional O post Mercado pecuário: veja como a arroba do boi gordo iniciou a semana apareceu primeiro e",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/09/boiada-nelore.png",
+      "publishedAt": "2026-09-28T22:53:44.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 16
+    },
+    {
+      "title": "Exportações de carne bovina crescem 5% em setembro, mas ainda recuam 32% no ano",
+      "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-crescem-5-em-setembro-mas-ainda-recuam-32-no-ano/",
+      "summary": "Foto: Freepik Embarques continuam abaixo do registrado há um ano, enquanto preço médio da carne brasileira no exterior permanece valorizado O post Exportações de carne bovina crescem 5% em setembro, mas ainda recuam 32% ",
+      "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
+      "publishedAt": "2026-09-29T11:55:10.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 12
+    },
     {
       "title": "Semana do boi gordo mostra que arroba ainda tem espaço para novas altas",
       "link": "https://www.canalrural.com.br/pecuaria/semana-do-boi-gordo-mostrou-que-arroba-ainda-tem-espaco-para-novas-altas/",
       "summary": "Foto: Arquivo/Canal Rural Frigoríficos de pequeno e médio porte seguem com dificuldades para avançar na compra de boiadas O post Semana do boi gordo mostra que arroba ainda tem espaço para novas altas apareceu primeiro e",
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi-1.jpg",
       "publishedAt": "2026-09-26T21:02:53.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 13
-    },
-    {
-      "title": "Arroba do boi gordo não para de subir: confira as cotações",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-nao-para-de-subir-confira-as-cotacoes/",
-      "summary": "Foto: Gabriel Faria/Embrapa Encurtamento das escalas de abate reforça a perspectiva de novos ajustes positivos no curto prazo O post Arroba do boi gordo não para de subir: confira as cotações apareceu primeiro em Canal R",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-1.jpg",
-      "publishedAt": "2026-09-24T22:22:56.000Z",
       "fonte": "Canal Rural",
       "relevancia": 12
     },
@@ -143,16 +150,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/07/Captura-de-tela-2026-07-15-165754.png",
       "publishedAt": "2026-09-27T12:03:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 9
-    },
-    {
-      "title": "Bezerro sobe mais que boi gordo e relação de troca é a pior em quase 5 anos",
-      "link": "https://www.canalrural.com.br/pecuaria/bezerro-sobe-mais-que-boi-gordo-e-relacao-de-troca-e-a-pior-em-quase-5-anos/",
-      "summary": "Foto: Divulgação. Pecuarista paulista precisa de 9,7 arrobas de boi gordo para comprar um animal de reposição, maior quantidade desde outubro de 2021 O post Bezerro sobe mais que boi gordo e relação de troca é a pior em ",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/01/GuiaBem-Estar-AnimalBezerro25.03.2025-1.jpg",
-      "publishedAt": "2026-09-24T11:38:51.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 9
+      "relevancia": 8
     },
     {
       "title": "Arroba do boi continua em disparada: veja como o mercado encerrou a semana",
