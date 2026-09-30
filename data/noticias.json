@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-29T17:09:12.625Z",
+  "atualizado_em": "2026-09-30T17:07:08.521Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -11,7 +11,25 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/09/boiada-nelore.png",
         "publishedAt": "2026-09-28T22:53:44.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 16
+        "relevancia": 14
+      },
+      {
+        "title": "Rebanho bovino recua para 234,3 milhões de cabeças em 2025",
+        "link": "https://www.canalrural.com.br/pecuaria/rebanho-bovino-recua-para-2343-milhoes-de-cabecas-em-2025/",
+        "summary": "Queda de 1,7% marca o segundo recuo anual seguido, enquanto o valor da produção pecuária atinge recorde de R$ 141,2 bilhões. O post Rebanho bovino recua para 234,3 milhões de cabeças em 2025 apareceu primeiro em Canal Ru",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/09/rebanho-bovino-recua-para-234-3-milhoes-de-cabecas-em-2025.png",
+        "publishedAt": "2026-09-30T14:07:03.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 12
+      },
+      {
+        "title": "Cota de carne bovina do Brasil na China é esgotada e sobretaxa começa em três dias",
+        "link": "https://www.canalrural.com.br/pecuaria/cota-de-carne-bovina-do-brasil-na-china-e-esgotada-e-sobretaxa-comeca-em-tres-dias/",
+        "summary": "Foto: Agência Brasil/arquivo Limite anual de 1,106 milhão de toneladas para 2026 foi atingido, e embarques acima da cota passarão a pagar tarifa adicional de 55%. O post Cota de carne bovina do Brasil na China é esgotada",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carne-bovina-3.jpg",
+        "publishedAt": "2026-09-30T15:52:21.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 10
       },
       {
         "title": "Exportações de carne bovina crescem 5% em setembro, mas ainda recuam 32% no ano",
@@ -20,34 +38,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
         "publishedAt": "2026-09-29T11:55:10.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 12
+        "relevancia": 10
       },
       {
-        "title": "Semana do boi gordo mostra que arroba ainda tem espaço para novas altas",
-        "link": "https://www.canalrural.com.br/pecuaria/semana-do-boi-gordo-mostrou-que-arroba-ainda-tem-espaco-para-novas-altas/",
-        "summary": "Foto: Arquivo/Canal Rural Frigoríficos de pequeno e médio porte seguem com dificuldades para avançar na compra de boiadas O post Semana do boi gordo mostra que arroba ainda tem espaço para novas altas apareceu primeiro e",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi-1.jpg",
-        "publishedAt": "2026-09-26T21:02:53.000Z",
+        "title": "Boi gordo ultrapassa R$ 360 em SP e sobe de forma consistente em outras praças",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-ultrapassa-r-360-em-sp-e-sobe-de-forma-consistente-em-outras-pracas/",
+        "summary": "Foto gerada por IA Escalas de abate encurtadas, entre seis e sete dias úteis, é o principal fator que determina as altas neste momento O post Boi gordo ultrapassa R$ 360 em SP e sobe de forma consistente em outras praças",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/10/boi-gordo-precos-no-Brasil.png",
+        "publishedAt": "2026-09-29T22:02:03.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
-        "title": "Pecuária responde por um terço da proteína global, revela FAO",
-        "link": "https://www.canalrural.com.br/pecuaria/pecuaria-responde-por-um-terco-da-proteina-global-revela-fao/",
-        "summary": "Foto: reprodução/Planeta Campo Segundo a entidade, a segurança alimentar depende do abastecimento local e nacional, uma vez que apenas 15% da carne, 12% dos laticínios e 3% dos ovos produzidos globalmente são comercializ",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/07/Captura-de-tela-2026-07-15-165754.png",
-        "publishedAt": "2026-09-27T12:03:00.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 8
-      },
-      {
-        "title": "Arroba do boi continua em disparada: veja como o mercado encerrou a semana",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-continua-em-disparada-veja-como-o-mercado-encerrou-a-semana/",
-        "summary": "Imagem gerada por IA Excessão é Mato Grosso, onde as escalas de abate apresentam relativo conforto O post Arroba do boi continua em disparada: veja como o mercado encerrou a semana apareceu primeiro em Canal Rural .",
-        "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
-        "publishedAt": "2026-09-25T22:28:29.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 7
+        "relevancia": 9
       }
     ]
   },
@@ -56,31 +56,21 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Ciclone mobiliza empregados da Embrapa Clima Temperado para recuperação da infraestrutura",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148214531/ciclone-mobiliza-empregados-da-embrapa-clima-temperado-para-recuperacao-da-infraestrutura",
+        "title": "Semear Digital: Embrapa comanda capacitação sobre irrigação em assentamentos baianos",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148253412/semear-digital-embrapa-comanda-capacitacao-sobre-irrigacao-em-assentamentos-baianos",
         "summary": "",
-        "image": "https://www.embrapa.br/documents/1354346/0/compressedImage+%281%29.jpeg/dd6f4d93-20df-02b8-f832-a3ecc81dfbf8?version=1.0&t=1790700854355",
-        "publishedAt": "2026-09-29T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1355135/106192691/tupim_portal2.png/0d9d6f4c-b47e-7fbb-f688-4315804861cc?version=1.0&t=1790787416953",
+        "publishedAt": "2026-09-30T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
         "relevancia": 3
       },
       {
-        "title": "Atividades educativas e demonstrações de tecnologias definem presença da Embrapa na 100ª Expofeira de Pelotas",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148209623/atividades-educativas-e-demonstracoes-de-tecnologias-definem-presenca-da-embrapa-na-100-expofeira-de-pelotas",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148209624&t=1790693429296",
-        "publishedAt": "2026-09-29T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Capacitação orienta sobre gestão de dados de solos em ambientes digitais",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148204976/capacitacao-orienta-sobre-gestao-de-dados-de-solos-em-ambientes-digitais",
+        "title": "Curso gratuito aborda revolução digital na agricultura",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148252807/curso-gratuito-aborda-revolucao-digital-na-agricultura",
         "summary": "Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/documents/1355331/54295255/manuseio-solo-2-Lilian_Alves.jpg/89c76aae-32f4-f05d-5f13-bed1b54b3ab6?version=1.0&t=1790685832015",
-        "publishedAt": "2026-09-29T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1355331/54295255/card-agricultura-digital-Lilian-Alves.png/1f233b16-1a4d-ccd4-901f-f5fcfb9ef60e?version=1.0&t=1790785015009",
+        "publishedAt": "2026-09-30T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Transferência de Tecnologia"
@@ -88,30 +78,37 @@
         "relevancia": 3
       },
       {
-        "title": "Dia de Campo promove intercâmbio sobre agroecologia e controle biológico",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148205403/dia-de-campo-promove-intercambio-sobre-agroecologia-e-controle-biologico",
-        "summary": "Agricultura familiar · Agroecologia e produção orgânica · Biodiversidade",
-        "image": "https://www.embrapa.br/documents/1355145/92982228/BeatrizParanhos+em+apresentacao.jpeg/cee02610-d2a0-43c0-6184-1974d29ffead?version=1.0&t=1790686470478",
-        "publishedAt": "2026-09-29T12:00:00.000Z",
+        "title": "Novas bases da Agricultura 4.0 ganham perspectiva internacional em obra organizada por pesquisadores da Embrapa e da Grécia",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148247725/novas-bases-da-agricultura-40-ganham-perspectiva-internacional-em-obra-organizada-por-pesquisadores-da-embrapa-e-da-grecia-",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148249523&t=1790781197790",
+        "publishedAt": "2026-09-30T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 3
+      },
+      {
+        "title": "Agrônomos do DF homenageiam a pesquisadora Iêda Mendes",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148229030/agronomos-do-df-homenageiam-a-pesquisadora-ieda-mendes",
+        "summary": "Pesquisa, Desenvolvimento e Inovação · Produção vegetal",
+        "image": "https://www.embrapa.br/documents/1355008/103354088/Comenda+M%C3%A9rito+Agron%C3%B4mico+a+I%C3%AAda+Mendes+destaque+-+Breno+Lobato.jpg/e71b5b19-5847-cfd9-53a4-627513a5d9e7?version=1.0&t=1790734951255",
+        "publishedAt": "2026-09-30T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Agricultura familiar",
-          "Agroecologia e produção orgânica",
-          "Biodiversidade"
+          "Pesquisa, Desenvolvimento e Inovação",
+          "Produção vegetal"
         ],
         "relevancia": 3
       },
       {
-        "title": "Pesquisas sobre Velho Chico são destaque na Primavera dos Museus no Tamar em SE",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148186126/pesquisas-sobre-velho-chico-sao-destaque-na-primavera-dos-museus-no-tamar-em-se",
-        "summary": "Comunicação",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148186127&t=1790653227813",
+        "title": "Embrapa apresenta balanço de quatro décadas de inovação com pastagens biodiversas na Amazônia Ocidental",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148219152/embrapa-apresenta-balanco-de-quatro-decadas-de-inovacao-com-pastagens-biodiversas-na-amazonia-ocidental",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148219213&t=1790707388252",
         "publishedAt": "2026-09-29T12:00:00.000Z",
         "fonte": "Embrapa",
-        "tags": [
-          "Comunicação"
-        ],
-        "relevancia": 3
+        "tags": [],
+        "relevancia": 1
       }
     ]
   },
@@ -123,7 +120,25 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/09/boiada-nelore.png",
       "publishedAt": "2026-09-28T22:53:44.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 16
+      "relevancia": 14
+    },
+    {
+      "title": "Rebanho bovino recua para 234,3 milhões de cabeças em 2025",
+      "link": "https://www.canalrural.com.br/pecuaria/rebanho-bovino-recua-para-2343-milhoes-de-cabecas-em-2025/",
+      "summary": "Queda de 1,7% marca o segundo recuo anual seguido, enquanto o valor da produção pecuária atinge recorde de R$ 141,2 bilhões. O post Rebanho bovino recua para 234,3 milhões de cabeças em 2025 apareceu primeiro em Canal Ru",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/09/rebanho-bovino-recua-para-234-3-milhoes-de-cabecas-em-2025.png",
+      "publishedAt": "2026-09-30T14:07:03.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 12
+    },
+    {
+      "title": "Cota de carne bovina do Brasil na China é esgotada e sobretaxa começa em três dias",
+      "link": "https://www.canalrural.com.br/pecuaria/cota-de-carne-bovina-do-brasil-na-china-e-esgotada-e-sobretaxa-comeca-em-tres-dias/",
+      "summary": "Foto: Agência Brasil/arquivo Limite anual de 1,106 milhão de toneladas para 2026 foi atingido, e embarques acima da cota passarão a pagar tarifa adicional de 55%. O post Cota de carne bovina do Brasil na China é esgotada",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carne-bovina-3.jpg",
+      "publishedAt": "2026-09-30T15:52:21.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 10
     },
     {
       "title": "Exportações de carne bovina crescem 5% em setembro, mas ainda recuam 32% no ano",
@@ -132,34 +147,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
       "publishedAt": "2026-09-29T11:55:10.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 12
+      "relevancia": 10
     },
     {
-      "title": "Semana do boi gordo mostra que arroba ainda tem espaço para novas altas",
-      "link": "https://www.canalrural.com.br/pecuaria/semana-do-boi-gordo-mostrou-que-arroba-ainda-tem-espaco-para-novas-altas/",
-      "summary": "Foto: Arquivo/Canal Rural Frigoríficos de pequeno e médio porte seguem com dificuldades para avançar na compra de boiadas O post Semana do boi gordo mostra que arroba ainda tem espaço para novas altas apareceu primeiro e",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi-1.jpg",
-      "publishedAt": "2026-09-26T21:02:53.000Z",
+      "title": "Boi gordo ultrapassa R$ 360 em SP e sobe de forma consistente em outras praças",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-ultrapassa-r-360-em-sp-e-sobe-de-forma-consistente-em-outras-pracas/",
+      "summary": "Foto gerada por IA Escalas de abate encurtadas, entre seis e sete dias úteis, é o principal fator que determina as altas neste momento O post Boi gordo ultrapassa R$ 360 em SP e sobe de forma consistente em outras praças",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/10/boi-gordo-precos-no-Brasil.png",
+      "publishedAt": "2026-09-29T22:02:03.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
-      "title": "Pecuária responde por um terço da proteína global, revela FAO",
-      "link": "https://www.canalrural.com.br/pecuaria/pecuaria-responde-por-um-terco-da-proteina-global-revela-fao/",
-      "summary": "Foto: reprodução/Planeta Campo Segundo a entidade, a segurança alimentar depende do abastecimento local e nacional, uma vez que apenas 15% da carne, 12% dos laticínios e 3% dos ovos produzidos globalmente são comercializ",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/07/Captura-de-tela-2026-07-15-165754.png",
-      "publishedAt": "2026-09-27T12:03:00.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 8
-    },
-    {
-      "title": "Arroba do boi continua em disparada: veja como o mercado encerrou a semana",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-continua-em-disparada-veja-como-o-mercado-encerrou-a-semana/",
-      "summary": "Imagem gerada por IA Excessão é Mato Grosso, onde as escalas de abate apresentam relativo conforto O post Arroba do boi continua em disparada: veja como o mercado encerrou a semana apareceu primeiro em Canal Rural .",
-      "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
-      "publishedAt": "2026-09-25T22:28:29.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 7
+      "relevancia": 9
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
