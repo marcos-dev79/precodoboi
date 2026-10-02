@@ -1,9 +1,18 @@
 {
-  "atualizado_em": "2026-10-01T17:37:10.667Z",
+  "atualizado_em": "2026-10-02T16:56:17.550Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Arroba do boi gordo estreia outubro com nova alta; veja as cotações",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-estreia-outubro-com-nova-alta-veja-as-cotacoes/",
+        "summary": "Foto: Giro do Boi/reprodução Escalas de abate permanecem relativamente curtas, concentradas entre cinco e sete dias úteis, trazendo firmeza nos preços no curto prazo O post Arroba do boi gordo estreia outubro com nova al",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/reducao-marca-a-fogo-substituicao-brincos-bottons-fazenda-sao-clemente-agropecuaria-marcondes-cesar-bem-estar-animal.jpg",
+        "publishedAt": "2026-10-01T23:01:08.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
       {
         "title": "Arroba do boi gordo segue decolando: confira os preços do dia",
         "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-segue-decolando-confira-os-precos-do-dia/",
@@ -11,7 +20,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/vZZdRpRB-boi-gordo-boiada-scaled.jpg",
         "publishedAt": "2026-09-30T22:14:10.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
+        "relevancia": 13
+      },
+      {
+        "title": "EUA, Chile e Rússia compensam queda nas exportações de carne bovina para a China",
+        "link": "https://www.canalrural.com.br/pecuaria/eua-chile-e-russia-compensam-queda-nas-exportacoes-de-carne-bovina-para-a-china/",
+        "summary": "Foto: Agência Brasil/arquivo Levantamento feito pelo Canal Rural com dados do MDIC mostra que os três países aumentaram o volume de compras nos últimos meses O post EUA, Chile e Rússia compensam queda nas exportações de ",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carne-bovina-3.jpg",
+        "publishedAt": "2026-10-02T11:45:20.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 12
       },
       {
         "title": "Boi gordo sobe 5,42% em setembro e bezerro atinge recorde histórico, aponta Cepea",
@@ -20,7 +38,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/sE5uMovB-boi-gordo.jpg",
         "publishedAt": "2026-10-01T11:13:05.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 14
+        "relevancia": 12
       },
       {
         "title": "Minerva vê avanço em acordo entre Japão e Argentina para carne bovina",
@@ -29,25 +47,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/09/brazilian-beef-levara-23-empresas-a-sial-paris-2026.png",
         "publishedAt": "2026-10-01T13:44:30.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
-      },
-      {
-        "title": "Mapa viabiliza envio de 600 bovinos leiteiros para Botsuana",
-        "link": "https://www.canalrural.com.br/pecuaria/mapa-viabiliza-envio-de-600-bovinos-leiteiros-para-botsuana/",
-        "summary": "Operação inclui animais das raças Girolando e Gir e envolve cooperação para melhoramento genético e tecnologia na pecuária leiteira. O post Mapa viabiliza envio de 600 bovinos leiteiros para Botsuana apareceu primeiro em",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/10/mapa-viabiliza-envio-de-600-bovinos-leiteiros-para-botsuana.png",
-        "publishedAt": "2026-10-01T14:56:19.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
-        "title": "China não autoriza Brasil a utilizar excedente da cota uruguaia de carne bovina",
-        "link": "https://www.canalrural.com.br/pecuaria/china-nao-autoriza-brasil-a-utilizar-excedente-da-cota-uruguaia-de-carne-bovina/",
-        "summary": "Imagem gerada por IA para o Canal Rural Asiáticos passarão a cobrar sobretaxa de 55% sobre o produto brasileiro que desembarcar ainda neste ano por lá; cota se renova em 2027 O post China não autoriza Brasil a utilizar e",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/09/carne-bovina-brasil-china-uruguai.jpg",
-        "publishedAt": "2026-09-30T20:16:22.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 10
+        "relevancia": 11
       }
     ]
   },
@@ -55,6 +55,32 @@
     "fonte": "Embrapa · notícias",
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
+      {
+        "title": "Projeto aproxima estudantes de Campinas da ciência, da biodiversidade e das abelhas nativas",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148341381/projeto-aproxima-estudantes-da-ciencia-da-biodiversidade-e-das-abelhas-nativas",
+        "summary": "Biodiversidade · Segurança alimentar, nutrição e saúde · Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/documents/1355145/92982228/KatiaBragaMeliponario.jpeg/66e312ab-bb52-509d-0584-5027d924f6c6?version=1.0&t=1790955582932",
+        "publishedAt": "2026-10-02T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Biodiversidade",
+          "Segurança alimentar, nutrição e saúde",
+          "Transferência de Tecnologia"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Inovações em geotecnologias são apresentadas no 9º GeoPantanal",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148334298/inovacoes-em-geotecnologias-sao-apresentadas-no-9-geopantanal",
+        "summary": "Geotecnologia",
+        "image": "https://www.embrapa.br/documents/1355331/54295255/Posts+para+GeoPantanal.png/47160e5e-f532-579e-f75f-9303f9f76da6?version=1.0&t=1790945387583",
+        "publishedAt": "2026-10-02T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Geotecnologia"
+        ],
+        "relevancia": 3
+      },
       {
         "title": "Embrapa Maranhão participa de escola internacional sobre ciências ômicas aplicadas a alimentos",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148282269/embrapa-maranhao-participa-de-escola-internacional-sobre-ciencias-omicas-aplicadas-a-alimentos",
@@ -65,56 +91,42 @@
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Embrapa Agroenergia e Binatural identificam oportunidades de cooperação em biodiesel",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148281761/embrapa-agroenergia-e-binatural-identificam-oportunidades-de-cooperacao-em-biodiesel",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148281762&t=1790856540748",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148281762&t=1790856572356",
         "publishedAt": "2026-10-01T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Inscrições abertas para bolsas de estímulo à inovação e sociobiodiversidade na Amazônia",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148262242/inscricoes-abertas-para-bolsas-de-estimulo-a-inovacao-e-sociobiodiversidade-na-amazonia",
         "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148262302&t=1790805851998",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148262302&t=1790893374872",
         "publishedAt": "2026-09-30T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 1
-      },
-      {
-        "title": "Embrapa lança publicação técnica sobre a sigatoka-negra da bananeira no Brasil",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148257872/embrapa-lanca-publicacao-tecnica-sobre--a-sigatoka-negra-da-bananeira-no-brasil",
-        "summary": "Pesquisa, Desenvolvimento e Inovação · Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148257873&t=1790794594508",
-        "publishedAt": "2026-09-30T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Pesquisa, Desenvolvimento e Inovação",
-          "Transferência de Tecnologia"
-        ],
-        "relevancia": 1
-      },
-      {
-        "title": "Semear Digital: Embrapa comanda capacitação sobre irrigação em assentamentos baianos",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148253412/semear-digital-embrapa-comanda-capacitacao-sobre-irrigacao-em-assentamentos-baianos",
-        "summary": "",
-        "image": "https://www.embrapa.br/documents/1355135/106192691/tupim_portal2.png/0d9d6f4c-b47e-7fbb-f688-4315804861cc?version=1.0&t=1790787416953",
-        "publishedAt": "2026-09-30T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 1
+        "relevancia": 0
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Arroba do boi gordo estreia outubro com nova alta; veja as cotações",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-estreia-outubro-com-nova-alta-veja-as-cotacoes/",
+      "summary": "Foto: Giro do Boi/reprodução Escalas de abate permanecem relativamente curtas, concentradas entre cinco e sete dias úteis, trazendo firmeza nos preços no curto prazo O post Arroba do boi gordo estreia outubro com nova al",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/reducao-marca-a-fogo-substituicao-brincos-bottons-fazenda-sao-clemente-agropecuaria-marcondes-cesar-bem-estar-animal.jpg",
+      "publishedAt": "2026-10-01T23:01:08.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
     {
       "title": "Arroba do boi gordo segue decolando: confira os preços do dia",
       "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-segue-decolando-confira-os-precos-do-dia/",
@@ -122,7 +134,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/vZZdRpRB-boi-gordo-boiada-scaled.jpg",
       "publishedAt": "2026-09-30T22:14:10.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
+      "relevancia": 13
+    },
+    {
+      "title": "EUA, Chile e Rússia compensam queda nas exportações de carne bovina para a China",
+      "link": "https://www.canalrural.com.br/pecuaria/eua-chile-e-russia-compensam-queda-nas-exportacoes-de-carne-bovina-para-a-china/",
+      "summary": "Foto: Agência Brasil/arquivo Levantamento feito pelo Canal Rural com dados do MDIC mostra que os três países aumentaram o volume de compras nos últimos meses O post EUA, Chile e Rússia compensam queda nas exportações de ",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carne-bovina-3.jpg",
+      "publishedAt": "2026-10-02T11:45:20.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 12
     },
     {
       "title": "Boi gordo sobe 5,42% em setembro e bezerro atinge recorde histórico, aponta Cepea",
@@ -131,7 +152,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/sE5uMovB-boi-gordo.jpg",
       "publishedAt": "2026-10-01T11:13:05.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 14
+      "relevancia": 12
     },
     {
       "title": "Minerva vê avanço em acordo entre Japão e Argentina para carne bovina",
@@ -140,25 +161,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/09/brazilian-beef-levara-23-empresas-a-sial-paris-2026.png",
       "publishedAt": "2026-10-01T13:44:30.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
-    },
-    {
-      "title": "Mapa viabiliza envio de 600 bovinos leiteiros para Botsuana",
-      "link": "https://www.canalrural.com.br/pecuaria/mapa-viabiliza-envio-de-600-bovinos-leiteiros-para-botsuana/",
-      "summary": "Operação inclui animais das raças Girolando e Gir e envolve cooperação para melhoramento genético e tecnologia na pecuária leiteira. O post Mapa viabiliza envio de 600 bovinos leiteiros para Botsuana apareceu primeiro em",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/10/mapa-viabiliza-envio-de-600-bovinos-leiteiros-para-botsuana.png",
-      "publishedAt": "2026-10-01T14:56:19.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
-      "title": "China não autoriza Brasil a utilizar excedente da cota uruguaia de carne bovina",
-      "link": "https://www.canalrural.com.br/pecuaria/china-nao-autoriza-brasil-a-utilizar-excedente-da-cota-uruguaia-de-carne-bovina/",
-      "summary": "Imagem gerada por IA para o Canal Rural Asiáticos passarão a cobrar sobretaxa de 55% sobre o produto brasileiro que desembarcar ainda neste ano por lá; cota se renova em 2027 O post China não autoriza Brasil a utilizar e",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/09/carne-bovina-brasil-china-uruguai.jpg",
-      "publishedAt": "2026-09-30T20:16:22.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 10
+      "relevancia": 11
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
