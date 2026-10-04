@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-03T15:19:32.527Z",
+  "atualizado_em": "2026-10-04T16:04:11.387Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -10,15 +10,6 @@
         "summary": "Foto: Giro do Boi/reprodução Escalas de abate permanecem relativamente curtas, concentradas entre cinco e sete dias úteis, trazendo firmeza nos preços no curto prazo O post Arroba do boi gordo estreia outubro com nova al",
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/reducao-marca-a-fogo-substituicao-brincos-bottons-fazenda-sao-clemente-agropecuaria-marcondes-cesar-bem-estar-animal.jpg",
         "publishedAt": "2026-10-01T23:01:08.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 13
-      },
-      {
-        "title": "Arroba do boi gordo segue decolando: confira os preços do dia",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-segue-decolando-confira-os-precos-do-dia/",
-        "summary": "Foto: Governo de Mato Grosso Frigoríficos de pequeno e médio porte continuam enfrentando maior dificuldade para completar suas escalas de abate O post Arroba do boi gordo segue decolando: confira os preços do dia aparece",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/vZZdRpRB-boi-gordo-boiada-scaled.jpg",
-        "publishedAt": "2026-09-30T22:14:10.000Z",
         "fonte": "Canal Rural",
         "relevancia": 12
       },
@@ -32,11 +23,11 @@
         "relevancia": 11
       },
       {
-        "title": "Mercado do boi gordo finaliza a semana em alta generalizada",
-        "link": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-finaliza-a-semana-em-alta-generalizada/",
-        "summary": "Foto: Pixabay Escalas de abate encurtadas continuam exigindo recomposição em níveis mais altos O post Mercado do boi gordo finaliza a semana em alta generalizada apareceu primeiro em Canal Rural .",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/2kH4svVn-boi-gordo-nelore.jpg",
-        "publishedAt": "2026-10-02T22:45:15.000Z",
+        "title": "Minerva vê avanço em acordo entre Japão e Argentina para carne bovina",
+        "link": "https://www.canalrural.com.br/pecuaria/minerva-ve-avanco-em-acordo-entre-japao-e-argentina-para-carne-bovina/",
+        "summary": "Companhia afirma que reabertura do mercado japonês para produtos do Norte argentino pode ampliar destinos de exportação de suas operações no país O post Minerva vê avanço em acordo entre Japão e Argentina para carne bovi",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/09/brazilian-beef-levara-23-empresas-a-sial-paris-2026.png",
+        "publishedAt": "2026-10-01T13:44:30.000Z",
         "fonte": "Canal Rural",
         "relevancia": 10
       },
@@ -47,7 +38,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carne-bovina-3.jpg",
         "publishedAt": "2026-10-02T11:45:20.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 10
+        "relevancia": 9
+      },
+      {
+        "title": "Mapa viabiliza envio de 600 bovinos leiteiros para Botsuana",
+        "link": "https://www.canalrural.com.br/pecuaria/mapa-viabiliza-envio-de-600-bovinos-leiteiros-para-botsuana/",
+        "summary": "Operação inclui animais das raças Girolando e Gir e envolve cooperação para melhoramento genético e tecnologia na pecuária leiteira. O post Mapa viabiliza envio de 600 bovinos leiteiros para Botsuana apareceu primeiro em",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/10/mapa-viabiliza-envio-de-600-bovinos-leiteiros-para-botsuana.png",
+        "publishedAt": "2026-10-01T14:56:19.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 9
       }
     ]
   },
@@ -55,6 +55,18 @@
     "fonte": "Embrapa · notícias",
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
+      {
+        "title": "Embrapa e instituições chinesas firmam parceria para fortalecer IA voltada à agricultura familiar",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148377202/embrapa-e-instituicoes-chinesas-firmam-parceria-para-fortalecer-ia-voltada-a-agricultura-familiar",
+        "summary": "Mecanização e Automação",
+        "image": null,
+        "publishedAt": "2026-10-03T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Mecanização e Automação"
+        ],
+        "relevancia": 1
+      },
       {
         "title": "Projeto aproxima estudantes da ciência, da biodiversidade e das abelhas nativas",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148341381/projeto-aproxima-estudantes-da-ciencia-da-biodiversidade-e-das-abelhas-nativas",
@@ -67,7 +79,7 @@
           "Segurança alimentar, nutrição e saúde",
           "Transferência de Tecnologia"
         ],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Inovações em geotecnologias são apresentadas no 9º GeoPantanal",
@@ -79,7 +91,7 @@
         "tags": [
           "Geotecnologia"
         ],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Embrapa Maranhão participa de escola internacional sobre ciências ômicas aplicadas a alimentos",
@@ -102,18 +114,6 @@
         "fonte": "Embrapa",
         "tags": [],
         "relevancia": 0
-      },
-      {
-        "title": "Inscrições abertas para bolsas de estímulo à inovação e sociobiodiversidade na Amazônia",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148262242/inscricoes-abertas-para-bolsas-de-estimulo-a-inovacao-e-sociobiodiversidade-na-amazonia",
-        "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148262302&t=1791021289725",
-        "publishedAt": "2026-09-30T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Pesquisa, Desenvolvimento e Inovação"
-        ],
-        "relevancia": 0
       }
     ]
   },
@@ -124,15 +124,6 @@
       "summary": "Foto: Giro do Boi/reprodução Escalas de abate permanecem relativamente curtas, concentradas entre cinco e sete dias úteis, trazendo firmeza nos preços no curto prazo O post Arroba do boi gordo estreia outubro com nova al",
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/reducao-marca-a-fogo-substituicao-brincos-bottons-fazenda-sao-clemente-agropecuaria-marcondes-cesar-bem-estar-animal.jpg",
       "publishedAt": "2026-10-01T23:01:08.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 13
-    },
-    {
-      "title": "Arroba do boi gordo segue decolando: confira os preços do dia",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-segue-decolando-confira-os-precos-do-dia/",
-      "summary": "Foto: Governo de Mato Grosso Frigoríficos de pequeno e médio porte continuam enfrentando maior dificuldade para completar suas escalas de abate O post Arroba do boi gordo segue decolando: confira os preços do dia aparece",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/vZZdRpRB-boi-gordo-boiada-scaled.jpg",
-      "publishedAt": "2026-09-30T22:14:10.000Z",
       "fonte": "Canal Rural",
       "relevancia": 12
     },
@@ -146,11 +137,11 @@
       "relevancia": 11
     },
     {
-      "title": "Mercado do boi gordo finaliza a semana em alta generalizada",
-      "link": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-finaliza-a-semana-em-alta-generalizada/",
-      "summary": "Foto: Pixabay Escalas de abate encurtadas continuam exigindo recomposição em níveis mais altos O post Mercado do boi gordo finaliza a semana em alta generalizada apareceu primeiro em Canal Rural .",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/2kH4svVn-boi-gordo-nelore.jpg",
-      "publishedAt": "2026-10-02T22:45:15.000Z",
+      "title": "Minerva vê avanço em acordo entre Japão e Argentina para carne bovina",
+      "link": "https://www.canalrural.com.br/pecuaria/minerva-ve-avanco-em-acordo-entre-japao-e-argentina-para-carne-bovina/",
+      "summary": "Companhia afirma que reabertura do mercado japonês para produtos do Norte argentino pode ampliar destinos de exportação de suas operações no país O post Minerva vê avanço em acordo entre Japão e Argentina para carne bovi",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/09/brazilian-beef-levara-23-empresas-a-sial-paris-2026.png",
+      "publishedAt": "2026-10-01T13:44:30.000Z",
       "fonte": "Canal Rural",
       "relevancia": 10
     },
@@ -161,7 +152,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carne-bovina-3.jpg",
       "publishedAt": "2026-10-02T11:45:20.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 10
+      "relevancia": 9
+    },
+    {
+      "title": "Mapa viabiliza envio de 600 bovinos leiteiros para Botsuana",
+      "link": "https://www.canalrural.com.br/pecuaria/mapa-viabiliza-envio-de-600-bovinos-leiteiros-para-botsuana/",
+      "summary": "Operação inclui animais das raças Girolando e Gir e envolve cooperação para melhoramento genético e tecnologia na pecuária leiteira. O post Mapa viabiliza envio de 600 bovinos leiteiros para Botsuana apareceu primeiro em",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/10/mapa-viabiliza-envio-de-600-bovinos-leiteiros-para-botsuana.png",
+      "publishedAt": "2026-10-01T14:56:19.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 9
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
