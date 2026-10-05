@@ -1,9 +1,18 @@
 {
-  "atualizado_em": "2026-10-04T16:04:11.387Z",
+  "atualizado_em": "2026-10-05T19:51:15.905Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Arroba do boi gordo sobe até R$ 10 e pecuaristas esperam novos reajustes",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-sobe-ate-r-10-e-pecuaristas-esperam-novos-reajustes/",
+        "summary": "Foto: Agência IBGE Notícias Mercado segue firme em diferentes praças, enquanto escalas de abate permanecem relativamente curtas O post Arroba do boi gordo sobe até R$ 10 e pecuaristas esperam novos reajustes apareceu pri",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/TV3uBlZP-boi-pecu&aacute;ria.jpg",
+        "publishedAt": "2026-10-05T13:17:11.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 16
+      },
       {
         "title": "Arroba do boi gordo estreia outubro com nova alta; veja as cotações",
         "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-estreia-outubro-com-nova-alta-veja-as-cotacoes/",
@@ -12,15 +21,6 @@
         "publishedAt": "2026-10-01T23:01:08.000Z",
         "fonte": "Canal Rural",
         "relevancia": 12
-      },
-      {
-        "title": "Boi gordo sobe 5,42% em setembro e bezerro atinge recorde histórico, aponta Cepea",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-542-em-setembro-e-bezerro-atinge-recorde-historico-aponta-cepea/",
-        "summary": "Foto: Lorran Lima/Idaf Oferta menor de animais para abate e melhora das exportações sustentam os preços, enquanto reposição mais cara pressiona as margens da cadeia O post Boi gordo sobe 5,42% em setembro e bezerro ating",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/sE5uMovB-boi-gordo.jpg",
-        "publishedAt": "2026-10-01T11:13:05.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 11
       },
       {
         "title": "Minerva vê avanço em acordo entre Japão e Argentina para carne bovina",
@@ -56,68 +56,78 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Embrapa e instituições chinesas firmam parceria para fortalecer IA voltada à agricultura familiar",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148377202/embrapa-e-instituicoes-chinesas-firmam-parceria-para-fortalecer-ia-voltada-a-agricultura-familiar",
-        "summary": "Mecanização e Automação",
-        "image": null,
-        "publishedAt": "2026-10-03T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Mecanização e Automação"
-        ],
-        "relevancia": 1
-      },
-      {
-        "title": "Projeto aproxima estudantes da ciência, da biodiversidade e das abelhas nativas",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148341381/projeto-aproxima-estudantes-da-ciencia-da-biodiversidade-e-das-abelhas-nativas",
-        "summary": "Biodiversidade · Segurança alimentar, nutrição e saúde · Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/documents/1355145/92982228/KatiaBragaMeliponario.jpeg/66e312ab-bb52-509d-0584-5027d924f6c6?version=1.0&t=1790955582932",
-        "publishedAt": "2026-10-02T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Biodiversidade",
-          "Segurança alimentar, nutrição e saúde",
-          "Transferência de Tecnologia"
-        ],
-        "relevancia": 0
-      },
-      {
-        "title": "Inovações em geotecnologias são apresentadas no 9º GeoPantanal",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148334298/inovacoes-em-geotecnologias-sao-apresentadas-no-9-geopantanal",
-        "summary": "Geotecnologia",
-        "image": "https://www.embrapa.br/documents/1355331/54295255/Posts+para+GeoPantanal.png/47160e5e-f532-579e-f75f-9303f9f76da6?version=1.0&t=1790945387583",
-        "publishedAt": "2026-10-02T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Geotecnologia"
-        ],
-        "relevancia": 0
-      },
-      {
-        "title": "Embrapa Maranhão participa de escola internacional sobre ciências ômicas aplicadas a alimentos",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148282269/embrapa-maranhao-participa-de-escola-internacional-sobre-ciencias-omicas-aplicadas-a-alimentos",
+        "title": "Parceria entre Embrapa e UnB identifica causa de surto de virose em melancia",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148439122/parceria-entre-embrapa-e-unb-identifica-causa-de-surto-de-virose-em-melancia",
         "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": null,
-        "publishedAt": "2026-10-01T12:00:00.000Z",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148439123&t=1791227012537",
+        "publishedAt": "2026-10-05T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 0
+        "relevancia": 3
       },
       {
-        "title": "Embrapa Agroenergia e Binatural identificam oportunidades de cooperação em biodiesel",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148281761/embrapa-agroenergia-e-binatural-identificam-oportunidades-de-cooperacao-em-biodiesel",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148281762&t=1790856572356",
-        "publishedAt": "2026-10-01T12:00:00.000Z",
+        "title": "Workshop discute conservação de fruteiras nativas em bancos genéticos",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148438661/workshop-discute-conservacao-de-fruteiras-nativas-em-bancos-geneticos",
+        "summary": "Pesquisa, Desenvolvimento e Inovação",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148438662&t=1791227012550",
+        "publishedAt": "2026-10-05T12:00:00.000Z",
         "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 0
+        "tags": [
+          "Pesquisa, Desenvolvimento e Inovação"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Mariangela Hungria debate protagonismo dos bioinsumos na agricultura",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148437913/mariangela-hungria-debate-protagonismo-dos-bioinsumos-na-agricultura",
+        "summary": "Fixação Biológica de Nitrogênio",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148437914&t=1791227012561",
+        "publishedAt": "2026-10-05T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Fixação Biológica de Nitrogênio"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Diálogo internacional fortalece cooperação para tecnologias e negócios sustentáveis no Pará",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148437497/dialogo-internacional-fortalece-cooperacao-para-tecnologias-e-negocios-sustentaveis-no-para",
+        "summary": "Mudanças climáticas · Agricultura de Baixo Carbono",
+        "image": "https://www.embrapa.br/documents/1354300/106681924/PAixesbaixos-capa.jpg/428710af-3c09-5afb-4200-a6e009df91f8?version=1.0&t=1791217297346",
+        "publishedAt": "2026-10-05T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Mudanças climáticas",
+          "Agricultura de Baixo Carbono"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Soluções para alimentação animal e apicultura são destaque no Sertão Rural Show 2026",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148432786/solucoes-para-alimentacao-animal-e-apicultura-sao-destaque-no-sertao-rural-show-2026",
+        "summary": "Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148432787&t=1791227012590",
+        "publishedAt": "2026-10-05T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Transferência de Tecnologia"
+        ],
+        "relevancia": 3
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Arroba do boi gordo sobe até R$ 10 e pecuaristas esperam novos reajustes",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-sobe-ate-r-10-e-pecuaristas-esperam-novos-reajustes/",
+      "summary": "Foto: Agência IBGE Notícias Mercado segue firme em diferentes praças, enquanto escalas de abate permanecem relativamente curtas O post Arroba do boi gordo sobe até R$ 10 e pecuaristas esperam novos reajustes apareceu pri",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/TV3uBlZP-boi-pecu&aacute;ria.jpg",
+      "publishedAt": "2026-10-05T13:17:11.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 16
+    },
     {
       "title": "Arroba do boi gordo estreia outubro com nova alta; veja as cotações",
       "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-estreia-outubro-com-nova-alta-veja-as-cotacoes/",
@@ -126,15 +136,6 @@
       "publishedAt": "2026-10-01T23:01:08.000Z",
       "fonte": "Canal Rural",
       "relevancia": 12
-    },
-    {
-      "title": "Boi gordo sobe 5,42% em setembro e bezerro atinge recorde histórico, aponta Cepea",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-542-em-setembro-e-bezerro-atinge-recorde-historico-aponta-cepea/",
-      "summary": "Foto: Lorran Lima/Idaf Oferta menor de animais para abate e melhora das exportações sustentam os preços, enquanto reposição mais cara pressiona as margens da cadeia O post Boi gordo sobe 5,42% em setembro e bezerro ating",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/sE5uMovB-boi-gordo.jpg",
-      "publishedAt": "2026-10-01T11:13:05.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 11
     },
     {
       "title": "Minerva vê avanço em acordo entre Japão e Argentina para carne bovina",
