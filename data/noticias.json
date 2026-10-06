@@ -1,9 +1,27 @@
 {
-  "atualizado_em": "2026-10-05T19:51:15.905Z",
+  "atualizado_em": "2026-10-06T17:30:50.606Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Arroba do boi gordo bate novo recorde e chega a R$ 372,95",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-bate-novo-recorde-e-chega-a-r-37295/",
+        "summary": "Foto: Henrique Bighetti/Canal Rural Oferta limitada de animais sustenta cotações, enquanto escalas de abate variam entre três e sete dias O post Arroba do boi gordo bate novo recorde e chega a R$ 372,95 apareceu primeiro",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/HVxb9AuV-boiadahenrique02.jpg",
+        "publishedAt": "2026-10-06T14:11:55.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
+      {
+        "title": "Boi gordo: veja como a arroba se comportou no pós-eleição",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-veja-como-a-arroba-se-comportou-no-pos-eleicao/",
+        "summary": "Foto: Raquel Brunelli/Embrapa Frigoríficos seguem ativos nas compras e favoráveis a reajustes de preços O post Boi gordo: veja como a arroba se comportou no pós-eleição apareceu primeiro em Canal Rural .",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
+        "publishedAt": "2026-10-05T22:07:01.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
       {
         "title": "Arroba do boi gordo sobe até R$ 10 e pecuaristas esperam novos reajustes",
         "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-sobe-ate-r-10-e-pecuaristas-esperam-novos-reajustes/",
@@ -11,23 +29,14 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/TV3uBlZP-boi-pecu&aacute;ria.jpg",
         "publishedAt": "2026-10-05T13:17:11.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 16
+        "relevancia": 14
       },
       {
-        "title": "Arroba do boi gordo estreia outubro com nova alta; veja as cotações",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-estreia-outubro-com-nova-alta-veja-as-cotacoes/",
-        "summary": "Foto: Giro do Boi/reprodução Escalas de abate permanecem relativamente curtas, concentradas entre cinco e sete dias úteis, trazendo firmeza nos preços no curto prazo O post Arroba do boi gordo estreia outubro com nova al",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/reducao-marca-a-fogo-substituicao-brincos-bottons-fazenda-sao-clemente-agropecuaria-marcondes-cesar-bem-estar-animal.jpg",
-        "publishedAt": "2026-10-01T23:01:08.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
-        "title": "Minerva vê avanço em acordo entre Japão e Argentina para carne bovina",
-        "link": "https://www.canalrural.com.br/pecuaria/minerva-ve-avanco-em-acordo-entre-japao-e-argentina-para-carne-bovina/",
-        "summary": "Companhia afirma que reabertura do mercado japonês para produtos do Norte argentino pode ampliar destinos de exportação de suas operações no país O post Minerva vê avanço em acordo entre Japão e Argentina para carne bovi",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/09/brazilian-beef-levara-23-empresas-a-sial-paris-2026.png",
-        "publishedAt": "2026-10-01T13:44:30.000Z",
+        "title": "Menos boi e mais fêmeas retidas: o que esperar do preço do boi gordo em 2027?",
+        "link": "https://www.canalrural.com.br/opiniao-noticias/menos-boi-e-mais-femeas-retidas-o-que-esperar-do-preco-do-boi-gordo-em-2027/",
+        "summary": "Foto gerada por IA Safras & Mercado aponta mudança no ciclo pecuário, enquanto reposição mais cara aumenta pressão sobre os custos O post Menos boi e mais fêmeas retidas: o que esperar do preço do boi gordo em 2027? apar",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/08/derivativos-boi-gordo.jpg",
+        "publishedAt": "2026-10-06T00:10:37.000Z",
         "fonte": "Canal Rural",
         "relevancia": 10
       },
@@ -39,15 +48,6 @@
         "publishedAt": "2026-10-02T11:45:20.000Z",
         "fonte": "Canal Rural",
         "relevancia": 9
-      },
-      {
-        "title": "Mapa viabiliza envio de 600 bovinos leiteiros para Botsuana",
-        "link": "https://www.canalrural.com.br/pecuaria/mapa-viabiliza-envio-de-600-bovinos-leiteiros-para-botsuana/",
-        "summary": "Operação inclui animais das raças Girolando e Gir e envolve cooperação para melhoramento genético e tecnologia na pecuária leiteira. O post Mapa viabiliza envio de 600 bovinos leiteiros para Botsuana apareceu primeiro em",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/10/mapa-viabiliza-envio-de-600-bovinos-leiteiros-para-botsuana.png",
-        "publishedAt": "2026-10-01T14:56:19.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 9
       }
     ]
   },
@@ -56,40 +56,40 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Parceria entre Embrapa e UnB identifica causa de surto de virose em melancia",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148439122/parceria-entre-embrapa-e-unb-identifica-causa-de-surto-de-virose-em-melancia",
+        "title": "Parceria entre Embrapa e UnB busca identificar causa de surto de virose em melancia",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148439122/parceria-entre-embrapa-e-unb-busca-identificar-causa-de-surto-de-virose-em-melancia",
         "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148439123&t=1791227012537",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148439123&t=1791232119175",
         "publishedAt": "2026-10-05T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Workshop discute conservação de fruteiras nativas em bancos genéticos",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148438661/workshop-discute-conservacao-de-fruteiras-nativas-em-bancos-geneticos",
         "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148438662&t=1791227012550",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148438662&t=1791232119198",
         "publishedAt": "2026-10-05T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Mariangela Hungria debate protagonismo dos bioinsumos na agricultura",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148437913/mariangela-hungria-debate-protagonismo-dos-bioinsumos-na-agricultura",
         "summary": "Fixação Biológica de Nitrogênio",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148437914&t=1791227012561",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148437914&t=1791232119216",
         "publishedAt": "2026-10-05T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Fixação Biológica de Nitrogênio"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Diálogo internacional fortalece cooperação para tecnologias e negócios sustentáveis no Pará",
@@ -102,23 +102,41 @@
           "Mudanças climáticas",
           "Agricultura de Baixo Carbono"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Soluções para alimentação animal e apicultura são destaque no Sertão Rural Show 2026",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148432786/solucoes-para-alimentacao-animal-e-apicultura-sao-destaque-no-sertao-rural-show-2026",
         "summary": "Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148432787&t=1791227012590",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148432787&t=1791232119245",
         "publishedAt": "2026-10-05T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Transferência de Tecnologia"
         ],
-        "relevancia": 3
+        "relevancia": 1
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Arroba do boi gordo bate novo recorde e chega a R$ 372,95",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-bate-novo-recorde-e-chega-a-r-37295/",
+      "summary": "Foto: Henrique Bighetti/Canal Rural Oferta limitada de animais sustenta cotações, enquanto escalas de abate variam entre três e sete dias O post Arroba do boi gordo bate novo recorde e chega a R$ 372,95 apareceu primeiro",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/HVxb9AuV-boiadahenrique02.jpg",
+      "publishedAt": "2026-10-06T14:11:55.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
+    {
+      "title": "Boi gordo: veja como a arroba se comportou no pós-eleição",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-veja-como-a-arroba-se-comportou-no-pos-eleicao/",
+      "summary": "Foto: Raquel Brunelli/Embrapa Frigoríficos seguem ativos nas compras e favoráveis a reajustes de preços O post Boi gordo: veja como a arroba se comportou no pós-eleição apareceu primeiro em Canal Rural .",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
+      "publishedAt": "2026-10-05T22:07:01.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
     {
       "title": "Arroba do boi gordo sobe até R$ 10 e pecuaristas esperam novos reajustes",
       "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-sobe-ate-r-10-e-pecuaristas-esperam-novos-reajustes/",
@@ -126,23 +144,14 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/TV3uBlZP-boi-pecu&aacute;ria.jpg",
       "publishedAt": "2026-10-05T13:17:11.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 16
+      "relevancia": 14
     },
     {
-      "title": "Arroba do boi gordo estreia outubro com nova alta; veja as cotações",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-estreia-outubro-com-nova-alta-veja-as-cotacoes/",
-      "summary": "Foto: Giro do Boi/reprodução Escalas de abate permanecem relativamente curtas, concentradas entre cinco e sete dias úteis, trazendo firmeza nos preços no curto prazo O post Arroba do boi gordo estreia outubro com nova al",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/reducao-marca-a-fogo-substituicao-brincos-bottons-fazenda-sao-clemente-agropecuaria-marcondes-cesar-bem-estar-animal.jpg",
-      "publishedAt": "2026-10-01T23:01:08.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
-      "title": "Minerva vê avanço em acordo entre Japão e Argentina para carne bovina",
-      "link": "https://www.canalrural.com.br/pecuaria/minerva-ve-avanco-em-acordo-entre-japao-e-argentina-para-carne-bovina/",
-      "summary": "Companhia afirma que reabertura do mercado japonês para produtos do Norte argentino pode ampliar destinos de exportação de suas operações no país O post Minerva vê avanço em acordo entre Japão e Argentina para carne bovi",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/09/brazilian-beef-levara-23-empresas-a-sial-paris-2026.png",
-      "publishedAt": "2026-10-01T13:44:30.000Z",
+      "title": "Menos boi e mais fêmeas retidas: o que esperar do preço do boi gordo em 2027?",
+      "link": "https://www.canalrural.com.br/opiniao-noticias/menos-boi-e-mais-femeas-retidas-o-que-esperar-do-preco-do-boi-gordo-em-2027/",
+      "summary": "Foto gerada por IA Safras & Mercado aponta mudança no ciclo pecuário, enquanto reposição mais cara aumenta pressão sobre os custos O post Menos boi e mais fêmeas retidas: o que esperar do preço do boi gordo em 2027? apar",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/08/derivativos-boi-gordo.jpg",
+      "publishedAt": "2026-10-06T00:10:37.000Z",
       "fonte": "Canal Rural",
       "relevancia": 10
     },
@@ -152,15 +161,6 @@
       "summary": "Foto: Agência Brasil/arquivo Levantamento feito pelo Canal Rural com dados do MDIC mostra que os três países aumentaram o volume de compras nos últimos meses O post EUA, Chile e Rússia compensam queda nas exportações de ",
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carne-bovina-3.jpg",
       "publishedAt": "2026-10-02T11:45:20.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 9
-    },
-    {
-      "title": "Mapa viabiliza envio de 600 bovinos leiteiros para Botsuana",
-      "link": "https://www.canalrural.com.br/pecuaria/mapa-viabiliza-envio-de-600-bovinos-leiteiros-para-botsuana/",
-      "summary": "Operação inclui animais das raças Girolando e Gir e envolve cooperação para melhoramento genético e tecnologia na pecuária leiteira. O post Mapa viabiliza envio de 600 bovinos leiteiros para Botsuana apareceu primeiro em",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/10/mapa-viabiliza-envio-de-600-bovinos-leiteiros-para-botsuana.png",
-      "publishedAt": "2026-10-01T14:56:19.000Z",
       "fonte": "Canal Rural",
       "relevancia": 9
     }
