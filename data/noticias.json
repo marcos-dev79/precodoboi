@@ -1,9 +1,18 @@
 {
-  "atualizado_em": "2026-10-06T17:30:50.606Z",
+  "atualizado_em": "2026-10-07T18:02:46.758Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Arroba do boi gordo dispara no começo de outubro e atinge R$ 380 em São Paulo",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-dispara-no-comeco-de-outubro-e-atinge-r-380-em-sao-paulo/",
+        "summary": "Foto: Secretaria de Agricultura de São Paulo Oferta limitada dificulta formação das escalas de abate, enquanto preço da carne avança em ritmo menor, aponta Cepea O post Arroba do boi gordo dispara no começo de outubro e ",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
+        "publishedAt": "2026-10-07T13:18:04.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 18
+      },
       {
         "title": "Arroba do boi gordo bate novo recorde e chega a R$ 372,95",
         "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-bate-novo-recorde-e-chega-a-r-37295/",
@@ -11,7 +20,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/HVxb9AuV-boiadahenrique02.jpg",
         "publishedAt": "2026-10-06T14:11:55.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
+        "relevancia": 13
       },
       {
         "title": "Boi gordo: veja como a arroba se comportou no pós-eleição",
@@ -20,7 +29,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
         "publishedAt": "2026-10-05T22:07:01.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
+        "relevancia": 13
       },
       {
         "title": "Arroba do boi gordo sobe até R$ 10 e pecuaristas esperam novos reajustes",
@@ -29,25 +38,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/TV3uBlZP-boi-pecu&aacute;ria.jpg",
         "publishedAt": "2026-10-05T13:17:11.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 14
+        "relevancia": 13
       },
       {
-        "title": "Menos boi e mais fêmeas retidas: o que esperar do preço do boi gordo em 2027?",
-        "link": "https://www.canalrural.com.br/opiniao-noticias/menos-boi-e-mais-femeas-retidas-o-que-esperar-do-preco-do-boi-gordo-em-2027/",
-        "summary": "Foto gerada por IA Safras & Mercado aponta mudança no ciclo pecuário, enquanto reposição mais cara aumenta pressão sobre os custos O post Menos boi e mais fêmeas retidas: o que esperar do preço do boi gordo em 2027? apar",
-        "image": "https://imagens-cdn.canalrural.com.br/2025/08/derivativos-boi-gordo.jpg",
-        "publishedAt": "2026-10-06T00:10:37.000Z",
+        "title": "Exportações de carne bovina somam 2,43 milhões de toneladas até setembro",
+        "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-somam-243-milhoes-de-toneladas-ate-setembro/",
+        "summary": "Embarques caíram em setembro com forte recuo das vendas para a China, enquanto a receita acumulada do ano avançou 14,1%. O post Exportações de carne bovina somam 2,43 milhões de toneladas até setembro apareceu primeiro e",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/07/eua-excluem-pescados-brasileiros-de-novas-tarifas-de-importacao.png",
+        "publishedAt": "2026-10-07T12:40:43.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 10
-      },
-      {
-        "title": "EUA, Chile e Rússia compensam queda nas exportações de carne bovina para a China",
-        "link": "https://www.canalrural.com.br/pecuaria/eua-chile-e-russia-compensam-queda-nas-exportacoes-de-carne-bovina-para-a-china/",
-        "summary": "Foto: Agência Brasil/arquivo Levantamento feito pelo Canal Rural com dados do MDIC mostra que os três países aumentaram o volume de compras nos últimos meses O post EUA, Chile e Rússia compensam queda nas exportações de ",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carne-bovina-3.jpg",
-        "publishedAt": "2026-10-02T11:45:20.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 9
+        "relevancia": 12
       }
     ]
   },
@@ -56,69 +56,73 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
+        "title": "Embrapa leva contribuições sobre os desafios do agro ao Gaffff 2026",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148476578/embrapa-leva-contribuicoes-sobre-os-desafios-do-agro-ao-gaffff-2026",
+        "summary": "",
+        "image": null,
+        "publishedAt": "2026-10-06T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 1
+      },
+      {
+        "title": "Capacitação em enxertia de Araucária forma rede de multiplicadores na Serra Gaúcha",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148474107/capacitacao-em-enxertia-de-araucaria-forma-rede-de-multiplicadores-na-serra-gaucha",
+        "summary": "",
+        "image": "https://www.embrapa.br/documents/1355099/148474121/900Michele+Belas+da+Embrapa+Uva+e+Vinho+%286%29.jpg/2b193f87-96dd-549a-bf22-d1515bd76cf0?version=1.0&t=1791308350090",
+        "publishedAt": "2026-10-06T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 1
+      },
+      {
         "title": "Parceria entre Embrapa e UnB busca identificar causa de surto de virose em melancia",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148439122/parceria-entre-embrapa-e-unb-busca-identificar-causa-de-surto-de-virose-em-melancia",
         "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148439123&t=1791232119175",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148439123&t=1791385010963",
         "publishedAt": "2026-10-05T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Workshop discute conservação de fruteiras nativas em bancos genéticos",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148438661/workshop-discute-conservacao-de-fruteiras-nativas-em-bancos-geneticos",
         "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148438662&t=1791232119198",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148438662&t=1791385012200",
         "publishedAt": "2026-10-05T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Mariangela Hungria debate protagonismo dos bioinsumos na agricultura",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148437913/mariangela-hungria-debate-protagonismo-dos-bioinsumos-na-agricultura",
         "summary": "Fixação Biológica de Nitrogênio",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148437914&t=1791232119216",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148437914&t=1791392305828",
         "publishedAt": "2026-10-05T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Fixação Biológica de Nitrogênio"
         ],
-        "relevancia": 1
-      },
-      {
-        "title": "Diálogo internacional fortalece cooperação para tecnologias e negócios sustentáveis no Pará",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148437497/dialogo-internacional-fortalece-cooperacao-para-tecnologias-e-negocios-sustentaveis-no-para",
-        "summary": "Mudanças climáticas · Agricultura de Baixo Carbono",
-        "image": "https://www.embrapa.br/documents/1354300/106681924/PAixesbaixos-capa.jpg/428710af-3c09-5afb-4200-a6e009df91f8?version=1.0&t=1791217297346",
-        "publishedAt": "2026-10-05T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Mudanças climáticas",
-          "Agricultura de Baixo Carbono"
-        ],
-        "relevancia": 1
-      },
-      {
-        "title": "Soluções para alimentação animal e apicultura são destaque no Sertão Rural Show 2026",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148432786/solucoes-para-alimentacao-animal-e-apicultura-sao-destaque-no-sertao-rural-show-2026",
-        "summary": "Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148432787&t=1791232119245",
-        "publishedAt": "2026-10-05T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Transferência de Tecnologia"
-        ],
-        "relevancia": 1
+        "relevancia": 0
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Arroba do boi gordo dispara no começo de outubro e atinge R$ 380 em São Paulo",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-dispara-no-comeco-de-outubro-e-atinge-r-380-em-sao-paulo/",
+      "summary": "Foto: Secretaria de Agricultura de São Paulo Oferta limitada dificulta formação das escalas de abate, enquanto preço da carne avança em ritmo menor, aponta Cepea O post Arroba do boi gordo dispara no começo de outubro e ",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
+      "publishedAt": "2026-10-07T13:18:04.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 18
+    },
     {
       "title": "Arroba do boi gordo bate novo recorde e chega a R$ 372,95",
       "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-bate-novo-recorde-e-chega-a-r-37295/",
@@ -126,7 +130,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/HVxb9AuV-boiadahenrique02.jpg",
       "publishedAt": "2026-10-06T14:11:55.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
+      "relevancia": 13
     },
     {
       "title": "Boi gordo: veja como a arroba se comportou no pós-eleição",
@@ -135,7 +139,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
       "publishedAt": "2026-10-05T22:07:01.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
+      "relevancia": 13
     },
     {
       "title": "Arroba do boi gordo sobe até R$ 10 e pecuaristas esperam novos reajustes",
@@ -144,25 +148,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/TV3uBlZP-boi-pecu&aacute;ria.jpg",
       "publishedAt": "2026-10-05T13:17:11.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 14
+      "relevancia": 13
     },
     {
-      "title": "Menos boi e mais fêmeas retidas: o que esperar do preço do boi gordo em 2027?",
-      "link": "https://www.canalrural.com.br/opiniao-noticias/menos-boi-e-mais-femeas-retidas-o-que-esperar-do-preco-do-boi-gordo-em-2027/",
-      "summary": "Foto gerada por IA Safras & Mercado aponta mudança no ciclo pecuário, enquanto reposição mais cara aumenta pressão sobre os custos O post Menos boi e mais fêmeas retidas: o que esperar do preço do boi gordo em 2027? apar",
-      "image": "https://imagens-cdn.canalrural.com.br/2025/08/derivativos-boi-gordo.jpg",
-      "publishedAt": "2026-10-06T00:10:37.000Z",
+      "title": "Exportações de carne bovina somam 2,43 milhões de toneladas até setembro",
+      "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-somam-243-milhoes-de-toneladas-ate-setembro/",
+      "summary": "Embarques caíram em setembro com forte recuo das vendas para a China, enquanto a receita acumulada do ano avançou 14,1%. O post Exportações de carne bovina somam 2,43 milhões de toneladas até setembro apareceu primeiro e",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/07/eua-excluem-pescados-brasileiros-de-novas-tarifas-de-importacao.png",
+      "publishedAt": "2026-10-07T12:40:43.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 10
-    },
-    {
-      "title": "EUA, Chile e Rússia compensam queda nas exportações de carne bovina para a China",
-      "link": "https://www.canalrural.com.br/pecuaria/eua-chile-e-russia-compensam-queda-nas-exportacoes-de-carne-bovina-para-a-china/",
-      "summary": "Foto: Agência Brasil/arquivo Levantamento feito pelo Canal Rural com dados do MDIC mostra que os três países aumentaram o volume de compras nos últimos meses O post EUA, Chile e Rússia compensam queda nas exportações de ",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carne-bovina-3.jpg",
-      "publishedAt": "2026-10-02T11:45:20.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 9
+      "relevancia": 12
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
