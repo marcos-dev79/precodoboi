@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-07T18:02:46.758Z",
+  "atualizado_em": "2026-10-08T18:04:57.689Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -11,7 +11,34 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
         "publishedAt": "2026-10-07T13:18:04.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 18
+        "relevancia": 16
+      },
+      {
+        "title": "Arroba do boi gordo atinge maior preço da história em SP, aponta Cepea",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-atinge-maior-preco-da-historia-em-sp-aponta-cepea/",
+        "summary": "Foto: Nataly Porto. O Indicador do Boi Gordo Cepea/Esalq atingiu um novo recorde nominal, fechando a R$ 376,10 por arroba O post Arroba do boi gordo atinge maior preço da história em SP, aponta Cepea apareceu primeiro em",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/05/THUMB-YOUTUBE-GIRO-DO-BOI-41.jpg",
+        "publishedAt": "2026-10-08T12:40:35.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
+      {
+        "title": "Arroba do boi gordo mantém alta generalizada; veja os preços",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-mantem-alta-generalizada-veja-os-precos/",
+        "summary": "Foto gerada por IA Oferta restrita de animais e posicionamento desconfortável das escalas de abate continuam gerando valorização das cotações O post Arroba do boi gordo mantém alta generalizada; veja os preços apareceu p",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/10/boi-gordo-precos-no-Brasil.png",
+        "publishedAt": "2026-10-07T21:46:02.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
+      {
+        "title": "Carne bovina brasileira mantém preços elevados no exterior apesar da queda nas exportações",
+        "link": "https://www.canalrural.com.br/pecuaria/carne-bovina-brasileira-mantem-precos-elevados-no-exterior-apesar-da-queda-nas-exportacoes/",
+        "summary": "Foto: Ministério da Agricultura Segundo o Cepea, volume embarcado recuou em setembro, mas valorização da proteína garantiu aumento da receita em relação a agosto O post Carne bovina brasileira mantém preços elevados no e",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carneMapa.jpeg",
+        "publishedAt": "2026-10-08T11:21:54.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 12
       },
       {
         "title": "Arroba do boi gordo bate novo recorde e chega a R$ 372,95",
@@ -19,33 +46,6 @@
         "summary": "Foto: Henrique Bighetti/Canal Rural Oferta limitada de animais sustenta cotações, enquanto escalas de abate variam entre três e sete dias O post Arroba do boi gordo bate novo recorde e chega a R$ 372,95 apareceu primeiro",
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/HVxb9AuV-boiadahenrique02.jpg",
         "publishedAt": "2026-10-06T14:11:55.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 13
-      },
-      {
-        "title": "Boi gordo: veja como a arroba se comportou no pós-eleição",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-veja-como-a-arroba-se-comportou-no-pos-eleicao/",
-        "summary": "Foto: Raquel Brunelli/Embrapa Frigoríficos seguem ativos nas compras e favoráveis a reajustes de preços O post Boi gordo: veja como a arroba se comportou no pós-eleição apareceu primeiro em Canal Rural .",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
-        "publishedAt": "2026-10-05T22:07:01.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 13
-      },
-      {
-        "title": "Arroba do boi gordo sobe até R$ 10 e pecuaristas esperam novos reajustes",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-sobe-ate-r-10-e-pecuaristas-esperam-novos-reajustes/",
-        "summary": "Foto: Agência IBGE Notícias Mercado segue firme em diferentes praças, enquanto escalas de abate permanecem relativamente curtas O post Arroba do boi gordo sobe até R$ 10 e pecuaristas esperam novos reajustes apareceu pri",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/TV3uBlZP-boi-pecu&aacute;ria.jpg",
-        "publishedAt": "2026-10-05T13:17:11.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 13
-      },
-      {
-        "title": "Exportações de carne bovina somam 2,43 milhões de toneladas até setembro",
-        "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-somam-243-milhoes-de-toneladas-ate-setembro/",
-        "summary": "Embarques caíram em setembro com forte recuo das vendas para a China, enquanto a receita acumulada do ano avançou 14,1%. O post Exportações de carne bovina somam 2,43 milhões de toneladas até setembro apareceu primeiro e",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/07/eua-excluem-pescados-brasileiros-de-novas-tarifas-de-importacao.png",
-        "publishedAt": "2026-10-07T12:40:43.000Z",
         "fonte": "Canal Rural",
         "relevancia": 12
       }
@@ -56,60 +56,63 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Embrapa leva contribuições sobre os desafios do agro ao Gaffff 2026",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148476578/embrapa-leva-contribuicoes-sobre-os-desafios-do-agro-ao-gaffff-2026",
-        "summary": "",
-        "image": null,
-        "publishedAt": "2026-10-06T12:00:00.000Z",
+        "title": "Chefe da Embrapa Meio Ambiente integra Conselho de Governança da Cátedra Luiz de Queiroz",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148574417/chefe-da-embrapa-meio-ambiente-integra-conselho-de-governanca-da-catedra-luiz-de-queiroz",
+        "summary": "Comunicação · Pesquisa, Desenvolvimento e Inovação",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148574397&t=1791474201341",
+        "publishedAt": "2026-10-08T12:00:00.000Z",
         "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 1
+        "tags": [
+          "Comunicação",
+          "Pesquisa, Desenvolvimento e Inovação"
+        ],
+        "relevancia": 3
       },
       {
-        "title": "Capacitação em enxertia de Araucária forma rede de multiplicadores na Serra Gaúcha",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148474107/capacitacao-em-enxertia-de-araucaria-forma-rede-de-multiplicadores-na-serra-gaucha",
+        "title": "Hackathons impulsionam soluções para a cafeicultura",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148573721/hackathons-impulsionam-solucoes-para-a-cafeicultura",
         "summary": "",
-        "image": "https://www.embrapa.br/documents/1355099/148474121/900Michele+Belas+da+Embrapa+Uva+e+Vinho+%286%29.jpg/2b193f87-96dd-549a-bf22-d1515bd76cf0?version=1.0&t=1791308350090",
-        "publishedAt": "2026-10-06T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1355737/0/Imagens+boletim+-+TAG+-+Programa+Valoriza+%281%29.png/c46fcc36-b9b0-efc9-c4fc-aa5986571424?version=1.0&t=1791471496387",
+        "publishedAt": "2026-10-08T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 1
+        "relevancia": 3
       },
       {
-        "title": "Parceria entre Embrapa e UnB busca identificar causa de surto de virose em melancia",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148439122/parceria-entre-embrapa-e-unb-busca-identificar-causa-de-surto-de-virose-em-melancia",
+        "title": "Evento on-line apresenta recomendações regionais para enfrentamento ao El Niño",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148572639/evento-on-line-apresenta-recomendacoes-regionais-para-enfrentamento-ao-el-nino",
+        "summary": "",
+        "image": "https://www.embrapa.br/documents/1355331/54295255/soja+seca.jpg/15f53bc4-1a5f-4736-f0e2-cbe18aafda07?version=1.0&t=1791470819428",
+        "publishedAt": "2026-10-08T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 3
+      },
+      {
+        "title": "Pesquisador da Embrapa leva ciência brasileira ao World Food Forum da FAO na Itália",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148567374/pesquisador-da-embrapa-leva-ciencia-brasileira-ao-world-food-forum-da-fao-na-italia",
+        "summary": "Biodiversidade · Mudanças climáticas · Agricultura de Baixo Carbono",
+        "image": "https://www.embrapa.br/documents/1355145/92982228/BioinsumosArquivoEmbrapa.jpg/6afd0f19-1654-b322-c098-4670d3f11b23?version=1.0&t=1791464558548",
+        "publishedAt": "2026-10-08T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Biodiversidade",
+          "Mudanças climáticas",
+          "Agricultura de Baixo Carbono"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Pesquisas de iniciação científica são apresentadas na Embrapa Algodão",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148565118/pesquisas-de-iniciacao-cientifica-sao-apresentadas-na-embrapa-algodao",
         "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148439123&t=1791385010963",
-        "publishedAt": "2026-10-05T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1355081/1527228/EPC_abertura-mini.jpg/2af1d899-b976-1291-a30a-d6173216e7e8?version=1.0&t=1791462257037",
+        "publishedAt": "2026-10-08T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 0
-      },
-      {
-        "title": "Workshop discute conservação de fruteiras nativas em bancos genéticos",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148438661/workshop-discute-conservacao-de-fruteiras-nativas-em-bancos-geneticos",
-        "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148438662&t=1791385012200",
-        "publishedAt": "2026-10-05T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Pesquisa, Desenvolvimento e Inovação"
-        ],
-        "relevancia": 0
-      },
-      {
-        "title": "Mariangela Hungria debate protagonismo dos bioinsumos na agricultura",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148437913/mariangela-hungria-debate-protagonismo-dos-bioinsumos-na-agricultura",
-        "summary": "Fixação Biológica de Nitrogênio",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148437914&t=1791392305828",
-        "publishedAt": "2026-10-05T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Fixação Biológica de Nitrogênio"
-        ],
-        "relevancia": 0
+        "relevancia": 3
       }
     ]
   },
@@ -121,7 +124,34 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
       "publishedAt": "2026-10-07T13:18:04.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 18
+      "relevancia": 16
+    },
+    {
+      "title": "Arroba do boi gordo atinge maior preço da história em SP, aponta Cepea",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-atinge-maior-preco-da-historia-em-sp-aponta-cepea/",
+      "summary": "Foto: Nataly Porto. O Indicador do Boi Gordo Cepea/Esalq atingiu um novo recorde nominal, fechando a R$ 376,10 por arroba O post Arroba do boi gordo atinge maior preço da história em SP, aponta Cepea apareceu primeiro em",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/05/THUMB-YOUTUBE-GIRO-DO-BOI-41.jpg",
+      "publishedAt": "2026-10-08T12:40:35.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
+    {
+      "title": "Arroba do boi gordo mantém alta generalizada; veja os preços",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-mantem-alta-generalizada-veja-os-precos/",
+      "summary": "Foto gerada por IA Oferta restrita de animais e posicionamento desconfortável das escalas de abate continuam gerando valorização das cotações O post Arroba do boi gordo mantém alta generalizada; veja os preços apareceu p",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/10/boi-gordo-precos-no-Brasil.png",
+      "publishedAt": "2026-10-07T21:46:02.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
+    {
+      "title": "Carne bovina brasileira mantém preços elevados no exterior apesar da queda nas exportações",
+      "link": "https://www.canalrural.com.br/pecuaria/carne-bovina-brasileira-mantem-precos-elevados-no-exterior-apesar-da-queda-nas-exportacoes/",
+      "summary": "Foto: Ministério da Agricultura Segundo o Cepea, volume embarcado recuou em setembro, mas valorização da proteína garantiu aumento da receita em relação a agosto O post Carne bovina brasileira mantém preços elevados no e",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carneMapa.jpeg",
+      "publishedAt": "2026-10-08T11:21:54.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 12
     },
     {
       "title": "Arroba do boi gordo bate novo recorde e chega a R$ 372,95",
@@ -129,33 +159,6 @@
       "summary": "Foto: Henrique Bighetti/Canal Rural Oferta limitada de animais sustenta cotações, enquanto escalas de abate variam entre três e sete dias O post Arroba do boi gordo bate novo recorde e chega a R$ 372,95 apareceu primeiro",
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/HVxb9AuV-boiadahenrique02.jpg",
       "publishedAt": "2026-10-06T14:11:55.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 13
-    },
-    {
-      "title": "Boi gordo: veja como a arroba se comportou no pós-eleição",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-veja-como-a-arroba-se-comportou-no-pos-eleicao/",
-      "summary": "Foto: Raquel Brunelli/Embrapa Frigoríficos seguem ativos nas compras e favoráveis a reajustes de preços O post Boi gordo: veja como a arroba se comportou no pós-eleição apareceu primeiro em Canal Rural .",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
-      "publishedAt": "2026-10-05T22:07:01.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 13
-    },
-    {
-      "title": "Arroba do boi gordo sobe até R$ 10 e pecuaristas esperam novos reajustes",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-sobe-ate-r-10-e-pecuaristas-esperam-novos-reajustes/",
-      "summary": "Foto: Agência IBGE Notícias Mercado segue firme em diferentes praças, enquanto escalas de abate permanecem relativamente curtas O post Arroba do boi gordo sobe até R$ 10 e pecuaristas esperam novos reajustes apareceu pri",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/TV3uBlZP-boi-pecu&aacute;ria.jpg",
-      "publishedAt": "2026-10-05T13:17:11.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 13
-    },
-    {
-      "title": "Exportações de carne bovina somam 2,43 milhões de toneladas até setembro",
-      "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-somam-243-milhoes-de-toneladas-ate-setembro/",
-      "summary": "Embarques caíram em setembro com forte recuo das vendas para a China, enquanto a receita acumulada do ano avançou 14,1%. O post Exportações de carne bovina somam 2,43 milhões de toneladas até setembro apareceu primeiro e",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/07/eua-excluem-pescados-brasileiros-de-novas-tarifas-de-importacao.png",
-      "publishedAt": "2026-10-07T12:40:43.000Z",
       "fonte": "Canal Rural",
       "relevancia": 12
     }
