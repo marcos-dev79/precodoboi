@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-10T16:29:19.857Z",
+  "atualizado_em": "2026-10-11T16:54:09.536Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -20,7 +20,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/sb6fIidd-rebanho-bovino.jpg",
         "publishedAt": "2026-10-09T12:41:52.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 12
       },
       {
         "title": "Preços da arroba do boi gordo sinalizam continuidade do movimento de alta",
@@ -29,7 +29,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
         "publishedAt": "2026-10-08T21:57:53.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 12
       },
       {
         "title": "China e demanda interna explicam recorde no preço da arroba do boi gordo, diz analista do Cepea",
@@ -38,7 +38,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
         "publishedAt": "2026-10-08T19:03:09.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 12
       },
       {
         "title": "Arroba do boi gordo atinge maior preço da história em SP, aponta Cepea",
@@ -56,6 +56,16 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
+        "title": "Jornada Científica discute o impacto da inteligência artificial na agricultura",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148661565/jornada-cientifica-discute-o-impacto-da-inteligencia-artificial-na-agricultura",
+        "summary": "",
+        "image": "https://www.embrapa.br/documents/1355135/146933696/JC_palestrante.jpeg/6554d28f-dd96-4a2b-4467-1147ffc2a06a?version=1.0&t=1791729399707",
+        "publishedAt": "2026-10-11T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 3
+      },
+      {
         "title": "Jovens cientistas apresentam projetos em Seminário de Iniciação da Embrapa em SE e AL",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148618848/jovens-cientistas-apresentam-projetos-em-seminario-de-iniciacao-da-embrapa-em-se-e-al",
         "summary": "Pesquisa, Desenvolvimento e Inovação",
@@ -65,7 +75,7 @@
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "“Cobertura viva e palhada garantem a vida e a fertilidade dos solos”, destaca apresentação da Plataforma Colaborativa Sul",
@@ -75,7 +85,7 @@
         "publishedAt": "2026-10-09T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Pesquisadores e agricultoras de Roraima prospectam tecnologias para cajucultura no Caju Conecta 2026",
@@ -89,7 +99,7 @@
           "Pesquisa, Desenvolvimento e Inovação",
           "Transferência de Tecnologia"
         ],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Cafeicultura do DF e RIDE em debate: inovação, qualidade e novos mercados",
@@ -99,17 +109,7 @@
         "publishedAt": "2026-10-09T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 1
-      },
-      {
-        "title": "Embrapa Meio-Norte mobiliza equipes para controlar incêndio que atingiu áreas experimentais e de reserva",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148603630/embrapa-meio-norte-mobiliza-equipes-para-controlar-incendio-que-atingiu-areas-experimentais-e-de-reserva",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148603631&t=1791555011205",
-        "publishedAt": "2026-10-09T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 1
+        "relevancia": 0
       }
     ]
   },
@@ -130,7 +130,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/sb6fIidd-rebanho-bovino.jpg",
       "publishedAt": "2026-10-09T12:41:52.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 12
     },
     {
       "title": "Preços da arroba do boi gordo sinalizam continuidade do movimento de alta",
@@ -139,7 +139,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
       "publishedAt": "2026-10-08T21:57:53.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 12
     },
     {
       "title": "China e demanda interna explicam recorde no preço da arroba do boi gordo, diz analista do Cepea",
@@ -148,7 +148,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
       "publishedAt": "2026-10-08T19:03:09.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 12
     },
     {
       "title": "Arroba do boi gordo atinge maior preço da história em SP, aponta Cepea",
