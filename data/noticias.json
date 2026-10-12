@@ -1,15 +1,15 @@
 {
-  "atualizado_em": "2026-10-11T16:54:09.536Z",
+  "atualizado_em": "2026-10-12T20:30:49.761Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
       {
-        "title": "Arroba do boi gordo dispara no começo de outubro e atinge R$ 380 em São Paulo",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-dispara-no-comeco-de-outubro-e-atinge-r-380-em-sao-paulo/",
-        "summary": "Foto: Secretaria de Agricultura de São Paulo Oferta limitada dificulta formação das escalas de abate, enquanto preço da carne avança em ritmo menor, aponta Cepea O post Arroba do boi gordo dispara no começo de outubro e ",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
-        "publishedAt": "2026-10-07T13:18:04.000Z",
+        "title": "Arroba do boi gordo chega a R$ 380 com apetite para mais",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-chega-a-r-380-com-apetite-para-mais/",
+        "summary": "Foto: Lorran Lima/Idaf Cenário para a valorização continua favorável, com frigoríficos ativos nas compras e elevando gradualmente suas indicações O post Arroba do boi gordo chega a R$ 380 com apetite para mais apareceu p",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
+        "publishedAt": "2026-10-11T22:01:00.000Z",
         "fonte": "Canal Rural",
         "relevancia": 15
       },
@@ -63,13 +63,13 @@
         "publishedAt": "2026-10-11T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Jovens cientistas apresentam projetos em Seminário de Iniciação da Embrapa em SE e AL",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148618848/jovens-cientistas-apresentam-projetos-em-seminario-de-iniciacao-da-embrapa-em-se-e-al",
         "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148618849&t=1791581127762",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148618849&t=1791759217754",
         "publishedAt": "2026-10-09T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
@@ -91,7 +91,7 @@
         "title": "Pesquisadores e agricultoras de Roraima prospectam tecnologias para cajucultura no Caju Conecta 2026",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148615578/pesquisadores-e-agricultoras-de-roraima-prospectam-tecnologias-para-cajucultura-no-caju-conecta-2026",
         "summary": "Agricultura familiar · Pesquisa, Desenvolvimento e Inovação · Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148615579&t=1791576094331",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148615579&t=1791759218443",
         "publishedAt": "2026-10-09T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
@@ -115,11 +115,11 @@
   },
   "noticias": [
     {
-      "title": "Arroba do boi gordo dispara no começo de outubro e atinge R$ 380 em São Paulo",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-dispara-no-comeco-de-outubro-e-atinge-r-380-em-sao-paulo/",
-      "summary": "Foto: Secretaria de Agricultura de São Paulo Oferta limitada dificulta formação das escalas de abate, enquanto preço da carne avança em ritmo menor, aponta Cepea O post Arroba do boi gordo dispara no começo de outubro e ",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
-      "publishedAt": "2026-10-07T13:18:04.000Z",
+      "title": "Arroba do boi gordo chega a R$ 380 com apetite para mais",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-chega-a-r-380-com-apetite-para-mais/",
+      "summary": "Foto: Lorran Lima/Idaf Cenário para a valorização continua favorável, com frigoríficos ativos nas compras e elevando gradualmente suas indicações O post Arroba do boi gordo chega a R$ 380 com apetite para mais apareceu p",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
+      "publishedAt": "2026-10-11T22:01:00.000Z",
       "fonte": "Canal Rural",
       "relevancia": 15
     },
