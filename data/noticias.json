@@ -1,9 +1,18 @@
 {
-  "atualizado_em": "2026-10-12T20:30:49.761Z",
+  "atualizado_em": "2026-10-13T18:35:42.736Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Arroba do boi gordo chega a R$ 385 e pecuaristas já esperam R$ 390 em São Paulo",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-chega-a-r-385-e-pecuaristas-ja-esperam-r-390-em-sao-paulo/",
+        "summary": "Foto: Wenderson Araujo/CNA Indicador Cepea/Esalq acumula alta de 3,71% em outubro, enquanto resistência dos vendedores reduz ritmo dos negócios. O post Arroba do boi gordo chega a R$ 385 e pecuaristas já esperam R$ 390 e",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/vCXcAo4F-boiadaCNA.jpg",
+        "publishedAt": "2026-10-13T12:17:38.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
       {
         "title": "Arroba do boi gordo chega a R$ 380 com apetite para mais",
         "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-chega-a-r-380-com-apetite-para-mais/",
@@ -11,7 +20,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
         "publishedAt": "2026-10-11T22:01:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
+        "relevancia": 13
       },
       {
         "title": "Boi gordo bate novo recorde e arroba já chega a R$ 385 em São Paulo",
@@ -39,15 +48,6 @@
         "publishedAt": "2026-10-08T19:03:09.000Z",
         "fonte": "Canal Rural",
         "relevancia": 12
-      },
-      {
-        "title": "Arroba do boi gordo atinge maior preço da história em SP, aponta Cepea",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-atinge-maior-preco-da-historia-em-sp-aponta-cepea/",
-        "summary": "Foto: Nataly Porto. O Indicador do Boi Gordo Cepea/Esalq atingiu um novo recorde nominal, fechando a R$ 376,10 por arroba O post Arroba do boi gordo atinge maior preço da história em SP, aponta Cepea apareceu primeiro em",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/05/THUMB-YOUTUBE-GIRO-DO-BOI-41.jpg",
-        "publishedAt": "2026-10-08T12:40:35.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 12
       }
     ]
   },
@@ -56,6 +56,30 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
+        "title": "Famílias guardiãs avaliam milho e degustam cuscuz crioulo na Bahia",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148712656/familias-guardias-avaliam-milho-e-degustam-cuscuz-crioulo-na-bahia",
+        "summary": "Agroecologia e produção orgânica",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148712800&t=1791896485780",
+        "publishedAt": "2026-10-13T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Agroecologia e produção orgânica"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Especialistas debatem gestão, tendências e desafios sanitários na fase de cria que podem definir o futuro da pecuária de corte",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148711069/especialistas-debatem-gestao-tendencias-e-desafios-sanitarios-na-fase-de-cria-que-podem-definir-o-futuro-da-pecuaria-de-corte",
+        "summary": "Melhoramento genético",
+        "image": "https://www.embrapa.br/documents/1355108/0/Bovinos+e+ci%C3%AAncia.png/eb3bb0ff-b54d-c8ad-88a7-608f9479293c?version=1.0&t=1791893749168",
+        "publishedAt": "2026-10-13T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Melhoramento genético"
+        ],
+        "relevancia": 8
+      },
+      {
         "title": "Jornada Científica discute o impacto da inteligência artificial na agricultura",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148661565/jornada-cientifica-discute-o-impacto-da-inteligencia-artificial-na-agricultura",
         "summary": "",
@@ -63,13 +87,13 @@
         "publishedAt": "2026-10-11T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Jovens cientistas apresentam projetos em Seminário de Iniciação da Embrapa em SE e AL",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148618848/jovens-cientistas-apresentam-projetos-em-seminario-de-iniciacao-da-embrapa-em-se-e-al",
         "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148618849&t=1791759217754",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148618849&t=1791758264779",
         "publishedAt": "2026-10-09T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
@@ -86,34 +110,19 @@
         "fonte": "Embrapa",
         "tags": [],
         "relevancia": 0
-      },
-      {
-        "title": "Pesquisadores e agricultoras de Roraima prospectam tecnologias para cajucultura no Caju Conecta 2026",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148615578/pesquisadores-e-agricultoras-de-roraima-prospectam-tecnologias-para-cajucultura-no-caju-conecta-2026",
-        "summary": "Agricultura familiar · Pesquisa, Desenvolvimento e Inovação · Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148615579&t=1791759218443",
-        "publishedAt": "2026-10-09T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Agricultura familiar",
-          "Pesquisa, Desenvolvimento e Inovação",
-          "Transferência de Tecnologia"
-        ],
-        "relevancia": 0
-      },
-      {
-        "title": "Cafeicultura do DF e RIDE em debate: inovação, qualidade e novos mercados",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148613835/cafeicultura-do-df-e-ride-em-debate-inovacao-qualidade-e-novos-mercados",
-        "summary": "",
-        "image": "https://www.embrapa.br/documents/1355737/0/Cafeicultura+do+DF+e+RIDE+%281%29.jpeg/7d3e0c48-7cd7-7cd3-aad2-36d6323af0be?version=1.0&t=1791574546857",
-        "publishedAt": "2026-10-09T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 0
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Arroba do boi gordo chega a R$ 385 e pecuaristas já esperam R$ 390 em São Paulo",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-chega-a-r-385-e-pecuaristas-ja-esperam-r-390-em-sao-paulo/",
+      "summary": "Foto: Wenderson Araujo/CNA Indicador Cepea/Esalq acumula alta de 3,71% em outubro, enquanto resistência dos vendedores reduz ritmo dos negócios. O post Arroba do boi gordo chega a R$ 385 e pecuaristas já esperam R$ 390 e",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/vCXcAo4F-boiadaCNA.jpg",
+      "publishedAt": "2026-10-13T12:17:38.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
     {
       "title": "Arroba do boi gordo chega a R$ 380 com apetite para mais",
       "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-chega-a-r-380-com-apetite-para-mais/",
@@ -121,7 +130,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
       "publishedAt": "2026-10-11T22:01:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
+      "relevancia": 13
     },
     {
       "title": "Boi gordo bate novo recorde e arroba já chega a R$ 385 em São Paulo",
@@ -147,15 +156,6 @@
       "summary": "Foto: Christiano Antonucci/Secom-MT Tiago Baraio destaca oferta restrita de animais, consumo doméstico firme e expectativa de retomada das compras chinesas em 2027 como fatores que sustentam a valorização O post China e ",
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
       "publishedAt": "2026-10-08T19:03:09.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
-      "title": "Arroba do boi gordo atinge maior preço da história em SP, aponta Cepea",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-atinge-maior-preco-da-historia-em-sp-aponta-cepea/",
-      "summary": "Foto: Nataly Porto. O Indicador do Boi Gordo Cepea/Esalq atingiu um novo recorde nominal, fechando a R$ 376,10 por arroba O post Arroba do boi gordo atinge maior preço da história em SP, aponta Cepea apareceu primeiro em",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/05/THUMB-YOUTUBE-GIRO-DO-BOI-41.jpg",
-      "publishedAt": "2026-10-08T12:40:35.000Z",
       "fonte": "Canal Rural",
       "relevancia": 12
     }

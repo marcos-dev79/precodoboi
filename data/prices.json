@@ -1,20 +1,12 @@
 {
-  "atualizado_em": "2026-10-12T20:30:47.512Z",
+  "atualizado_em": "2026-10-13T18:35:39.709Z",
   "fonte": "CEPEA/ESALQ · NoticiasAgricolas · Scot Consultoria",
   "licenca": "CC-BY-4.0 · atribuicao AgroDoc AI",
   "referencia_cepea_sp": 377.8,
   "media_nacional": {
-    "preco_arroba": 361.23
+    "preco_arroba": 358.58
   },
   "estados": [
-    {
-      "uf": "SP",
-      "nome": "São Paulo",
-      "regiao": "Sudeste",
-      "preco_arroba": 385,
-      "origem": "api",
-      "praca": "SP"
-    },
     {
       "uf": "RJ",
       "nome": "Rio de Janeiro",
@@ -24,12 +16,12 @@
       "praca": "estimativa regional (Sudeste)"
     },
     {
-      "uf": "PR",
-      "nome": "Paraná",
-      "regiao": "Sul",
-      "preco_arroba": 378,
+      "uf": "SP",
+      "nome": "São Paulo",
+      "regiao": "Sudeste",
+      "preco_arroba": 376,
       "origem": "api",
-      "praca": "PR"
+      "praca": "SP Barretos"
     },
     {
       "uf": "ES",
@@ -48,28 +40,20 @@
       "praca": "estimativa regional (Sul)"
     },
     {
+      "uf": "PR",
+      "nome": "Paraná",
+      "regiao": "Sul",
+      "preco_arroba": 371,
+      "origem": "api",
+      "praca": "PR Noroeste"
+    },
+    {
       "uf": "RS",
       "nome": "Rio Grande do Sul",
       "regiao": "Sul",
       "preco_arroba": 370.24,
       "origem": "estimado",
       "praca": "estimativa regional (Sul)"
-    },
-    {
-      "uf": "MS",
-      "nome": "Mato Grosso do Sul",
-      "regiao": "Centro-Oeste",
-      "preco_arroba": 370,
-      "origem": "api",
-      "praca": "MS"
-    },
-    {
-      "uf": "MG",
-      "nome": "Minas Gerais",
-      "regiao": "Sudeste",
-      "preco_arroba": 370,
-      "origem": "api",
-      "praca": "MG"
     },
     {
       "uf": "DF",
@@ -88,20 +72,20 @@
       "praca": "estimativa regional (Nordeste)"
     },
     {
-      "uf": "PA",
-      "nome": "Pará",
-      "regiao": "Norte",
-      "preco_arroba": 362,
+      "uf": "MS",
+      "nome": "Mato Grosso do Sul",
+      "regiao": "Centro-Oeste",
+      "preco_arroba": 361,
       "origem": "api",
-      "praca": "PA"
+      "praca": "MS Dourados"
     },
     {
-      "uf": "GO",
-      "nome": "Goiás",
-      "regiao": "Centro-Oeste",
-      "preco_arroba": 360,
+      "uf": "MG",
+      "nome": "Minas Gerais",
+      "regiao": "Sudeste",
+      "preco_arroba": 359,
       "origem": "api",
-      "praca": "GO"
+      "praca": "MG Triângulo"
     },
     {
       "uf": "PE",
@@ -110,14 +94,6 @@
       "preco_arroba": 358.91,
       "origem": "estimado",
       "praca": "estimativa regional (Nordeste)"
-    },
-    {
-      "uf": "TO",
-      "nome": "Tocantins",
-      "regiao": "Norte",
-      "preco_arroba": 357,
-      "origem": "api",
-      "praca": "TO"
     },
     {
       "uf": "AL",
@@ -168,20 +144,20 @@
       "praca": "estimativa regional (Nordeste)"
     },
     {
-      "uf": "RO",
-      "nome": "Rondônia",
+      "uf": "PA",
+      "nome": "Pará",
       "regiao": "Norte",
-      "preco_arroba": 355,
+      "preco_arroba": 353,
       "origem": "api",
-      "praca": "RO"
+      "praca": "PA Marabá"
     },
     {
-      "uf": "MT",
-      "nome": "Mato Grosso",
-      "regiao": "Centro-Oeste",
-      "preco_arroba": 352,
+      "uf": "TO",
+      "nome": "Tocantins",
+      "regiao": "Norte",
+      "preco_arroba": 353,
       "origem": "api",
-      "praca": "MT"
+      "praca": "TO Sul"
     },
     {
       "uf": "AC",
@@ -208,6 +184,22 @@
       "praca": "estimativa regional (Nordeste)"
     },
     {
+      "uf": "GO",
+      "nome": "Goiás",
+      "regiao": "Centro-Oeste",
+      "preco_arroba": 351,
+      "origem": "api",
+      "praca": "GO Goiânia"
+    },
+    {
+      "uf": "RO",
+      "nome": "Rondônia",
+      "regiao": "Norte",
+      "preco_arroba": 350,
+      "origem": "api",
+      "praca": "RO Sudeste"
+    },
+    {
       "uf": "AP",
       "nome": "Amapá",
       "regiao": "Norte",
@@ -222,6 +214,14 @@
       "preco_arroba": 343.8,
       "origem": "estimado",
       "praca": "estimativa regional (Norte)"
+    },
+    {
+      "uf": "MT",
+      "nome": "Mato Grosso",
+      "regiao": "Centro-Oeste",
+      "preco_arroba": 343.5,
+      "origem": "api",
+      "praca": "MT Norte"
     }
   ],
   "notas": [
