@@ -1,18 +1,18 @@
 {
-  "atualizado_em": "2026-10-13T18:35:40.216Z",
+  "atualizado_em": "2026-10-14T16:04:37.573Z",
   "fonte": "CEPEA/ESALQ · NoticiasAgricolas · Scot Consultoria",
   "licenca": "CC-BY-4.0 · atribuicao AgroDoc AI",
   "indicador": {
     "nome": "Indicador do Bezerro CEPEA/ESALQ",
     "praca": "Mato Grosso do Sul",
     "uf": "MS",
-    "preco_cabeca": 3481,
+    "preco_cabeca": 3484,
     "unidade": "cabeça",
     "origem": "api"
   },
   "relacao_troca": {
-    "referencia_boi_gordo_sp": 377.8,
-    "arrobas_por_bezerro": 9.21,
+    "referencia_boi_gordo_sp": 378,
+    "arrobas_por_bezerro": 9.22,
     "bezerros_por_boi_20_arrobas": 2.17
   },
   "notas": [

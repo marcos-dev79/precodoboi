@@ -1,9 +1,27 @@
 {
-  "atualizado_em": "2026-10-13T18:35:42.736Z",
+  "atualizado_em": "2026-10-14T16:04:39.663Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Preço da arroba do boi gordo acumula alta de 3,76% em outubro, aponta Cepea",
+        "link": "https://www.canalrural.com.br/pecuaria/preco-da-arroba-do-boi-gordo-acumula-alta-de-376-em-outubro-aponta-cepea/",
+        "summary": "Foto: Lorran Lima/Idaf De acordo com o centro de estudos, a oferta restrita de animais para abate e a resistência dos pecuaristas em negociar têm sustentado os preços O post Preço da arroba do boi gordo acumula alta de 3",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
+        "publishedAt": "2026-10-14T13:02:00.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
+      {
+        "title": "Boi gordo: arroba segue em alta com escalas de abate apertadas",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-arroba-segue-em-alta-com-escalas-de-abate-apertadas/",
+        "summary": "Foto: Fabiano Marques/Embrapa Frigoríficos seguem ativos na compra de boiadas, preservando o viés de alta para o curto prazo O post Boi gordo: arroba segue em alta com escalas de abate apertadas apareceu primeiro em Cana",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/10/Boi-Gordo_31.10.2025.jpg",
+        "publishedAt": "2026-10-13T22:06:20.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
       {
         "title": "Arroba do boi gordo chega a R$ 385 e pecuaristas já esperam R$ 390 em São Paulo",
         "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-chega-a-r-385-e-pecuaristas-ja-esperam-r-390-em-sao-paulo/",
@@ -11,7 +29,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/vCXcAo4F-boiadaCNA.jpg",
         "publishedAt": "2026-10-13T12:17:38.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
+        "relevancia": 13
       },
       {
         "title": "Arroba do boi gordo chega a R$ 380 com apetite para mais",
@@ -20,7 +38,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
         "publishedAt": "2026-10-11T22:01:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 12
       },
       {
         "title": "Boi gordo bate novo recorde e arroba já chega a R$ 385 em São Paulo",
@@ -28,24 +46,6 @@
         "summary": "Foto: Lenito Abreu/Governo do Tocantins Indicador Cepea/Esalq alcançou R$ 376,30, enquanto oferta restrita de animais e demanda aquecida sustentam a valorização da arroba O post Boi gordo bate novo recorde e arroba já ch",
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/sb6fIidd-rebanho-bovino.jpg",
         "publishedAt": "2026-10-09T12:41:52.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
-        "title": "Preços da arroba do boi gordo sinalizam continuidade do movimento de alta",
-        "link": "https://www.canalrural.com.br/pecuaria/precos-da-arroba-do-boi-gordo-sinalizam-continuidade-do-movimento-de-alta/",
-        "summary": "Imagem gerada por IA para o Canal Rural Frigoríficos seguem ativos nas compras e elevam gradualmente suas indicações para avançar na aquisição de boiadas O post Preços da arroba do boi gordo sinalizam continuidade do mov",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
-        "publishedAt": "2026-10-08T21:57:53.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
-        "title": "China e demanda interna explicam recorde no preço da arroba do boi gordo, diz analista do Cepea",
-        "link": "https://www.canalrural.com.br/pecuaria/china-e-demanda-interna-explicam-recorde-no-preco-da-arroba-do-boi-gordo-diz-analista-do-cepea/",
-        "summary": "Foto: Christiano Antonucci/Secom-MT Tiago Baraio destaca oferta restrita de animais, consumo doméstico firme e expectativa de retomada das compras chinesas em 2027 como fatores que sustentam a valorização O post China e ",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
-        "publishedAt": "2026-10-08T19:03:09.000Z",
         "fonte": "Canal Rural",
         "relevancia": 12
       }
@@ -56,16 +56,42 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
+        "title": "Embrapa tem 24 cientistas entre os de maior impacto científico do mundo",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148735343/embrapa-tem-24-cientistas-entre-os-de-maior-impacto-cientifico-do-mundo",
+        "summary": "Pesquisa, Desenvolvimento e Inovação",
+        "image": "https://www.embrapa.br/documents/10180/0/Ci%C3%AAncia+rancking.jpeg/14d8b8fc-0f79-5d9d-9bde-07603b632e1b?version=1.0&t=1791934756793",
+        "publishedAt": "2026-10-13T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Pesquisa, Desenvolvimento e Inovação"
+        ],
+        "relevancia": 1
+      },
+      {
+        "title": "Curso destaca potencial das PANCs para diversificar produção e alimentação",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148728894/curso-destaca-potencial-das-pancs-para-diversificar-producao-e-alimentacao",
+        "summary": "Agricultura familiar · Biodiversidade · Segurança alimentar, nutrição e saúde",
+        "image": "https://www.embrapa.br/documents/1355145/92982228/PANC.jpeg/a86eac61-1c31-7fdd-7c39-4617e7c9303f?version=1.0&t=1791920027034",
+        "publishedAt": "2026-10-13T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Agricultura familiar",
+          "Biodiversidade",
+          "Segurança alimentar, nutrição e saúde"
+        ],
+        "relevancia": 1
+      },
+      {
         "title": "Famílias guardiãs avaliam milho e degustam cuscuz crioulo na Bahia",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148712656/familias-guardias-avaliam-milho-e-degustam-cuscuz-crioulo-na-bahia",
         "summary": "Agroecologia e produção orgânica",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148712800&t=1791896485780",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148712800&t=1791987176288",
         "publishedAt": "2026-10-13T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Agroecologia e produção orgânica"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Especialistas debatem gestão, tendências e desafios sanitários na fase de cria que podem definir o futuro da pecuária de corte",
@@ -77,7 +103,7 @@
         "tags": [
           "Melhoramento genético"
         ],
-        "relevancia": 8
+        "relevancia": 6
       },
       {
         "title": "Jornada Científica discute o impacto da inteligência artificial na agricultura",
@@ -88,32 +114,28 @@
         "fonte": "Embrapa",
         "tags": [],
         "relevancia": 0
-      },
-      {
-        "title": "Jovens cientistas apresentam projetos em Seminário de Iniciação da Embrapa em SE e AL",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148618848/jovens-cientistas-apresentam-projetos-em-seminario-de-iniciacao-da-embrapa-em-se-e-al",
-        "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148618849&t=1791758264779",
-        "publishedAt": "2026-10-09T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Pesquisa, Desenvolvimento e Inovação"
-        ],
-        "relevancia": 0
-      },
-      {
-        "title": "“Cobertura viva e palhada garantem a vida e a fertilidade dos solos”, destaca apresentação da Plataforma Colaborativa Sul",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148615964/cobertura-viva-e-palhada-garantem-a-vida-e-a-fertilidade-dos-solos-destaca-apresentacao-da-plataforma-colaborativa-sul",
-        "summary": "",
-        "image": null,
-        "publishedAt": "2026-10-09T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 0
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Preço da arroba do boi gordo acumula alta de 3,76% em outubro, aponta Cepea",
+      "link": "https://www.canalrural.com.br/pecuaria/preco-da-arroba-do-boi-gordo-acumula-alta-de-376-em-outubro-aponta-cepea/",
+      "summary": "Foto: Lorran Lima/Idaf De acordo com o centro de estudos, a oferta restrita de animais para abate e a resistência dos pecuaristas em negociar têm sustentado os preços O post Preço da arroba do boi gordo acumula alta de 3",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
+      "publishedAt": "2026-10-14T13:02:00.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
+    {
+      "title": "Boi gordo: arroba segue em alta com escalas de abate apertadas",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-arroba-segue-em-alta-com-escalas-de-abate-apertadas/",
+      "summary": "Foto: Fabiano Marques/Embrapa Frigoríficos seguem ativos na compra de boiadas, preservando o viés de alta para o curto prazo O post Boi gordo: arroba segue em alta com escalas de abate apertadas apareceu primeiro em Cana",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/10/Boi-Gordo_31.10.2025.jpg",
+      "publishedAt": "2026-10-13T22:06:20.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
     {
       "title": "Arroba do boi gordo chega a R$ 385 e pecuaristas já esperam R$ 390 em São Paulo",
       "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-chega-a-r-385-e-pecuaristas-ja-esperam-r-390-em-sao-paulo/",
@@ -121,7 +143,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/vCXcAo4F-boiadaCNA.jpg",
       "publishedAt": "2026-10-13T12:17:38.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
+      "relevancia": 13
     },
     {
       "title": "Arroba do boi gordo chega a R$ 380 com apetite para mais",
@@ -130,7 +152,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
       "publishedAt": "2026-10-11T22:01:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 12
     },
     {
       "title": "Boi gordo bate novo recorde e arroba já chega a R$ 385 em São Paulo",
@@ -138,24 +160,6 @@
       "summary": "Foto: Lenito Abreu/Governo do Tocantins Indicador Cepea/Esalq alcançou R$ 376,30, enquanto oferta restrita de animais e demanda aquecida sustentam a valorização da arroba O post Boi gordo bate novo recorde e arroba já ch",
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/sb6fIidd-rebanho-bovino.jpg",
       "publishedAt": "2026-10-09T12:41:52.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
-      "title": "Preços da arroba do boi gordo sinalizam continuidade do movimento de alta",
-      "link": "https://www.canalrural.com.br/pecuaria/precos-da-arroba-do-boi-gordo-sinalizam-continuidade-do-movimento-de-alta/",
-      "summary": "Imagem gerada por IA para o Canal Rural Frigoríficos seguem ativos nas compras e elevam gradualmente suas indicações para avançar na aquisição de boiadas O post Preços da arroba do boi gordo sinalizam continuidade do mov",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
-      "publishedAt": "2026-10-08T21:57:53.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
-      "title": "China e demanda interna explicam recorde no preço da arroba do boi gordo, diz analista do Cepea",
-      "link": "https://www.canalrural.com.br/pecuaria/china-e-demanda-interna-explicam-recorde-no-preco-da-arroba-do-boi-gordo-diz-analista-do-cepea/",
-      "summary": "Foto: Christiano Antonucci/Secom-MT Tiago Baraio destaca oferta restrita de animais, consumo doméstico firme e expectativa de retomada das compras chinesas em 2027 como fatores que sustentam a valorização O post China e ",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
-      "publishedAt": "2026-10-08T19:03:09.000Z",
       "fonte": "Canal Rural",
       "relevancia": 12
     }
