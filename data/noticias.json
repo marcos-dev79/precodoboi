@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-15T15:52:50.755Z",
+  "atualizado_em": "2026-10-16T15:41:14.315Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -11,7 +11,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/HVxb9AuV-boiadahenrique02.jpg",
         "publishedAt": "2026-10-15T11:59:14.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 22
+        "relevancia": 20
       },
       {
         "title": "Preço da arroba do boi gordo acumula alta de 3,76% em outubro, aponta Cepea",
@@ -20,7 +20,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
         "publishedAt": "2026-10-14T13:02:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 12
       },
       {
         "title": "Boi gordo: arroba segue em alta com escalas de abate apertadas",
@@ -29,7 +29,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2025/10/Boi-Gordo_31.10.2025.jpg",
         "publishedAt": "2026-10-13T22:06:20.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 12
       },
       {
         "title": "Arroba do boi gordo chega a R$ 385 e pecuaristas já esperam R$ 390 em São Paulo",
@@ -41,13 +41,13 @@
         "relevancia": 12
       },
       {
-        "title": "Arroba do boi gordo chega a R$ 380 com apetite para mais",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-chega-a-r-380-com-apetite-para-mais/",
-        "summary": "Foto: Lorran Lima/Idaf Cenário para a valorização continua favorável, com frigoríficos ativos nas compras e elevando gradualmente suas indicações O post Arroba do boi gordo chega a R$ 380 com apetite para mais apareceu p",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
-        "publishedAt": "2026-10-11T22:01:00.000Z",
+        "title": "Arroba do boi já tem operações pontuais a R$ 395; veja as cotações",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-ja-tem-operacoes-pontuais-a-r-395-veja-as-cotacoes-do-dia/",
+        "summary": "Foto: Gilson Abreu/AEN Escalas de abate pouco confortáveis, entre cinco e seis dias úteis na maior parte das regiões, mantêm os compradores ativos O post Arroba do boi já tem operações pontuais a R$ 395; veja as cotações",
+        "image": "https://imagens-cdn.canalrural.com.br/2023/09/pecuaria-boi-parana-scaled-1.jpg",
+        "publishedAt": "2026-10-15T23:16:21.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 12
+        "relevancia": 9
       }
     ]
   },
@@ -56,11 +56,33 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Representantes de 14 países conhecem a ciência que transforma a agricultura no Cerrado",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148772566/representantes-de-14-paises-conhecem-a-ciencia-que-transforma-a-agricultura-no-cerrado",
+        "title": "Renovada parceria para fortalecimento da cotonicultura no Seridó potiguar",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148862050/renovada-parceria-para-fortalecimento-da-cotonicultura-no-serido-potiguar",
+        "summary": "Agroecologia e produção orgânica",
+        "image": "https://www.embrapa.br/documents/1355081/1527228/Festa+do+Boi_IsaacSilva-0711.jpg/f555a99e-4414-b535-2cce-fbee1b4d6b00?version=1.0&t=1792162799706",
+        "publishedAt": "2026-10-16T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Agroecologia e produção orgânica"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Milho sagrado volta a germinar em aldeias Avá Guarani do Oeste do Paraná",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148860044/milho-sagrado-volta-a-germinar-em-aldeias-ava-guarani-do-oeste-do-parana",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148860045&t=1792159429769",
+        "publishedAt": "2026-10-16T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 3
+      },
+      {
+        "title": "Embrapa Maranhão implanta unidades de referência tecnológica para avaliar cultivares de mandioca em Amarante",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148838732/embrapa-maranhao-implanta-unidades-de-referencia-tecnologica-para-avaliar-cultivares-de-mandioca-em-amarante",
         "summary": "Transferência de Tecnologia",
-        "image": null,
-        "publishedAt": "2026-10-14T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1354356/1528501/WhatsApp+Image+2026-10-15+at+10.31.51.jpeg/4602430c-c7a5-fe14-fac8-ed794647265a?version=1.0&t=1792087662147",
+        "publishedAt": "2026-10-15T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Transferência de Tecnologia"
@@ -68,52 +90,28 @@
         "relevancia": 1
       },
       {
-        "title": "Curso destaca potencial das PANCs para diversificar produção e alimentação",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148728894/curso-destaca-potencial-das-pancs-para-diversificar-producao-e-alimentacao",
-        "summary": "Agricultura familiar · Biodiversidade · Segurança alimentar, nutrição e saúde",
-        "image": "https://www.embrapa.br/documents/1355145/92982228/PANC.jpeg/a86eac61-1c31-7fdd-7c39-4617e7c9303f?version=1.0&t=1791920027034",
-        "publishedAt": "2026-10-13T12:00:00.000Z",
+        "title": "Treinamento capacita técnicos do RS para registrar ocorrências de mortalidade de abelhas",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148837424/treinamento-capacita-tecnicos-do-rs-para-registrar-ocorrencias-de-mortalidade-de-abelhas",
+        "summary": "Biodiversidade · Pesquisa, Desenvolvimento e Inovação · Segurança alimentar, nutrição e saúde",
+        "image": "https://www.embrapa.br/documents/1355145/92982228/ObservatorioAbelhas1.png/ba8cc6e6-e93d-2bb8-f7aa-be2959bfcd6f?version=1.0&t=1792085560643",
+        "publishedAt": "2026-10-15T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Agricultura familiar",
           "Biodiversidade",
+          "Pesquisa, Desenvolvimento e Inovação",
           "Segurança alimentar, nutrição e saúde"
         ],
-        "relevancia": 0
+        "relevancia": 1
       },
       {
-        "title": "Famílias guardiãs avaliam milho e degustam cuscuz crioulo na Bahia",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148712656/familias-guardias-avaliam-milho-e-degustam-cuscuz-crioulo-na-bahia",
-        "summary": "Agroecologia e produção orgânica",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148712800&t=1792077717183",
-        "publishedAt": "2026-10-13T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Agroecologia e produção orgânica"
-        ],
-        "relevancia": 0
-      },
-      {
-        "title": "Especialistas debatem gestão, tendências e desafios sanitários na fase de cria que podem definir o futuro da pecuária de corte",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148711069/especialistas-debatem-gestao-tendencias-e-desafios-sanitarios-na-fase-de-cria-que-podem-definir-o-futuro-da-pecuaria-de-corte",
-        "summary": "Melhoramento genético",
-        "image": "https://www.embrapa.br/documents/1355108/0/Bovinos+e+ci%C3%AAncia.png/eb3bb0ff-b54d-c8ad-88a7-608f9479293c?version=1.0&t=1791893749168",
-        "publishedAt": "2026-10-13T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Melhoramento genético"
-        ],
-        "relevancia": 5
-      },
-      {
-        "title": "Jornada Científica discute o impacto da inteligência artificial na agricultura",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148661565/jornada-cientifica-discute-o-impacto-da-inteligencia-artificial-na-agricultura",
+        "title": "AgNest recebe startups do Speed Agro para testar tecnologias agrícolas",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148836046/agnest-recebe-startups-do-speed-agro-para-testar-tecnologias-agricolas",
         "summary": "",
-        "image": "https://www.embrapa.br/documents/1355135/146933696/JC_palestrante.jpeg/6554d28f-dd96-4a2b-4467-1147ffc2a06a?version=1.0&t=1791729399707",
-        "publishedAt": "2026-10-11T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1355145/92982228/SebraeAgNest.jpeg/dd405cb2-c984-6449-40a4-c05a45845b62?version=1.0&t=1792081953310",
+        "publishedAt": "2026-10-15T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 0
+        "relevancia": 1
       }
     ]
   },
@@ -125,7 +123,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/HVxb9AuV-boiadahenrique02.jpg",
       "publishedAt": "2026-10-15T11:59:14.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 22
+      "relevancia": 20
     },
     {
       "title": "Preço da arroba do boi gordo acumula alta de 3,76% em outubro, aponta Cepea",
@@ -134,7 +132,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
       "publishedAt": "2026-10-14T13:02:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 12
     },
     {
       "title": "Boi gordo: arroba segue em alta com escalas de abate apertadas",
@@ -143,7 +141,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2025/10/Boi-Gordo_31.10.2025.jpg",
       "publishedAt": "2026-10-13T22:06:20.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 12
     },
     {
       "title": "Arroba do boi gordo chega a R$ 385 e pecuaristas já esperam R$ 390 em São Paulo",
@@ -155,13 +153,13 @@
       "relevancia": 12
     },
     {
-      "title": "Arroba do boi gordo chega a R$ 380 com apetite para mais",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-chega-a-r-380-com-apetite-para-mais/",
-      "summary": "Foto: Lorran Lima/Idaf Cenário para a valorização continua favorável, com frigoríficos ativos nas compras e elevando gradualmente suas indicações O post Arroba do boi gordo chega a R$ 380 com apetite para mais apareceu p",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
-      "publishedAt": "2026-10-11T22:01:00.000Z",
+      "title": "Arroba do boi já tem operações pontuais a R$ 395; veja as cotações",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-ja-tem-operacoes-pontuais-a-r-395-veja-as-cotacoes-do-dia/",
+      "summary": "Foto: Gilson Abreu/AEN Escalas de abate pouco confortáveis, entre cinco e seis dias úteis na maior parte das regiões, mantêm os compradores ativos O post Arroba do boi já tem operações pontuais a R$ 395; veja as cotações",
+      "image": "https://imagens-cdn.canalrural.com.br/2023/09/pecuaria-boi-parana-scaled-1.jpg",
+      "publishedAt": "2026-10-15T23:16:21.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 12
+      "relevancia": 9
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
