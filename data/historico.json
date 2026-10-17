@@ -1,12 +1,12 @@
 {
-  "atualizado_em": "2026-10-16T15:41:14.773Z",
-  "fonte": "CEPEA/ESALQ · Indicador do boi gordo (média mensal à vista) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback)",
+  "atualizado_em": "2026-10-17T14:32:50.955Z",
+  "fonte": "CEPEA/ESALQ · Indicador do boi gordo (média mensal à vista) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback)",
   "feed": "https://www.cepea.org.br/br/indicador/boi-gordo.aspx",
   "periodo_meses": 12,
   "resumo": {
     "minimo": 320.28,
-    "maximo": 380.2,
-    "variacao_periodo_pct": 18.05
+    "maximo": 380.7,
+    "variacao_periodo_pct": 18.2
   },
   "serie": [
     {
@@ -67,7 +67,7 @@
     {
       "competencia": "2026-10",
       "label": "Outubro/26",
-      "preco_arroba": 380.2
+      "preco_arroba": 380.7
     }
   ]
 }

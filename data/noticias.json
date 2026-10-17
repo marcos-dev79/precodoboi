@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-16T15:41:14.315Z",
+  "atualizado_em": "2026-10-17T14:32:50.447Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -11,7 +11,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/HVxb9AuV-boiadahenrique02.jpg",
         "publishedAt": "2026-10-15T11:59:14.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 20
+        "relevancia": 19
+      },
+      {
+        "title": "Arroba do boi gordo chega a R$ 380 e bate recorde histórico de mais de 30 anos, aponta Cepea",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-chega-a-r-380-e-bate-recorde-historico-de-mais-de-30-anos-aponta-cepea/",
+        "summary": "Foto: Israel baumann/Canal Rural Mato Grosso Preço acumula valorização de 10,4% desde setembro, com oferta limitada de animais para abate e exportações ainda aquecidas O post Arroba do boi gordo chega a R$ 380 e bate rec",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/01/boi.jpg",
+        "publishedAt": "2026-10-16T18:03:38.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 17
       },
       {
         "title": "Preço da arroba do boi gordo acumula alta de 3,76% em outubro, aponta Cepea",
@@ -23,31 +32,22 @@
         "relevancia": 12
       },
       {
-        "title": "Boi gordo: arroba segue em alta com escalas de abate apertadas",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-arroba-segue-em-alta-com-escalas-de-abate-apertadas/",
-        "summary": "Foto: Fabiano Marques/Embrapa Frigoríficos seguem ativos na compra de boiadas, preservando o viés de alta para o curto prazo O post Boi gordo: arroba segue em alta com escalas de abate apertadas apareceu primeiro em Cana",
-        "image": "https://imagens-cdn.canalrural.com.br/2025/10/Boi-Gordo_31.10.2025.jpg",
-        "publishedAt": "2026-10-13T22:06:20.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
-        "title": "Arroba do boi gordo chega a R$ 385 e pecuaristas já esperam R$ 390 em São Paulo",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-chega-a-r-385-e-pecuaristas-ja-esperam-r-390-em-sao-paulo/",
-        "summary": "Foto: Wenderson Araujo/CNA Indicador Cepea/Esalq acumula alta de 3,71% em outubro, enquanto resistência dos vendedores reduz ritmo dos negócios. O post Arroba do boi gordo chega a R$ 385 e pecuaristas já esperam R$ 390 e",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/vCXcAo4F-boiadaCNA.jpg",
-        "publishedAt": "2026-10-13T12:17:38.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
-        "title": "Arroba do boi já tem operações pontuais a R$ 395; veja as cotações",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-ja-tem-operacoes-pontuais-a-r-395-veja-as-cotacoes-do-dia/",
-        "summary": "Foto: Gilson Abreu/AEN Escalas de abate pouco confortáveis, entre cinco e seis dias úteis na maior parte das regiões, mantêm os compradores ativos O post Arroba do boi já tem operações pontuais a R$ 395; veja as cotações",
-        "image": "https://imagens-cdn.canalrural.com.br/2023/09/pecuaria-boi-parana-scaled-1.jpg",
-        "publishedAt": "2026-10-15T23:16:21.000Z",
+        "title": "Arroba em viés de alta: veja como os preços do boi encerraram a semana",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-em-vies-de-alta-veja-como-os-precos-do-boi-encerraram-a-semana/",
+        "summary": "Imagem gerada por IA para o Canal Rural No entanto, perda gradual do estímulo ao consumo na segunda quinzena pode moderar a intensidade dos próximos reajustes, diz analista O post Arroba em viés de alta: veja como os pre",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
+        "publishedAt": "2026-10-16T23:02:13.000Z",
         "fonte": "Canal Rural",
         "relevancia": 9
+      },
+      {
+        "title": "Expoagro 2026: Parque da Pecuária passa por procedimentos de biosseguridade",
+        "link": "https://www.canalrural.com.br/pecuaria/expoagro-2026-parque-da-pecuaria-passa-por-procedimentos-de-biosseguridade/",
+        "summary": "Foto: Dorgival Junior / Ascom Adeal O espaço se prepara para receber mais uma edição do evento, que ocorrerá de 23 de outubro a 1º de novembro O post Expoagro 2026: Parque da Pecuária passa por procedimentos de biossegur",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/10/equipe-tecnica-da-adeal-supervisiona-desinfeccao-do-parque-da-pecuaria.jpg",
+        "publishedAt": "2026-10-16T18:46:40.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 8
       }
     ]
   },
@@ -55,6 +55,41 @@
     "fonte": "Embrapa · notícias",
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
+      {
+        "title": "Embrapii acompanha avanços e desafios dos projetos da Embrapa Agroenergia",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148869636/embrapii-acompanha-avancos-e-desafios-dos-projetos-da-embrapa-agroenergia",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148869637&t=1792173465664",
+        "publishedAt": "2026-10-16T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 1
+      },
+      {
+        "title": "Pesquisadora da Embrapa Cerrados está entre as 100 mulheres poderosas do agro brasileiro, segundo a Forbes Brasil",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148867704/pesquisadora-da-embrapa-cerrados-esta-entre-as-100-mulheres-poderosas-do-agro-brasileiro-segundo-a-forbes-brasil",
+        "summary": "Pesquisa, Desenvolvimento e Inovação",
+        "image": "https://www.embrapa.br/documents/d/cerrados/captura-de-tela-2026-10-16-134201-jpg?download=true",
+        "publishedAt": "2026-10-16T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Pesquisa, Desenvolvimento e Inovação"
+        ],
+        "relevancia": 1
+      },
+      {
+        "title": "Oficina prepara estratégias de adaptação da aquicultura brasileira às mudanças climáticas",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148865111/oficina-prepara-estrategias-de-adaptacao-da-aquicultura-brasileira-as-mudancas-climaticas",
+        "summary": "Transferência de Tecnologia · Manejo de Recursos Hídricos",
+        "image": "https://www.embrapa.br/documents/1355145/92982228/AquadaptPeq.jpg/d9ccd7aa-ae51-3849-eb1b-fc4fe175ac79?version=1.0&t=1792167363153",
+        "publishedAt": "2026-10-16T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Transferência de Tecnologia",
+          "Manejo de Recursos Hídricos"
+        ],
+        "relevancia": 1
+      },
       {
         "title": "Renovada parceria para fortalecimento da cotonicultura no Seridó potiguar",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148862050/renovada-parceria-para-fortalecimento-da-cotonicultura-no-serido-potiguar",
@@ -65,7 +100,7 @@
         "tags": [
           "Agroecologia e produção orgânica"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Milho sagrado volta a germinar em aldeias Avá Guarani do Oeste do Paraná",
@@ -73,42 +108,6 @@
         "summary": "",
         "image": "https://www.embrapa.br/image/journal/article?img_id=148860045&t=1792159429769",
         "publishedAt": "2026-10-16T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Embrapa Maranhão implanta unidades de referência tecnológica para avaliar cultivares de mandioca em Amarante",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148838732/embrapa-maranhao-implanta-unidades-de-referencia-tecnologica-para-avaliar-cultivares-de-mandioca-em-amarante",
-        "summary": "Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/documents/1354356/1528501/WhatsApp+Image+2026-10-15+at+10.31.51.jpeg/4602430c-c7a5-fe14-fac8-ed794647265a?version=1.0&t=1792087662147",
-        "publishedAt": "2026-10-15T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Transferência de Tecnologia"
-        ],
-        "relevancia": 1
-      },
-      {
-        "title": "Treinamento capacita técnicos do RS para registrar ocorrências de mortalidade de abelhas",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148837424/treinamento-capacita-tecnicos-do-rs-para-registrar-ocorrencias-de-mortalidade-de-abelhas",
-        "summary": "Biodiversidade · Pesquisa, Desenvolvimento e Inovação · Segurança alimentar, nutrição e saúde",
-        "image": "https://www.embrapa.br/documents/1355145/92982228/ObservatorioAbelhas1.png/ba8cc6e6-e93d-2bb8-f7aa-be2959bfcd6f?version=1.0&t=1792085560643",
-        "publishedAt": "2026-10-15T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Biodiversidade",
-          "Pesquisa, Desenvolvimento e Inovação",
-          "Segurança alimentar, nutrição e saúde"
-        ],
-        "relevancia": 1
-      },
-      {
-        "title": "AgNest recebe startups do Speed Agro para testar tecnologias agrícolas",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148836046/agnest-recebe-startups-do-speed-agro-para-testar-tecnologias-agricolas",
-        "summary": "",
-        "image": "https://www.embrapa.br/documents/1355145/92982228/SebraeAgNest.jpeg/dd405cb2-c984-6449-40a4-c05a45845b62?version=1.0&t=1792081953310",
-        "publishedAt": "2026-10-15T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
         "relevancia": 1
@@ -123,7 +122,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/HVxb9AuV-boiadahenrique02.jpg",
       "publishedAt": "2026-10-15T11:59:14.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 20
+      "relevancia": 19
+    },
+    {
+      "title": "Arroba do boi gordo chega a R$ 380 e bate recorde histórico de mais de 30 anos, aponta Cepea",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-chega-a-r-380-e-bate-recorde-historico-de-mais-de-30-anos-aponta-cepea/",
+      "summary": "Foto: Israel baumann/Canal Rural Mato Grosso Preço acumula valorização de 10,4% desde setembro, com oferta limitada de animais para abate e exportações ainda aquecidas O post Arroba do boi gordo chega a R$ 380 e bate rec",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/01/boi.jpg",
+      "publishedAt": "2026-10-16T18:03:38.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 17
     },
     {
       "title": "Preço da arroba do boi gordo acumula alta de 3,76% em outubro, aponta Cepea",
@@ -135,31 +143,22 @@
       "relevancia": 12
     },
     {
-      "title": "Boi gordo: arroba segue em alta com escalas de abate apertadas",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-arroba-segue-em-alta-com-escalas-de-abate-apertadas/",
-      "summary": "Foto: Fabiano Marques/Embrapa Frigoríficos seguem ativos na compra de boiadas, preservando o viés de alta para o curto prazo O post Boi gordo: arroba segue em alta com escalas de abate apertadas apareceu primeiro em Cana",
-      "image": "https://imagens-cdn.canalrural.com.br/2025/10/Boi-Gordo_31.10.2025.jpg",
-      "publishedAt": "2026-10-13T22:06:20.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
-      "title": "Arroba do boi gordo chega a R$ 385 e pecuaristas já esperam R$ 390 em São Paulo",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-chega-a-r-385-e-pecuaristas-ja-esperam-r-390-em-sao-paulo/",
-      "summary": "Foto: Wenderson Araujo/CNA Indicador Cepea/Esalq acumula alta de 3,71% em outubro, enquanto resistência dos vendedores reduz ritmo dos negócios. O post Arroba do boi gordo chega a R$ 385 e pecuaristas já esperam R$ 390 e",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/vCXcAo4F-boiadaCNA.jpg",
-      "publishedAt": "2026-10-13T12:17:38.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
-      "title": "Arroba do boi já tem operações pontuais a R$ 395; veja as cotações",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-ja-tem-operacoes-pontuais-a-r-395-veja-as-cotacoes-do-dia/",
-      "summary": "Foto: Gilson Abreu/AEN Escalas de abate pouco confortáveis, entre cinco e seis dias úteis na maior parte das regiões, mantêm os compradores ativos O post Arroba do boi já tem operações pontuais a R$ 395; veja as cotações",
-      "image": "https://imagens-cdn.canalrural.com.br/2023/09/pecuaria-boi-parana-scaled-1.jpg",
-      "publishedAt": "2026-10-15T23:16:21.000Z",
+      "title": "Arroba em viés de alta: veja como os preços do boi encerraram a semana",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-em-vies-de-alta-veja-como-os-precos-do-boi-encerraram-a-semana/",
+      "summary": "Imagem gerada por IA para o Canal Rural No entanto, perda gradual do estímulo ao consumo na segunda quinzena pode moderar a intensidade dos próximos reajustes, diz analista O post Arroba em viés de alta: veja como os pre",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
+      "publishedAt": "2026-10-16T23:02:13.000Z",
       "fonte": "Canal Rural",
       "relevancia": 9
+    },
+    {
+      "title": "Expoagro 2026: Parque da Pecuária passa por procedimentos de biosseguridade",
+      "link": "https://www.canalrural.com.br/pecuaria/expoagro-2026-parque-da-pecuaria-passa-por-procedimentos-de-biosseguridade/",
+      "summary": "Foto: Dorgival Junior / Ascom Adeal O espaço se prepara para receber mais uma edição do evento, que ocorrerá de 23 de outubro a 1º de novembro O post Expoagro 2026: Parque da Pecuária passa por procedimentos de biossegur",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/10/equipe-tecnica-da-adeal-supervisiona-desinfeccao-do-parque-da-pecuaria.jpg",
+      "publishedAt": "2026-10-16T18:46:40.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 8
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
