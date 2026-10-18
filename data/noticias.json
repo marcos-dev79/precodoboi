@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-17T14:32:50.447Z",
+  "atualizado_em": "2026-10-18T14:59:33.377Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -20,7 +20,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/01/boi.jpg",
         "publishedAt": "2026-10-16T18:03:38.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 17
+        "relevancia": 15
       },
       {
         "title": "Preço da arroba do boi gordo acumula alta de 3,76% em outubro, aponta Cepea",
@@ -32,22 +32,22 @@
         "relevancia": 12
       },
       {
+        "title": "Arroba do boi sobe de forma tímida, mas expectativa para o fim do ano é de alta contundente",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-sobe-de-forma-timida-mas-expectativa-para-o-fim-do-ano-e-de-alta-contundente/",
+        "summary": "Foto gerada por IA Auge do consumo doméstico e retomada das exportações para a China devem aumentar as cotações O post Arroba do boi sobe de forma tímida, mas expectativa para o fim do ano é de alta contundente apareceu ",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/08/derivativos-boi-gordo.jpg",
+        "publishedAt": "2026-10-14T21:53:44.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 8
+      },
+      {
         "title": "Arroba em viés de alta: veja como os preços do boi encerraram a semana",
         "link": "https://www.canalrural.com.br/pecuaria/arroba-em-vies-de-alta-veja-como-os-precos-do-boi-encerraram-a-semana/",
         "summary": "Imagem gerada por IA para o Canal Rural No entanto, perda gradual do estímulo ao consumo na segunda quinzena pode moderar a intensidade dos próximos reajustes, diz analista O post Arroba em viés de alta: veja como os pre",
         "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
         "publishedAt": "2026-10-16T23:02:13.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 9
-      },
-      {
-        "title": "Expoagro 2026: Parque da Pecuária passa por procedimentos de biosseguridade",
-        "link": "https://www.canalrural.com.br/pecuaria/expoagro-2026-parque-da-pecuaria-passa-por-procedimentos-de-biosseguridade/",
-        "summary": "Foto: Dorgival Junior / Ascom Adeal O espaço se prepara para receber mais uma edição do evento, que ocorrerá de 23 de outubro a 1º de novembro O post Expoagro 2026: Parque da Pecuária passa por procedimentos de biossegur",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/10/equipe-tecnica-da-adeal-supervisiona-desinfeccao-do-parque-da-pecuaria.jpg",
-        "publishedAt": "2026-10-16T18:46:40.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 8
+        "relevancia": 7
       }
     ]
   },
@@ -59,11 +59,11 @@
         "title": "Embrapii acompanha avanços e desafios dos projetos da Embrapa Agroenergia",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148869636/embrapii-acompanha-avancos-e-desafios-dos-projetos-da-embrapa-agroenergia",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148869637&t=1792173465664",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148869637&t=1792173470265",
         "publishedAt": "2026-10-16T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Pesquisadora da Embrapa Cerrados está entre as 100 mulheres poderosas do agro brasileiro, segundo a Forbes Brasil",
@@ -75,7 +75,7 @@
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Oficina prepara estratégias de adaptação da aquicultura brasileira às mudanças climáticas",
@@ -88,7 +88,7 @@
           "Transferência de Tecnologia",
           "Manejo de Recursos Hídricos"
         ],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Renovada parceria para fortalecimento da cotonicultura no Seridó potiguar",
@@ -100,17 +100,17 @@
         "tags": [
           "Agroecologia e produção orgânica"
         ],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Milho sagrado volta a germinar em aldeias Avá Guarani do Oeste do Paraná",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148860044/milho-sagrado-volta-a-germinar-em-aldeias-ava-guarani-do-oeste-do-parana",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148860045&t=1792159429769",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148860045&t=1792159440616",
         "publishedAt": "2026-10-16T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 1
+        "relevancia": 0
       }
     ]
   },
@@ -131,7 +131,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/01/boi.jpg",
       "publishedAt": "2026-10-16T18:03:38.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 17
+      "relevancia": 15
     },
     {
       "title": "Preço da arroba do boi gordo acumula alta de 3,76% em outubro, aponta Cepea",
@@ -143,22 +143,22 @@
       "relevancia": 12
     },
     {
+      "title": "Arroba do boi sobe de forma tímida, mas expectativa para o fim do ano é de alta contundente",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-sobe-de-forma-timida-mas-expectativa-para-o-fim-do-ano-e-de-alta-contundente/",
+      "summary": "Foto gerada por IA Auge do consumo doméstico e retomada das exportações para a China devem aumentar as cotações O post Arroba do boi sobe de forma tímida, mas expectativa para o fim do ano é de alta contundente apareceu ",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/08/derivativos-boi-gordo.jpg",
+      "publishedAt": "2026-10-14T21:53:44.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 8
+    },
+    {
       "title": "Arroba em viés de alta: veja como os preços do boi encerraram a semana",
       "link": "https://www.canalrural.com.br/pecuaria/arroba-em-vies-de-alta-veja-como-os-precos-do-boi-encerraram-a-semana/",
       "summary": "Imagem gerada por IA para o Canal Rural No entanto, perda gradual do estímulo ao consumo na segunda quinzena pode moderar a intensidade dos próximos reajustes, diz analista O post Arroba em viés de alta: veja como os pre",
       "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
       "publishedAt": "2026-10-16T23:02:13.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 9
-    },
-    {
-      "title": "Expoagro 2026: Parque da Pecuária passa por procedimentos de biosseguridade",
-      "link": "https://www.canalrural.com.br/pecuaria/expoagro-2026-parque-da-pecuaria-passa-por-procedimentos-de-biosseguridade/",
-      "summary": "Foto: Dorgival Junior / Ascom Adeal O espaço se prepara para receber mais uma edição do evento, que ocorrerá de 23 de outubro a 1º de novembro O post Expoagro 2026: Parque da Pecuária passa por procedimentos de biossegur",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/10/equipe-tecnica-da-adeal-supervisiona-desinfeccao-do-parque-da-pecuaria.jpg",
-      "publishedAt": "2026-10-16T18:46:40.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 8
+      "relevancia": 7
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
