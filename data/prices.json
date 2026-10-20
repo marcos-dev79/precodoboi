@@ -1,10 +1,10 @@
 {
-  "atualizado_em": "2026-10-19T17:52:18.434Z",
+  "atualizado_em": "2026-10-20T15:56:29.410Z",
   "fonte": "CEPEA/ESALQ · NoticiasAgricolas · Scot Consultoria",
   "licenca": "CC-BY-4.0 · atribuicao AgroDoc AI",
   "referencia_cepea_sp": 380.7,
   "media_nacional": {
-    "preco_arroba": 364.36
+    "preco_arroba": 364.62
   },
   "estados": [
     {
@@ -32,6 +32,14 @@
       "praca": "PR"
     },
     {
+      "uf": "MS",
+      "nome": "Mato Grosso do Sul",
+      "regiao": "Centro-Oeste",
+      "preco_arroba": 378,
+      "origem": "api",
+      "praca": "MS"
+    },
+    {
       "uf": "ES",
       "nome": "Espírito Santo",
       "regiao": "Sudeste",
@@ -46,14 +54,6 @@
       "preco_arroba": 376.89,
       "origem": "estimado",
       "praca": "estimativa regional (Sul)"
-    },
-    {
-      "uf": "MS",
-      "nome": "Mato Grosso do Sul",
-      "regiao": "Centro-Oeste",
-      "preco_arroba": 375,
-      "origem": "api",
-      "praca": "MS"
     },
     {
       "uf": "RS",
@@ -72,20 +72,20 @@
       "praca": "MG"
     },
     {
+      "uf": "PA",
+      "nome": "Pará",
+      "regiao": "Norte",
+      "preco_arroba": 370,
+      "origem": "api",
+      "praca": "PA"
+    },
+    {
       "uf": "DF",
       "nome": "Distrito Federal",
       "regiao": "Centro-Oeste",
       "preco_arroba": 369.28,
       "origem": "estimado",
       "praca": "estimativa regional (Centro-Oeste)"
-    },
-    {
-      "uf": "PA",
-      "nome": "Pará",
-      "regiao": "Norte",
-      "preco_arroba": 368,
-      "origem": "api",
-      "praca": "PA"
     },
     {
       "uf": "BA",
@@ -107,7 +107,7 @@
       "uf": "TO",
       "nome": "Tocantins",
       "regiao": "Norte",
-      "preco_arroba": 363,
+      "preco_arroba": 365,
       "origem": "api",
       "praca": "TO"
     },

@@ -1,17 +1,26 @@
 {
-  "atualizado_em": "2026-10-19T17:52:20.466Z",
+  "atualizado_em": "2026-10-20T15:56:34.328Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
       {
-        "title": "Boi gordo sobe mais que a carne bovina e pressiona margens dos frigoríficos em SP",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-mais-que-a-carne-bovina-e-pressiona-margens-dos-frigorificos-em-sp/",
-        "summary": "Foto: Henrique Bighetti/Canal Rural Oferta restrita de animais para abate sustenta valorização da arroba, enquanto preços da carne no atacado avançam em ritmo menor, aponta Cepea O post Boi gordo sobe mais que a carne bo",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/HVxb9AuV-boiadahenrique02.jpg",
-        "publishedAt": "2026-10-15T11:59:14.000Z",
+        "title": "Após sequência de recordes, mercado do boi gordo perde força no início da semana",
+        "link": "https://www.canalrural.com.br/pecuaria/apos-sequencia-de-recordes-mercado-do-boi-gordo-perde-forca-no-inicio-da-semana/",
+        "summary": "Foto: Madson Maranhão/Seagro-TO Frigoríficos reduzem ritmo de compras, mas oferta restrita de animais mantém preços da arroba firmes, aponta Cepea O post Após sequência de recordes, mercado do boi gordo perde força no in",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/I80KiuGr-Madson-Maranhao-Seagro-TO-03.jpg",
+        "publishedAt": "2026-10-20T12:46:26.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 19
+        "relevancia": 16
+      },
+      {
+        "title": "Arroba do boi gordo: escalas de abate encurtadas seguem trazendo novas altas",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-escalas-de-abate-encurtadas-seguem-trazendo-novas-altas/",
+        "summary": "Foto: Raquel Brunelli/Embrapa Necessidade de recompor as programações mantém os frigoríficos ativos nas compras O post Arroba do boi gordo: escalas de abate encurtadas seguem trazendo novas altas apareceu primeiro em Can",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
+        "publishedAt": "2026-10-19T21:43:28.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
       },
       {
         "title": "Preço da arroba do boi gordo dispara e acumula alta de 4,5% em outubro, aponta Cepea",
@@ -20,7 +29,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
         "publishedAt": "2026-10-19T12:48:28.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 16
+        "relevancia": 14
       },
       {
         "title": "Arroba do boi vai ‘explodir’ se não houver freio de exportação à China ainda em 2026, diz analista",
@@ -29,16 +38,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-China.png",
         "publishedAt": "2026-10-18T22:02:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 14
-      },
-      {
-        "title": "Arroba do boi gordo chega a R$ 380 e bate recorde histórico de mais de 30 anos, aponta Cepea",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-chega-a-r-380-e-bate-recorde-historico-de-mais-de-30-anos-aponta-cepea/",
-        "summary": "Foto: Israel baumann/Canal Rural Mato Grosso Preço acumula valorização de 10,4% desde setembro, com oferta limitada de animais para abate e exportações ainda aquecidas O post Arroba do boi gordo chega a R$ 380 e bate rec",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/01/boi.jpg",
-        "publishedAt": "2026-10-16T18:03:38.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 14
+        "relevancia": 12
       },
       {
         "title": "Brasil já iniciou produção de carne bovina para ser exportada para China em 2027, diz Abiec",
@@ -47,7 +47,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
         "publishedAt": "2026-10-19T15:24:50.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 11
       }
     ]
   },
@@ -56,43 +56,31 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Café guardado por gerações no Pará revela espécie rara e aproxima ciência dos saberes rurais",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148968867/cafe-guardado-por-geracoes-no-para-revela-especie-rara-e-aproxima-ciencia-dos-saberes-rurais",
-        "summary": "Agroecologia e produção orgânica",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148968868&t=1792431991028",
-        "publishedAt": "2026-10-19T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Agroecologia e produção orgânica"
-        ],
-        "relevancia": 3
-      },
-      {
-        "title": "Café guardado por gerações no Pará revela espécie rara e aproxima ciência dos saberes rurais",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148967046/cafe-guardado-por-geracoes-no-para-revela-especie-rara-e-aproxima-ciencia-dos-saberes-rurais",
+        "title": "Embrapa articula parcerias com comunidades rurais de São Luís para fortalecer a agricultura familiar",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149026977/embrapa-articula-parcerias-com-comunidades-rurais-de-sao-luis-para-fortalecer-a-agricultura-familiar",
         "summary": "",
-        "image": "https://www.embrapa.br/documents/10180/148966777/cafe-maos1.jpg/1287b7a5-71b2-88c6-82fe-813e51930940?version=1.0&t=1792422752494",
-        "publishedAt": "2026-10-19T12:00:00.000Z",
+        "image": null,
+        "publishedAt": "2026-10-20T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
         "relevancia": 3
       },
       {
-        "title": "Chefe-geral da Embrapa Algodão é uma das mulheres mais poderosas do agro",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148965951/chefe-geral-da-embrapa-algodao-e-uma-das-mulheres-mais-poderosas-do-agro",
+        "title": "Pesquisadora toma posse na Academia de Ciências da Bahia",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149026902/pesquisadora-toma-posse-na-academia-de-ciencias-da-bahia",
         "summary": "",
-        "image": "https://www.embrapa.br/documents/1355081/1527228/Nair+Arriel_Foto+S%C3%A9rgio+Cobel.jpg/7eaff48e-6dac-bffc-e733-19853be897d6?version=1.0&t=1792422248321",
-        "publishedAt": "2026-10-19T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1355135/0/WhatsApp+Image+2026-10-16+at+17.19.31.jpeg/bfb83be5-b885-c700-56f4-1481bfefa602?version=1.0&t=1792434378347",
+        "publishedAt": "2026-10-20T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
         "relevancia": 3
       },
       {
-        "title": "Tecnologias da Embrapa para o setor do pescado chegam à Seafood Show Latin America",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148961092/tecnologias-da-embrapa-para-o-setor-do-pescado-chegam-a-seafood-show-latin-america",
+        "title": "Embrapa e parceiros organizam três grandes eventos para impulsionar a pecanicultura, em outubro e novembro",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148982957/embrapa-e-parceiros-organizam-tres-grandes-eventos-para-impulsionar-a-pecanicultura-em-outubro-e-novembro",
         "summary": "Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/documents/1355321/148957849/Seafood+2025+2.jpg/d4b74145-ab5c-caed-859b-da3f7953282f?version=1.0&t=1792413744224",
-        "publishedAt": "2026-10-19T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1354346/0/291640160o.jpg/87902cd7-37b4-b4d7-5961-e6a3443359e9?version=1.0&t=1792433480857",
+        "publishedAt": "2026-10-20T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Transferência de Tecnologia"
@@ -100,29 +88,47 @@
         "relevancia": 3
       },
       {
-        "title": "Chefe-geral da Embrapa Gado de Corte integra lista das 100 Mulheres Poderosas do Agro",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148959410/chefe-geral-da-embrapa-gado-de-corte-integra-lista-das-100-mulheres-poderosas-do-agro",
-        "summary": "Gestão Estratégica · Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/documents/1355108/0/Mariana-de-Aragao-Pereira-768x432.jpg/aadad401-9837-a988-f02b-616056ad53c9?version=1.0&t=1792412532182",
+        "title": "Nove mulheres da Embrapa estão entre as 100 mais poderosas do agro em lista da Forbes",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148994286/nove-mulheres-da-embrapa-estao-entre-as-100-mais-poderosas-do-agro-em-lista-da-forbes",
+        "summary": "Pesquisa, Desenvolvimento e Inovação",
+        "image": "https://www.embrapa.br/documents/10180/144908863/Mulheres+Forbes+1.jpg/93d7c109-19bf-27fb-c8c1-2ebd64a4f676?version=1.0&t=1792443107366",
         "publishedAt": "2026-10-19T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Gestão Estratégica",
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 7
+        "relevancia": 1
+      },
+      {
+        "title": "Cursos gratuitos abordam irrigação, barragens subterrâneas e serviços ecossistêmicos na paisagem rural",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148984200/cursos-gratuitos-abordam-irrigacao-barragens-subterraneas-e-servicos-ecossistemicos-na-paisagem-rural",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=148984201&t=1792499849591",
+        "publishedAt": "2026-10-19T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 1
       }
     ]
   },
   "noticias": [
     {
-      "title": "Boi gordo sobe mais que a carne bovina e pressiona margens dos frigoríficos em SP",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-mais-que-a-carne-bovina-e-pressiona-margens-dos-frigorificos-em-sp/",
-      "summary": "Foto: Henrique Bighetti/Canal Rural Oferta restrita de animais para abate sustenta valorização da arroba, enquanto preços da carne no atacado avançam em ritmo menor, aponta Cepea O post Boi gordo sobe mais que a carne bo",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/HVxb9AuV-boiadahenrique02.jpg",
-      "publishedAt": "2026-10-15T11:59:14.000Z",
+      "title": "Após sequência de recordes, mercado do boi gordo perde força no início da semana",
+      "link": "https://www.canalrural.com.br/pecuaria/apos-sequencia-de-recordes-mercado-do-boi-gordo-perde-forca-no-inicio-da-semana/",
+      "summary": "Foto: Madson Maranhão/Seagro-TO Frigoríficos reduzem ritmo de compras, mas oferta restrita de animais mantém preços da arroba firmes, aponta Cepea O post Após sequência de recordes, mercado do boi gordo perde força no in",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/I80KiuGr-Madson-Maranhao-Seagro-TO-03.jpg",
+      "publishedAt": "2026-10-20T12:46:26.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 19
+      "relevancia": 16
+    },
+    {
+      "title": "Arroba do boi gordo: escalas de abate encurtadas seguem trazendo novas altas",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-escalas-de-abate-encurtadas-seguem-trazendo-novas-altas/",
+      "summary": "Foto: Raquel Brunelli/Embrapa Necessidade de recompor as programações mantém os frigoríficos ativos nas compras O post Arroba do boi gordo: escalas de abate encurtadas seguem trazendo novas altas apareceu primeiro em Can",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
+      "publishedAt": "2026-10-19T21:43:28.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
     },
     {
       "title": "Preço da arroba do boi gordo dispara e acumula alta de 4,5% em outubro, aponta Cepea",
@@ -131,7 +137,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
       "publishedAt": "2026-10-19T12:48:28.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 16
+      "relevancia": 14
     },
     {
       "title": "Arroba do boi vai ‘explodir’ se não houver freio de exportação à China ainda em 2026, diz analista",
@@ -140,16 +146,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-China.png",
       "publishedAt": "2026-10-18T22:02:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 14
-    },
-    {
-      "title": "Arroba do boi gordo chega a R$ 380 e bate recorde histórico de mais de 30 anos, aponta Cepea",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-chega-a-r-380-e-bate-recorde-historico-de-mais-de-30-anos-aponta-cepea/",
-      "summary": "Foto: Israel baumann/Canal Rural Mato Grosso Preço acumula valorização de 10,4% desde setembro, com oferta limitada de animais para abate e exportações ainda aquecidas O post Arroba do boi gordo chega a R$ 380 e bate rec",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/01/boi.jpg",
-      "publishedAt": "2026-10-16T18:03:38.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 14
+      "relevancia": 12
     },
     {
       "title": "Brasil já iniciou produção de carne bovina para ser exportada para China em 2027, diz Abiec",
@@ -158,7 +155,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
       "publishedAt": "2026-10-19T15:24:50.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 11
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
