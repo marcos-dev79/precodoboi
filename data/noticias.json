@@ -1,9 +1,18 @@
 {
-  "atualizado_em": "2026-10-20T15:56:34.328Z",
+  "atualizado_em": "2026-10-21T16:13:10.787Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Arroba do boi registra alta em 4 estados e chega a R$ 385, aponta Cepea",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-registra-alta-em-4-estados-e-chega-a-r-385-aponta-cepea/",
+        "summary": "Foto: Ministério da Agricultura e Pecuária Oferta restrita de animais para abate mantém mercado aquecido e sustenta reajustes positivos nas cotações O post Arroba do boi registra alta em 4 estados e chega a R$ 385, apont",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/BOVINOS.jpeg",
+        "publishedAt": "2026-10-21T12:31:13.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
       {
         "title": "Após sequência de recordes, mercado do boi gordo perde força no início da semana",
         "link": "https://www.canalrural.com.br/pecuaria/apos-sequencia-de-recordes-mercado-do-boi-gordo-perde-forca-no-inicio-da-semana/",
@@ -11,7 +20,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/I80KiuGr-Madson-Maranhao-Seagro-TO-03.jpg",
         "publishedAt": "2026-10-20T12:46:26.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 16
+        "relevancia": 14
       },
       {
         "title": "Arroba do boi gordo: escalas de abate encurtadas seguem trazendo novas altas",
@@ -20,7 +29,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
         "publishedAt": "2026-10-19T21:43:28.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
+        "relevancia": 13
       },
       {
         "title": "Preço da arroba do boi gordo dispara e acumula alta de 4,5% em outubro, aponta Cepea",
@@ -29,25 +38,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
         "publishedAt": "2026-10-19T12:48:28.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 14
+        "relevancia": 13
       },
       {
-        "title": "Arroba do boi vai ‘explodir’ se não houver freio de exportação à China ainda em 2026, diz analista",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-vai-explodir-se-nao-houver-freio-de-exportacao-a-china-ainda-em-2026-diz-analista/",
-        "summary": "Imagem gerada por IA Brasil deve exportar cerca de 400 mil ton de carne para os asiáticos entre novembro e dezembro caso não haja um sistema de gestão da cota O post Arroba do boi vai ‘explodir’ se não houver freio de ex",
-        "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-China.png",
-        "publishedAt": "2026-10-18T22:02:00.000Z",
+        "title": "Rastreabilidade bovina: tecnologia conecta dados da fazenda ao consumidor",
+        "link": "https://www.canalrural.com.br/pecuaria/rastreabilidade-bovina-tecnologia-conecta-dados-da-fazenda-ao-consumidor/",
+        "summary": "Imagem gerada por IA para o Canal Rural Sistema usado por frigoríficos reúne informações sobre a origem e o percurso da carne, mas rastrear cada produtor ainda é um desafio O post Rastreabilidade bovina: tecnologia conec",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/10/Gemini_Generated_Image_kpqnx8kpqnx8kpqn.jpg",
+        "publishedAt": "2026-10-21T10:00:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
-        "title": "Brasil já iniciou produção de carne bovina para ser exportada para China em 2027, diz Abiec",
-        "link": "https://www.canalrural.com.br/pecuaria/brasil-ja-iniciou-producao-de-carne-bovina-para-ser-exportada-para-china-em-2027-diz-abiec/",
-        "summary": "Foto: Freepik Segundo o presidente da entidade, a maioria das empresas do setor já está produzindo para atender o mercado chinês O post Brasil já iniciou produção de carne bovina para ser exportada para China em 2027, di",
-        "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
-        "publishedAt": "2026-10-19T15:24:50.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 11
+        "relevancia": 10
       }
     ]
   },
@@ -56,62 +56,75 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Embrapa articula parcerias com comunidades rurais de São Luís para fortalecer a agricultura familiar",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149026977/embrapa-articula-parcerias-com-comunidades-rurais-de-sao-luis-para-fortalecer-a-agricultura-familiar",
-        "summary": "",
-        "image": null,
-        "publishedAt": "2026-10-20T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Pesquisadora toma posse na Academia de Ciências da Bahia",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149026902/pesquisadora-toma-posse-na-academia-de-ciencias-da-bahia",
-        "summary": "",
-        "image": "https://www.embrapa.br/documents/1355135/0/WhatsApp+Image+2026-10-16+at+17.19.31.jpeg/bfb83be5-b885-c700-56f4-1481bfefa602?version=1.0&t=1792434378347",
-        "publishedAt": "2026-10-20T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Embrapa e parceiros organizam três grandes eventos para impulsionar a pecanicultura, em outubro e novembro",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148982957/embrapa-e-parceiros-organizam-tres-grandes-eventos-para-impulsionar-a-pecanicultura-em-outubro-e-novembro",
-        "summary": "Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/documents/1354346/0/291640160o.jpg/87902cd7-37b4-b4d7-5961-e6a3443359e9?version=1.0&t=1792433480857",
-        "publishedAt": "2026-10-20T12:00:00.000Z",
+        "title": "Bioeconomia: curso gratuito da Embrapa apresenta caminhos para uma indústria menos dependente de recursos fósseis",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149066655/bioeconomia-curso-gratuito-da-embrapa-apresenta-caminhos-para-uma-industria-menos-dependente-de-recursos-fosseis",
+        "summary": "Agroenergia",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149066656&t=1792593534527",
+        "publishedAt": "2026-10-21T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Transferência de Tecnologia"
+          "Agroenergia"
         ],
         "relevancia": 3
       },
       {
-        "title": "Nove mulheres da Embrapa estão entre as 100 mais poderosas do agro em lista da Forbes",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148994286/nove-mulheres-da-embrapa-estao-entre-as-100-mais-poderosas-do-agro-em-lista-da-forbes",
+        "title": "Embrapa Cerrados apresenta pesquisas sobre saúde do solo na Universidade da Geórgia, nos EUA",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149064616/embrapa-cerrados-apresenta-pesquisas-sobre-saude-do-solo-na-universidade-da-georgia-nos-eua",
         "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/documents/10180/144908863/Mulheres+Forbes+1.jpg/93d7c109-19bf-27fb-c8c1-2ebd64a4f676?version=1.0&t=1792443107366",
-        "publishedAt": "2026-10-19T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/d/cerrados/ed_dsc7417_fabiano_bastos-jpg?download=true",
+        "publishedAt": "2026-10-21T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Pesquisa, Desenvolvimento e Inovação"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Simone Favaro está entre as 100 mulheres mais influentes do agronegócio",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149063097/simone-favaro-esta-entre-as-100-mulheres-mais-influentes-do-agronegocio",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149063098&t=1792588095050",
+        "publishedAt": "2026-10-21T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 3
+      },
+      {
+        "title": "Rebanhos de caprinos e ovinos crescem no Brasil e reforçam concentração no Nordeste",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149062144/rebanhos-de-caprinos-e-ovinos-crescem-no-brasil-e-reforcam-concentracao-no-nordeste",
+        "summary": "Produção animal",
+        "image": "https://www.embrapa.br/documents/1355090/86934705/PPM+25.jpg/af61e5c6-6359-27f7-9063-97b1894b9dc7?version=1.0&t=1792581860052",
+        "publishedAt": "2026-10-21T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Produção animal"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Kits de manivas-semente de qualidade serão entregues para mandiocultores selecionados no Tocantins",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149030013/kits-de-manivas-semente-de-qualidade-serao-entregues-para-mandiocultores-selecionados-no-tocantins",
+        "summary": "Pesquisa, Desenvolvimento e Inovação",
+        "image": "https://www.embrapa.br/documents/1355321/149029749/estufa+interna+2.jpeg/7ab84d6b-684d-e1bb-644f-777a750c5e14?version=1.0&t=1792514388422",
+        "publishedAt": "2026-10-20T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
         "relevancia": 1
-      },
-      {
-        "title": "Cursos gratuitos abordam irrigação, barragens subterrâneas e serviços ecossistêmicos na paisagem rural",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/148984200/cursos-gratuitos-abordam-irrigacao-barragens-subterraneas-e-servicos-ecossistemicos-na-paisagem-rural",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=148984201&t=1792499849591",
-        "publishedAt": "2026-10-19T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 1
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Arroba do boi registra alta em 4 estados e chega a R$ 385, aponta Cepea",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-registra-alta-em-4-estados-e-chega-a-r-385-aponta-cepea/",
+      "summary": "Foto: Ministério da Agricultura e Pecuária Oferta restrita de animais para abate mantém mercado aquecido e sustenta reajustes positivos nas cotações O post Arroba do boi registra alta em 4 estados e chega a R$ 385, apont",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/BOVINOS.jpeg",
+      "publishedAt": "2026-10-21T12:31:13.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
     {
       "title": "Após sequência de recordes, mercado do boi gordo perde força no início da semana",
       "link": "https://www.canalrural.com.br/pecuaria/apos-sequencia-de-recordes-mercado-do-boi-gordo-perde-forca-no-inicio-da-semana/",
@@ -119,7 +132,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/I80KiuGr-Madson-Maranhao-Seagro-TO-03.jpg",
       "publishedAt": "2026-10-20T12:46:26.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 16
+      "relevancia": 14
     },
     {
       "title": "Arroba do boi gordo: escalas de abate encurtadas seguem trazendo novas altas",
@@ -128,7 +141,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
       "publishedAt": "2026-10-19T21:43:28.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
+      "relevancia": 13
     },
     {
       "title": "Preço da arroba do boi gordo dispara e acumula alta de 4,5% em outubro, aponta Cepea",
@@ -137,25 +150,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
       "publishedAt": "2026-10-19T12:48:28.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 14
+      "relevancia": 13
     },
     {
-      "title": "Arroba do boi vai ‘explodir’ se não houver freio de exportação à China ainda em 2026, diz analista",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-vai-explodir-se-nao-houver-freio-de-exportacao-a-china-ainda-em-2026-diz-analista/",
-      "summary": "Imagem gerada por IA Brasil deve exportar cerca de 400 mil ton de carne para os asiáticos entre novembro e dezembro caso não haja um sistema de gestão da cota O post Arroba do boi vai ‘explodir’ se não houver freio de ex",
-      "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-China.png",
-      "publishedAt": "2026-10-18T22:02:00.000Z",
+      "title": "Rastreabilidade bovina: tecnologia conecta dados da fazenda ao consumidor",
+      "link": "https://www.canalrural.com.br/pecuaria/rastreabilidade-bovina-tecnologia-conecta-dados-da-fazenda-ao-consumidor/",
+      "summary": "Imagem gerada por IA para o Canal Rural Sistema usado por frigoríficos reúne informações sobre a origem e o percurso da carne, mas rastrear cada produtor ainda é um desafio O post Rastreabilidade bovina: tecnologia conec",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/10/Gemini_Generated_Image_kpqnx8kpqnx8kpqn.jpg",
+      "publishedAt": "2026-10-21T10:00:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
-      "title": "Brasil já iniciou produção de carne bovina para ser exportada para China em 2027, diz Abiec",
-      "link": "https://www.canalrural.com.br/pecuaria/brasil-ja-iniciou-producao-de-carne-bovina-para-ser-exportada-para-china-em-2027-diz-abiec/",
-      "summary": "Foto: Freepik Segundo o presidente da entidade, a maioria das empresas do setor já está produzindo para atender o mercado chinês O post Brasil já iniciou produção de carne bovina para ser exportada para China em 2027, di",
-      "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
-      "publishedAt": "2026-10-19T15:24:50.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 11
+      "relevancia": 10
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
