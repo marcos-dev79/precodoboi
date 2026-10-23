@@ -1,9 +1,27 @@
 {
-  "atualizado_em": "2026-10-22T16:11:23.081Z",
+  "atualizado_em": "2026-10-23T16:01:27.920Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Boi gordo sobe R$ 10 por arroba em duas regiões; confira as cotações pelo país",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-r-10-por-arroba-em-duas-regioes-confira-as-cotacoes-pelo-pais/",
+        "summary": "Foto: divulgação Mercado segue firme, com estabilidade em outras regiões; oferta restrita de animais e escalas de abate curtas marcam as negociações O post Boi gordo sobe R$ 10 por arroba em duas regiões; confira as cota",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/07/furto-gado.jpg",
+        "publishedAt": "2026-10-23T12:26:04.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 16
+      },
+      {
+        "title": "Arroba do boi gordo tem alta tímida em meio à redução do consumo interno",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-tem-alta-timida-em-meio-a-reducao-do-consumo-interno/",
+        "summary": "Foto: Christiano Antonucci/Secom-MT Entretanto, o mercado mantém expectativas positivas em torno da demanda chinesa no último trimestre O post Arroba do boi gordo tem alta tímida em meio à redução do consumo interno apar",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
+        "publishedAt": "2026-10-22T22:09:55.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 16
+      },
       {
         "title": "Arroba do boi gordo: escalas não avançam e preços seguem em alta",
         "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-escalas-nao-avancam-e-precos-seguem-em-alta/",
@@ -11,16 +29,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2023/09/pecuaria-boi-parana-scaled-1.jpg",
         "publishedAt": "2026-10-21T21:49:56.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 16
-      },
-      {
-        "title": "Arroba do boi registra alta em 4 estados e chega a R$ 385, aponta Cepea",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-registra-alta-em-4-estados-e-chega-a-r-385-aponta-cepea/",
-        "summary": "Foto: Ministério da Agricultura e Pecuária Oferta restrita de animais para abate mantém mercado aquecido e sustenta reajustes positivos nas cotações O post Arroba do boi registra alta em 4 estados e chega a R$ 385, apont",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/BOVINOS.jpeg",
-        "publishedAt": "2026-10-21T12:31:13.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 14
       },
       {
         "title": "Após sequência de recordes, mercado do boi gordo perde força no início da semana",
@@ -32,20 +41,11 @@
         "relevancia": 13
       },
       {
-        "title": "Alta do preço do boi gordo favorece confinamento, avalia Cepea",
-        "link": "https://www.canalrural.com.br/pecuaria/alta-do-preco-do-boi-gordo-favorece-confinamento-avalia-cepea/",
-        "summary": "Com oferta restrita de animais para abate, boi gordo registra alta superior à do boi magro e melhora perspectivas para pecuaristas O post Alta do preço do boi gordo favorece confinamento, avalia Cepea apareceu primeiro e",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/04/bovinos_de_corte_confinamento_02.07.2025-1.jpg",
-        "publishedAt": "2026-10-22T11:42:06.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
-        "title": "Arroba do boi gordo: escalas de abate encurtadas seguem trazendo novas altas",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-escalas-de-abate-encurtadas-seguem-trazendo-novas-altas/",
-        "summary": "Foto: Raquel Brunelli/Embrapa Necessidade de recompor as programações mantém os frigoríficos ativos nas compras O post Arroba do boi gordo: escalas de abate encurtadas seguem trazendo novas altas apareceu primeiro em Can",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
-        "publishedAt": "2026-10-19T21:43:28.000Z",
+        "title": "Arroba do boi registra alta em 4 estados e chega a R$ 385, aponta Cepea",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-registra-alta-em-4-estados-e-chega-a-r-385-aponta-cepea/",
+        "summary": "Foto: Ministério da Agricultura e Pecuária Oferta restrita de animais para abate mantém mercado aquecido e sustenta reajustes positivos nas cotações O post Arroba do boi registra alta em 4 estados e chega a R$ 385, apont",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/BOVINOS.jpeg",
+        "publishedAt": "2026-10-21T12:31:13.000Z",
         "fonte": "Canal Rural",
         "relevancia": 12
       }
@@ -56,68 +56,84 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Embrapa alerta para risco de propagação de bacteriose no trigo através de sementes",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149107739/embrapa-alerta-para-risco-de-propagacao-de-bacteriose-no-trigo-atraves-de-sementes",
-        "summary": "Produção vegetal",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149108210&t=1792684440541",
-        "publishedAt": "2026-10-22T12:00:00.000Z",
+        "title": "Embrapa e parceiros realizam ações para fortalecer cafeicultura no Juruá",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149154738/embrapa-e-parceiros-realizam-acoes-para-fortalecer-cafeicultura-no-jurua",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149154739&t=1792763118865",
+        "publishedAt": "2026-10-23T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 3
+      },
+      {
+        "title": "Tomate para processamento industrial passa a contar com o Zoneamento Agrícola de Risco Climático",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149153232/tomate-para-processamento-industrial-passa-a-contar-com-o-zoneamento-agricola-de-risco-climatico",
+        "summary": "Pesquisa, Desenvolvimento e Inovação",
+        "image": "https://www.embrapa.br/documents/1355126/0/Mapa_zarc.jpg/acfe52c5-9d74-f8c7-a429-330a4e5db9e3?version=1.0&t=1792759655953",
+        "publishedAt": "2026-10-23T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Produção vegetal"
+          "Pesquisa, Desenvolvimento e Inovação"
         ],
         "relevancia": 3
       },
       {
-        "title": "Expedição Silvicultura apresenta retrato das florestas plantadas e debate desafios para o setor",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149106871/expedicao-silvicultura-apresenta-retrato-das-florestas-plantadas-e-debate-desafios-para-o-setor",
-        "summary": "Florestas e silvicultura",
-        "image": "https://www.embrapa.br/documents/1355099/149106084/Expedi%C3%A7%C3%A3o+Silvicultura+%281%29.png/13cc2a15-488b-89ee-ebe2-f87d93332b82?version=1.0&t=1792680741760",
-        "publishedAt": "2026-10-22T12:00:00.000Z",
+        "title": "Estudo analisa a agricultura orgânica familiar na Rede de Agroecologia do Leste Paulista",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149150004/estudo-analisa-a-agricultura-organica-familiar-na-rede-de-agroecologia-do-leste-paulista",
+        "summary": "Agricultura familiar · Agroecologia e produção orgânica · Biodiversidade",
+        "image": "https://www.embrapa.br/documents/1355145/92982228/AgroecologiaNataliaCheung.png/e65e4ee3-8736-5fc1-3cf9-30c06d9edb3d?version=1.0&t=1792593457095",
+        "publishedAt": "2026-10-23T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Florestas e silvicultura"
+          "Agricultura familiar",
+          "Agroecologia e produção orgânica",
+          "Biodiversidade"
         ],
         "relevancia": 3
       },
       {
-        "title": "Oferta de madeira exige planejamento por idade dos plantios, produtividade e custos, aponta pesquisador da Embrapa",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149106670/oferta-de-madeira-exige-planejamento-por-idade-dos-plantios-produtividade-e-custos-aponta-pesquisador-da-embrapa",
-        "summary": "Florestas e silvicultura",
-        "image": "https://www.embrapa.br/documents/1355099/149106084/Ciclos-do-eucalipto-e-logistica-florestal-Pequeno.png/d7e2ecc8-0721-dd01-3e07-cf4069a76e16?version=1.0&t=1792681539347",
+        "title": "Embrapa seleciona bolsista para pesquisa em maricultura em Aracaju",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149113297/embrapa-seleciona-bolsista-para-pesquisa-em-maricultura-em-aracaju",
+        "summary": "Pesca e aquicultura",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149113298&t=1792712020144",
         "publishedAt": "2026-10-22T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Florestas e silvicultura"
+          "Pesca e aquicultura"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
-        "title": "Expedição Silvicultura revela produtividade florestal e concentração da expansão em Mato Grosso do Sul",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149106379/expedicao-silvicultura-revela-produtividade-florestal-e-concentracao-da-expansao-em-mato-grosso-do-sul",
-        "summary": "Florestas e silvicultura",
-        "image": "https://www.embrapa.br/documents/1355099/149106084/Florestas-plantadas-em-perspectiva-aerea-Pequeno.png/32090f9d-c488-3526-8901-102aab62a5a8?version=1.0&t=1792680743705",
+        "title": "Embrapa Maranhão e Viveiro Vitória promovem evento sobre cultivo de café canéfora em Carolina",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149112673/embrapa-maranhao-e-viveiro-vitoria-promovem-evento-sobre-cultivo-de-cafe-canefora-em-carolina",
+        "summary": "",
+        "image": null,
         "publishedAt": "2026-10-22T12:00:00.000Z",
         "fonte": "Embrapa",
-        "tags": [
-          "Florestas e silvicultura"
-        ],
-        "relevancia": 3
-      },
-      {
-        "title": "Bioeconomia: curso gratuito da Embrapa apresenta caminhos para uma indústria menos dependente de recursos fósseis",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149066655/bioeconomia-curso-gratuito-da-embrapa-apresenta-caminhos-para-uma-industria-menos-dependente-de-recursos-fosseis",
-        "summary": "Agroenergia",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149066656&t=1792593534527",
-        "publishedAt": "2026-10-21T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Agroenergia"
-        ],
+        "tags": [],
         "relevancia": 1
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Boi gordo sobe R$ 10 por arroba em duas regiões; confira as cotações pelo país",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-r-10-por-arroba-em-duas-regioes-confira-as-cotacoes-pelo-pais/",
+      "summary": "Foto: divulgação Mercado segue firme, com estabilidade em outras regiões; oferta restrita de animais e escalas de abate curtas marcam as negociações O post Boi gordo sobe R$ 10 por arroba em duas regiões; confira as cota",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/07/furto-gado.jpg",
+      "publishedAt": "2026-10-23T12:26:04.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 16
+    },
+    {
+      "title": "Arroba do boi gordo tem alta tímida em meio à redução do consumo interno",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-tem-alta-timida-em-meio-a-reducao-do-consumo-interno/",
+      "summary": "Foto: Christiano Antonucci/Secom-MT Entretanto, o mercado mantém expectativas positivas em torno da demanda chinesa no último trimestre O post Arroba do boi gordo tem alta tímida em meio à redução do consumo interno apar",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
+      "publishedAt": "2026-10-22T22:09:55.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 16
+    },
     {
       "title": "Arroba do boi gordo: escalas não avançam e preços seguem em alta",
       "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-escalas-nao-avancam-e-precos-seguem-em-alta/",
@@ -125,16 +141,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2023/09/pecuaria-boi-parana-scaled-1.jpg",
       "publishedAt": "2026-10-21T21:49:56.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 16
-    },
-    {
-      "title": "Arroba do boi registra alta em 4 estados e chega a R$ 385, aponta Cepea",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-registra-alta-em-4-estados-e-chega-a-r-385-aponta-cepea/",
-      "summary": "Foto: Ministério da Agricultura e Pecuária Oferta restrita de animais para abate mantém mercado aquecido e sustenta reajustes positivos nas cotações O post Arroba do boi registra alta em 4 estados e chega a R$ 385, apont",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/BOVINOS.jpeg",
-      "publishedAt": "2026-10-21T12:31:13.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 14
     },
     {
       "title": "Após sequência de recordes, mercado do boi gordo perde força no início da semana",
@@ -146,20 +153,11 @@
       "relevancia": 13
     },
     {
-      "title": "Alta do preço do boi gordo favorece confinamento, avalia Cepea",
-      "link": "https://www.canalrural.com.br/pecuaria/alta-do-preco-do-boi-gordo-favorece-confinamento-avalia-cepea/",
-      "summary": "Com oferta restrita de animais para abate, boi gordo registra alta superior à do boi magro e melhora perspectivas para pecuaristas O post Alta do preço do boi gordo favorece confinamento, avalia Cepea apareceu primeiro e",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/04/bovinos_de_corte_confinamento_02.07.2025-1.jpg",
-      "publishedAt": "2026-10-22T11:42:06.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
-      "title": "Arroba do boi gordo: escalas de abate encurtadas seguem trazendo novas altas",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-escalas-de-abate-encurtadas-seguem-trazendo-novas-altas/",
-      "summary": "Foto: Raquel Brunelli/Embrapa Necessidade de recompor as programações mantém os frigoríficos ativos nas compras O post Arroba do boi gordo: escalas de abate encurtadas seguem trazendo novas altas apareceu primeiro em Can",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boiada_carne_Pantanal.jpg",
-      "publishedAt": "2026-10-19T21:43:28.000Z",
+      "title": "Arroba do boi registra alta em 4 estados e chega a R$ 385, aponta Cepea",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-registra-alta-em-4-estados-e-chega-a-r-385-aponta-cepea/",
+      "summary": "Foto: Ministério da Agricultura e Pecuária Oferta restrita de animais para abate mantém mercado aquecido e sustenta reajustes positivos nas cotações O post Arroba do boi registra alta em 4 estados e chega a R$ 385, apont",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/BOVINOS.jpeg",
+      "publishedAt": "2026-10-21T12:31:13.000Z",
       "fonte": "Canal Rural",
       "relevancia": 12
     }
