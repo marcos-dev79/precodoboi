@@ -1,9 +1,18 @@
 {
-  "atualizado_em": "2026-10-23T16:01:27.920Z",
+  "atualizado_em": "2026-10-24T14:58:48.810Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Arroba do boi gordo encerra a semana em leve alta; confira as cotações",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-encerra-a-semana-em-leve-alta-confira-as-cotacoes/",
+        "summary": "Foto: Giro do Boi/ Reprodução Oferta restrita e escalas de abate concentradas entre cinco e seis dias úteis mantêm os frigoríficos ativos nas compras O post Arroba do boi gordo encerra a semana em leve alta; confira as c",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/manejo-da-sanidade-reproducao-touros-vacas-estacao-de-monta.jpg",
+        "publishedAt": "2026-10-23T22:29:00.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
       {
         "title": "Boi gordo sobe R$ 10 por arroba em duas regiões; confira as cotações pelo país",
         "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-r-10-por-arroba-em-duas-regioes-confira-as-cotacoes-pelo-pais/",
@@ -11,7 +20,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/07/furto-gado.jpg",
         "publishedAt": "2026-10-23T12:26:04.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 16
+        "relevancia": 14
       },
       {
         "title": "Arroba do boi gordo tem alta tímida em meio à redução do consumo interno",
@@ -20,7 +29,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
         "publishedAt": "2026-10-22T22:09:55.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 16
+        "relevancia": 14
       },
       {
         "title": "Arroba do boi gordo: escalas não avançam e preços seguem em alta",
@@ -29,23 +38,14 @@
         "image": "https://imagens-cdn.canalrural.com.br/2023/09/pecuaria-boi-parana-scaled-1.jpg",
         "publishedAt": "2026-10-21T21:49:56.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 14
-      },
-      {
-        "title": "Após sequência de recordes, mercado do boi gordo perde força no início da semana",
-        "link": "https://www.canalrural.com.br/pecuaria/apos-sequencia-de-recordes-mercado-do-boi-gordo-perde-forca-no-inicio-da-semana/",
-        "summary": "Foto: Madson Maranhão/Seagro-TO Frigoríficos reduzem ritmo de compras, mas oferta restrita de animais mantém preços da arroba firmes, aponta Cepea O post Após sequência de recordes, mercado do boi gordo perde força no in",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/I80KiuGr-Madson-Maranhao-Seagro-TO-03.jpg",
-        "publishedAt": "2026-10-20T12:46:26.000Z",
-        "fonte": "Canal Rural",
         "relevancia": 13
       },
       {
-        "title": "Arroba do boi registra alta em 4 estados e chega a R$ 385, aponta Cepea",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-registra-alta-em-4-estados-e-chega-a-r-385-aponta-cepea/",
-        "summary": "Foto: Ministério da Agricultura e Pecuária Oferta restrita de animais para abate mantém mercado aquecido e sustenta reajustes positivos nas cotações O post Arroba do boi registra alta em 4 estados e chega a R$ 385, apont",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/BOVINOS.jpeg",
-        "publishedAt": "2026-10-21T12:31:13.000Z",
+        "title": "Exportação de carne bovina de Mato Grosso avança 2.242% em 25 anos",
+        "link": "https://www.canalrural.com.br/pecuaria/exportacao-de-carne-bovina-de-mato-grosso-avanca-2-242-em-25-anos/",
+        "summary": "Foto: Unsplash. Estado embarcou 566,5 mil toneladas nos primeiros nove meses de 2026 e ampliou presença internacional após certificação sanitária contra aftosa. O post Exportação de carne bovina de Mato Grosso avança 2.2",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/12/carne_12.12.2025.jpg",
+        "publishedAt": "2026-10-23T15:50:15.000Z",
         "fonte": "Canal Rural",
         "relevancia": 12
       }
@@ -56,26 +56,40 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
+        "title": "AgNest recebe empresas europeias de tecnologia agroalimentar",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149163208/agnest-recebe-empresas-europeias-de-tecnologia-agroalimentar",
+        "summary": "Estudos socioeconômicos e ambientais · Mecanização e Automação · Pesquisa, Desenvolvimento e Inovação",
+        "image": "https://www.embrapa.br/documents/1355145/0/Apresenta%C3%A7%C3%A3o+AgNest+em+Sala+Moderna6.png/7a19d7f8-d51f-8f0f-957e-f367df8c7411?version=1.0&t=1792779644013",
+        "publishedAt": "2026-10-23T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Estudos socioeconômicos e ambientais",
+          "Mecanização e Automação",
+          "Pesquisa, Desenvolvimento e Inovação"
+        ],
+        "relevancia": 1
+      },
+      {
         "title": "Embrapa e parceiros realizam ações para fortalecer cafeicultura no Juruá",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149154738/embrapa-e-parceiros-realizam-acoes-para-fortalecer-cafeicultura-no-jurua",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149154739&t=1792763118865",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149154739&t=1792763117952",
         "publishedAt": "2026-10-23T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Tomate para processamento industrial passa a contar com o Zoneamento Agrícola de Risco Climático",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149153232/tomate-para-processamento-industrial-passa-a-contar-com-o-zoneamento-agricola-de-risco-climatico",
         "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/documents/1355126/0/Mapa_zarc.jpg/acfe52c5-9d74-f8c7-a429-330a4e5db9e3?version=1.0&t=1792759655953",
+        "image": "https://www.embrapa.br/documents/d/portal/tomate-editada_andre-fachini-minitti",
         "publishedAt": "2026-10-23T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Estudo analisa a agricultura orgânica familiar na Rede de Agroecologia do Leste Paulista",
@@ -89,33 +103,32 @@
           "Agroecologia e produção orgânica",
           "Biodiversidade"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Embrapa seleciona bolsista para pesquisa em maricultura em Aracaju",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149113297/embrapa-seleciona-bolsista-para-pesquisa-em-maricultura-em-aracaju",
         "summary": "Pesca e aquicultura",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149113298&t=1792712020144",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149113298&t=1792735317046",
         "publishedAt": "2026-10-22T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Pesca e aquicultura"
         ],
-        "relevancia": 1
-      },
-      {
-        "title": "Embrapa Maranhão e Viveiro Vitória promovem evento sobre cultivo de café canéfora em Carolina",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149112673/embrapa-maranhao-e-viveiro-vitoria-promovem-evento-sobre-cultivo-de-cafe-canefora-em-carolina",
-        "summary": "",
-        "image": null,
-        "publishedAt": "2026-10-22T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 1
+        "relevancia": 0
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Arroba do boi gordo encerra a semana em leve alta; confira as cotações",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-encerra-a-semana-em-leve-alta-confira-as-cotacoes/",
+      "summary": "Foto: Giro do Boi/ Reprodução Oferta restrita e escalas de abate concentradas entre cinco e seis dias úteis mantêm os frigoríficos ativos nas compras O post Arroba do boi gordo encerra a semana em leve alta; confira as c",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/manejo-da-sanidade-reproducao-touros-vacas-estacao-de-monta.jpg",
+      "publishedAt": "2026-10-23T22:29:00.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
     {
       "title": "Boi gordo sobe R$ 10 por arroba em duas regiões; confira as cotações pelo país",
       "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-r-10-por-arroba-em-duas-regioes-confira-as-cotacoes-pelo-pais/",
@@ -123,7 +136,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/07/furto-gado.jpg",
       "publishedAt": "2026-10-23T12:26:04.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 16
+      "relevancia": 14
     },
     {
       "title": "Arroba do boi gordo tem alta tímida em meio à redução do consumo interno",
@@ -132,7 +145,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
       "publishedAt": "2026-10-22T22:09:55.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 16
+      "relevancia": 14
     },
     {
       "title": "Arroba do boi gordo: escalas não avançam e preços seguem em alta",
@@ -141,23 +154,14 @@
       "image": "https://imagens-cdn.canalrural.com.br/2023/09/pecuaria-boi-parana-scaled-1.jpg",
       "publishedAt": "2026-10-21T21:49:56.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 14
-    },
-    {
-      "title": "Após sequência de recordes, mercado do boi gordo perde força no início da semana",
-      "link": "https://www.canalrural.com.br/pecuaria/apos-sequencia-de-recordes-mercado-do-boi-gordo-perde-forca-no-inicio-da-semana/",
-      "summary": "Foto: Madson Maranhão/Seagro-TO Frigoríficos reduzem ritmo de compras, mas oferta restrita de animais mantém preços da arroba firmes, aponta Cepea O post Após sequência de recordes, mercado do boi gordo perde força no in",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/I80KiuGr-Madson-Maranhao-Seagro-TO-03.jpg",
-      "publishedAt": "2026-10-20T12:46:26.000Z",
-      "fonte": "Canal Rural",
       "relevancia": 13
     },
     {
-      "title": "Arroba do boi registra alta em 4 estados e chega a R$ 385, aponta Cepea",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-registra-alta-em-4-estados-e-chega-a-r-385-aponta-cepea/",
-      "summary": "Foto: Ministério da Agricultura e Pecuária Oferta restrita de animais para abate mantém mercado aquecido e sustenta reajustes positivos nas cotações O post Arroba do boi registra alta em 4 estados e chega a R$ 385, apont",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/BOVINOS.jpeg",
-      "publishedAt": "2026-10-21T12:31:13.000Z",
+      "title": "Exportação de carne bovina de Mato Grosso avança 2.242% em 25 anos",
+      "link": "https://www.canalrural.com.br/pecuaria/exportacao-de-carne-bovina-de-mato-grosso-avanca-2-242-em-25-anos/",
+      "summary": "Foto: Unsplash. Estado embarcou 566,5 mil toneladas nos primeiros nove meses de 2026 e ampliou presença internacional após certificação sanitária contra aftosa. O post Exportação de carne bovina de Mato Grosso avança 2.2",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/12/carne_12.12.2025.jpg",
+      "publishedAt": "2026-10-23T15:50:15.000Z",
       "fonte": "Canal Rural",
       "relevancia": 12
     }
