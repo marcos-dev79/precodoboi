@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-24T14:58:48.810Z",
+  "atualizado_em": "2026-10-25T15:09:43.808Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -11,7 +11,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/manejo-da-sanidade-reproducao-touros-vacas-estacao-de-monta.jpg",
         "publishedAt": "2026-10-23T22:29:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
+        "relevancia": 13
       },
       {
         "title": "Boi gordo sobe R$ 10 por arroba em duas regiões; confira as cotações pelo país",
@@ -20,7 +20,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/07/furto-gado.jpg",
         "publishedAt": "2026-10-23T12:26:04.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 14
+        "relevancia": 13
       },
       {
         "title": "Arroba do boi gordo tem alta tímida em meio à redução do consumo interno",
@@ -29,7 +29,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
         "publishedAt": "2026-10-22T22:09:55.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 14
+        "relevancia": 13
       },
       {
         "title": "Arroba do boi gordo: escalas não avançam e preços seguem em alta",
@@ -41,13 +41,13 @@
         "relevancia": 13
       },
       {
-        "title": "Exportação de carne bovina de Mato Grosso avança 2.242% em 25 anos",
-        "link": "https://www.canalrural.com.br/pecuaria/exportacao-de-carne-bovina-de-mato-grosso-avanca-2-242-em-25-anos/",
-        "summary": "Foto: Unsplash. Estado embarcou 566,5 mil toneladas nos primeiros nove meses de 2026 e ampliou presença internacional após certificação sanitária contra aftosa. O post Exportação de carne bovina de Mato Grosso avança 2.2",
-        "image": "https://imagens-cdn.canalrural.com.br/2025/12/carne_12.12.2025.jpg",
-        "publishedAt": "2026-10-23T15:50:15.000Z",
+        "title": "Arroba do boi encerrou semana em alta e mercado indica novas elevações no curto prazo",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-encerrou-semana-em-alta-e-mercado-indica-novas-elevacoes-no-curto-prazo/",
+        "summary": "Imagem de IA gerada para o Canal Rural Escalas de abate encurtadas seguem preponderantes para determinar a valorização em grande parte do país O post Arroba do boi encerrou semana em alta e mercado indica novas elevações",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/10/boi-alta.jpg",
+        "publishedAt": "2026-10-24T21:06:01.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 12
+        "relevancia": 10
       }
     ]
   },
@@ -67,7 +67,7 @@
           "Mecanização e Automação",
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Embrapa e parceiros realizam ações para fortalecer cafeicultura no Juruá",
@@ -77,7 +77,7 @@
         "publishedAt": "2026-10-23T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Tomate para processamento industrial passa a contar com o Zoneamento Agrícola de Risco Climático",
@@ -89,7 +89,7 @@
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Estudo analisa a agricultura orgânica familiar na Rede de Agroecologia do Leste Paulista",
@@ -103,7 +103,7 @@
           "Agroecologia e produção orgânica",
           "Biodiversidade"
         ],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Embrapa seleciona bolsista para pesquisa em maricultura em Aracaju",
@@ -127,7 +127,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/manejo-da-sanidade-reproducao-touros-vacas-estacao-de-monta.jpg",
       "publishedAt": "2026-10-23T22:29:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
+      "relevancia": 13
     },
     {
       "title": "Boi gordo sobe R$ 10 por arroba em duas regiões; confira as cotações pelo país",
@@ -136,7 +136,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/07/furto-gado.jpg",
       "publishedAt": "2026-10-23T12:26:04.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 14
+      "relevancia": 13
     },
     {
       "title": "Arroba do boi gordo tem alta tímida em meio à redução do consumo interno",
@@ -145,7 +145,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
       "publishedAt": "2026-10-22T22:09:55.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 14
+      "relevancia": 13
     },
     {
       "title": "Arroba do boi gordo: escalas não avançam e preços seguem em alta",
@@ -157,13 +157,13 @@
       "relevancia": 13
     },
     {
-      "title": "Exportação de carne bovina de Mato Grosso avança 2.242% em 25 anos",
-      "link": "https://www.canalrural.com.br/pecuaria/exportacao-de-carne-bovina-de-mato-grosso-avanca-2-242-em-25-anos/",
-      "summary": "Foto: Unsplash. Estado embarcou 566,5 mil toneladas nos primeiros nove meses de 2026 e ampliou presença internacional após certificação sanitária contra aftosa. O post Exportação de carne bovina de Mato Grosso avança 2.2",
-      "image": "https://imagens-cdn.canalrural.com.br/2025/12/carne_12.12.2025.jpg",
-      "publishedAt": "2026-10-23T15:50:15.000Z",
+      "title": "Arroba do boi encerrou semana em alta e mercado indica novas elevações no curto prazo",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-encerrou-semana-em-alta-e-mercado-indica-novas-elevacoes-no-curto-prazo/",
+      "summary": "Imagem de IA gerada para o Canal Rural Escalas de abate encurtadas seguem preponderantes para determinar a valorização em grande parte do país O post Arroba do boi encerrou semana em alta e mercado indica novas elevações",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/10/boi-alta.jpg",
+      "publishedAt": "2026-10-24T21:06:01.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 12
+      "relevancia": 10
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
