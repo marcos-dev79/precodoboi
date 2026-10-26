@@ -1,18 +1,9 @@
 {
-  "atualizado_em": "2026-10-25T15:09:43.808Z",
+  "atualizado_em": "2026-10-26T17:46:32.106Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
-      {
-        "title": "Arroba do boi gordo encerra a semana em leve alta; confira as cotações",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-encerra-a-semana-em-leve-alta-confira-as-cotacoes/",
-        "summary": "Foto: Giro do Boi/ Reprodução Oferta restrita e escalas de abate concentradas entre cinco e seis dias úteis mantêm os frigoríficos ativos nas compras O post Arroba do boi gordo encerra a semana em leve alta; confira as c",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/manejo-da-sanidade-reproducao-touros-vacas-estacao-de-monta.jpg",
-        "publishedAt": "2026-10-23T22:29:00.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 13
-      },
       {
         "title": "Boi gordo sobe R$ 10 por arroba em duas regiões; confira as cotações pelo país",
         "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-r-10-por-arroba-em-duas-regioes-confira-as-cotacoes-pelo-pais/",
@@ -41,13 +32,22 @@
         "relevancia": 13
       },
       {
-        "title": "Arroba do boi encerrou semana em alta e mercado indica novas elevações no curto prazo",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-encerrou-semana-em-alta-e-mercado-indica-novas-elevacoes-no-curto-prazo/",
-        "summary": "Imagem de IA gerada para o Canal Rural Escalas de abate encurtadas seguem preponderantes para determinar a valorização em grande parte do país O post Arroba do boi encerrou semana em alta e mercado indica novas elevações",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/10/boi-alta.jpg",
-        "publishedAt": "2026-10-24T21:06:01.000Z",
+        "title": "Arroba do boi gordo encerra a semana em leve alta; confira as cotações",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-encerra-a-semana-em-leve-alta-confira-as-cotacoes/",
+        "summary": "Foto: Giro do Boi/ Reprodução Oferta restrita e escalas de abate concentradas entre cinco e seis dias úteis mantêm os frigoríficos ativos nas compras O post Arroba do boi gordo encerra a semana em leve alta; confira as c",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/manejo-da-sanidade-reproducao-touros-vacas-estacao-de-monta.jpg",
+        "publishedAt": "2026-10-23T22:29:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 10
+        "relevancia": 12
+      },
+      {
+        "title": "Exportação de carne bovina de Mato Grosso avança 2.242% em 25 anos",
+        "link": "https://www.canalrural.com.br/pecuaria/exportacao-de-carne-bovina-de-mato-grosso-avanca-2-242-em-25-anos/",
+        "summary": "Foto: Unsplash. Estado embarcou 566,5 mil toneladas nos primeiros nove meses de 2026 e ampliou presença internacional após certificação sanitária contra aftosa. O post Exportação de carne bovina de Mato Grosso avança 2.2",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/12/carne_12.12.2025.jpg",
+        "publishedAt": "2026-10-23T15:50:15.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 9
       }
     ]
   },
@@ -56,79 +56,69 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "AgNest recebe empresas europeias de tecnologia agroalimentar",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149163208/agnest-recebe-empresas-europeias-de-tecnologia-agroalimentar",
-        "summary": "Estudos socioeconômicos e ambientais · Mecanização e Automação · Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/documents/1355145/0/Apresenta%C3%A7%C3%A3o+AgNest+em+Sala+Moderna6.png/7a19d7f8-d51f-8f0f-957e-f367df8c7411?version=1.0&t=1792779644013",
-        "publishedAt": "2026-10-23T12:00:00.000Z",
+        "title": "8º Prêmio CBMM de Ciência e Tecnologia congratula pesquisadora Christiane Paiva, da Embrapa",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149283862/8-premio-cbmm-de-ciencia-e-tecnologia-congratula-pesquisadora-christiane-paiva-da-embrapa",
+        "summary": "Pesquisa, Desenvolvimento e Inovação · Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149283965&t=1793033163056",
+        "publishedAt": "2026-10-26T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Estudos socioeconômicos e ambientais",
-          "Mecanização e Automação",
-          "Pesquisa, Desenvolvimento e Inovação"
+          "Pesquisa, Desenvolvimento e Inovação",
+          "Transferência de Tecnologia"
         ],
-        "relevancia": 0
+        "relevancia": 3
       },
       {
-        "title": "Embrapa e parceiros realizam ações para fortalecer cafeicultura no Juruá",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149154738/embrapa-e-parceiros-realizam-acoes-para-fortalecer-cafeicultura-no-jurua",
+        "title": "Brasília recebe evento inédito sobre café canéfora",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149274987/brasilia-recebe-evento-inedito-sobre-cafe-canefora",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149154739&t=1792763117952",
-        "publishedAt": "2026-10-23T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1355737/0/curso+canephora+%283%29.png/d1b5bc20-2f24-64be-ae7d-f006705aefa1?version=1.0&t=1793029333401",
+        "publishedAt": "2026-10-26T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 0
+        "relevancia": 3
       },
       {
-        "title": "Tomate para processamento industrial passa a contar com o Zoneamento Agrícola de Risco Climático",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149153232/tomate-para-processamento-industrial-passa-a-contar-com-o-zoneamento-agricola-de-risco-climatico",
+        "title": "Referência em Fitopatologia, Luadir Gasparotto conclui trajetória de 47 anos na Embrapa",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149271245/referencia-em-fitopatologia-luadir-gasparotto-conclui-trajetoria-de-47-anos-na-embrapa",
         "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/documents/d/portal/tomate-editada_andre-fachini-minitti",
-        "publishedAt": "2026-10-23T12:00:00.000Z",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149271246&t=1793027152080",
+        "publishedAt": "2026-10-26T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 0
+        "relevancia": 3
       },
       {
-        "title": "Estudo analisa a agricultura orgânica familiar na Rede de Agroecologia do Leste Paulista",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149150004/estudo-analisa-a-agricultura-organica-familiar-na-rede-de-agroecologia-do-leste-paulista",
-        "summary": "Agricultura familiar · Agroecologia e produção orgânica · Biodiversidade",
-        "image": "https://www.embrapa.br/documents/1355145/92982228/AgroecologiaNataliaCheung.png/e65e4ee3-8736-5fc1-3cf9-30c06d9edb3d?version=1.0&t=1792593457095",
-        "publishedAt": "2026-10-23T12:00:00.000Z",
+        "title": "Escola Família Agrícola Agroecológica do Pantanal busca fortalecer a Educação no Campo e reduzir êxodo rural",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149133225/escola-familia-agricola-agroecologica-do-pantanal-busca-fortalecer-a-educacao-no-campo-e-reduzir-exodo-rural",
+        "summary": "Agricultura familiar · Agroecologia e produção orgânica",
+        "image": null,
+        "publishedAt": "2026-10-26T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Agricultura familiar",
-          "Agroecologia e produção orgânica",
-          "Biodiversidade"
+          "Agroecologia e produção orgânica"
         ],
-        "relevancia": 0
+        "relevancia": 3
       },
       {
-        "title": "Embrapa seleciona bolsista para pesquisa em maricultura em Aracaju",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149113297/embrapa-seleciona-bolsista-para-pesquisa-em-maricultura-em-aracaju",
-        "summary": "Pesca e aquicultura",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149113298&t=1792735317046",
-        "publishedAt": "2026-10-22T12:00:00.000Z",
+        "title": "Embrapa sistematiza experiências de educação alimentar desenvolvidas em Alagoas e Mato Grosso",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149025274/embrapa-sistematiza-experiencias-de-educacao-alimentar-desenvolvidas-em-alagoas-e-mato-grosso",
+        "summary": "Comunicação · Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149263823&t=1793027152793",
+        "publishedAt": "2026-10-26T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Pesca e aquicultura"
+          "Comunicação",
+          "Transferência de Tecnologia"
         ],
-        "relevancia": 0
+        "relevancia": 3
       }
     ]
   },
   "noticias": [
-    {
-      "title": "Arroba do boi gordo encerra a semana em leve alta; confira as cotações",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-encerra-a-semana-em-leve-alta-confira-as-cotacoes/",
-      "summary": "Foto: Giro do Boi/ Reprodução Oferta restrita e escalas de abate concentradas entre cinco e seis dias úteis mantêm os frigoríficos ativos nas compras O post Arroba do boi gordo encerra a semana em leve alta; confira as c",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/manejo-da-sanidade-reproducao-touros-vacas-estacao-de-monta.jpg",
-      "publishedAt": "2026-10-23T22:29:00.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 13
-    },
     {
       "title": "Boi gordo sobe R$ 10 por arroba em duas regiões; confira as cotações pelo país",
       "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-r-10-por-arroba-em-duas-regioes-confira-as-cotacoes-pelo-pais/",
@@ -157,13 +147,22 @@
       "relevancia": 13
     },
     {
-      "title": "Arroba do boi encerrou semana em alta e mercado indica novas elevações no curto prazo",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-encerrou-semana-em-alta-e-mercado-indica-novas-elevacoes-no-curto-prazo/",
-      "summary": "Imagem de IA gerada para o Canal Rural Escalas de abate encurtadas seguem preponderantes para determinar a valorização em grande parte do país O post Arroba do boi encerrou semana em alta e mercado indica novas elevações",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/10/boi-alta.jpg",
-      "publishedAt": "2026-10-24T21:06:01.000Z",
+      "title": "Arroba do boi gordo encerra a semana em leve alta; confira as cotações",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-encerra-a-semana-em-leve-alta-confira-as-cotacoes/",
+      "summary": "Foto: Giro do Boi/ Reprodução Oferta restrita e escalas de abate concentradas entre cinco e seis dias úteis mantêm os frigoríficos ativos nas compras O post Arroba do boi gordo encerra a semana em leve alta; confira as c",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/manejo-da-sanidade-reproducao-touros-vacas-estacao-de-monta.jpg",
+      "publishedAt": "2026-10-23T22:29:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 10
+      "relevancia": 12
+    },
+    {
+      "title": "Exportação de carne bovina de Mato Grosso avança 2.242% em 25 anos",
+      "link": "https://www.canalrural.com.br/pecuaria/exportacao-de-carne-bovina-de-mato-grosso-avanca-2-242-em-25-anos/",
+      "summary": "Foto: Unsplash. Estado embarcou 566,5 mil toneladas nos primeiros nove meses de 2026 e ampliou presença internacional após certificação sanitária contra aftosa. O post Exportação de carne bovina de Mato Grosso avança 2.2",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/12/carne_12.12.2025.jpg",
+      "publishedAt": "2026-10-23T15:50:15.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 9
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
