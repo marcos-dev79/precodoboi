@@ -1,17 +1,17 @@
 {
-  "atualizado_em": "2026-10-26T17:46:27.045Z",
+  "atualizado_em": "2026-10-27T16:57:13.769Z",
   "fonte": "CEPEA/ESALQ · NoticiasAgricolas · Scot Consultoria",
   "licenca": "CC-BY-4.0 · atribuicao AgroDoc AI",
   "referencia_cepea_sp": 381.4,
   "media_nacional": {
-    "preco_arroba": 364.87
+    "preco_arroba": 364.99
   },
   "estados": [
     {
       "uf": "GO",
       "nome": "Goiás",
       "regiao": "Centro-Oeste",
-      "preco_arroba": 392.6,
+      "preco_arroba": 394.05,
       "origem": "api",
       "praca": "GO RD"
     },
@@ -99,7 +99,7 @@
       "uf": "PA",
       "nome": "Pará",
       "regiao": "Norte",
-      "preco_arroba": 364,
+      "preco_arroba": 366,
       "origem": "api",
       "praca": "PA Marabá"
     },
