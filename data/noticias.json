@@ -1,9 +1,18 @@
 {
-  "atualizado_em": "2026-10-27T16:57:16.035Z",
+  "atualizado_em": "2026-10-28T17:31:43.836Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Boi gordo sobe 6% em outubro e arroba chega a R$ 400 em SP, aponta Cepea",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-6-em-outubro-e-arroba-chega-a-r-400-em-sp-aponta-cepea/",
+        "summary": "Foto: Secretaria de Agricultura de São Paulo Indicador Cepea/Esalq atinge recorde real de R$ 386,30 por arroba ; oferta reduzida sustenta reajustes em outras regiões O post Boi gordo sobe 6% em outubro e arroba chega a R",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
+        "publishedAt": "2026-10-28T12:07:47.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
       {
         "title": "Arroba do boi gordo tem alta de R$ 15 e chega a R$ 390; veja as cotações pelo país",
         "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-tem-alta-de-r-15-e-chega-a-r-390-veja-as-cotacoes-pelo-pais/",
@@ -11,16 +20,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/bPoAGNIg-gado0021.jpg",
         "publishedAt": "2026-10-27T13:08:48.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
+        "relevancia": 13
       },
       {
-        "title": "Boi gordo sobe R$ 10 por arroba em duas regiões; confira as cotações pelo país",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-r-10-por-arroba-em-duas-regioes-confira-as-cotacoes-pelo-pais/",
-        "summary": "Foto: divulgação Mercado segue firme, com estabilidade em outras regiões; oferta restrita de animais e escalas de abate curtas marcam as negociações O post Boi gordo sobe R$ 10 por arroba em duas regiões; confira as cota",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/07/furto-gado.jpg",
-        "publishedAt": "2026-10-23T12:26:04.000Z",
+        "title": "Arroba do boi tem mais um dia de alta: veja os preços médios em 9 estados",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-tem-mais-um-dia-de-alta-veja-os-precos-medios-em-9-estados/",
+        "summary": "Foto gerada por IA Escalas de abate encurtadas e expectativa para envio de carne à China no último trimestre ajudam a explicar a continuidade da elevação O post Arroba do boi tem mais um dia de alta: veja os preços médio",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/10/boi-gordo-precos-no-Brasil.png",
+        "publishedAt": "2026-10-27T23:37:30.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 12
       },
       {
         "title": "Arroba do boi gordo encerra a semana em leve alta; confira as cotações",
@@ -38,16 +47,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi.jpg",
         "publishedAt": "2026-10-26T22:04:53.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 11
-      },
-      {
-        "title": "China suspende importações de carne bovina de unidade da MBRF em Promissão",
-        "link": "https://www.canalrural.com.br/pecuaria/china-suspende-importacoes-de-carne-bovina-de-unidade-da-mbrf-em-promissao/",
-        "summary": "Medida entrou em vigor em 22 de outubro e atinge frigorífico paulista identificado pelo SIF 2543. O post China suspende importações de carne bovina de unidade da MBRF em Promissão apareceu primeiro em Canal Rural .",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/10/china-suspende-importacoes-de-carne-bovina-de-unidade-da-mbrf-em-promissao.png",
-        "publishedAt": "2026-10-27T12:23:31.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 10
+        "relevancia": 9
       }
     ]
   },
@@ -56,66 +56,70 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "C.Vale e Embrapa discutem potencial energético do eucalipto",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149342647/cvale-e-embrapa-discutem-potencial-energetico-do-eucalipto",
-        "summary": "Florestas e silvicultura",
-        "image": "https://www.embrapa.br/documents/1355099/149340092/04763.jpg/e738043b-bc55-0ac1-38d9-c959e27cc7b8?version=1.0&t=1793116679503",
-        "publishedAt": "2026-10-27T12:00:00.000Z",
+        "title": "Embrapa Trigo completa 52 anos de história",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149382024/embrapa-trigo-completa-52-anos-de-historia",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149382062&t=1793208317943",
+        "publishedAt": "2026-10-28T12:00:00.000Z",
         "fonte": "Embrapa",
-        "tags": [
-          "Florestas e silvicultura"
-        ],
+        "tags": [],
         "relevancia": 3
       },
       {
-        "title": "Genética zebuína da Embrapa Cerrados é valorizada pelo mercado",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149334906/genetica-zebuina-da-embrapa-cerrados-e-valorizada-pelo-mercado",
+        "title": "Embrapa lança publicação com dados inéditos sobre a preservação de polinizadores no Cerrado",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149379579/embrapa-lanca-publicacao-com-dados-ineditos-sobre-a-preservacao-de-polinizadores-no-cerrado",
         "summary": "",
-        "image": "https://www.embrapa.br/documents/1355008/103354088/Leil%C3%A3o+BRGN+print+tela.jpg/9fd82b1b-6c98-6d0f-934e-3835a7415c7b?version=1.0&t=1793112695939",
-        "publishedAt": "2026-10-27T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1355163/0/abelhadestaque+%281%29.jpg/4eb10758-3ede-a905-525c-aa8a069fd66f?version=1.0&t=1793201966064",
+        "publishedAt": "2026-10-28T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 4
-      },
-      {
-        "title": "Fazenda Vista Alegre distribui sementes especiais da Embrapa em Capim Branco",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149331308/fazenda-vista-alegre-distribui-sementes-especiais-da-embrapa-em-capim-branco",
-        "summary": "Agricultura familiar · Agroecologia e produção orgânica · Mercado de Cultivares e Sementes",
-        "image": "https://www.embrapa.br/documents/d/milho-e-sorgo/2026-10-16_fazenda-vista-alegre_gaudio-7-",
-        "publishedAt": "2026-10-27T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Agricultura familiar",
-          "Agroecologia e produção orgânica",
-          "Mercado de Cultivares e Sementes"
-        ],
-        "relevancia": 4
-      },
-      {
-        "title": "Embrapa e UFV firmam parceria em economia criativa e desenvolvimento territorial",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149330603/embrapa-e-ufv-firmam-parceria-em-economia-criativa-e-desenvolvimento-territorial",
-        "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149330644&t=1793109789769",
-        "publishedAt": "2026-10-27T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Pesquisa, Desenvolvimento e Inovação"
-        ],
         "relevancia": 3
       },
       {
-        "title": "Embrapa Acre se despede do mateiro e escalador Adeci Oliveira",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149329073/embrapa-acre-se-despede-do-mateiro-e-escalador-adeci-oliveira",
+        "title": "Embrapa Suínos e Aves iniciará obras de adequação do acesso principal da instituição",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149377795/embrapa-suinos-e-aves-iniciara-obras-de-adequacao-do-acesso-principal-da-instituicao",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149329074&t=1793108769508",
-        "publishedAt": "2026-10-27T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1355242/1529337/Embrapa+Su%C3%ADnos+e+Aves+-+Trevo+SC-390.jpg/1ed0bd8d-3fc6-309b-3f52-bdc9843a8070?version=1.0&t=1793198129062",
+        "publishedAt": "2026-10-28T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
+        "relevancia": 3
+      },
+      {
+        "title": "Dia de Campo de comemora 50 anos da Embrapa Gado de Leite",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149376712/dia-de-campo-de-comemora-50-anos-da-embrapa-gado-de-leite",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149376713&t=1793197322682",
+        "publishedAt": "2026-10-28T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 7
+      },
+      {
+        "title": "Embrapa alinha ações do projeto Sal da Terra na Paraíba",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149374641/embrapa-alinha-acoes-do-projeto-sal-da-terra-na-paraiba",
+        "summary": "Convivência com a Seca · Manejo de Recursos Hídricos",
+        "image": "https://www.embrapa.br/documents/1355081/1527228/Reuni%C3%A3o+Equipe+Embrapa+Semi%C3%A1rido-mini.jpg/4be91705-995f-23ee-ea15-bbc975c55107?version=1.0&t=1793192998397",
+        "publishedAt": "2026-10-28T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Convivência com a Seca",
+          "Manejo de Recursos Hídricos"
+        ],
         "relevancia": 3
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Boi gordo sobe 6% em outubro e arroba chega a R$ 400 em SP, aponta Cepea",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-6-em-outubro-e-arroba-chega-a-r-400-em-sp-aponta-cepea/",
+      "summary": "Foto: Secretaria de Agricultura de São Paulo Indicador Cepea/Esalq atinge recorde real de R$ 386,30 por arroba ; oferta reduzida sustenta reajustes em outras regiões O post Boi gordo sobe 6% em outubro e arroba chega a R",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
+      "publishedAt": "2026-10-28T12:07:47.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
     {
       "title": "Arroba do boi gordo tem alta de R$ 15 e chega a R$ 390; veja as cotações pelo país",
       "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-tem-alta-de-r-15-e-chega-a-r-390-veja-as-cotacoes-pelo-pais/",
@@ -123,16 +127,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/bPoAGNIg-gado0021.jpg",
       "publishedAt": "2026-10-27T13:08:48.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
+      "relevancia": 13
     },
     {
-      "title": "Boi gordo sobe R$ 10 por arroba em duas regiões; confira as cotações pelo país",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-r-10-por-arroba-em-duas-regioes-confira-as-cotacoes-pelo-pais/",
-      "summary": "Foto: divulgação Mercado segue firme, com estabilidade em outras regiões; oferta restrita de animais e escalas de abate curtas marcam as negociações O post Boi gordo sobe R$ 10 por arroba em duas regiões; confira as cota",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/07/furto-gado.jpg",
-      "publishedAt": "2026-10-23T12:26:04.000Z",
+      "title": "Arroba do boi tem mais um dia de alta: veja os preços médios em 9 estados",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-tem-mais-um-dia-de-alta-veja-os-precos-medios-em-9-estados/",
+      "summary": "Foto gerada por IA Escalas de abate encurtadas e expectativa para envio de carne à China no último trimestre ajudam a explicar a continuidade da elevação O post Arroba do boi tem mais um dia de alta: veja os preços médio",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/10/boi-gordo-precos-no-Brasil.png",
+      "publishedAt": "2026-10-27T23:37:30.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 12
     },
     {
       "title": "Arroba do boi gordo encerra a semana em leve alta; confira as cotações",
@@ -150,16 +154,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi.jpg",
       "publishedAt": "2026-10-26T22:04:53.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 11
-    },
-    {
-      "title": "China suspende importações de carne bovina de unidade da MBRF em Promissão",
-      "link": "https://www.canalrural.com.br/pecuaria/china-suspende-importacoes-de-carne-bovina-de-unidade-da-mbrf-em-promissao/",
-      "summary": "Medida entrou em vigor em 22 de outubro e atinge frigorífico paulista identificado pelo SIF 2543. O post China suspende importações de carne bovina de unidade da MBRF em Promissão apareceu primeiro em Canal Rural .",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/10/china-suspende-importacoes-de-carne-bovina-de-unidade-da-mbrf-em-promissao.png",
-      "publishedAt": "2026-10-27T12:23:31.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 10
+      "relevancia": 9
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
