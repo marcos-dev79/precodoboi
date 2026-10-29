@@ -1,12 +1,12 @@
 {
-  "atualizado_em": "2026-10-28T17:31:44.766Z",
-  "fonte": "CEPEA/ESALQ · Indicador do boi gordo (média mensal à vista) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback)",
+  "atualizado_em": "2026-10-29T17:42:12.145Z",
+  "fonte": "CEPEA/ESALQ · Indicador do boi gordo (média mensal à vista) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback) · mês corrente via AgroDoc (fallback)",
   "feed": "https://www.cepea.org.br/br/indicador/boi-gordo.aspx",
   "periodo_meses": 12,
   "resumo": {
     "minimo": 320.28,
-    "maximo": 386.3,
-    "variacao_periodo_pct": 19.94
+    "maximo": 389.05,
+    "variacao_periodo_pct": 20.79
   },
   "serie": [
     {
@@ -67,7 +67,7 @@
     {
       "competencia": "2026-10",
       "label": "Outubro/26",
-      "preco_arroba": 386.3
+      "preco_arroba": 389.05
     }
   ]
 }

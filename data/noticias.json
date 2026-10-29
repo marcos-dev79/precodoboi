@@ -1,9 +1,45 @@
 {
-  "atualizado_em": "2026-10-28T17:31:43.836Z",
+  "atualizado_em": "2026-10-29T17:42:11.348Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Arroba do boi gordo mantém trajetória de alta e atinge média de R$ 389 em SP",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-mantem-trajetoria-de-alta-e-atinge-media-de-r-389-em-sp/",
+        "summary": "Foto: Lenito Abreu/Governo do Tocantins Indicador Cepea/Esalq acumula valorização de 6,79% em outubro, enquanto chuvas dificultam o transporte do gado e restringem a oferta aos frigoríficos O post Arroba do boi gordo man",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/sb6fIidd-rebanho-bovino.jpg",
+        "publishedAt": "2026-10-29T12:51:19.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 19
+      },
+      {
+        "title": "Boi gordo: o que explica a arroba acima de R$ 400 no mercado futuro?",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-o-que-explica-a-arroba-acima-de-r-400-no-mercado-futuro/",
+        "summary": "Foto: Plínio Queiroz/divulgação Na avaliação de analistas ouvidos pelo Canal Rural, demanda aquecida e restrição de oferta de animais a pasto ajudam a explicar alta de preços na bolsa O post Boi gordo: o que explica a ar",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/eTAiN8Lp-nelore-boi-gordo-gado.jpg",
+        "publishedAt": "2026-10-28T20:04:24.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 16
+      },
+      {
+        "title": "Arroba do boi gordo em alta: o consumidor também faz o preço",
+        "link": "https://www.canalrural.com.br/opiniao-noticias/arroba-do-boi-gordo-em-alta-o-consumidor-tambem-faz-o-preco/",
+        "summary": "Imagem gerada por IA para o Canal Rural Oferta apertada e dólar sustentam o boi, mas o bolso das famílias exige atenção de quem produz e espera novas valorizações O post Arroba do boi gordo em alta: o consumidor também f",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
+        "publishedAt": "2026-10-29T12:58:54.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
+      {
+        "title": "Boi gordo: escalas não evoluem e preços da arroba continuam subindo",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-escalas-nao-evoluem-e-precos-da-arroba-continuam-subindo/",
+        "summary": "Negócios a R$ 400 tornaram-se mais frequentes em São Paulo, mas ainda não representam a referência predominante do estado O post Boi gordo: escalas não evoluem e preços da arroba continuam subindo apareceu primeiro em Ca",
+        "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
+        "publishedAt": "2026-10-28T22:15:14.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
       {
         "title": "Boi gordo sobe 6% em outubro e arroba chega a R$ 400 em SP, aponta Cepea",
         "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-6-em-outubro-e-arroba-chega-a-r-400-em-sp-aponta-cepea/",
@@ -11,43 +47,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
         "publishedAt": "2026-10-28T12:07:47.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
-      },
-      {
-        "title": "Arroba do boi gordo tem alta de R$ 15 e chega a R$ 390; veja as cotações pelo país",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-tem-alta-de-r-15-e-chega-a-r-390-veja-as-cotacoes-pelo-pais/",
-        "summary": "Foto: Marcos Santos/USP Imagens Segundo o Cepea, os preços do boi gordo registraram altas no Pará e no Paraná, enquanto as negociações em SP ocorreram acima dos R$ 380 O post Arroba do boi gordo tem alta de R$ 15 e chega",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/bPoAGNIg-gado0021.jpg",
-        "publishedAt": "2026-10-27T13:08:48.000Z",
-        "fonte": "Canal Rural",
         "relevancia": 13
-      },
-      {
-        "title": "Arroba do boi tem mais um dia de alta: veja os preços médios em 9 estados",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-tem-mais-um-dia-de-alta-veja-os-precos-medios-em-9-estados/",
-        "summary": "Foto gerada por IA Escalas de abate encurtadas e expectativa para envio de carne à China no último trimestre ajudam a explicar a continuidade da elevação O post Arroba do boi tem mais um dia de alta: veja os preços médio",
-        "image": "https://imagens-cdn.canalrural.com.br/2025/10/boi-gordo-precos-no-Brasil.png",
-        "publishedAt": "2026-10-27T23:37:30.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
-        "title": "Arroba do boi gordo encerra a semana em leve alta; confira as cotações",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-encerra-a-semana-em-leve-alta-confira-as-cotacoes/",
-        "summary": "Foto: Giro do Boi/ Reprodução Oferta restrita e escalas de abate concentradas entre cinco e seis dias úteis mantêm os frigoríficos ativos nas compras O post Arroba do boi gordo encerra a semana em leve alta; confira as c",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/manejo-da-sanidade-reproducao-touros-vacas-estacao-de-monta.jpg",
-        "publishedAt": "2026-10-23T22:29:00.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
-        "title": "Arroba do boi inicia a semana em leve alta com forte desvalorização do real",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-inicia-semana-com-precos-firmes-em-meio-a-escalas-ainda-apertadas/",
-        "summary": "Foto: Giro do Boi Receita em moeda nacional das exportações é elevada, ampliando a capacidade de pagamento das indústrias habilitadas, diz analista O post Arroba do boi inicia a semana em leve alta com forte desvalorizaç",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi.jpg",
-        "publishedAt": "2026-10-26T22:04:53.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 9
       }
     ]
   },
@@ -56,61 +56,109 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Embrapa Trigo completa 52 anos de história",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149382024/embrapa-trigo-completa-52-anos-de-historia",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149382062&t=1793208317943",
-        "publishedAt": "2026-10-28T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Embrapa lança publicação com dados inéditos sobre a preservação de polinizadores no Cerrado",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149379579/embrapa-lanca-publicacao-com-dados-ineditos-sobre-a-preservacao-de-polinizadores-no-cerrado",
-        "summary": "",
-        "image": "https://www.embrapa.br/documents/1355163/0/abelhadestaque+%281%29.jpg/4eb10758-3ede-a905-525c-aa8a069fd66f?version=1.0&t=1793201966064",
-        "publishedAt": "2026-10-28T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Embrapa Suínos e Aves iniciará obras de adequação do acesso principal da instituição",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149377795/embrapa-suinos-e-aves-iniciara-obras-de-adequacao-do-acesso-principal-da-instituicao",
-        "summary": "",
-        "image": "https://www.embrapa.br/documents/1355242/1529337/Embrapa+Su%C3%ADnos+e+Aves+-+Trevo+SC-390.jpg/1ed0bd8d-3fc6-309b-3f52-bdc9843a8070?version=1.0&t=1793198129062",
-        "publishedAt": "2026-10-28T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Dia de Campo de comemora 50 anos da Embrapa Gado de Leite",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149376712/dia-de-campo-de-comemora-50-anos-da-embrapa-gado-de-leite",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149376713&t=1793197322682",
-        "publishedAt": "2026-10-28T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 7
-      },
-      {
-        "title": "Embrapa alinha ações do projeto Sal da Terra na Paraíba",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149374641/embrapa-alinha-acoes-do-projeto-sal-da-terra-na-paraiba",
-        "summary": "Convivência com a Seca · Manejo de Recursos Hídricos",
-        "image": "https://www.embrapa.br/documents/1355081/1527228/Reuni%C3%A3o+Equipe+Embrapa+Semi%C3%A1rido-mini.jpg/4be91705-995f-23ee-ea15-bbc975c55107?version=1.0&t=1793192998397",
-        "publishedAt": "2026-10-28T12:00:00.000Z",
+        "title": "Público urbano conhece soluções tecnológicas e diversos trabalhos da Embrapa no Green Rio Tech",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149436529/publico-urbano-conhece-solucoes-tecnologicas-e-diversos-trabalhos-da-embrapa-no-green-rio-tech",
+        "summary": "Pesquisa, Desenvolvimento e Inovação · Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149436530&t=1793294190276",
+        "publishedAt": "2026-10-29T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Convivência com a Seca",
+          "Pesquisa, Desenvolvimento e Inovação",
+          "Transferência de Tecnologia"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "José Roberto Peres encerra trajetória de mais de 50 anos na Embrapa",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149431218/jose-roberto-peres-encerra-trajetoria-de-mais-de-50-anos-na-embrapa",
+        "summary": "Pesquisa, Desenvolvimento e Inovação",
+        "image": "https://www.embrapa.br/documents/d/cerrados/simposio_peres2-jpg?download=true",
+        "publishedAt": "2026-10-29T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Pesquisa, Desenvolvimento e Inovação"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Workshop nacional debate avanços no monitoramento ambiental da aquicultura e impactos da nova Conama",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149417481/workshop-nacional-debate-avancos-no-monitoramento-ambiental-da-aquicultura-e-impactos-da-nova-conama",
+        "summary": "Pesca e aquicultura · Produção animal · Manejo de Recursos Hídricos",
+        "image": "https://www.embrapa.br/documents/1355145/92982228/AquiculturaLosekann1.jpg/2d3fd535-ab1b-e4ec-1038-731b9f4aed5e?version=1.0&t=1793272995843",
+        "publishedAt": "2026-10-29T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Pesca e aquicultura",
+          "Produção animal",
           "Manejo de Recursos Hídricos"
         ],
         "relevancia": 3
+      },
+      {
+        "title": "Pesquisadora da Embrapa Pecuária Sul participa de encontro que celebra 50 anos de colaboração científica no Cone Sul",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149412094/pesquisadora-da-embrapa-pecuaria-sul-participa-de-encontro-que-celebra-50-anos-de-colaboracao-cientifica-no-cone-sul",
+        "summary": "Produção animal",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149412095&t=1793272984492",
+        "publishedAt": "2026-10-29T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Produção animal"
+        ],
+        "relevancia": 8
+      },
+      {
+        "title": "Embrapa promove trilha em floresta urbana em Belém",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149385551/embrapa-promove-trilha-em-floresta-urbana-em-belem",
+        "summary": "Biodiversidade · Florestas e silvicultura · Mudanças climáticas",
+        "image": "https://www.embrapa.br/documents/1354300/106681924/capoeira+1.jpg/846828b4-1f21-1ebd-e8b3-76abed8ec80f?version=1.0&t=1793213955868",
+        "publishedAt": "2026-10-28T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Biodiversidade",
+          "Florestas e silvicultura",
+          "Mudanças climáticas"
+        ],
+        "relevancia": 1
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Arroba do boi gordo mantém trajetória de alta e atinge média de R$ 389 em SP",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-mantem-trajetoria-de-alta-e-atinge-media-de-r-389-em-sp/",
+      "summary": "Foto: Lenito Abreu/Governo do Tocantins Indicador Cepea/Esalq acumula valorização de 6,79% em outubro, enquanto chuvas dificultam o transporte do gado e restringem a oferta aos frigoríficos O post Arroba do boi gordo man",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/sb6fIidd-rebanho-bovino.jpg",
+      "publishedAt": "2026-10-29T12:51:19.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 19
+    },
+    {
+      "title": "Boi gordo: o que explica a arroba acima de R$ 400 no mercado futuro?",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-o-que-explica-a-arroba-acima-de-r-400-no-mercado-futuro/",
+      "summary": "Foto: Plínio Queiroz/divulgação Na avaliação de analistas ouvidos pelo Canal Rural, demanda aquecida e restrição de oferta de animais a pasto ajudam a explicar alta de preços na bolsa O post Boi gordo: o que explica a ar",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/eTAiN8Lp-nelore-boi-gordo-gado.jpg",
+      "publishedAt": "2026-10-28T20:04:24.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 16
+    },
+    {
+      "title": "Arroba do boi gordo em alta: o consumidor também faz o preço",
+      "link": "https://www.canalrural.com.br/opiniao-noticias/arroba-do-boi-gordo-em-alta-o-consumidor-tambem-faz-o-preco/",
+      "summary": "Imagem gerada por IA para o Canal Rural Oferta apertada e dólar sustentam o boi, mas o bolso das famílias exige atenção de quem produz e espera novas valorizações O post Arroba do boi gordo em alta: o consumidor também f",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
+      "publishedAt": "2026-10-29T12:58:54.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
+    {
+      "title": "Boi gordo: escalas não evoluem e preços da arroba continuam subindo",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-escalas-nao-evoluem-e-precos-da-arroba-continuam-subindo/",
+      "summary": "Negócios a R$ 400 tornaram-se mais frequentes em São Paulo, mas ainda não representam a referência predominante do estado O post Boi gordo: escalas não evoluem e preços da arroba continuam subindo apareceu primeiro em Ca",
+      "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
+      "publishedAt": "2026-10-28T22:15:14.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
     {
       "title": "Boi gordo sobe 6% em outubro e arroba chega a R$ 400 em SP, aponta Cepea",
       "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-6-em-outubro-e-arroba-chega-a-r-400-em-sp-aponta-cepea/",
@@ -118,43 +166,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
       "publishedAt": "2026-10-28T12:07:47.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
-    },
-    {
-      "title": "Arroba do boi gordo tem alta de R$ 15 e chega a R$ 390; veja as cotações pelo país",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-tem-alta-de-r-15-e-chega-a-r-390-veja-as-cotacoes-pelo-pais/",
-      "summary": "Foto: Marcos Santos/USP Imagens Segundo o Cepea, os preços do boi gordo registraram altas no Pará e no Paraná, enquanto as negociações em SP ocorreram acima dos R$ 380 O post Arroba do boi gordo tem alta de R$ 15 e chega",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/bPoAGNIg-gado0021.jpg",
-      "publishedAt": "2026-10-27T13:08:48.000Z",
-      "fonte": "Canal Rural",
       "relevancia": 13
-    },
-    {
-      "title": "Arroba do boi tem mais um dia de alta: veja os preços médios em 9 estados",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-tem-mais-um-dia-de-alta-veja-os-precos-medios-em-9-estados/",
-      "summary": "Foto gerada por IA Escalas de abate encurtadas e expectativa para envio de carne à China no último trimestre ajudam a explicar a continuidade da elevação O post Arroba do boi tem mais um dia de alta: veja os preços médio",
-      "image": "https://imagens-cdn.canalrural.com.br/2025/10/boi-gordo-precos-no-Brasil.png",
-      "publishedAt": "2026-10-27T23:37:30.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
-      "title": "Arroba do boi gordo encerra a semana em leve alta; confira as cotações",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-encerra-a-semana-em-leve-alta-confira-as-cotacoes/",
-      "summary": "Foto: Giro do Boi/ Reprodução Oferta restrita e escalas de abate concentradas entre cinco e seis dias úteis mantêm os frigoríficos ativos nas compras O post Arroba do boi gordo encerra a semana em leve alta; confira as c",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/manejo-da-sanidade-reproducao-touros-vacas-estacao-de-monta.jpg",
-      "publishedAt": "2026-10-23T22:29:00.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
-      "title": "Arroba do boi inicia a semana em leve alta com forte desvalorização do real",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-inicia-semana-com-precos-firmes-em-meio-a-escalas-ainda-apertadas/",
-      "summary": "Foto: Giro do Boi Receita em moeda nacional das exportações é elevada, ampliando a capacidade de pagamento das indústrias habilitadas, diz analista O post Arroba do boi inicia a semana em leve alta com forte desvalorizaç",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi.jpg",
-      "publishedAt": "2026-10-26T22:04:53.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 9
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
