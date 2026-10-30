@@ -1,41 +1,41 @@
 {
-  "atualizado_em": "2026-10-29T17:42:09.184Z",
+  "atualizado_em": "2026-10-30T17:21:30.275Z",
   "fonte": "CEPEA/ESALQ · NoticiasAgricolas · Scot Consultoria",
   "licenca": "CC-BY-4.0 · atribuicao AgroDoc AI",
-  "referencia_cepea_sp": 389.05,
+  "referencia_cepea_sp": 389.2,
   "media_nacional": {
-    "preco_arroba": 370.75
+    "preco_arroba": 372.45
   },
   "estados": [
     {
-      "uf": "GO",
-      "nome": "Goiás",
-      "regiao": "Centro-Oeste",
-      "preco_arroba": 399.65,
+      "uf": "PR",
+      "nome": "Paraná",
+      "regiao": "Sul",
+      "preco_arroba": 395,
       "origem": "api",
-      "praca": "GO RD"
+      "praca": "PR"
     },
     {
       "uf": "RJ",
       "nome": "Rio de Janeiro",
       "regiao": "Sudeste",
-      "preco_arroba": 392.94,
+      "preco_arroba": 393.09,
       "origem": "estimado",
       "praca": "estimativa regional (Sudeste)"
     },
     {
-      "uf": "PR",
-      "nome": "Paraná",
-      "regiao": "Sul",
-      "preco_arroba": 386,
+      "uf": "SP",
+      "nome": "São Paulo",
+      "regiao": "Sudeste",
+      "preco_arroba": 390,
       "origem": "api",
-      "praca": "PR Noroeste"
+      "praca": "SP"
     },
     {
       "uf": "ES",
       "nome": "Espírito Santo",
       "regiao": "Sudeste",
-      "preco_arroba": 385.16,
+      "preco_arroba": 385.31,
       "origem": "estimado",
       "praca": "estimativa regional (Sudeste)"
     },
@@ -43,15 +43,31 @@
       "uf": "SC",
       "nome": "Santa Catarina",
       "regiao": "Sul",
-      "preco_arroba": 385.16,
+      "preco_arroba": 385.31,
       "origem": "estimado",
       "praca": "estimativa regional (Sul)"
+    },
+    {
+      "uf": "MG",
+      "nome": "Minas Gerais",
+      "regiao": "Sudeste",
+      "preco_arroba": 385,
+      "origem": "api",
+      "praca": "MG"
+    },
+    {
+      "uf": "MS",
+      "nome": "Mato Grosso do Sul",
+      "regiao": "Centro-Oeste",
+      "preco_arroba": 382,
+      "origem": "api",
+      "praca": "MS"
     },
     {
       "uf": "RS",
       "nome": "Rio Grande do Sul",
       "regiao": "Sul",
-      "preco_arroba": 381.27,
+      "preco_arroba": 381.42,
       "origem": "estimado",
       "praca": "estimativa regional (Sul)"
     },
@@ -59,55 +75,47 @@
       "uf": "DF",
       "nome": "Distrito Federal",
       "regiao": "Centro-Oeste",
-      "preco_arroba": 377.38,
+      "preco_arroba": 377.52,
       "origem": "estimado",
       "praca": "estimativa regional (Centro-Oeste)"
-    },
-    {
-      "uf": "MS",
-      "nome": "Mato Grosso do Sul",
-      "regiao": "Centro-Oeste",
-      "preco_arroba": 376,
-      "origem": "api",
-      "praca": "MS Dourados"
-    },
-    {
-      "uf": "SP",
-      "nome": "São Paulo",
-      "regiao": "Sudeste",
-      "preco_arroba": 376,
-      "origem": "api",
-      "praca": "SP Barretos"
-    },
-    {
-      "uf": "BA",
-      "nome": "Bahia",
-      "regiao": "Nordeste",
-      "preco_arroba": 373.49,
-      "origem": "estimado",
-      "praca": "estimativa regional (Nordeste)"
-    },
-    {
-      "uf": "MG",
-      "nome": "Minas Gerais",
-      "regiao": "Sudeste",
-      "preco_arroba": 371,
-      "origem": "api",
-      "praca": "MG Triângulo"
     },
     {
       "uf": "PA",
       "nome": "Pará",
       "regiao": "Norte",
+      "preco_arroba": 375,
+      "origem": "api",
+      "praca": "PA"
+    },
+    {
+      "uf": "BA",
+      "nome": "Bahia",
+      "regiao": "Nordeste",
+      "preco_arroba": 373.63,
+      "origem": "estimado",
+      "praca": "estimativa regional (Nordeste)"
+    },
+    {
+      "uf": "GO",
+      "nome": "Goiás",
+      "regiao": "Centro-Oeste",
       "preco_arroba": 370,
       "origem": "api",
-      "praca": "PA Marabá"
+      "praca": "GO"
+    },
+    {
+      "uf": "TO",
+      "nome": "Tocantins",
+      "regiao": "Norte",
+      "preco_arroba": 370,
+      "origem": "api",
+      "praca": "TO"
     },
     {
       "uf": "PE",
       "nome": "Pernambuco",
       "regiao": "Nordeste",
-      "preco_arroba": 369.6,
+      "preco_arroba": 369.74,
       "origem": "estimado",
       "praca": "estimativa regional (Nordeste)"
     },
@@ -115,7 +123,7 @@
       "uf": "AL",
       "nome": "Alagoas",
       "regiao": "Nordeste",
-      "preco_arroba": 365.71,
+      "preco_arroba": 365.85,
       "origem": "estimado",
       "praca": "estimativa regional (Nordeste)"
     },
@@ -123,7 +131,7 @@
       "uf": "CE",
       "nome": "Ceará",
       "regiao": "Nordeste",
-      "preco_arroba": 365.71,
+      "preco_arroba": 365.85,
       "origem": "estimado",
       "praca": "estimativa regional (Nordeste)"
     },
@@ -131,7 +139,7 @@
       "uf": "MA",
       "nome": "Maranhão",
       "regiao": "Nordeste",
-      "preco_arroba": 365.71,
+      "preco_arroba": 365.85,
       "origem": "estimado",
       "praca": "estimativa regional (Nordeste)"
     },
@@ -139,7 +147,7 @@
       "uf": "PB",
       "nome": "Paraíba",
       "regiao": "Nordeste",
-      "preco_arroba": 365.71,
+      "preco_arroba": 365.85,
       "origem": "estimado",
       "praca": "estimativa regional (Nordeste)"
     },
@@ -147,7 +155,7 @@
       "uf": "RN",
       "nome": "Rio Grande do Norte",
       "regiao": "Nordeste",
-      "preco_arroba": 365.71,
+      "preco_arroba": 365.85,
       "origem": "estimado",
       "praca": "estimativa regional (Nordeste)"
     },
@@ -155,23 +163,31 @@
       "uf": "SE",
       "nome": "Sergipe",
       "regiao": "Nordeste",
-      "preco_arroba": 365.71,
+      "preco_arroba": 365.85,
       "origem": "estimado",
       "praca": "estimativa regional (Nordeste)"
     },
     {
-      "uf": "TO",
-      "nome": "Tocantins",
-      "regiao": "Norte",
-      "preco_arroba": 363,
+      "uf": "MT",
+      "nome": "Mato Grosso",
+      "regiao": "Centro-Oeste",
+      "preco_arroba": 365,
       "origem": "api",
-      "praca": "TO Sul"
+      "praca": "MT"
+    },
+    {
+      "uf": "RO",
+      "nome": "Rondônia",
+      "regiao": "Norte",
+      "preco_arroba": 365,
+      "origem": "api",
+      "praca": "RO"
     },
     {
       "uf": "AC",
       "nome": "Acre",
       "regiao": "Norte",
-      "preco_arroba": 361.82,
+      "preco_arroba": 361.96,
       "origem": "estimado",
       "praca": "estimativa regional (Norte)"
     },
@@ -179,7 +195,7 @@
       "uf": "AM",
       "nome": "Amazonas",
       "regiao": "Norte",
-      "preco_arroba": 361.82,
+      "preco_arroba": 361.96,
       "origem": "estimado",
       "praca": "estimativa regional (Norte)"
     },
@@ -187,7 +203,7 @@
       "uf": "PI",
       "nome": "Piauí",
       "regiao": "Nordeste",
-      "preco_arroba": 361.82,
+      "preco_arroba": 361.96,
       "origem": "estimado",
       "praca": "estimativa regional (Nordeste)"
     },
@@ -195,31 +211,15 @@
       "uf": "AP",
       "nome": "Amapá",
       "regiao": "Norte",
-      "preco_arroba": 357.93,
+      "preco_arroba": 358.06,
       "origem": "estimado",
       "praca": "estimativa regional (Norte)"
-    },
-    {
-      "uf": "MT",
-      "nome": "Mato Grosso",
-      "regiao": "Centro-Oeste",
-      "preco_arroba": 356,
-      "origem": "api",
-      "praca": "MT Norte"
-    },
-    {
-      "uf": "RO",
-      "nome": "Rondônia",
-      "regiao": "Norte",
-      "preco_arroba": 356,
-      "origem": "api",
-      "praca": "RO Sudeste"
     },
     {
       "uf": "RR",
       "nome": "Roraima",
       "regiao": "Norte",
-      "preco_arroba": 354.04,
+      "preco_arroba": 354.17,
       "origem": "estimado",
       "praca": "estimativa regional (Norte)"
     }

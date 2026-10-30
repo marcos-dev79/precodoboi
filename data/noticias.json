@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-29T17:42:11.348Z",
+  "atualizado_em": "2026-10-30T17:21:32.337Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -11,7 +11,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/sb6fIidd-rebanho-bovino.jpg",
         "publishedAt": "2026-10-29T12:51:19.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 19
+        "relevancia": 17
+      },
+      {
+        "title": "Boi gordo bate recorde histórico em SP; veja as cotações da arroba pelo país",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-bate-recorde-historico-em-sp-veja-as-cotacoes-da-arroba-pelo-pais/",
+        "summary": "Foto: Agência IBGE Notícias O Indicador Cepea/Esalq alcançou os R$ 389,20 por arroba à vista em São Paulo O post Boi gordo bate recorde histórico em SP; veja as cotações da arroba pelo país apareceu primeiro em Canal Rur",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/TV3uBlZP-boi-pecu&aacute;ria.jpg",
+        "publishedAt": "2026-10-30T12:35:43.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
       },
       {
         "title": "Boi gordo: o que explica a arroba acima de R$ 400 no mercado futuro?",
@@ -20,7 +29,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/eTAiN8Lp-nelore-boi-gordo-gado.jpg",
         "publishedAt": "2026-10-28T20:04:24.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 16
+        "relevancia": 14
       },
       {
         "title": "Arroba do boi gordo em alta: o consumidor também faz o preço",
@@ -29,7 +38,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
         "publishedAt": "2026-10-29T12:58:54.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
+        "relevancia": 13
       },
       {
         "title": "Boi gordo: escalas não evoluem e preços da arroba continuam subindo",
@@ -37,15 +46,6 @@
         "summary": "Negócios a R$ 400 tornaram-se mais frequentes em São Paulo, mas ainda não representam a referência predominante do estado O post Boi gordo: escalas não evoluem e preços da arroba continuam subindo apareceu primeiro em Ca",
         "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
         "publishedAt": "2026-10-28T22:15:14.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 15
-      },
-      {
-        "title": "Boi gordo sobe 6% em outubro e arroba chega a R$ 400 em SP, aponta Cepea",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-6-em-outubro-e-arroba-chega-a-r-400-em-sp-aponta-cepea/",
-        "summary": "Foto: Secretaria de Agricultura de São Paulo Indicador Cepea/Esalq atinge recorde real de R$ 386,30 por arroba ; oferta reduzida sustenta reajustes em outras regiões O post Boi gordo sobe 6% em outubro e arroba chega a R",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
-        "publishedAt": "2026-10-28T12:07:47.000Z",
         "fonte": "Canal Rural",
         "relevancia": 13
       }
@@ -56,67 +56,61 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Público urbano conhece soluções tecnológicas e diversos trabalhos da Embrapa no Green Rio Tech",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149436529/publico-urbano-conhece-solucoes-tecnologicas-e-diversos-trabalhos-da-embrapa-no-green-rio-tech",
-        "summary": "Pesquisa, Desenvolvimento e Inovação · Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149436530&t=1793294190276",
-        "publishedAt": "2026-10-29T12:00:00.000Z",
+        "title": "Protagonismo feminino é destaque na 12ª Jornada Científica da Embrapa Meio-Norte",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149466898/protagonismo-feminino-e-destaque-na-12-jornada-cientifica-da-embrapa-meio-norte",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149466899&t=1793372638867",
+        "publishedAt": "2026-10-30T12:00:00.000Z",
         "fonte": "Embrapa",
-        "tags": [
-          "Pesquisa, Desenvolvimento e Inovação",
-          "Transferência de Tecnologia"
-        ],
+        "tags": [],
         "relevancia": 3
       },
       {
-        "title": "José Roberto Peres encerra trajetória de mais de 50 anos na Embrapa",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149431218/jose-roberto-peres-encerra-trajetoria-de-mais-de-50-anos-na-embrapa",
-        "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/documents/d/cerrados/simposio_peres2-jpg?download=true",
-        "publishedAt": "2026-10-29T12:00:00.000Z",
+        "title": "Prosa Rural - Bem-estar animal na pecuária de leite",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149424121/prosa-rural---bem-estar-animal-na-pecuaria-de-leite",
+        "summary": "Agricultura familiar · Produção animal",
+        "image": "https://www.embrapa.br/documents/1355117/0/ED_+Bem-estar+pecuaria+de+leite.jpg/6e1b9489-a638-b8c5-5678-8eaede2808b2?version=1.0&t=1793278438554",
+        "publishedAt": "2026-10-30T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Pesquisa, Desenvolvimento e Inovação"
-        ],
-        "relevancia": 3
-      },
-      {
-        "title": "Workshop nacional debate avanços no monitoramento ambiental da aquicultura e impactos da nova Conama",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149417481/workshop-nacional-debate-avancos-no-monitoramento-ambiental-da-aquicultura-e-impactos-da-nova-conama",
-        "summary": "Pesca e aquicultura · Produção animal · Manejo de Recursos Hídricos",
-        "image": "https://www.embrapa.br/documents/1355145/92982228/AquiculturaLosekann1.jpg/2d3fd535-ab1b-e4ec-1038-731b9f4aed5e?version=1.0&t=1793272995843",
-        "publishedAt": "2026-10-29T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Pesca e aquicultura",
-          "Produção animal",
-          "Manejo de Recursos Hídricos"
-        ],
-        "relevancia": 3
-      },
-      {
-        "title": "Pesquisadora da Embrapa Pecuária Sul participa de encontro que celebra 50 anos de colaboração científica no Cone Sul",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149412094/pesquisadora-da-embrapa-pecuaria-sul-participa-de-encontro-que-celebra-50-anos-de-colaboracao-cientifica-no-cone-sul",
-        "summary": "Produção animal",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149412095&t=1793272984492",
-        "publishedAt": "2026-10-29T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
+          "Agricultura familiar",
           "Produção animal"
         ],
         "relevancia": 8
       },
       {
-        "title": "Embrapa promove trilha em floresta urbana em Belém",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149385551/embrapa-promove-trilha-em-floresta-urbana-em-belem",
-        "summary": "Biodiversidade · Florestas e silvicultura · Mudanças climáticas",
-        "image": "https://www.embrapa.br/documents/1354300/106681924/capoeira+1.jpg/846828b4-1f21-1ebd-e8b3-76abed8ec80f?version=1.0&t=1793213955868",
-        "publishedAt": "2026-10-28T12:00:00.000Z",
+        "title": "Embrapa reúne órgãos públicos e comunidade para planejar ações de prevenção a incêndios",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149462532/embrapa-reune-orgaos-publicos-e-comunidade-para-planejar-acoes-de-prevencao-a-incendios",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149462548&t=1793364119012",
+        "publishedAt": "2026-10-30T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 3
+      },
+      {
+        "title": "Embrapa Milho e Sorgo passa a integrar Conselho de Administração da Emater-MG",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149438594/embrapa-milho-e-sorgo-passa-a-integrar-conselho-de-administracao-da-emater-mg",
+        "summary": "Gestão Estratégica · Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149438595&t=1793332194414",
+        "publishedAt": "2026-10-29T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Biodiversidade",
-          "Florestas e silvicultura",
-          "Mudanças climáticas"
+          "Gestão Estratégica",
+          "Transferência de Tecnologia"
+        ],
+        "relevancia": 1
+      },
+      {
+        "title": "Público urbano conhece soluções tecnológicas e diversos trabalhos da Embrapa no Green Rio Tech",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149436529/publico-urbano-conhece-solucoes-tecnologicas-e-diversos-trabalhos-da-embrapa-no-green-rio-tech",
+        "summary": "Pesquisa, Desenvolvimento e Inovação · Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149436530&t=1793332194686",
+        "publishedAt": "2026-10-29T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Pesquisa, Desenvolvimento e Inovação",
+          "Transferência de Tecnologia"
         ],
         "relevancia": 1
       }
@@ -130,7 +124,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/sb6fIidd-rebanho-bovino.jpg",
       "publishedAt": "2026-10-29T12:51:19.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 19
+      "relevancia": 17
+    },
+    {
+      "title": "Boi gordo bate recorde histórico em SP; veja as cotações da arroba pelo país",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-bate-recorde-historico-em-sp-veja-as-cotacoes-da-arroba-pelo-pais/",
+      "summary": "Foto: Agência IBGE Notícias O Indicador Cepea/Esalq alcançou os R$ 389,20 por arroba à vista em São Paulo O post Boi gordo bate recorde histórico em SP; veja as cotações da arroba pelo país apareceu primeiro em Canal Rur",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/TV3uBlZP-boi-pecu&aacute;ria.jpg",
+      "publishedAt": "2026-10-30T12:35:43.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
     },
     {
       "title": "Boi gordo: o que explica a arroba acima de R$ 400 no mercado futuro?",
@@ -139,7 +142,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/eTAiN8Lp-nelore-boi-gordo-gado.jpg",
       "publishedAt": "2026-10-28T20:04:24.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 16
+      "relevancia": 14
     },
     {
       "title": "Arroba do boi gordo em alta: o consumidor também faz o preço",
@@ -148,7 +151,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
       "publishedAt": "2026-10-29T12:58:54.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
+      "relevancia": 13
     },
     {
       "title": "Boi gordo: escalas não evoluem e preços da arroba continuam subindo",
@@ -156,15 +159,6 @@
       "summary": "Negócios a R$ 400 tornaram-se mais frequentes em São Paulo, mas ainda não representam a referência predominante do estado O post Boi gordo: escalas não evoluem e preços da arroba continuam subindo apareceu primeiro em Ca",
       "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
       "publishedAt": "2026-10-28T22:15:14.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 15
-    },
-    {
-      "title": "Boi gordo sobe 6% em outubro e arroba chega a R$ 400 em SP, aponta Cepea",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-6-em-outubro-e-arroba-chega-a-r-400-em-sp-aponta-cepea/",
-      "summary": "Foto: Secretaria de Agricultura de São Paulo Indicador Cepea/Esalq atinge recorde real de R$ 386,30 por arroba ; oferta reduzida sustenta reajustes em outras regiões O post Boi gordo sobe 6% em outubro e arroba chega a R",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
-      "publishedAt": "2026-10-28T12:07:47.000Z",
       "fonte": "Canal Rural",
       "relevancia": 13
     }
