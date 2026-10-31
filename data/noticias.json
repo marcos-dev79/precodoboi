@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-30T17:21:32.337Z",
+  "atualizado_em": "2026-10-31T16:25:54.260Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -11,7 +11,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/sb6fIidd-rebanho-bovino.jpg",
         "publishedAt": "2026-10-29T12:51:19.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 17
+        "relevancia": 16
       },
       {
         "title": "Boi gordo bate recorde histórico em SP; veja as cotações da arroba pelo país",
@@ -20,7 +20,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/TV3uBlZP-boi-pecu&aacute;ria.jpg",
         "publishedAt": "2026-10-30T12:35:43.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
+        "relevancia": 13
       },
       {
         "title": "Boi gordo: o que explica a arroba acima de R$ 400 no mercado futuro?",
@@ -29,7 +29,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/eTAiN8Lp-nelore-boi-gordo-gado.jpg",
         "publishedAt": "2026-10-28T20:04:24.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 14
+        "relevancia": 13
       },
       {
         "title": "Arroba do boi gordo em alta: o consumidor também faz o preço",
@@ -38,7 +38,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
         "publishedAt": "2026-10-29T12:58:54.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 12
       },
       {
         "title": "Boi gordo: escalas não evoluem e preços da arroba continuam subindo",
@@ -47,7 +47,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
         "publishedAt": "2026-10-28T22:15:14.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 12
       }
     ]
   },
@@ -63,7 +63,7 @@
         "publishedAt": "2026-10-30T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Prosa Rural - Bem-estar animal na pecuária de leite",
@@ -76,7 +76,7 @@
           "Agricultura familiar",
           "Produção animal"
         ],
-        "relevancia": 8
+        "relevancia": 6
       },
       {
         "title": "Embrapa reúne órgãos públicos e comunidade para planejar ações de prevenção a incêndios",
@@ -86,7 +86,7 @@
         "publishedAt": "2026-10-30T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Embrapa Milho e Sorgo passa a integrar Conselho de Administração da Emater-MG",
@@ -99,7 +99,7 @@
           "Gestão Estratégica",
           "Transferência de Tecnologia"
         ],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Público urbano conhece soluções tecnológicas e diversos trabalhos da Embrapa no Green Rio Tech",
@@ -112,7 +112,7 @@
           "Pesquisa, Desenvolvimento e Inovação",
           "Transferência de Tecnologia"
         ],
-        "relevancia": 1
+        "relevancia": 0
       }
     ]
   },
@@ -124,7 +124,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/sb6fIidd-rebanho-bovino.jpg",
       "publishedAt": "2026-10-29T12:51:19.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 17
+      "relevancia": 16
     },
     {
       "title": "Boi gordo bate recorde histórico em SP; veja as cotações da arroba pelo país",
@@ -133,7 +133,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/TV3uBlZP-boi-pecu&aacute;ria.jpg",
       "publishedAt": "2026-10-30T12:35:43.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
+      "relevancia": 13
     },
     {
       "title": "Boi gordo: o que explica a arroba acima de R$ 400 no mercado futuro?",
@@ -142,7 +142,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/eTAiN8Lp-nelore-boi-gordo-gado.jpg",
       "publishedAt": "2026-10-28T20:04:24.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 14
+      "relevancia": 13
     },
     {
       "title": "Arroba do boi gordo em alta: o consumidor também faz o preço",
@@ -151,7 +151,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
       "publishedAt": "2026-10-29T12:58:54.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 12
     },
     {
       "title": "Boi gordo: escalas não evoluem e preços da arroba continuam subindo",
@@ -160,7 +160,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
       "publishedAt": "2026-10-28T22:15:14.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 12
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
