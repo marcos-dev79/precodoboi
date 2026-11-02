@@ -1,18 +1,9 @@
 {
-  "atualizado_em": "2026-11-01T17:20:10.657Z",
+  "atualizado_em": "2026-11-02T20:57:24.025Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
-      {
-        "title": "Arroba do boi gordo teve alta consistente em outubro; o que esperar de novembro?",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-teve-alta-consistente-em-outubro-o-que-esperar-de-novembro/",
-        "summary": "Foto: Sérgio Medeiros Conjunto de fatores do mercado interno tende a impulsionar os preços no momento em que pecuarista segue confortável na retenção de boiadas O post Arroba do boi gordo teve alta consistente em outubro",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/article-2-2.jpg",
-        "publishedAt": "2026-10-31T22:01:00.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 16
-      },
       {
         "title": "Arroba do boi gordo mantém trajetória de alta e atinge média de R$ 389 em SP",
         "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-mantem-trajetoria-de-alta-e-atinge-media-de-r-389-em-sp/",
@@ -21,6 +12,15 @@
         "publishedAt": "2026-10-29T12:51:19.000Z",
         "fonte": "Canal Rural",
         "relevancia": 16
+      },
+      {
+        "title": "Arroba do boi gordo teve alta consistente em outubro; o que esperar de novembro?",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-teve-alta-consistente-em-outubro-o-que-esperar-de-novembro/",
+        "summary": "Foto: Sérgio Medeiros Conjunto de fatores do mercado interno tende a impulsionar os preços no momento em que pecuarista segue confortável na retenção de boiadas O post Arroba do boi gordo teve alta consistente em outubro",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/article-2-2.jpg",
+        "publishedAt": "2026-10-31T22:01:00.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 14
       },
       {
         "title": "Boi gordo bate recorde histórico em SP; veja as cotações da arroba pelo país",
@@ -41,13 +41,13 @@
         "relevancia": 12
       },
       {
-        "title": "Boi gordo: escalas não evoluem e preços da arroba continuam subindo",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-escalas-nao-evoluem-e-precos-da-arroba-continuam-subindo/",
-        "summary": "Negócios a R$ 400 tornaram-se mais frequentes em São Paulo, mas ainda não representam a referência predominante do estado O post Boi gordo: escalas não evoluem e preços da arroba continuam subindo apareceu primeiro em Ca",
-        "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
-        "publishedAt": "2026-10-28T22:15:14.000Z",
+        "title": "Ingredientes naturais podem garantir até uma arroba extra por boi, diz especialista",
+        "link": "https://www.canalrural.com.br/pecuaria/ingredientes-naturais-podem-garantir-ate-uma-arroba-extra-por-boi-diz-especialista/",
+        "summary": "Foto: Gabriel Faria/Embrapa Engenheiro agrônomo Pedro Katsuki apresenta alternativas sustentáveis para alimentação animal, destacando aditivos naturais. O post Ingredientes naturais podem garantir até uma arroba extra po",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/10/Nelore_31.10.2025.jpg",
+        "publishedAt": "2026-11-02T16:01:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 12
+        "relevancia": 9
       }
     ]
   },
@@ -63,7 +63,7 @@
         "publishedAt": "2026-10-31T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Protagonismo feminino é destaque na 12ª Jornada Científica da Embrapa Meio-Norte",
@@ -115,15 +115,6 @@
   },
   "noticias": [
     {
-      "title": "Arroba do boi gordo teve alta consistente em outubro; o que esperar de novembro?",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-teve-alta-consistente-em-outubro-o-que-esperar-de-novembro/",
-      "summary": "Foto: Sérgio Medeiros Conjunto de fatores do mercado interno tende a impulsionar os preços no momento em que pecuarista segue confortável na retenção de boiadas O post Arroba do boi gordo teve alta consistente em outubro",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/article-2-2.jpg",
-      "publishedAt": "2026-10-31T22:01:00.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 16
-    },
-    {
       "title": "Arroba do boi gordo mantém trajetória de alta e atinge média de R$ 389 em SP",
       "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-mantem-trajetoria-de-alta-e-atinge-media-de-r-389-em-sp/",
       "summary": "Foto: Lenito Abreu/Governo do Tocantins Indicador Cepea/Esalq acumula valorização de 6,79% em outubro, enquanto chuvas dificultam o transporte do gado e restringem a oferta aos frigoríficos O post Arroba do boi gordo man",
@@ -131,6 +122,15 @@
       "publishedAt": "2026-10-29T12:51:19.000Z",
       "fonte": "Canal Rural",
       "relevancia": 16
+    },
+    {
+      "title": "Arroba do boi gordo teve alta consistente em outubro; o que esperar de novembro?",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-teve-alta-consistente-em-outubro-o-que-esperar-de-novembro/",
+      "summary": "Foto: Sérgio Medeiros Conjunto de fatores do mercado interno tende a impulsionar os preços no momento em que pecuarista segue confortável na retenção de boiadas O post Arroba do boi gordo teve alta consistente em outubro",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/article-2-2.jpg",
+      "publishedAt": "2026-10-31T22:01:00.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 14
     },
     {
       "title": "Boi gordo bate recorde histórico em SP; veja as cotações da arroba pelo país",
@@ -151,13 +151,13 @@
       "relevancia": 12
     },
     {
-      "title": "Boi gordo: escalas não evoluem e preços da arroba continuam subindo",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-escalas-nao-evoluem-e-precos-da-arroba-continuam-subindo/",
-      "summary": "Negócios a R$ 400 tornaram-se mais frequentes em São Paulo, mas ainda não representam a referência predominante do estado O post Boi gordo: escalas não evoluem e preços da arroba continuam subindo apareceu primeiro em Ca",
-      "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
-      "publishedAt": "2026-10-28T22:15:14.000Z",
+      "title": "Ingredientes naturais podem garantir até uma arroba extra por boi, diz especialista",
+      "link": "https://www.canalrural.com.br/pecuaria/ingredientes-naturais-podem-garantir-ate-uma-arroba-extra-por-boi-diz-especialista/",
+      "summary": "Foto: Gabriel Faria/Embrapa Engenheiro agrônomo Pedro Katsuki apresenta alternativas sustentáveis para alimentação animal, destacando aditivos naturais. O post Ingredientes naturais podem garantir até uma arroba extra po",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/10/Nelore_31.10.2025.jpg",
+      "publishedAt": "2026-11-02T16:01:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 12
+      "relevancia": 9
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
