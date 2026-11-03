@@ -1,17 +1,17 @@
 {
-  "atualizado_em": "2026-11-02T20:57:24.025Z",
+  "atualizado_em": "2026-11-03T18:44:37.884Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
       {
-        "title": "Arroba do boi gordo mantém trajetória de alta e atinge média de R$ 389 em SP",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-mantem-trajetoria-de-alta-e-atinge-media-de-r-389-em-sp/",
-        "summary": "Foto: Lenito Abreu/Governo do Tocantins Indicador Cepea/Esalq acumula valorização de 6,79% em outubro, enquanto chuvas dificultam o transporte do gado e restringem a oferta aos frigoríficos O post Arroba do boi gordo man",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/sb6fIidd-rebanho-bovino.jpg",
-        "publishedAt": "2026-10-29T12:51:19.000Z",
+        "title": "Boi gordo encerra outubro com alta de 7% e recorde histórico de preço por arroba",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-encerra-outubro-com-alta-de-7-e-recorde-historico-de-preco-por-arroba/",
+        "summary": "Foto: Henrique Bighetti/Canal Rural Indicador Cepea/Esalq registra maior valor nominal da série histórica em SP; em regiões de MT, valorização supera 8% no mês O post Boi gordo encerra outubro com alta de 7% e recorde hi",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/HVxb9AuV-boiadahenrique02.jpg",
+        "publishedAt": "2026-11-03T14:18:18.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 16
+        "relevancia": 15
       },
       {
         "title": "Arroba do boi gordo teve alta consistente em outubro; o que esperar de novembro?",
@@ -20,7 +20,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/article-2-2.jpg",
         "publishedAt": "2026-10-31T22:01:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 14
+        "relevancia": 13
       },
       {
         "title": "Boi gordo bate recorde histórico em SP; veja as cotações da arroba pelo país",
@@ -32,22 +32,22 @@
         "relevancia": 12
       },
       {
-        "title": "Arroba do boi gordo em alta: o consumidor também faz o preço",
-        "link": "https://www.canalrural.com.br/opiniao-noticias/arroba-do-boi-gordo-em-alta-o-consumidor-tambem-faz-o-preco/",
-        "summary": "Imagem gerada por IA para o Canal Rural Oferta apertada e dólar sustentam o boi, mas o bolso das famílias exige atenção de quem produz e espera novas valorizações O post Arroba do boi gordo em alta: o consumidor também f",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
-        "publishedAt": "2026-10-29T12:58:54.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
         "title": "Ingredientes naturais podem garantir até uma arroba extra por boi, diz especialista",
         "link": "https://www.canalrural.com.br/pecuaria/ingredientes-naturais-podem-garantir-ate-uma-arroba-extra-por-boi-diz-especialista/",
         "summary": "Foto: Gabriel Faria/Embrapa Engenheiro agrônomo Pedro Katsuki apresenta alternativas sustentáveis para alimentação animal, destacando aditivos naturais. O post Ingredientes naturais podem garantir até uma arroba extra po",
         "image": "https://imagens-cdn.canalrural.com.br/2025/10/Nelore_31.10.2025.jpg",
         "publishedAt": "2026-11-02T16:01:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 9
+        "relevancia": 7
+      },
+      {
+        "title": "Boi gordo se despede de outubro de cabeça erguida: confira os preços em 9 estados",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-se-despede-de-outubro-de-cabeca-erguida-confira-os-precos-em-9-estados/",
+        "summary": "Imagem gerada por IA para o Canal Rural Oferta restrita e expectativa de demanda firme no último bimestre tem mantido as cotações do mercado pecuário em alta O post Boi gordo se despede de outubro de cabeça erguida: conf",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
+        "publishedAt": "2026-10-30T22:37:34.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 7
       }
     ]
   },
@@ -56,72 +56,77 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
+        "title": "Ciência e arte se entrelaçam na nova exposição do Museu das Amazônias, em Belém-PA",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149600344/ciencia-e-arte-se-entrelacam-na-nova-exposicao-do-museu-das-amazonias-em-belem-pa",
+        "summary": "Biodiversidade · Florestas e silvicultura",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149600980&t=1793725797808",
+        "publishedAt": "2026-11-03T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Biodiversidade",
+          "Florestas e silvicultura"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Pesquisas da Embrapa em aquicultura serão mostradas em evento gratuito",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149597628/pesquisas-da-embrapa-em-aquicultura-serao-mostradas-em-evento-gratuito",
+        "summary": "Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/documents/1355321/149597586/portas+abertas+aquicultura.jpg/be85f5f2-e106-88f8-8e57-d499c9e81a3c?version=1.0&t=1793721191478",
+        "publishedAt": "2026-11-03T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Transferência de Tecnologia"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Embrapa Meio Ambiente oferece curso gratuito de técnicas de entomologia molecular",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149589908/embrapa-meio-ambiente-oferece-curso-gratuito-de-tecnicas-de-entomologia-molecular",
+        "summary": "Pesquisa, Desenvolvimento e Inovação · Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/documents/1355145/92982228/Entomologia.jpg/117ec6f0-5f70-080e-0e9f-3b788d8ca67b?version=1.0&t=1793710483939",
+        "publishedAt": "2026-11-03T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Pesquisa, Desenvolvimento e Inovação",
+          "Transferência de Tecnologia"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Workshop Do Cerrado à Xícara aborda cafeicultura em Abaeté, Minas Gerais",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149589196/workshop-do-cerrado-a-xicara-aborda-cafeicultura-em-abaete-minas-gerais",
+        "summary": "Pesquisa, Desenvolvimento e Inovação · Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149590735&t=1793716064415",
+        "publishedAt": "2026-11-03T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Pesquisa, Desenvolvimento e Inovação",
+          "Transferência de Tecnologia"
+        ],
+        "relevancia": 3
+      },
+      {
         "title": "Embrapa apresenta soluções em genética, pastagens e inovação no Peagro Summit em Teresina",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149500175/embrapa-apresenta-solucoes-em-genetica-pastagens-e-inovacao-no-peagro-summit-em-teresina",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149500176&t=1793476723086",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149500176&t=1793716101388",
         "publishedAt": "2026-10-31T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 0
-      },
-      {
-        "title": "Protagonismo feminino é destaque na 12ª Jornada Científica da Embrapa Meio-Norte",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149466898/protagonismo-feminino-e-destaque-na-12-jornada-cientifica-da-embrapa-meio-norte",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149466899&t=1793372638867",
-        "publishedAt": "2026-10-30T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 0
-      },
-      {
-        "title": "Prosa Rural - Bem-estar animal na pecuária de leite",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149424121/prosa-rural---bem-estar-animal-na-pecuaria-de-leite",
-        "summary": "Agricultura familiar · Produção animal",
-        "image": "https://www.embrapa.br/documents/1355117/0/ED_+Bem-estar+pecuaria+de+leite.jpg/6e1b9489-a638-b8c5-5678-8eaede2808b2?version=1.0&t=1793278438554",
-        "publishedAt": "2026-10-30T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Agricultura familiar",
-          "Produção animal"
-        ],
-        "relevancia": 5
-      },
-      {
-        "title": "Embrapa reúne órgãos públicos e comunidade para planejar ações de prevenção a incêndios",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149462532/embrapa-reune-orgaos-publicos-e-comunidade-para-planejar-acoes-de-prevencao-a-incendios",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149462548&t=1793364119012",
-        "publishedAt": "2026-10-30T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 0
-      },
-      {
-        "title": "Embrapa Milho e Sorgo passa a integrar Conselho de Administração da Emater-MG",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149438594/embrapa-milho-e-sorgo-passa-a-integrar-conselho-de-administracao-da-emater-mg",
-        "summary": "Gestão Estratégica · Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149438595&t=1793332194414",
-        "publishedAt": "2026-10-29T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Gestão Estratégica",
-          "Transferência de Tecnologia"
-        ],
         "relevancia": 0
       }
     ]
   },
   "noticias": [
     {
-      "title": "Arroba do boi gordo mantém trajetória de alta e atinge média de R$ 389 em SP",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-mantem-trajetoria-de-alta-e-atinge-media-de-r-389-em-sp/",
-      "summary": "Foto: Lenito Abreu/Governo do Tocantins Indicador Cepea/Esalq acumula valorização de 6,79% em outubro, enquanto chuvas dificultam o transporte do gado e restringem a oferta aos frigoríficos O post Arroba do boi gordo man",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/sb6fIidd-rebanho-bovino.jpg",
-      "publishedAt": "2026-10-29T12:51:19.000Z",
+      "title": "Boi gordo encerra outubro com alta de 7% e recorde histórico de preço por arroba",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-encerra-outubro-com-alta-de-7-e-recorde-historico-de-preco-por-arroba/",
+      "summary": "Foto: Henrique Bighetti/Canal Rural Indicador Cepea/Esalq registra maior valor nominal da série histórica em SP; em regiões de MT, valorização supera 8% no mês O post Boi gordo encerra outubro com alta de 7% e recorde hi",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/HVxb9AuV-boiadahenrique02.jpg",
+      "publishedAt": "2026-11-03T14:18:18.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 16
+      "relevancia": 15
     },
     {
       "title": "Arroba do boi gordo teve alta consistente em outubro; o que esperar de novembro?",
@@ -130,7 +135,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/article-2-2.jpg",
       "publishedAt": "2026-10-31T22:01:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 14
+      "relevancia": 13
     },
     {
       "title": "Boi gordo bate recorde histórico em SP; veja as cotações da arroba pelo país",
@@ -142,22 +147,22 @@
       "relevancia": 12
     },
     {
-      "title": "Arroba do boi gordo em alta: o consumidor também faz o preço",
-      "link": "https://www.canalrural.com.br/opiniao-noticias/arroba-do-boi-gordo-em-alta-o-consumidor-tambem-faz-o-preco/",
-      "summary": "Imagem gerada por IA para o Canal Rural Oferta apertada e dólar sustentam o boi, mas o bolso das famílias exige atenção de quem produz e espera novas valorizações O post Arroba do boi gordo em alta: o consumidor também f",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
-      "publishedAt": "2026-10-29T12:58:54.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
       "title": "Ingredientes naturais podem garantir até uma arroba extra por boi, diz especialista",
       "link": "https://www.canalrural.com.br/pecuaria/ingredientes-naturais-podem-garantir-ate-uma-arroba-extra-por-boi-diz-especialista/",
       "summary": "Foto: Gabriel Faria/Embrapa Engenheiro agrônomo Pedro Katsuki apresenta alternativas sustentáveis para alimentação animal, destacando aditivos naturais. O post Ingredientes naturais podem garantir até uma arroba extra po",
       "image": "https://imagens-cdn.canalrural.com.br/2025/10/Nelore_31.10.2025.jpg",
       "publishedAt": "2026-11-02T16:01:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 9
+      "relevancia": 7
+    },
+    {
+      "title": "Boi gordo se despede de outubro de cabeça erguida: confira os preços em 9 estados",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-se-despede-de-outubro-de-cabeca-erguida-confira-os-precos-em-9-estados/",
+      "summary": "Imagem gerada por IA para o Canal Rural Oferta restrita e expectativa de demanda firme no último bimestre tem mantido as cotações do mercado pecuário em alta O post Boi gordo se despede de outubro de cabeça erguida: conf",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
+      "publishedAt": "2026-10-30T22:37:34.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 7
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
