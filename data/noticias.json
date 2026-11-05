@@ -1,9 +1,27 @@
 {
-  "atualizado_em": "2026-11-04T18:57:57.653Z",
+  "atualizado_em": "2026-11-05T19:10:06.374Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Boi gordo registra maior preço médio da história e acumula alta de 7,5% em outubro, aponta Cepea",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-registra-maior-preco-medio-da-historia-e-acumula-alta-de-75-em-outubro-aponta-cepea/",
+        "summary": "Foto: Marcos Santos/USP Imagens De acordo com o centro de estudos, a valorização foi impulsionada pela menor disponibilidade de animais para abate e pela alta demanda por carne bovina O post Boi gordo registra maior preç",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/bPoAGNIg-gado0021.jpg",
+        "publishedAt": "2026-11-05T11:38:36.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 16
+      },
+      {
+        "title": "Bangladesh abre mercado para genética bovina e bubalina do Brasil",
+        "link": "https://www.canalrural.com.br/pecuaria/bangladesh-abre-mercado-para-genetica-bovina-e-bubalina-do-brasil/",
+        "summary": "Missão do Ministério da Agricultura e Pecuária também identificou oportunidades para exportação de insumos para alimentação animal e cooperação técnica. O post Bangladesh abre mercado para genética bovina e bubalina do B",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/11/bangladesh-abre-mercado-para-genetica-bovina-e-bubalina-do-brasil.png",
+        "publishedAt": "2026-11-05T13:42:56.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
       {
         "title": "Arroba do boi gordo registra novas altas, aponta Cepea",
         "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-registra-novas-altas-aponta-cepea/",
@@ -11,7 +29,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
         "publishedAt": "2026-11-04T12:39:58.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
+        "relevancia": 13
       },
       {
         "title": "Boi gordo encerra outubro com alta de 7% e recorde histórico de preço por arroba",
@@ -20,34 +38,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/HVxb9AuV-boiadahenrique02.jpg",
         "publishedAt": "2026-11-03T14:18:18.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 12
       },
       {
-        "title": "Arroba do boi gordo teve alta consistente em outubro; o que esperar de novembro?",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-teve-alta-consistente-em-outubro-o-que-esperar-de-novembro/",
-        "summary": "Foto: Sérgio Medeiros Conjunto de fatores do mercado interno tende a impulsionar os preços no momento em que pecuarista segue confortável na retenção de boiadas O post Arroba do boi gordo teve alta consistente em outubro",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/article-2-2.jpg",
-        "publishedAt": "2026-10-31T22:01:00.000Z",
+        "title": "Preços do boi gordo continuam subindo, mas movimento de alta perde intensidade",
+        "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-gordo-continuam-subindo-mas-movimento-de-alta-perde-intensidade/",
+        "summary": "Foto: Governo de Mato Grosso No entanto, escalas de abate permanecem entre cinco e seis dias úteis, preservando o potencial para novos reajustes no curto prazo O post Preços do boi gordo continuam subindo, mas movimento ",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/vZZdRpRB-boi-gordo-boiada-scaled.jpg",
+        "publishedAt": "2026-11-04T22:30:45.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
-      },
-      {
-        "title": "Mercado do boi gordo estreia a semana pós-feriado com novas altas",
-        "link": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-estreia-a-semana-pos-feriado-com-novas-altas/",
-        "summary": "Foto: Christiano Antonucci/Secom-MT Oferta restrita de animais terminados e as escalas de abate encurtadas sugerem a continuidade das valorizações, diz analista O post Mercado do boi gordo estreia a semana pós-feriado co",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
-        "publishedAt": "2026-11-03T22:19:04.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 10
-      },
-      {
-        "title": "Boi gordo se despede de outubro de cabeça erguida: confira os preços em 9 estados",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-se-despede-de-outubro-de-cabeca-erguida-confira-os-precos-em-9-estados/",
-        "summary": "Imagem gerada por IA para o Canal Rural Oferta restrita e expectativa de demanda firme no último bimestre tem mantido as cotações do mercado pecuário em alta O post Boi gordo se despede de outubro de cabeça erguida: conf",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
-        "publishedAt": "2026-10-30T22:37:34.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 7
+        "relevancia": 9
       }
     ]
   },
@@ -56,55 +56,65 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Workshop debaterá produção de proteínas alternativas",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149662407/workshop-debatera-producao-de-proteinas-alternativas",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149662408&t=1793816389204",
-        "publishedAt": "2026-11-04T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Unidade da Embrapa referência em soluções para a pecuária de corte tropical divulga os destaques de 2025",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149652820/unidade-da-embrapa-referencia-em-solucoes-para-a-pecuaria-de-corte-tropical-divulga-os-destaques-de-2025",
-        "summary": "",
-        "image": "https://www.embrapa.br/documents/1355108/0/Fachada_Embrapa.jpg/a780ce89-a225-d1c9-60e1-caef09826248?version=1.0&t=1793810425377",
-        "publishedAt": "2026-11-04T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 8
-      },
-      {
-        "title": "Embrapa Agroenergia participa de evento internacional em Agricultura Espacial",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149650414/embrapa-agroenergia-participa-de-evento-internacional-em-agricultura-espacial",
-        "summary": "",
-        "image": null,
-        "publishedAt": "2026-11-04T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Embrapa Agroenergia e Orplana discutem mantêm agenda de diálogo e cooperação institucional",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149646081/embrapa-agroenergia-e-orplana-discutem-mantem-agenda-de-dialogo-e-cooperacao-institucional",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149646082&t=1793805969975",
-        "publishedAt": "2026-11-04T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Mulheres extrativistas do Bailique participam de oficinas de biocosméticos pelo Projeto Euroclima",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149632610/mulheres-extrativistas-do-bailique-participam-de-oficinas-de-biocosmeticos-pelo-projeto-euroclima",
-        "summary": "Pesquisa, Desenvolvimento e Inovação · Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149632611&t=1793800944114",
-        "publishedAt": "2026-11-04T12:00:00.000Z",
+        "title": "Protagonismo feminino ganha destaque no Agroecologia 2026",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149705013/protagonismo-feminino-ganha-destaque-no-agroecologia-2026",
+        "summary": "Agroecologia e produção orgânica",
+        "image": "https://www.embrapa.br/documents/1354346/105341586/25_12_04_Agroecologia+2025_orlandi+%28763%29+%28Copy%29.jpg/ab5a2b36-67e1-1b3f-f69f-3fbc2d38f77c?version=1.0&t=1793896983262",
+        "publishedAt": "2026-11-05T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Pesquisa, Desenvolvimento e Inovação",
-          "Transferência de Tecnologia"
+          "Agroecologia e produção orgânica"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Canola na Austrália: as lições do Crop Tour Nufarm 2026 para o futuro dos biocombustíveis no Brasil",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149702632/canola-na-australia-as-licoes-do-crop-tour-nufarm-2026-para-o-futuro-dos-biocombustiveis-no-brasil",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149702633&t=1793893677376",
+        "publishedAt": "2026-11-05T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 3
+      },
+      {
+        "title": "Prosa Rural - Sistema de cultivo protegido de hortaliças com reuso da solução nutritiva",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149634642/prosa-rural---sistema-de-cultivo-protegido-de-hortalicas-com-reuso-da-solucao-nutritiva",
+        "summary": "Agricultura familiar · Produção vegetal",
+        "image": "https://www.embrapa.br/documents/1355072/0/ED1_cultivo_protegido.jpg/401047fe-d1db-685c-0428-309a6c80b003?version=1.0&t=1793800841244",
+        "publishedAt": "2026-11-05T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Agricultura familiar",
+          "Produção vegetal"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Visita técnica destaca importância das parcerias para a conservação da água no Pipiripau",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149700333/visita-tecnica-destaca-importancia-das-parcerias-para-a-conservacao-da-agua-no-pipiripau",
+        "summary": "Manejo de Recursos Hídricos",
+        "image": "https://www.embrapa.br/documents/1355008/0/1793888666722.jpg/1d800b08-8467-b423-29d5-c664d5a22b8e?version=1.0&t=1793889715887&download=true",
+        "publishedAt": "2026-11-05T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Manejo de Recursos Hídricos"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Bioinsumos, drones e controle biológico fortalecem a produção de algodão no semiárido",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149698918/bioinsumos-drones-e-controle-biologico-fortalecem-a-producao-de-algodao-no-semiarido",
+        "summary": "Agricultura familiar · Biodiversidade · Recursos naturais · Transferência de Tecnologia · Automação e Agricultura de Precisão",
+        "image": "https://www.embrapa.br/documents/1355145/92982228/AgodaoColoridoCariri.jpg/4fa57258-dfb8-e80f-53f4-bb99ae21a06c?version=1.0&t=1793887660544",
+        "publishedAt": "2026-11-05T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Agricultura familiar",
+          "Biodiversidade",
+          "Recursos naturais",
+          "Transferência de Tecnologia",
+          "Automação e Agricultura de Precisão"
         ],
         "relevancia": 3
       }
@@ -112,13 +122,31 @@
   },
   "noticias": [
     {
+      "title": "Boi gordo registra maior preço médio da história e acumula alta de 7,5% em outubro, aponta Cepea",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-registra-maior-preco-medio-da-historia-e-acumula-alta-de-75-em-outubro-aponta-cepea/",
+      "summary": "Foto: Marcos Santos/USP Imagens De acordo com o centro de estudos, a valorização foi impulsionada pela menor disponibilidade de animais para abate e pela alta demanda por carne bovina O post Boi gordo registra maior preç",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/bPoAGNIg-gado0021.jpg",
+      "publishedAt": "2026-11-05T11:38:36.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 16
+    },
+    {
+      "title": "Bangladesh abre mercado para genética bovina e bubalina do Brasil",
+      "link": "https://www.canalrural.com.br/pecuaria/bangladesh-abre-mercado-para-genetica-bovina-e-bubalina-do-brasil/",
+      "summary": "Missão do Ministério da Agricultura e Pecuária também identificou oportunidades para exportação de insumos para alimentação animal e cooperação técnica. O post Bangladesh abre mercado para genética bovina e bubalina do B",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/11/bangladesh-abre-mercado-para-genetica-bovina-e-bubalina-do-brasil.png",
+      "publishedAt": "2026-11-05T13:42:56.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
+    {
       "title": "Arroba do boi gordo registra novas altas, aponta Cepea",
       "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-registra-novas-altas-aponta-cepea/",
       "summary": "Foto: Lorran Lima/Idaf De acordo com avaliação de analistas do centro de pesquisas, frigoríficos e produtores adotaram uma postura de cautela, O post Arroba do boi gordo registra novas altas, aponta Cepea apareceu primei",
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
       "publishedAt": "2026-11-04T12:39:58.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
+      "relevancia": 13
     },
     {
       "title": "Boi gordo encerra outubro com alta de 7% e recorde histórico de preço por arroba",
@@ -127,34 +155,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/HVxb9AuV-boiadahenrique02.jpg",
       "publishedAt": "2026-11-03T14:18:18.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 12
     },
     {
-      "title": "Arroba do boi gordo teve alta consistente em outubro; o que esperar de novembro?",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-teve-alta-consistente-em-outubro-o-que-esperar-de-novembro/",
-      "summary": "Foto: Sérgio Medeiros Conjunto de fatores do mercado interno tende a impulsionar os preços no momento em que pecuarista segue confortável na retenção de boiadas O post Arroba do boi gordo teve alta consistente em outubro",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/article-2-2.jpg",
-      "publishedAt": "2026-10-31T22:01:00.000Z",
+      "title": "Preços do boi gordo continuam subindo, mas movimento de alta perde intensidade",
+      "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-gordo-continuam-subindo-mas-movimento-de-alta-perde-intensidade/",
+      "summary": "Foto: Governo de Mato Grosso No entanto, escalas de abate permanecem entre cinco e seis dias úteis, preservando o potencial para novos reajustes no curto prazo O post Preços do boi gordo continuam subindo, mas movimento ",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/vZZdRpRB-boi-gordo-boiada-scaled.jpg",
+      "publishedAt": "2026-11-04T22:30:45.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
-    },
-    {
-      "title": "Mercado do boi gordo estreia a semana pós-feriado com novas altas",
-      "link": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-estreia-a-semana-pos-feriado-com-novas-altas/",
-      "summary": "Foto: Christiano Antonucci/Secom-MT Oferta restrita de animais terminados e as escalas de abate encurtadas sugerem a continuidade das valorizações, diz analista O post Mercado do boi gordo estreia a semana pós-feriado co",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
-      "publishedAt": "2026-11-03T22:19:04.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 10
-    },
-    {
-      "title": "Boi gordo se despede de outubro de cabeça erguida: confira os preços em 9 estados",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-se-despede-de-outubro-de-cabeca-erguida-confira-os-precos-em-9-estados/",
-      "summary": "Imagem gerada por IA para o Canal Rural Oferta restrita e expectativa de demanda firme no último bimestre tem mantido as cotações do mercado pecuário em alta O post Boi gordo se despede de outubro de cabeça erguida: conf",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/07/boi-gordo-precos-em-alta.png",
-      "publishedAt": "2026-10-30T22:37:34.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 7
+      "relevancia": 9
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
