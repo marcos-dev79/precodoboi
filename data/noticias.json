@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-05T19:10:06.374Z",
+  "atualizado_em": "2026-11-06T18:37:19.262Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -11,7 +11,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/bPoAGNIg-gado0021.jpg",
         "publishedAt": "2026-11-05T11:38:36.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 16
+        "relevancia": 14
       },
       {
         "title": "Bangladesh abre mercado para genética bovina e bubalina do Brasil",
@@ -20,7 +20,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/11/bangladesh-abre-mercado-para-genetica-bovina-e-bubalina-do-brasil.png",
         "publishedAt": "2026-11-05T13:42:56.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
+        "relevancia": 13
       },
       {
         "title": "Arroba do boi gordo registra novas altas, aponta Cepea",
@@ -29,7 +29,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
         "publishedAt": "2026-11-04T12:39:58.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 12
       },
       {
         "title": "Boi gordo encerra outubro com alta de 7% e recorde histórico de preço por arroba",
@@ -41,11 +41,11 @@
         "relevancia": 12
       },
       {
-        "title": "Preços do boi gordo continuam subindo, mas movimento de alta perde intensidade",
-        "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-gordo-continuam-subindo-mas-movimento-de-alta-perde-intensidade/",
-        "summary": "Foto: Governo de Mato Grosso No entanto, escalas de abate permanecem entre cinco e seis dias úteis, preservando o potencial para novos reajustes no curto prazo O post Preços do boi gordo continuam subindo, mas movimento ",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/vZZdRpRB-boi-gordo-boiada-scaled.jpg",
-        "publishedAt": "2026-11-04T22:30:45.000Z",
+        "title": "Arroba do boi tem dia de cotações firmes, com altas perdendo fôlego",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-tem-dia-de-cotacoes-firmes-com-altas-perdendo-folego/",
+        "summary": "Foto: Gabriel Faria/Embrapa Melhora no volume de negócios favorece o atendimento das necessidades imediatas dos frigoríficos e reduz parte da urgência das compras O post Arroba do boi tem dia de cotações firmes, com alta",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-1.jpg",
+        "publishedAt": "2026-11-05T21:58:35.000Z",
         "fonte": "Canal Rural",
         "relevancia": 9
       }
@@ -56,66 +56,67 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Protagonismo feminino ganha destaque no Agroecologia 2026",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149705013/protagonismo-feminino-ganha-destaque-no-agroecologia-2026",
-        "summary": "Agroecologia e produção orgânica",
-        "image": "https://www.embrapa.br/documents/1354346/105341586/25_12_04_Agroecologia+2025_orlandi+%28763%29+%28Copy%29.jpg/ab5a2b36-67e1-1b3f-f69f-3fbc2d38f77c?version=1.0&t=1793896983262",
-        "publishedAt": "2026-11-05T12:00:00.000Z",
+        "title": "Abertura do 19º Bunkyo na Embrapa destaca ciência, inovação e potencial agropecuário de MS",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149753405/abertura-do-19-bunkyo-na-embrapa-destaca-ciencia-inovacao-e-potencial-agropecuario-de-ms",
+        "summary": "Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/documents/1354395/149752262/BunkyoRural_05_011_2026_por_HallinnoSoares.jpeg/c1b0c2e1-ab41-4261-568a-23a255aa1527?version=1.0&t=1793989061651",
+        "publishedAt": "2026-11-06T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Agroecologia e produção orgânica"
+          "Transferência de Tecnologia"
         ],
         "relevancia": 3
       },
       {
-        "title": "Canola na Austrália: as lições do Crop Tour Nufarm 2026 para o futuro dos biocombustíveis no Brasil",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149702632/canola-na-australia-as-licoes-do-crop-tour-nufarm-2026-para-o-futuro-dos-biocombustiveis-no-brasil",
+        "title": "Plataforma Ater+ retorna com novidades para extensionistas",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149750496/plataforma-ater-retorna-com-novidades-para-extensionistas",
+        "summary": "Agroecologia e produção orgânica · Pesquisa, Desenvolvimento e Inovação · Produção animal · Segurança alimentar, nutrição e saúde · Transferência de Tecnologia · Convivência com a Seca",
+        "image": "https://www.embrapa.br/documents/1355090/86934705/Ater%2Bmat%C3%A9ria.png/540bde3f-1cdb-9ef9-1edf-90dbd19f0eb8?version=2.0&t=1793986308534",
+        "publishedAt": "2026-11-06T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Agroecologia e produção orgânica",
+          "Pesquisa, Desenvolvimento e Inovação",
+          "Produção animal",
+          "Segurança alimentar, nutrição e saúde",
+          "Transferência de Tecnologia",
+          "Convivência com a Seca"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Embrapa promove diálogo Brasil/EUA sobre polinização, biodiversidade e mudanças climáticas",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149749613/embrapa-promove-dialogo-brasileua-sobre-polinizacao-biodiversidade-e-mudancas-climaticas",
+        "summary": "Biodiversidade · Mudanças climáticas",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149749614&t=1793985806769",
+        "publishedAt": "2026-11-06T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Biodiversidade",
+          "Mudanças climáticas"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Embrapa Pecuária Sul realiza cerimônia de posse de novo Chefe-geral",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149745958/embrapa-pecuaria-sul-realiza-cerimonia-de-posse-de-novo-chefe-geral",
+        "summary": "Gestão Estratégica",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149745959&t=1793979522762",
+        "publishedAt": "2026-11-06T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Gestão Estratégica"
+        ],
+        "relevancia": 8
+      },
+      {
+        "title": "Estado de Goiás elabora proposta para Polo de Bioinsumos do Cerrado",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149744867/estado-de-goias-elabora-proposta-para-polo-de-bioinsumos-do-cerrado",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149702633&t=1793893677376",
-        "publishedAt": "2026-11-05T12:00:00.000Z",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149745143&t=1793979042473",
+        "publishedAt": "2026-11-06T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Prosa Rural - Sistema de cultivo protegido de hortaliças com reuso da solução nutritiva",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149634642/prosa-rural---sistema-de-cultivo-protegido-de-hortalicas-com-reuso-da-solucao-nutritiva",
-        "summary": "Agricultura familiar · Produção vegetal",
-        "image": "https://www.embrapa.br/documents/1355072/0/ED1_cultivo_protegido.jpg/401047fe-d1db-685c-0428-309a6c80b003?version=1.0&t=1793800841244",
-        "publishedAt": "2026-11-05T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Agricultura familiar",
-          "Produção vegetal"
-        ],
-        "relevancia": 3
-      },
-      {
-        "title": "Visita técnica destaca importância das parcerias para a conservação da água no Pipiripau",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149700333/visita-tecnica-destaca-importancia-das-parcerias-para-a-conservacao-da-agua-no-pipiripau",
-        "summary": "Manejo de Recursos Hídricos",
-        "image": "https://www.embrapa.br/documents/1355008/0/1793888666722.jpg/1d800b08-8467-b423-29d5-c664d5a22b8e?version=1.0&t=1793889715887&download=true",
-        "publishedAt": "2026-11-05T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Manejo de Recursos Hídricos"
-        ],
-        "relevancia": 3
-      },
-      {
-        "title": "Bioinsumos, drones e controle biológico fortalecem a produção de algodão no semiárido",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149698918/bioinsumos-drones-e-controle-biologico-fortalecem-a-producao-de-algodao-no-semiarido",
-        "summary": "Agricultura familiar · Biodiversidade · Recursos naturais · Transferência de Tecnologia · Automação e Agricultura de Precisão",
-        "image": "https://www.embrapa.br/documents/1355145/92982228/AgodaoColoridoCariri.jpg/4fa57258-dfb8-e80f-53f4-bb99ae21a06c?version=1.0&t=1793887660544",
-        "publishedAt": "2026-11-05T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Agricultura familiar",
-          "Biodiversidade",
-          "Recursos naturais",
-          "Transferência de Tecnologia",
-          "Automação e Agricultura de Precisão"
-        ],
         "relevancia": 3
       }
     ]
@@ -128,7 +129,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/bPoAGNIg-gado0021.jpg",
       "publishedAt": "2026-11-05T11:38:36.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 16
+      "relevancia": 14
     },
     {
       "title": "Bangladesh abre mercado para genética bovina e bubalina do Brasil",
@@ -137,7 +138,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/11/bangladesh-abre-mercado-para-genetica-bovina-e-bubalina-do-brasil.png",
       "publishedAt": "2026-11-05T13:42:56.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
+      "relevancia": 13
     },
     {
       "title": "Arroba do boi gordo registra novas altas, aponta Cepea",
@@ -146,7 +147,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
       "publishedAt": "2026-11-04T12:39:58.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 12
     },
     {
       "title": "Boi gordo encerra outubro com alta de 7% e recorde histórico de preço por arroba",
@@ -158,11 +159,11 @@
       "relevancia": 12
     },
     {
-      "title": "Preços do boi gordo continuam subindo, mas movimento de alta perde intensidade",
-      "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-gordo-continuam-subindo-mas-movimento-de-alta-perde-intensidade/",
-      "summary": "Foto: Governo de Mato Grosso No entanto, escalas de abate permanecem entre cinco e seis dias úteis, preservando o potencial para novos reajustes no curto prazo O post Preços do boi gordo continuam subindo, mas movimento ",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/vZZdRpRB-boi-gordo-boiada-scaled.jpg",
-      "publishedAt": "2026-11-04T22:30:45.000Z",
+      "title": "Arroba do boi tem dia de cotações firmes, com altas perdendo fôlego",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-tem-dia-de-cotacoes-firmes-com-altas-perdendo-folego/",
+      "summary": "Foto: Gabriel Faria/Embrapa Melhora no volume de negócios favorece o atendimento das necessidades imediatas dos frigoríficos e reduz parte da urgência das compras O post Arroba do boi tem dia de cotações firmes, com alta",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-1.jpg",
+      "publishedAt": "2026-11-05T21:58:35.000Z",
       "fonte": "Canal Rural",
       "relevancia": 9
     }
