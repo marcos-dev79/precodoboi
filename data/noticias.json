@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-06T18:37:19.262Z",
+  "atualizado_em": "2026-11-07T17:05:26.403Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -11,7 +11,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/bPoAGNIg-gado0021.jpg",
         "publishedAt": "2026-11-05T11:38:36.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 14
+        "relevancia": 13
+      },
+      {
+        "title": "Boi gordo: preços seguem firmes, mas ritmo de alta perde força no mercado; saiba mais",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-precos-seguem-firmes-mas-ritmo-de-alta-perde-forca-no-mercado-saiba-mais/",
+        "summary": "Foto: Secretaria de Agricultura de São Paulo Escalas de abate entre cinco e seis dias úteis sustentam as cotações, enquanto exportações ainda enfrentam ritmo lento de recuperação O post Boi gordo: preços seguem firmes, m",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
+        "publishedAt": "2026-11-06T21:59:49.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 12
       },
       {
         "title": "Bangladesh abre mercado para genética bovina e bubalina do Brasil",
@@ -20,7 +29,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/11/bangladesh-abre-mercado-para-genetica-bovina-e-bubalina-do-brasil.png",
         "publishedAt": "2026-11-05T13:42:56.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 12
       },
       {
         "title": "Arroba do boi gordo registra novas altas, aponta Cepea",
@@ -32,22 +41,13 @@
         "relevancia": 12
       },
       {
-        "title": "Boi gordo encerra outubro com alta de 7% e recorde histórico de preço por arroba",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-encerra-outubro-com-alta-de-7-e-recorde-historico-de-preco-por-arroba/",
-        "summary": "Foto: Henrique Bighetti/Canal Rural Indicador Cepea/Esalq registra maior valor nominal da série histórica em SP; em regiões de MT, valorização supera 8% no mês O post Boi gordo encerra outubro com alta de 7% e recorde hi",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/HVxb9AuV-boiadahenrique02.jpg",
-        "publishedAt": "2026-11-03T14:18:18.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
         "title": "Arroba do boi tem dia de cotações firmes, com altas perdendo fôlego",
         "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-tem-dia-de-cotacoes-firmes-com-altas-perdendo-folego/",
         "summary": "Foto: Gabriel Faria/Embrapa Melhora no volume de negócios favorece o atendimento das necessidades imediatas dos frigoríficos e reduz parte da urgência das compras O post Arroba do boi tem dia de cotações firmes, com alta",
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-1.jpg",
         "publishedAt": "2026-11-05T21:58:35.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 9
+        "relevancia": 7
       }
     ]
   },
@@ -56,8 +56,34 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Abertura do 19º Bunkyo na Embrapa destaca ciência, inovação e potencial agropecuário de MS",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149753405/abertura-do-19-bunkyo-na-embrapa-destaca-ciencia-inovacao-e-potencial-agropecuario-de-ms",
+        "title": "Embrapa Agricultura Digital alcança maturidade e atua em temas portadores de futuro",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149777659/embrapa-agricultura-digital-alcanca-maturidade-e-atua-em-temas-portadores-de-futuro",
+        "summary": "Pesquisa, Desenvolvimento e Inovação",
+        "image": "https://www.embrapa.br/documents/1355331/54295255/aniversario2.jpeg/ec572f05-de6a-2c42-64dd-9545fcb0dd86?t=1794061510535",
+        "publishedAt": "2026-11-07T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Pesquisa, Desenvolvimento e Inovação"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "12ª. Prova de Leite a Pasto da Embrapa Cerrados no DF tem inscrições prorrogadas até o dia 20/11",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149755467/12-prova-de-leite-a-pasto-da-embrapa-cerrados-no-df-tem-inscricoes-prorrogadas-ate-o-dia-2011",
+        "summary": "Melhoramento genético · Produção animal · Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/documents/1355008/103354088/Cartaz+cortado+12a+Prova+de+Leita+a+Pasto+do+CTZL.jpg/c39931a9-7809-c19a-15e7-71a39d783b7f?version=1.0&t=1793992519038",
+        "publishedAt": "2026-11-06T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Melhoramento genético",
+          "Produção animal",
+          "Transferência de Tecnologia"
+        ],
+        "relevancia": 1
+      },
+      {
+        "title": "Abertura do 19º Bunkyo Rural na Embrapa destaca ciência, inovação e potencial agropecuário de MS",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149753405/abertura-do-19-bunkyo-rural-na-embrapa-destaca-ciencia-inovacao-e-potencial-agropecuario-de-ms",
         "summary": "Transferência de Tecnologia",
         "image": "https://www.embrapa.br/documents/1354395/149752262/BunkyoRural_05_011_2026_por_HallinnoSoares.jpeg/c1b0c2e1-ab41-4261-568a-23a255aa1527?version=1.0&t=1793989061651",
         "publishedAt": "2026-11-06T12:00:00.000Z",
@@ -65,7 +91,7 @@
         "tags": [
           "Transferência de Tecnologia"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Plataforma Ater+ retorna com novidades para extensionistas",
@@ -82,42 +108,20 @@
           "Transferência de Tecnologia",
           "Convivência com a Seca"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Embrapa promove diálogo Brasil/EUA sobre polinização, biodiversidade e mudanças climáticas",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149749613/embrapa-promove-dialogo-brasileua-sobre-polinizacao-biodiversidade-e-mudancas-climaticas",
         "summary": "Biodiversidade · Mudanças climáticas",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149749614&t=1793985806769",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149749614&t=1794020649404",
         "publishedAt": "2026-11-06T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Biodiversidade",
           "Mudanças climáticas"
         ],
-        "relevancia": 3
-      },
-      {
-        "title": "Embrapa Pecuária Sul realiza cerimônia de posse de novo Chefe-geral",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149745958/embrapa-pecuaria-sul-realiza-cerimonia-de-posse-de-novo-chefe-geral",
-        "summary": "Gestão Estratégica",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149745959&t=1793979522762",
-        "publishedAt": "2026-11-06T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Gestão Estratégica"
-        ],
-        "relevancia": 8
-      },
-      {
-        "title": "Estado de Goiás elabora proposta para Polo de Bioinsumos do Cerrado",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149744867/estado-de-goias-elabora-proposta-para-polo-de-bioinsumos-do-cerrado",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149745143&t=1793979042473",
-        "publishedAt": "2026-11-06T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
+        "relevancia": 1
       }
     ]
   },
@@ -129,7 +133,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/bPoAGNIg-gado0021.jpg",
       "publishedAt": "2026-11-05T11:38:36.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 14
+      "relevancia": 13
+    },
+    {
+      "title": "Boi gordo: preços seguem firmes, mas ritmo de alta perde força no mercado; saiba mais",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-precos-seguem-firmes-mas-ritmo-de-alta-perde-forca-no-mercado-saiba-mais/",
+      "summary": "Foto: Secretaria de Agricultura de São Paulo Escalas de abate entre cinco e seis dias úteis sustentam as cotações, enquanto exportações ainda enfrentam ritmo lento de recuperação O post Boi gordo: preços seguem firmes, m",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
+      "publishedAt": "2026-11-06T21:59:49.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 12
     },
     {
       "title": "Bangladesh abre mercado para genética bovina e bubalina do Brasil",
@@ -138,7 +151,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/11/bangladesh-abre-mercado-para-genetica-bovina-e-bubalina-do-brasil.png",
       "publishedAt": "2026-11-05T13:42:56.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 12
     },
     {
       "title": "Arroba do boi gordo registra novas altas, aponta Cepea",
@@ -150,22 +163,13 @@
       "relevancia": 12
     },
     {
-      "title": "Boi gordo encerra outubro com alta de 7% e recorde histórico de preço por arroba",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-encerra-outubro-com-alta-de-7-e-recorde-historico-de-preco-por-arroba/",
-      "summary": "Foto: Henrique Bighetti/Canal Rural Indicador Cepea/Esalq registra maior valor nominal da série histórica em SP; em regiões de MT, valorização supera 8% no mês O post Boi gordo encerra outubro com alta de 7% e recorde hi",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/HVxb9AuV-boiadahenrique02.jpg",
-      "publishedAt": "2026-11-03T14:18:18.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
       "title": "Arroba do boi tem dia de cotações firmes, com altas perdendo fôlego",
       "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-tem-dia-de-cotacoes-firmes-com-altas-perdendo-folego/",
       "summary": "Foto: Gabriel Faria/Embrapa Melhora no volume de negócios favorece o atendimento das necessidades imediatas dos frigoríficos e reduz parte da urgência das compras O post Arroba do boi tem dia de cotações firmes, com alta",
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-1.jpg",
       "publishedAt": "2026-11-05T21:58:35.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 9
+      "relevancia": 7
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
