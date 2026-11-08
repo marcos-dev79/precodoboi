@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-07T17:05:26.403Z",
+  "atualizado_em": "2026-11-08T17:19:24.319Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -14,15 +14,6 @@
         "relevancia": 13
       },
       {
-        "title": "Boi gordo: preços seguem firmes, mas ritmo de alta perde força no mercado; saiba mais",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-precos-seguem-firmes-mas-ritmo-de-alta-perde-forca-no-mercado-saiba-mais/",
-        "summary": "Foto: Secretaria de Agricultura de São Paulo Escalas de abate entre cinco e seis dias úteis sustentam as cotações, enquanto exportações ainda enfrentam ritmo lento de recuperação O post Boi gordo: preços seguem firmes, m",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
-        "publishedAt": "2026-11-06T21:59:49.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
         "title": "Bangladesh abre mercado para genética bovina e bubalina do Brasil",
         "link": "https://www.canalrural.com.br/pecuaria/bangladesh-abre-mercado-para-genetica-bovina-e-bubalina-do-brasil/",
         "summary": "Missão do Ministério da Agricultura e Pecuária também identificou oportunidades para exportação de insumos para alimentação animal e cooperação técnica. O post Bangladesh abre mercado para genética bovina e bubalina do B",
@@ -32,22 +23,31 @@
         "relevancia": 12
       },
       {
-        "title": "Arroba do boi gordo registra novas altas, aponta Cepea",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-registra-novas-altas-aponta-cepea/",
-        "summary": "Foto: Lorran Lima/Idaf De acordo com avaliação de analistas do centro de pesquisas, frigoríficos e produtores adotaram uma postura de cautela, O post Arroba do boi gordo registra novas altas, aponta Cepea apareceu primei",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
-        "publishedAt": "2026-11-04T12:39:58.000Z",
+        "title": "Boi gordo: preços seguem firmes, mas ritmo de alta perde força no mercado; saiba mais",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-precos-seguem-firmes-mas-ritmo-de-alta-perde-forca-no-mercado-saiba-mais/",
+        "summary": "Foto: Secretaria de Agricultura de São Paulo Escalas de abate entre cinco e seis dias úteis sustentam as cotações, enquanto exportações ainda enfrentam ritmo lento de recuperação O post Boi gordo: preços seguem firmes, m",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
+        "publishedAt": "2026-11-06T21:59:49.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 12
+        "relevancia": 10
       },
       {
-        "title": "Arroba do boi tem dia de cotações firmes, com altas perdendo fôlego",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-tem-dia-de-cotacoes-firmes-com-altas-perdendo-folego/",
-        "summary": "Foto: Gabriel Faria/Embrapa Melhora no volume de negócios favorece o atendimento das necessidades imediatas dos frigoríficos e reduz parte da urgência das compras O post Arroba do boi tem dia de cotações firmes, com alta",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-1.jpg",
-        "publishedAt": "2026-11-05T21:58:35.000Z",
+        "title": "Filha abandona sonho de carreira internacional para ajudar o pai na fazenda e se torna referência na pecuária",
+        "link": "https://www.canalrural.com.br/pecuaria/filha-abandona-sonho-de-carreira-internacional-para-ajudar-o-pai-na-fazenda-e-se-torna-referencia-na-pecuaria/",
+        "summary": "Foto: Arquivo Pessoal À frente da Fazenda Cigana, Ana Paula dos Santos Silva transformou a propriedade da família em referência de rentabilidade e sustentabilidade O post Filha abandona sonho de carreira internacional pa",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/11/Ana-Paula-_-home.jpg",
+        "publishedAt": "2026-11-08T12:03:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 7
+        "relevancia": 8
+      },
+      {
+        "title": "Radar Rural debate representatividade e desafios da pecuária brasileira",
+        "link": "https://www.canalrural.com.br/pecuaria/radar-rural-debate-representatividade-e-desafios-da-pecuaria-brasileira/",
+        "summary": "Os pecuaristas Thomas Rocco e Raul Moraes Neto durante participação no Radar Rural (Foto: Reprodução/Canal Rural) Thomas Rocco e Raul Moraes Neto explicam como o movimento Vozes da Pecuária busca ampliar a participação d",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/11/Gemini_Generated_Image_l1wumzl1wumzl1wu.jpg",
+        "publishedAt": "2026-11-07T18:03:00.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 8
       }
     ]
   },
@@ -55,6 +55,20 @@
     "fonte": "Embrapa · notícias",
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
+      {
+        "title": "Pesquisadores são premiados pela cultivar de maracujá BRS Gigante Amarelo",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149782016/pesquisadores-sao-premiados-pela-cultivar-de-maracuja-brs-gigante-amarelo",
+        "summary": "Melhoramento genético · Produção vegetal · Mercado de Cultivares e Sementes",
+        "image": "https://www.embrapa.br/documents/1355008/103354088/Homenagem+UnB+aos+respons%C3%A1veis+pelo+desenvolvimento+da+cultivar+de+maracujazeiro+azedo+BRS+Gigante+Amarelo+-+Divulga%C3%A7%C3%A3o+Universidade+de+Bras%C3%ADlia.jpeg/b3cbd9d3-fa85-d57d-e321-4094fd75dfc6?version=1.0&t=1794078936167",
+        "publishedAt": "2026-11-07T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Melhoramento genético",
+          "Produção vegetal",
+          "Mercado de Cultivares e Sementes"
+        ],
+        "relevancia": 2
+      },
       {
         "title": "Embrapa Agricultura Digital alcança maturidade e atua em temas portadores de futuro",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149777659/embrapa-agricultura-digital-alcanca-maturidade-e-atua-em-temas-portadores-de-futuro",
@@ -65,7 +79,7 @@
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "12ª. Prova de Leite a Pasto da Embrapa Cerrados no DF tem inscrições prorrogadas até o dia 20/11",
@@ -79,7 +93,7 @@
           "Produção animal",
           "Transferência de Tecnologia"
         ],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Abertura do 19º Bunkyo Rural na Embrapa destaca ciência, inovação e potencial agropecuário de MS",
@@ -91,7 +105,7 @@
         "tags": [
           "Transferência de Tecnologia"
         ],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Plataforma Ater+ retorna com novidades para extensionistas",
@@ -108,20 +122,7 @@
           "Transferência de Tecnologia",
           "Convivência com a Seca"
         ],
-        "relevancia": 1
-      },
-      {
-        "title": "Embrapa promove diálogo Brasil/EUA sobre polinização, biodiversidade e mudanças climáticas",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149749613/embrapa-promove-dialogo-brasileua-sobre-polinizacao-biodiversidade-e-mudancas-climaticas",
-        "summary": "Biodiversidade · Mudanças climáticas",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149749614&t=1794020649404",
-        "publishedAt": "2026-11-06T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Biodiversidade",
-          "Mudanças climáticas"
-        ],
-        "relevancia": 1
+        "relevancia": 0
       }
     ]
   },
@@ -136,15 +137,6 @@
       "relevancia": 13
     },
     {
-      "title": "Boi gordo: preços seguem firmes, mas ritmo de alta perde força no mercado; saiba mais",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-precos-seguem-firmes-mas-ritmo-de-alta-perde-forca-no-mercado-saiba-mais/",
-      "summary": "Foto: Secretaria de Agricultura de São Paulo Escalas de abate entre cinco e seis dias úteis sustentam as cotações, enquanto exportações ainda enfrentam ritmo lento de recuperação O post Boi gordo: preços seguem firmes, m",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
-      "publishedAt": "2026-11-06T21:59:49.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
       "title": "Bangladesh abre mercado para genética bovina e bubalina do Brasil",
       "link": "https://www.canalrural.com.br/pecuaria/bangladesh-abre-mercado-para-genetica-bovina-e-bubalina-do-brasil/",
       "summary": "Missão do Ministério da Agricultura e Pecuária também identificou oportunidades para exportação de insumos para alimentação animal e cooperação técnica. O post Bangladesh abre mercado para genética bovina e bubalina do B",
@@ -154,22 +146,31 @@
       "relevancia": 12
     },
     {
-      "title": "Arroba do boi gordo registra novas altas, aponta Cepea",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-registra-novas-altas-aponta-cepea/",
-      "summary": "Foto: Lorran Lima/Idaf De acordo com avaliação de analistas do centro de pesquisas, frigoríficos e produtores adotaram uma postura de cautela, O post Arroba do boi gordo registra novas altas, aponta Cepea apareceu primei",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
-      "publishedAt": "2026-11-04T12:39:58.000Z",
+      "title": "Boi gordo: preços seguem firmes, mas ritmo de alta perde força no mercado; saiba mais",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-precos-seguem-firmes-mas-ritmo-de-alta-perde-forca-no-mercado-saiba-mais/",
+      "summary": "Foto: Secretaria de Agricultura de São Paulo Escalas de abate entre cinco e seis dias úteis sustentam as cotações, enquanto exportações ainda enfrentam ritmo lento de recuperação O post Boi gordo: preços seguem firmes, m",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
+      "publishedAt": "2026-11-06T21:59:49.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 12
+      "relevancia": 10
     },
     {
-      "title": "Arroba do boi tem dia de cotações firmes, com altas perdendo fôlego",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-tem-dia-de-cotacoes-firmes-com-altas-perdendo-folego/",
-      "summary": "Foto: Gabriel Faria/Embrapa Melhora no volume de negócios favorece o atendimento das necessidades imediatas dos frigoríficos e reduz parte da urgência das compras O post Arroba do boi tem dia de cotações firmes, com alta",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-1.jpg",
-      "publishedAt": "2026-11-05T21:58:35.000Z",
+      "title": "Filha abandona sonho de carreira internacional para ajudar o pai na fazenda e se torna referência na pecuária",
+      "link": "https://www.canalrural.com.br/pecuaria/filha-abandona-sonho-de-carreira-internacional-para-ajudar-o-pai-na-fazenda-e-se-torna-referencia-na-pecuaria/",
+      "summary": "Foto: Arquivo Pessoal À frente da Fazenda Cigana, Ana Paula dos Santos Silva transformou a propriedade da família em referência de rentabilidade e sustentabilidade O post Filha abandona sonho de carreira internacional pa",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/11/Ana-Paula-_-home.jpg",
+      "publishedAt": "2026-11-08T12:03:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 7
+      "relevancia": 8
+    },
+    {
+      "title": "Radar Rural debate representatividade e desafios da pecuária brasileira",
+      "link": "https://www.canalrural.com.br/pecuaria/radar-rural-debate-representatividade-e-desafios-da-pecuaria-brasileira/",
+      "summary": "Os pecuaristas Thomas Rocco e Raul Moraes Neto durante participação no Radar Rural (Foto: Reprodução/Canal Rural) Thomas Rocco e Raul Moraes Neto explicam como o movimento Vozes da Pecuária busca ampliar a participação d",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/11/Gemini_Generated_Image_l1wumzl1wumzl1wu.jpg",
+      "publishedAt": "2026-11-07T18:03:00.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 8
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
