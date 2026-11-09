@@ -1,26 +1,35 @@
 {
-  "atualizado_em": "2026-11-08T17:19:24.319Z",
+  "atualizado_em": "2026-11-09T21:41:46.994Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
       {
-        "title": "Boi gordo registra maior preço médio da história e acumula alta de 7,5% em outubro, aponta Cepea",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-registra-maior-preco-medio-da-historia-e-acumula-alta-de-75-em-outubro-aponta-cepea/",
-        "summary": "Foto: Marcos Santos/USP Imagens De acordo com o centro de estudos, a valorização foi impulsionada pela menor disponibilidade de animais para abate e pela alta demanda por carne bovina O post Boi gordo registra maior preç",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/bPoAGNIg-gado0021.jpg",
-        "publishedAt": "2026-11-05T11:38:36.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 13
-      },
-      {
-        "title": "Bangladesh abre mercado para genética bovina e bubalina do Brasil",
-        "link": "https://www.canalrural.com.br/pecuaria/bangladesh-abre-mercado-para-genetica-bovina-e-bubalina-do-brasil/",
-        "summary": "Missão do Ministério da Agricultura e Pecuária também identificou oportunidades para exportação de insumos para alimentação animal e cooperação técnica. O post Bangladesh abre mercado para genética bovina e bubalina do B",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/11/bangladesh-abre-mercado-para-genetica-bovina-e-bubalina-do-brasil.png",
-        "publishedAt": "2026-11-05T13:42:56.000Z",
+        "title": "Exportações de carne bovina somam 2,66 milhões de toneladas até outubro",
+        "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-somam-266-milhoes-de-toneladas-ate-outubro/",
+        "summary": "China retomou a liderança entre os destinos em outubro, enquanto embarques para outros mercados avançaram em volume e receita. O post Exportações de carne bovina somam 2,66 milhões de toneladas até outubro apareceu prime",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/10/sudao-autoriza-entrada-de-novos-produtos-agropecuarios-do-brasil.png",
+        "publishedAt": "2026-11-09T13:06:13.000Z",
         "fonte": "Canal Rural",
         "relevancia": 12
+      },
+      {
+        "title": "Exportações de carne bovina despencam 35,5% em outubro com queda nas compras da China",
+        "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-despencam-355-em-outubro-com-queda-nas-compras-da-china/",
+        "summary": "Foto: Agência Brasil/arquivo Brasil embarcou 231,3 mil toneladas, com faturamento de US$ 1,37 bilhão, segundo dados da Abiec O post Exportações de carne bovina despencam 35,5% em outubro com queda nas compras da China ap",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carne-bovina-3.jpg",
+        "publishedAt": "2026-11-09T11:41:06.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 12
+      },
+      {
+        "title": "Restrição de oferta deve manter preços da arroba em alta na 1ª quinzena",
+        "link": "https://www.canalrural.com.br/pecuaria/restricao-de-oferta-deve-manter-precos-da-arroba-em-alta-na-1a-quinzena/",
+        "summary": "Foto: Governo de Mato Grosso No entanto, comportamento da China permanece no radar, com a gestão da cota de exportação podendo limitar compras mais agressivas O post Restrição de oferta deve manter preços da arroba em al",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/vZZdRpRB-boi-gordo-boiada-scaled.jpg",
+        "publishedAt": "2026-11-08T22:02:00.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 11
       },
       {
         "title": "Boi gordo: preços seguem firmes, mas ritmo de alta perde força no mercado; saiba mais",
@@ -29,25 +38,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
         "publishedAt": "2026-11-06T21:59:49.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 10
+        "relevancia": 9
       },
       {
-        "title": "Filha abandona sonho de carreira internacional para ajudar o pai na fazenda e se torna referência na pecuária",
-        "link": "https://www.canalrural.com.br/pecuaria/filha-abandona-sonho-de-carreira-internacional-para-ajudar-o-pai-na-fazenda-e-se-torna-referencia-na-pecuaria/",
-        "summary": "Foto: Arquivo Pessoal À frente da Fazenda Cigana, Ana Paula dos Santos Silva transformou a propriedade da família em referência de rentabilidade e sustentabilidade O post Filha abandona sonho de carreira internacional pa",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/11/Ana-Paula-_-home.jpg",
-        "publishedAt": "2026-11-08T12:03:00.000Z",
+        "title": "Qual é o melhor capim para alimentar o gado no semiárido nordestino?",
+        "link": "https://www.canalrural.com.br/pecuaria/qual-e-o-melhor-capim-para-alimentar-o-gado-no-semiarido-nordestino/",
+        "summary": "Foto: Reprodução/Giro do Boi. Zootecnista Edmar Peluso orienta sobre forragem adequada para o gado no semiárido. Ele destaca o capim-buffel como a melhor opção para regiões de seca severa O post Qual é o melhor capim par",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/11/capim_09.11.2026.jpg",
+        "publishedAt": "2026-11-09T21:01:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 8
-      },
-      {
-        "title": "Radar Rural debate representatividade e desafios da pecuária brasileira",
-        "link": "https://www.canalrural.com.br/pecuaria/radar-rural-debate-representatividade-e-desafios-da-pecuaria-brasileira/",
-        "summary": "Os pecuaristas Thomas Rocco e Raul Moraes Neto durante participação no Radar Rural (Foto: Reprodução/Canal Rural) Thomas Rocco e Raul Moraes Neto explicam como o movimento Vozes da Pecuária busca ampliar a participação d",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/11/Gemini_Generated_Image_l1wumzl1wumzl1wu.jpg",
-        "publishedAt": "2026-11-07T18:03:00.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 8
+        "relevancia": 7
       }
     ]
   },
@@ -56,94 +56,86 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Pesquisadores são premiados pela cultivar de maracujá BRS Gigante Amarelo",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149782016/pesquisadores-sao-premiados-pela-cultivar-de-maracuja-brs-gigante-amarelo",
-        "summary": "Melhoramento genético · Produção vegetal · Mercado de Cultivares e Sementes",
-        "image": "https://www.embrapa.br/documents/1355008/103354088/Homenagem+UnB+aos+respons%C3%A1veis+pelo+desenvolvimento+da+cultivar+de+maracujazeiro+azedo+BRS+Gigante+Amarelo+-+Divulga%C3%A7%C3%A3o+Universidade+de+Bras%C3%ADlia.jpeg/b3cbd9d3-fa85-d57d-e321-4094fd75dfc6?version=1.0&t=1794078936167",
-        "publishedAt": "2026-11-07T12:00:00.000Z",
+        "title": "Pesquisadores e gestores destacam contribuição das geotecnologias aplicadas ao Pantanal",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149850011/pesquisadores-e-gestores-destacam-contribuicao-das-geotecnologias-aplicadas-ao-pantanal",
+        "summary": "Geotecnologia",
+        "image": "https://www.embrapa.br/documents/1355331/54295255/PHOTO-2026-11-09-16-25-01.jpg/99600113-cf63-cdb8-2c00-51cdd4c2d4a4?version=1.0&t=1794257804180",
+        "publishedAt": "2026-11-09T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Melhoramento genético",
-          "Produção vegetal",
-          "Mercado de Cultivares e Sementes"
+          "Geotecnologia"
         ],
-        "relevancia": 2
+        "relevancia": 3
       },
       {
-        "title": "Embrapa Agricultura Digital alcança maturidade e atua em temas portadores de futuro",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149777659/embrapa-agricultura-digital-alcanca-maturidade-e-atua-em-temas-portadores-de-futuro",
-        "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/documents/1355331/54295255/aniversario2.jpeg/ec572f05-de6a-2c42-64dd-9545fcb0dd86?t=1794061510535",
-        "publishedAt": "2026-11-07T12:00:00.000Z",
+        "title": "Embrapa Acre realiza cerimônia de posse de Márcio Bayma na chefia-geral",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149850094/embrapa-acre-realiza-cerimonia-de-posse-de-marcio-bayma-na-chefia-geral",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149850824&t=1794258661377",
+        "publishedAt": "2026-11-09T12:00:00.000Z",
         "fonte": "Embrapa",
-        "tags": [
-          "Pesquisa, Desenvolvimento e Inovação"
-        ],
-        "relevancia": 1
+        "tags": [],
+        "relevancia": 3
       },
       {
-        "title": "12ª. Prova de Leite a Pasto da Embrapa Cerrados no DF tem inscrições prorrogadas até o dia 20/11",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149755467/12-prova-de-leite-a-pasto-da-embrapa-cerrados-no-df-tem-inscricoes-prorrogadas-ate-o-dia-2011",
-        "summary": "Melhoramento genético · Produção animal · Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/documents/1355008/103354088/Cartaz+cortado+12a+Prova+de+Leita+a+Pasto+do+CTZL.jpg/c39931a9-7809-c19a-15e7-71a39d783b7f?version=1.0&t=1793992519038",
-        "publishedAt": "2026-11-06T12:00:00.000Z",
+        "title": "Pesquisa, inovação e sustentabilidade marcam a transmissão de Chefia na Embrapa Amazônia Ocidental",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149849983/pesquisa-inovacao-e-sustentabilidade-marcam-a--transmissao-de-chefia-na-embrapa-amazonia-ocidental",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149849984&t=1794258117255",
+        "publishedAt": "2026-11-09T12:00:00.000Z",
         "fonte": "Embrapa",
-        "tags": [
-          "Melhoramento genético",
-          "Produção animal",
-          "Transferência de Tecnologia"
-        ],
-        "relevancia": 0
+        "tags": [],
+        "relevancia": 3
       },
       {
-        "title": "Abertura do 19º Bunkyo Rural na Embrapa destaca ciência, inovação e potencial agropecuário de MS",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149753405/abertura-do-19-bunkyo-rural-na-embrapa-destaca-ciencia-inovacao-e-potencial-agropecuario-de-ms",
-        "summary": "Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/documents/1354395/149752262/BunkyoRural_05_011_2026_por_HallinnoSoares.jpeg/c1b0c2e1-ab41-4261-568a-23a255aa1527?version=1.0&t=1793989061651",
-        "publishedAt": "2026-11-06T12:00:00.000Z",
+        "title": "Embrapa Maranhão apresenta tecnologias e experiência imersiva com realidade virtual em congresso sobre pesca artesanal",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149849080/embrapa-maranhao-apresenta-tecnologias-e-experiencia-imersiva-com-realidade-virtual-em-congresso-sobre-pesca-artesanal",
+        "summary": "",
+        "image": null,
+        "publishedAt": "2026-11-09T12:00:00.000Z",
         "fonte": "Embrapa",
-        "tags": [
-          "Transferência de Tecnologia"
-        ],
-        "relevancia": 0
+        "tags": [],
+        "relevancia": 3
       },
       {
-        "title": "Plataforma Ater+ retorna com novidades para extensionistas",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149750496/plataforma-ater-retorna-com-novidades-para-extensionistas",
-        "summary": "Agroecologia e produção orgânica · Pesquisa, Desenvolvimento e Inovação · Produção animal · Segurança alimentar, nutrição e saúde · Transferência de Tecnologia · Convivência com a Seca",
-        "image": "https://www.embrapa.br/documents/1355090/86934705/Ater%2Bmat%C3%A9ria.png/540bde3f-1cdb-9ef9-1edf-90dbd19f0eb8?version=2.0&t=1793986308534",
-        "publishedAt": "2026-11-06T12:00:00.000Z",
+        "title": "12ª Jornada Científica reúne pesquisadoras consagradas e premia novos talentos",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149844246/12-jornada-cientifica-reune-pesquisadoras-consagradas-e-premia-novos-talentos",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149844247&t=1794248115788",
+        "publishedAt": "2026-11-09T12:00:00.000Z",
         "fonte": "Embrapa",
-        "tags": [
-          "Agroecologia e produção orgânica",
-          "Pesquisa, Desenvolvimento e Inovação",
-          "Produção animal",
-          "Segurança alimentar, nutrição e saúde",
-          "Transferência de Tecnologia",
-          "Convivência com a Seca"
-        ],
-        "relevancia": 0
+        "tags": [],
+        "relevancia": 3
       }
     ]
   },
   "noticias": [
     {
-      "title": "Boi gordo registra maior preço médio da história e acumula alta de 7,5% em outubro, aponta Cepea",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-registra-maior-preco-medio-da-historia-e-acumula-alta-de-75-em-outubro-aponta-cepea/",
-      "summary": "Foto: Marcos Santos/USP Imagens De acordo com o centro de estudos, a valorização foi impulsionada pela menor disponibilidade de animais para abate e pela alta demanda por carne bovina O post Boi gordo registra maior preç",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/bPoAGNIg-gado0021.jpg",
-      "publishedAt": "2026-11-05T11:38:36.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 13
-    },
-    {
-      "title": "Bangladesh abre mercado para genética bovina e bubalina do Brasil",
-      "link": "https://www.canalrural.com.br/pecuaria/bangladesh-abre-mercado-para-genetica-bovina-e-bubalina-do-brasil/",
-      "summary": "Missão do Ministério da Agricultura e Pecuária também identificou oportunidades para exportação de insumos para alimentação animal e cooperação técnica. O post Bangladesh abre mercado para genética bovina e bubalina do B",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/11/bangladesh-abre-mercado-para-genetica-bovina-e-bubalina-do-brasil.png",
-      "publishedAt": "2026-11-05T13:42:56.000Z",
+      "title": "Exportações de carne bovina somam 2,66 milhões de toneladas até outubro",
+      "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-somam-266-milhoes-de-toneladas-ate-outubro/",
+      "summary": "China retomou a liderança entre os destinos em outubro, enquanto embarques para outros mercados avançaram em volume e receita. O post Exportações de carne bovina somam 2,66 milhões de toneladas até outubro apareceu prime",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/10/sudao-autoriza-entrada-de-novos-produtos-agropecuarios-do-brasil.png",
+      "publishedAt": "2026-11-09T13:06:13.000Z",
       "fonte": "Canal Rural",
       "relevancia": 12
+    },
+    {
+      "title": "Exportações de carne bovina despencam 35,5% em outubro com queda nas compras da China",
+      "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-despencam-355-em-outubro-com-queda-nas-compras-da-china/",
+      "summary": "Foto: Agência Brasil/arquivo Brasil embarcou 231,3 mil toneladas, com faturamento de US$ 1,37 bilhão, segundo dados da Abiec O post Exportações de carne bovina despencam 35,5% em outubro com queda nas compras da China ap",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carne-bovina-3.jpg",
+      "publishedAt": "2026-11-09T11:41:06.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 12
+    },
+    {
+      "title": "Restrição de oferta deve manter preços da arroba em alta na 1ª quinzena",
+      "link": "https://www.canalrural.com.br/pecuaria/restricao-de-oferta-deve-manter-precos-da-arroba-em-alta-na-1a-quinzena/",
+      "summary": "Foto: Governo de Mato Grosso No entanto, comportamento da China permanece no radar, com a gestão da cota de exportação podendo limitar compras mais agressivas O post Restrição de oferta deve manter preços da arroba em al",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/vZZdRpRB-boi-gordo-boiada-scaled.jpg",
+      "publishedAt": "2026-11-08T22:02:00.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 11
     },
     {
       "title": "Boi gordo: preços seguem firmes, mas ritmo de alta perde força no mercado; saiba mais",
@@ -152,25 +144,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
       "publishedAt": "2026-11-06T21:59:49.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 10
+      "relevancia": 9
     },
     {
-      "title": "Filha abandona sonho de carreira internacional para ajudar o pai na fazenda e se torna referência na pecuária",
-      "link": "https://www.canalrural.com.br/pecuaria/filha-abandona-sonho-de-carreira-internacional-para-ajudar-o-pai-na-fazenda-e-se-torna-referencia-na-pecuaria/",
-      "summary": "Foto: Arquivo Pessoal À frente da Fazenda Cigana, Ana Paula dos Santos Silva transformou a propriedade da família em referência de rentabilidade e sustentabilidade O post Filha abandona sonho de carreira internacional pa",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/11/Ana-Paula-_-home.jpg",
-      "publishedAt": "2026-11-08T12:03:00.000Z",
+      "title": "Qual é o melhor capim para alimentar o gado no semiárido nordestino?",
+      "link": "https://www.canalrural.com.br/pecuaria/qual-e-o-melhor-capim-para-alimentar-o-gado-no-semiarido-nordestino/",
+      "summary": "Foto: Reprodução/Giro do Boi. Zootecnista Edmar Peluso orienta sobre forragem adequada para o gado no semiárido. Ele destaca o capim-buffel como a melhor opção para regiões de seca severa O post Qual é o melhor capim par",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/11/capim_09.11.2026.jpg",
+      "publishedAt": "2026-11-09T21:01:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 8
-    },
-    {
-      "title": "Radar Rural debate representatividade e desafios da pecuária brasileira",
-      "link": "https://www.canalrural.com.br/pecuaria/radar-rural-debate-representatividade-e-desafios-da-pecuaria-brasileira/",
-      "summary": "Os pecuaristas Thomas Rocco e Raul Moraes Neto durante participação no Radar Rural (Foto: Reprodução/Canal Rural) Thomas Rocco e Raul Moraes Neto explicam como o movimento Vozes da Pecuária busca ampliar a participação d",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/11/Gemini_Generated_Image_l1wumzl1wumzl1wu.jpg",
-      "publishedAt": "2026-11-07T18:03:00.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 8
+      "relevancia": 7
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",

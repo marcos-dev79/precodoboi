@@ -1,19 +1,19 @@
 {
-  "atualizado_em": "2026-11-08T17:19:22.399Z",
+  "atualizado_em": "2026-11-09T21:41:43.611Z",
   "fonte": "CEPEA/ESALQ · NoticiasAgricolas · Scot Consultoria",
   "licenca": "CC-BY-4.0 · atribuicao AgroDoc AI",
   "referencia_cepea_sp": 392.7,
   "media_nacional": {
-    "preco_arroba": 376.37
+    "preco_arroba": 375.18
   },
   "estados": [
     {
-      "uf": "PR",
-      "nome": "Paraná",
-      "regiao": "Sul",
-      "preco_arroba": 400,
+      "uf": "GO",
+      "nome": "Goiás",
+      "regiao": "Centro-Oeste",
+      "preco_arroba": 405.3,
       "origem": "api",
-      "praca": "PR"
+      "praca": "GO RD"
     },
     {
       "uf": "RJ",
@@ -24,12 +24,12 @@
       "praca": "estimativa regional (Sudeste)"
     },
     {
-      "uf": "SP",
-      "nome": "São Paulo",
-      "regiao": "Sudeste",
-      "preco_arroba": 395,
+      "uf": "PR",
+      "nome": "Paraná",
+      "regiao": "Sul",
+      "preco_arroba": 393.5,
       "origem": "api",
-      "praca": "SP"
+      "praca": "PR Noroeste"
     },
     {
       "uf": "ES",
@@ -48,20 +48,12 @@
       "praca": "estimativa regional (Sul)"
     },
     {
-      "uf": "MS",
-      "nome": "Mato Grosso do Sul",
-      "regiao": "Centro-Oeste",
-      "preco_arroba": 387,
-      "origem": "api",
-      "praca": "MS"
-    },
-    {
-      "uf": "MG",
-      "nome": "Minas Gerais",
+      "uf": "SP",
+      "nome": "São Paulo",
       "regiao": "Sudeste",
-      "preco_arroba": 387,
+      "preco_arroba": 386,
       "origem": "api",
-      "praca": "MG"
+      "praca": "SP Barretos"
     },
     {
       "uf": "RS",
@@ -72,6 +64,14 @@
       "praca": "estimativa regional (Sul)"
     },
     {
+      "uf": "MS",
+      "nome": "Mato Grosso do Sul",
+      "regiao": "Centro-Oeste",
+      "preco_arroba": 381,
+      "origem": "api",
+      "praca": "MS Dourados"
+    },
+    {
       "uf": "DF",
       "nome": "Distrito Federal",
       "regiao": "Centro-Oeste",
@@ -80,28 +80,12 @@
       "praca": "estimativa regional (Centro-Oeste)"
     },
     {
-      "uf": "GO",
-      "nome": "Goiás",
-      "regiao": "Centro-Oeste",
-      "preco_arroba": 380,
+      "uf": "MG",
+      "nome": "Minas Gerais",
+      "regiao": "Sudeste",
+      "preco_arroba": 378,
       "origem": "api",
-      "praca": "GO"
-    },
-    {
-      "uf": "PA",
-      "nome": "Pará",
-      "regiao": "Norte",
-      "preco_arroba": 380,
-      "origem": "api",
-      "praca": "PA"
-    },
-    {
-      "uf": "TO",
-      "nome": "Tocantins",
-      "regiao": "Norte",
-      "preco_arroba": 377,
-      "origem": "api",
-      "praca": "TO"
+      "praca": "MG Triângulo"
     },
     {
       "uf": "BA",
@@ -120,12 +104,12 @@
       "praca": "estimativa regional (Nordeste)"
     },
     {
-      "uf": "MT",
-      "nome": "Mato Grosso",
-      "regiao": "Centro-Oeste",
-      "preco_arroba": 370,
+      "uf": "PA",
+      "nome": "Pará",
+      "regiao": "Norte",
+      "preco_arroba": 373,
       "origem": "api",
-      "praca": "MT"
+      "praca": "PA Marabá"
     },
     {
       "uf": "AL",
@@ -176,12 +160,12 @@
       "praca": "estimativa regional (Nordeste)"
     },
     {
-      "uf": "RO",
-      "nome": "Rondônia",
+      "uf": "TO",
+      "nome": "Tocantins",
       "regiao": "Norte",
-      "preco_arroba": 367,
+      "preco_arroba": 369,
       "origem": "api",
-      "praca": "RO"
+      "praca": "TO Sul"
     },
     {
       "uf": "AC",
@@ -208,12 +192,28 @@
       "praca": "estimativa regional (Nordeste)"
     },
     {
+      "uf": "MT",
+      "nome": "Mato Grosso",
+      "regiao": "Centro-Oeste",
+      "preco_arroba": 364,
+      "origem": "api",
+      "praca": "MT Norte"
+    },
+    {
       "uf": "AP",
       "nome": "Amapá",
       "regiao": "Norte",
       "preco_arroba": 361.28,
       "origem": "estimado",
       "praca": "estimativa regional (Norte)"
+    },
+    {
+      "uf": "RO",
+      "nome": "Rondônia",
+      "regiao": "Norte",
+      "preco_arroba": 361,
+      "origem": "api",
+      "praca": "RO Sudeste"
     },
     {
       "uf": "RR",
