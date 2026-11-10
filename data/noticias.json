@@ -1,9 +1,18 @@
 {
-  "atualizado_em": "2026-11-09T21:41:46.994Z",
+  "atualizado_em": "2026-11-10T18:59:01.285Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Boi gordo sobe R$ 5 por arroba em GO e MT; oferta restrita sustenta preços",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-r-5-por-arroba-em-go-e-mt-oferta-restrita-sustenta-precos/",
+        "summary": "Segundo Cepea, o mercado do boi gordo iniciou a semana com negociações em ritmo mais lento e valorização pontual da arroba em algumas praças O post Boi gordo sobe R$ 5 por arroba em GO e MT; oferta restrita sustenta preç",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/I80KiuGr-Madson-Maranhao-Seagro-TO-03.jpg",
+        "publishedAt": "2026-11-10T12:42:52.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 16
+      },
       {
         "title": "Exportações de carne bovina somam 2,66 milhões de toneladas até outubro",
         "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-somam-266-milhoes-de-toneladas-ate-outubro/",
@@ -11,43 +20,34 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/10/sudao-autoriza-entrada-de-novos-produtos-agropecuarios-do-brasil.png",
         "publishedAt": "2026-11-09T13:06:13.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 12
+        "relevancia": 10
       },
       {
         "title": "Exportações de carne bovina despencam 35,5% em outubro com queda nas compras da China",
         "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-despencam-355-em-outubro-com-queda-nas-compras-da-china/",
-        "summary": "Foto: Agência Brasil/arquivo Brasil embarcou 231,3 mil toneladas, com faturamento de US$ 1,37 bilhão, segundo dados da Abiec O post Exportações de carne bovina despencam 35,5% em outubro com queda nas compras da China ap",
+        "summary": "Brasil embarcou 231,3 mil toneladas, com faturamento de US$ 1,37 bilhão, segundo dados da Abiec O post Exportações de carne bovina despencam 35,5% em outubro com queda nas compras da China apareceu primeiro em Canal Rura",
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carne-bovina-3.jpg",
         "publishedAt": "2026-11-09T11:41:06.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 12
+        "relevancia": 10
       },
       {
-        "title": "Restrição de oferta deve manter preços da arroba em alta na 1ª quinzena",
-        "link": "https://www.canalrural.com.br/pecuaria/restricao-de-oferta-deve-manter-precos-da-arroba-em-alta-na-1a-quinzena/",
-        "summary": "Foto: Governo de Mato Grosso No entanto, comportamento da China permanece no radar, com a gestão da cota de exportação podendo limitar compras mais agressivas O post Restrição de oferta deve manter preços da arroba em al",
+        "title": "Preços do boi gordo estreiam a semana com preços firmes e perspectivas de alta",
+        "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-gordo-estreiam-a-semana-com-precos-firmes-e-perspectivas-de-alta/",
+        "summary": "Movimento de valorização perdeu intensidade em relação ao observado ao longo de outubro, mas continuam ocorrendo reajustes pontuais O post Preços do boi gordo estreiam a semana com preços firmes e perspectivas de alta ap",
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/vZZdRpRB-boi-gordo-boiada-scaled.jpg",
-        "publishedAt": "2026-11-08T22:02:00.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 11
-      },
-      {
-        "title": "Boi gordo: preços seguem firmes, mas ritmo de alta perde força no mercado; saiba mais",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-precos-seguem-firmes-mas-ritmo-de-alta-perde-forca-no-mercado-saiba-mais/",
-        "summary": "Foto: Secretaria de Agricultura de São Paulo Escalas de abate entre cinco e seis dias úteis sustentam as cotações, enquanto exportações ainda enfrentam ritmo lento de recuperação O post Boi gordo: preços seguem firmes, m",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
-        "publishedAt": "2026-11-06T21:59:49.000Z",
+        "publishedAt": "2026-11-09T22:52:33.000Z",
         "fonte": "Canal Rural",
         "relevancia": 9
       },
       {
-        "title": "Qual é o melhor capim para alimentar o gado no semiárido nordestino?",
-        "link": "https://www.canalrural.com.br/pecuaria/qual-e-o-melhor-capim-para-alimentar-o-gado-no-semiarido-nordestino/",
-        "summary": "Foto: Reprodução/Giro do Boi. Zootecnista Edmar Peluso orienta sobre forragem adequada para o gado no semiárido. Ele destaca o capim-buffel como a melhor opção para regiões de seca severa O post Qual é o melhor capim par",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/11/capim_09.11.2026.jpg",
-        "publishedAt": "2026-11-09T21:01:00.000Z",
+        "title": "Restrição de oferta deve manter preços da arroba em alta na 1ª quinzena",
+        "link": "https://www.canalrural.com.br/pecuaria/restricao-de-oferta-deve-manter-precos-da-arroba-em-alta-na-1a-quinzena/",
+        "summary": "No entanto, comportamento da China permanece no radar, com a gestão da cota de exportação podendo limitar compras mais agressivas O post Restrição de oferta deve manter preços da arroba em alta na 1ª quinzena apareceu pr",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/vZZdRpRB-boi-gordo-boiada-scaled.jpg",
+        "publishedAt": "2026-11-08T22:02:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 7
+        "relevancia": 9
       }
     ]
   },
@@ -56,60 +56,71 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Pesquisadores e gestores destacam contribuição das geotecnologias aplicadas ao Pantanal",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149850011/pesquisadores-e-gestores-destacam-contribuicao-das-geotecnologias-aplicadas-ao-pantanal",
-        "summary": "Geotecnologia",
-        "image": "https://www.embrapa.br/documents/1355331/54295255/PHOTO-2026-11-09-16-25-01.jpg/99600113-cf63-cdb8-2c00-51cdd4c2d4a4?version=1.0&t=1794257804180",
-        "publishedAt": "2026-11-09T12:00:00.000Z",
+        "title": "Novo livro aborda visão integrada de Práticas para Agropecuária Sustentável",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149883781/novo-livro-aborda-visao-integrada-de-praticas-para-agropecuaria-sustentavel",
+        "summary": "Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149884060&t=1794337011119",
+        "publishedAt": "2026-11-10T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Geotecnologia"
+          "Transferência de Tecnologia"
         ],
         "relevancia": 3
       },
       {
-        "title": "Embrapa Acre realiza cerimônia de posse de Márcio Bayma na chefia-geral",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149850094/embrapa-acre-realiza-cerimonia-de-posse-de-marcio-bayma-na-chefia-geral",
+        "title": "Embrapa fortalece rede de guardiões de sementes na Chapada dos Veadeiros",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149882266/embrapa-fortalece-rede-de-guardioes-de-sementes-na-chapada-dos-veadeiros",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149850824&t=1794258661377",
-        "publishedAt": "2026-11-09T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1355163/109266577/feira+de+sementes+alto+para%C3%ADso+02.jpg/01ef2102-0808-ad96-609c-a5acdbd9ad58?version=1.0&t=1794333972089",
+        "publishedAt": "2026-11-10T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
         "relevancia": 3
       },
       {
-        "title": "Pesquisa, inovação e sustentabilidade marcam a transmissão de Chefia na Embrapa Amazônia Ocidental",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149849983/pesquisa-inovacao-e-sustentabilidade-marcam-a--transmissao-de-chefia-na-embrapa-amazonia-ocidental",
+        "title": "Lançamento de livro sobre Ciranda Agroecológica será realizado na Feira do Livro de Pelotas",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149880028/lancamento-de-livro-sobre-ciranda-agroecologica-sera-realizado-na-feira-do-livro-de-pelotas",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149849984&t=1794258117255",
-        "publishedAt": "2026-11-09T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1354346/0/Ciranda+Agroecol%C3%B3gica_2024_lanzetta.jpg/974bd61a-67e7-7901-ee95-db7d4424a16d?version=1.0&t=1794331546545",
+        "publishedAt": "2026-11-10T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
         "relevancia": 3
       },
       {
-        "title": "Embrapa Maranhão apresenta tecnologias e experiência imersiva com realidade virtual em congresso sobre pesca artesanal",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149849080/embrapa-maranhao-apresenta-tecnologias-e-experiencia-imersiva-com-realidade-virtual-em-congresso-sobre-pesca-artesanal",
+        "title": "Manhã de campo apresenta implantação de consórcio de mandioca com milho",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149879437/manha-de-campo-apresenta-implantacao-de-consorcio-de-mandioca-com-milho",
         "summary": "",
-        "image": null,
-        "publishedAt": "2026-11-09T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1355145/92982228/Mandioca_milho+S%C3%ADto+Agroecol%C3%B3gico.jpeg/7497caca-91ff-df39-756d-1be42079923c?version=1.0&t=1794330969338",
+        "publishedAt": "2026-11-10T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
         "relevancia": 3
       },
       {
-        "title": "12ª Jornada Científica reúne pesquisadoras consagradas e premia novos talentos",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149844246/12-jornada-cientifica-reune-pesquisadoras-consagradas-e-premia-novos-talentos",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=149844247&t=1794248115788",
-        "publishedAt": "2026-11-09T12:00:00.000Z",
+        "title": "Ciência, bioeconomia e liderança feminina impulsionam a descarbonização no Conatre Summit 2026",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/149877887/ciencia-bioeconomia-e-lideranca-feminina-impulsionam-a-descarbonizacao-no-conatre-summit-2026",
+        "summary": "Pesquisa, Desenvolvimento e Inovação",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=149877888&t=1794329478021",
+        "publishedAt": "2026-11-10T12:00:00.000Z",
         "fonte": "Embrapa",
-        "tags": [],
+        "tags": [
+          "Pesquisa, Desenvolvimento e Inovação"
+        ],
         "relevancia": 3
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Boi gordo sobe R$ 5 por arroba em GO e MT; oferta restrita sustenta preços",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-r-5-por-arroba-em-go-e-mt-oferta-restrita-sustenta-precos/",
+      "summary": "Segundo Cepea, o mercado do boi gordo iniciou a semana com negociações em ritmo mais lento e valorização pontual da arroba em algumas praças O post Boi gordo sobe R$ 5 por arroba em GO e MT; oferta restrita sustenta preç",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/I80KiuGr-Madson-Maranhao-Seagro-TO-03.jpg",
+      "publishedAt": "2026-11-10T12:42:52.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 16
+    },
     {
       "title": "Exportações de carne bovina somam 2,66 milhões de toneladas até outubro",
       "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-somam-266-milhoes-de-toneladas-ate-outubro/",
@@ -117,43 +128,34 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/10/sudao-autoriza-entrada-de-novos-produtos-agropecuarios-do-brasil.png",
       "publishedAt": "2026-11-09T13:06:13.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 12
+      "relevancia": 10
     },
     {
       "title": "Exportações de carne bovina despencam 35,5% em outubro com queda nas compras da China",
       "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-despencam-355-em-outubro-com-queda-nas-compras-da-china/",
-      "summary": "Foto: Agência Brasil/arquivo Brasil embarcou 231,3 mil toneladas, com faturamento de US$ 1,37 bilhão, segundo dados da Abiec O post Exportações de carne bovina despencam 35,5% em outubro com queda nas compras da China ap",
+      "summary": "Brasil embarcou 231,3 mil toneladas, com faturamento de US$ 1,37 bilhão, segundo dados da Abiec O post Exportações de carne bovina despencam 35,5% em outubro com queda nas compras da China apareceu primeiro em Canal Rura",
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/carne-bovina-3.jpg",
       "publishedAt": "2026-11-09T11:41:06.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 12
+      "relevancia": 10
     },
     {
-      "title": "Restrição de oferta deve manter preços da arroba em alta na 1ª quinzena",
-      "link": "https://www.canalrural.com.br/pecuaria/restricao-de-oferta-deve-manter-precos-da-arroba-em-alta-na-1a-quinzena/",
-      "summary": "Foto: Governo de Mato Grosso No entanto, comportamento da China permanece no radar, com a gestão da cota de exportação podendo limitar compras mais agressivas O post Restrição de oferta deve manter preços da arroba em al",
+      "title": "Preços do boi gordo estreiam a semana com preços firmes e perspectivas de alta",
+      "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-gordo-estreiam-a-semana-com-precos-firmes-e-perspectivas-de-alta/",
+      "summary": "Movimento de valorização perdeu intensidade em relação ao observado ao longo de outubro, mas continuam ocorrendo reajustes pontuais O post Preços do boi gordo estreiam a semana com preços firmes e perspectivas de alta ap",
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/vZZdRpRB-boi-gordo-boiada-scaled.jpg",
-      "publishedAt": "2026-11-08T22:02:00.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 11
-    },
-    {
-      "title": "Boi gordo: preços seguem firmes, mas ritmo de alta perde força no mercado; saiba mais",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-precos-seguem-firmes-mas-ritmo-de-alta-perde-forca-no-mercado-saiba-mais/",
-      "summary": "Foto: Secretaria de Agricultura de São Paulo Escalas de abate entre cinco e seis dias úteis sustentam as cotações, enquanto exportações ainda enfrentam ritmo lento de recuperação O post Boi gordo: preços seguem firmes, m",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/tkcEmI31-boi-gordo.jpg",
-      "publishedAt": "2026-11-06T21:59:49.000Z",
+      "publishedAt": "2026-11-09T22:52:33.000Z",
       "fonte": "Canal Rural",
       "relevancia": 9
     },
     {
-      "title": "Qual é o melhor capim para alimentar o gado no semiárido nordestino?",
-      "link": "https://www.canalrural.com.br/pecuaria/qual-e-o-melhor-capim-para-alimentar-o-gado-no-semiarido-nordestino/",
-      "summary": "Foto: Reprodução/Giro do Boi. Zootecnista Edmar Peluso orienta sobre forragem adequada para o gado no semiárido. Ele destaca o capim-buffel como a melhor opção para regiões de seca severa O post Qual é o melhor capim par",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/11/capim_09.11.2026.jpg",
-      "publishedAt": "2026-11-09T21:01:00.000Z",
+      "title": "Restrição de oferta deve manter preços da arroba em alta na 1ª quinzena",
+      "link": "https://www.canalrural.com.br/pecuaria/restricao-de-oferta-deve-manter-precos-da-arroba-em-alta-na-1a-quinzena/",
+      "summary": "No entanto, comportamento da China permanece no radar, com a gestão da cota de exportação podendo limitar compras mais agressivas O post Restrição de oferta deve manter preços da arroba em alta na 1ª quinzena apareceu pr",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/vZZdRpRB-boi-gordo-boiada-scaled.jpg",
+      "publishedAt": "2026-11-08T22:02:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 7
+      "relevancia": 9
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
