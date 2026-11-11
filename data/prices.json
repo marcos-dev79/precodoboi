@@ -1,17 +1,17 @@
 {
-  "atualizado_em": "2026-11-10T18:58:57.988Z",
+  "atualizado_em": "2026-11-11T18:56:34.667Z",
   "fonte": "CEPEA/ESALQ · NoticiasAgricolas · Scot Consultoria",
   "licenca": "CC-BY-4.0 · atribuicao AgroDoc AI",
   "referencia_cepea_sp": 393.3,
   "media_nacional": {
-    "preco_arroba": 375.71
+    "preco_arroba": 376.03
   },
   "estados": [
     {
       "uf": "GO",
       "nome": "Goiás",
       "regiao": "Centro-Oeste",
-      "preco_arroba": 405.3,
+      "preco_arroba": 405.9,
       "origem": "api",
       "praca": "GO RD"
     },
@@ -51,7 +51,7 @@
       "uf": "SP",
       "nome": "São Paulo",
       "regiao": "Sudeste",
-      "preco_arroba": 386,
+      "preco_arroba": 388,
       "origem": "api",
       "praca": "SP Barretos"
     },
@@ -96,20 +96,20 @@
       "praca": "estimativa regional (Nordeste)"
     },
     {
+      "uf": "PA",
+      "nome": "Pará",
+      "regiao": "Norte",
+      "preco_arroba": 376,
+      "origem": "api",
+      "praca": "PA Marabá"
+    },
+    {
       "uf": "PE",
       "nome": "Pernambuco",
       "regiao": "Nordeste",
       "preco_arroba": 373.64,
       "origem": "estimado",
       "praca": "estimativa regional (Nordeste)"
-    },
-    {
-      "uf": "PA",
-      "nome": "Pará",
-      "regiao": "Norte",
-      "preco_arroba": 373,
-      "origem": "api",
-      "praca": "PA Marabá"
     },
     {
       "uf": "TO",
@@ -171,7 +171,7 @@
       "uf": "MT",
       "nome": "Mato Grosso",
       "regiao": "Centro-Oeste",
-      "preco_arroba": 366,
+      "preco_arroba": 369,
       "origem": "api",
       "praca": "MT Norte"
     },
