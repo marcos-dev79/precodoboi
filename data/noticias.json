@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-12T19:15:22.670Z",
+  "atualizado_em": "2026-11-13T18:52:15.468Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -11,7 +11,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
         "publishedAt": "2026-11-10T21:59:34.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 17
+        "relevancia": 16
       },
       {
         "title": "Exportações de gado vivo crescem 157% em outubro, aponta Cepea",
@@ -20,7 +20,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/05/gado_11.05.2026.jpg",
         "publishedAt": "2026-11-12T11:48:50.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 16
+        "relevancia": 14
       },
       {
         "title": "Boi gordo sobe R$ 5 por arroba em GO e MT; oferta restrita sustenta preços",
@@ -32,22 +32,22 @@
         "relevancia": 13
       },
       {
-        "title": "Preços do boi gordo continuam em alta: veja as cotações do dia",
-        "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-gordo-continuam-em-alta-veja-as-cotacoes-do-dia/",
-        "summary": "Escalas de abate permanecem encurtadas na maior parte do país; valorização é mais acentuada em Mato Grosso do Sul e Pará, diz analista O post Preços do boi gordo continuam em alta: veja as cotações do dia apareceu primei",
-        "image": "https://imagens-cdn.canalrural.com.br/2025/10/boi-gordo-precos-no-Brasil.png",
-        "publishedAt": "2026-11-11T21:47:33.000Z",
+        "title": "Embrapa investiga como o gado Nelore pode ajudar a reduzir emissões de metano",
+        "link": "https://www.canalrural.com.br/pecuaria/embrapa-investiga-como-o-gado-nelore-pode-ajudar-a-reduzir-emissoes-de-metano/",
+        "summary": "Pesquisadores identificam na microbiota intestinal dos bovinos formas de reduzir a produção do gás pelos animais e aumentar eficiência alimentar O post Embrapa investiga como o gado Nelore pode ajudar a reduzir emissões ",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/07/touros-nelore-no-campo.jpg",
+        "publishedAt": "2026-11-13T09:01:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 9
+        "relevancia": 11
       },
       {
-        "title": "Exportações de carne bovina somam 2,66 milhões de toneladas até outubro",
-        "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-somam-266-milhoes-de-toneladas-ate-outubro/",
-        "summary": "China retomou a liderança entre os destinos em outubro, enquanto embarques para outros mercados avançaram em volume e receita. O post Exportações de carne bovina somam 2,66 milhões de toneladas até outubro apareceu prime",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/10/sudao-autoriza-entrada-de-novos-produtos-agropecuarios-do-brasil.png",
-        "publishedAt": "2026-11-09T13:06:13.000Z",
+        "title": "Boi gordo sobe, mas ritmo de alta é menos intenso; confira as cotações",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-mas-ritmo-de-alta-e-menos-intenso-confira-as-cotacoes/",
+        "summary": "Já o mercado atacadista segue com preços acomodados. Expectativa de aproximação do auge do consumo doméstico permanece no radar O post Boi gordo sobe, mas ritmo de alta é menos intenso; confira as cotações apareceu prime",
+        "image": "https://imagens-cdn.canalrural.com.br/2023/09/pecuaria-boi-parana-scaled-1.jpg",
+        "publishedAt": "2026-11-12T22:13:43.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 9
+        "relevancia": 10
       }
     ]
   },
@@ -56,11 +56,23 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Tese sobre catadoras de mangaba de Aracaju vence Prêmio da USP",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150047529/tese-sobre-catadoras-de-mangaba-de-aracaju-vence-premio-da-usp",
+        "title": "Embrapa Pesca e Aquicultura realiza primeira edição gênica fora do Tocantins",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150115116/embrapa-pesca-e-aquicultura-realiza-primeira-edicao-genica-fora-do-tocantins",
+        "summary": "Melhoramento genético",
+        "image": "https://www.embrapa.br/documents/1355321/0/ovos.jpeg/2ca9174d-186a-ca01-5753-6273c3e054d3?version=1.0&t=1794593733042",
+        "publishedAt": "2026-11-13T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Melhoramento genético"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Custo de produção do frango sobe no Paraná, enquanto o do suíno recua em Santa Catarina em outubro",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150114969/custo-de-producao-do-frango-sobe-no-parana-enquanto-o-do-suino-recua-em-santa-catarina-em-outubro",
         "summary": "Estudos socioeconômicos e ambientais",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=150047530&t=1794505627469",
-        "publishedAt": "2026-11-12T12:00:00.000Z",
+        "image": null,
+        "publishedAt": "2026-11-13T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Estudos socioeconômicos e ambientais"
@@ -68,50 +80,41 @@
         "relevancia": 3
       },
       {
-        "title": "Embrapa apresenta na COP 31 evidências científicas para redução de emissões na pecuária",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150045632/embrapa-apresenta-na-cop-31-evidencias-cientificas-para-reducao-de-emissoes-na-pecuaria",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=150045633&t=1794503298415",
-        "publishedAt": "2026-11-12T12:00:00.000Z",
+        "title": "Tecnologias para pecuária e agricultura no Semiárido ganham destaque no FestBerro 2026",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150113606/tecnologias-para-pecuaria-e-agricultura-no-semiarido-ganham-destaque-no-festberro-2026",
+        "summary": "Agricultura familiar · Mudanças climáticas · Pesquisa, Desenvolvimento e Inovação · Produção animal · Produção vegetal · Transferência de Tecnologia · Convivência com a Seca",
+        "image": "https://www.embrapa.br/documents/1355090/86934705/CaprinosPasto.jpg/7f1abc01-1d8e-1ac9-b31c-039cb5c79d9b?version=1.0&t=1794590946103",
+        "publishedAt": "2026-11-13T12:00:00.000Z",
         "fonte": "Embrapa",
-        "tags": [],
+        "tags": [
+          "Agricultura familiar",
+          "Mudanças climáticas",
+          "Pesquisa, Desenvolvimento e Inovação",
+          "Produção animal",
+          "Produção vegetal",
+          "Transferência de Tecnologia",
+          "Convivência com a Seca"
+        ],
         "relevancia": 8
       },
       {
-        "title": "Embrapa Agrobiologia promove curso de patentes e proteção de tecnologias em PD&I",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150045091/embrapa-agrobiologia-promove-curso-de-patentes-e-protecao-de-tecnologias-em-pdi",
-        "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/documents/1355054/69525033/2a603427-a582-4341-87a4-693f5d152328.png/92985f06-6e63-c161-b179-5f53e1406d9b?version=1.0&t=1794501847891",
-        "publishedAt": "2026-11-12T12:00:00.000Z",
+        "title": "Sobre besouros metálicos, educação e pesquisa",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150112571/sobre-besouros-metalicos-educacao-e-pesquisa",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=150112572&t=1794591661059",
+        "publishedAt": "2026-11-13T12:00:00.000Z",
         "fonte": "Embrapa",
-        "tags": [
-          "Pesquisa, Desenvolvimento e Inovação"
-        ],
+        "tags": [],
         "relevancia": 3
       },
       {
-        "title": "Leilão de touros PO da Embrapa Gado de Corte será realizado de forma virtual",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150043684/leilao-de-touros-po-da-embrapa-gado-de-corte-sera-realizado-de-forma-virtual",
-        "summary": "Melhoramento genético · Produção animal",
-        "image": "https://www.embrapa.br/documents/1355108/0/Card_Leil%C3%A3o+Touros+PO.jpg/c600aa58-218b-39d3-4684-b3a9323a141e?version=1.0&t=1794497876112",
-        "publishedAt": "2026-11-12T12:00:00.000Z",
+        "title": "ARTIGO - A próxima evolução da agricultura não é a Inteligência Artificial",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150112091/artigo---a-proxima-evolucao-da-agricultura--nao-e-a-inteligencia-artificial",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=150112092&t=1794590243739",
+        "publishedAt": "2026-11-13T12:00:00.000Z",
         "fonte": "Embrapa",
-        "tags": [
-          "Melhoramento genético",
-          "Produção animal"
-        ],
-        "relevancia": 7
-      },
-      {
-        "title": "Dia de campo faz atualização de tecnologias para cafeicultura familiar de montanha",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150040729/dia-de-campo-faz-atualizacao-de-tecnologias-para-cafeicultura-familiar-de-montanha",
-        "summary": "Agricultura familiar",
-        "image": "https://www.embrapa.br/documents/1355331/0/planta%C3%A7%C3%A3o+de+caf%C3%A9+de+montanha+Caconde+SP+cr%C3%A9dito+Val%C3%A9ria+Costa+%281%29.jpg/80d49440-490e-d89f-be37-4d29f68e4815?t=1794492937852",
-        "publishedAt": "2026-11-12T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Agricultura familiar"
-        ],
+        "tags": [],
         "relevancia": 3
       }
     ]
@@ -124,7 +127,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
       "publishedAt": "2026-11-10T21:59:34.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 17
+      "relevancia": 16
     },
     {
       "title": "Exportações de gado vivo crescem 157% em outubro, aponta Cepea",
@@ -133,7 +136,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/05/gado_11.05.2026.jpg",
       "publishedAt": "2026-11-12T11:48:50.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 16
+      "relevancia": 14
     },
     {
       "title": "Boi gordo sobe R$ 5 por arroba em GO e MT; oferta restrita sustenta preços",
@@ -145,22 +148,22 @@
       "relevancia": 13
     },
     {
-      "title": "Preços do boi gordo continuam em alta: veja as cotações do dia",
-      "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-gordo-continuam-em-alta-veja-as-cotacoes-do-dia/",
-      "summary": "Escalas de abate permanecem encurtadas na maior parte do país; valorização é mais acentuada em Mato Grosso do Sul e Pará, diz analista O post Preços do boi gordo continuam em alta: veja as cotações do dia apareceu primei",
-      "image": "https://imagens-cdn.canalrural.com.br/2025/10/boi-gordo-precos-no-Brasil.png",
-      "publishedAt": "2026-11-11T21:47:33.000Z",
+      "title": "Embrapa investiga como o gado Nelore pode ajudar a reduzir emissões de metano",
+      "link": "https://www.canalrural.com.br/pecuaria/embrapa-investiga-como-o-gado-nelore-pode-ajudar-a-reduzir-emissoes-de-metano/",
+      "summary": "Pesquisadores identificam na microbiota intestinal dos bovinos formas de reduzir a produção do gás pelos animais e aumentar eficiência alimentar O post Embrapa investiga como o gado Nelore pode ajudar a reduzir emissões ",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/07/touros-nelore-no-campo.jpg",
+      "publishedAt": "2026-11-13T09:01:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 9
+      "relevancia": 11
     },
     {
-      "title": "Exportações de carne bovina somam 2,66 milhões de toneladas até outubro",
-      "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-carne-bovina-somam-266-milhoes-de-toneladas-ate-outubro/",
-      "summary": "China retomou a liderança entre os destinos em outubro, enquanto embarques para outros mercados avançaram em volume e receita. O post Exportações de carne bovina somam 2,66 milhões de toneladas até outubro apareceu prime",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/10/sudao-autoriza-entrada-de-novos-produtos-agropecuarios-do-brasil.png",
-      "publishedAt": "2026-11-09T13:06:13.000Z",
+      "title": "Boi gordo sobe, mas ritmo de alta é menos intenso; confira as cotações",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-mas-ritmo-de-alta-e-menos-intenso-confira-as-cotacoes/",
+      "summary": "Já o mercado atacadista segue com preços acomodados. Expectativa de aproximação do auge do consumo doméstico permanece no radar O post Boi gordo sobe, mas ritmo de alta é menos intenso; confira as cotações apareceu prime",
+      "image": "https://imagens-cdn.canalrural.com.br/2023/09/pecuaria-boi-parana-scaled-1.jpg",
+      "publishedAt": "2026-11-12T22:13:43.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 9
+      "relevancia": 10
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",

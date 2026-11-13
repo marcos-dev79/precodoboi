@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-12T19:15:20.342Z",
+  "atualizado_em": "2026-11-13T18:52:14.006Z",
   "fonte": "CEPEA/ESALQ · NoticiasAgricolas · Scot Consultoria",
   "licenca": "CC-BY-4.0 · atribuicao AgroDoc AI",
   "indicador": {
@@ -11,7 +11,7 @@
     "origem": "api"
   },
   "relacao_troca": {
-    "referencia_boi_gordo_sp": 305.46,
+    "referencia_boi_gordo_sp": 390,
     "arrobas_por_bezerro": 0,
     "bezerros_por_boi_20_arrobas": null
   },
