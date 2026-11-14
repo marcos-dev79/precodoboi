@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-13T18:52:15.468Z",
+  "atualizado_em": "2026-11-14T17:24:48.727Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -20,16 +20,25 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/05/gado_11.05.2026.jpg",
         "publishedAt": "2026-11-12T11:48:50.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 14
+        "relevancia": 13
       },
       {
-        "title": "Boi gordo sobe R$ 5 por arroba em GO e MT; oferta restrita sustenta preços",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-r-5-por-arroba-em-go-e-mt-oferta-restrita-sustenta-precos/",
-        "summary": "Segundo Cepea, o mercado do boi gordo iniciou a semana com negociações em ritmo mais lento e valorização pontual da arroba em algumas praças O post Boi gordo sobe R$ 5 por arroba em GO e MT; oferta restrita sustenta preç",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/I80KiuGr-Madson-Maranhao-Seagro-TO-03.jpg",
-        "publishedAt": "2026-11-10T12:42:52.000Z",
+        "title": "Confinamento bovino em Mato Grosso cresce 13,7% mesmo com alta de custos",
+        "link": "https://www.canalrural.com.br/pecuaria/confinamento-bovino-em-mato-grosso-cresce-137-mesmo-com-alta-de-custos/",
+        "summary": "Pecuaristas intensificam o uso de instrumentos de proteção de preços para reduzir a exposição ao mercado O post Confinamento bovino em Mato Grosso cresce 13,7% mesmo com alta de custos apareceu primeiro em Canal Rural .",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/08/confinamento_foto_Reproducao_20.08.2025-1.jpg",
+        "publishedAt": "2026-11-13T22:49:48.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 11
+      },
+      {
+        "title": "Boi gordo se despede da semana em alta: veja as cotações em 10 estados",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-se-despede-da-semana-em-alta-veja-as-cotacoes-em-10-estados/",
+        "summary": "Valorização esteve mais contida ao longo da 1ª quinzena do mês, mas tende aumentar na virada para dezembro, de acordo com analista O post Boi gordo se despede da semana em alta: veja as cotações em 10 estados apareceu pr",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
+        "publishedAt": "2026-11-13T23:39:40.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 9
       },
       {
         "title": "Embrapa investiga como o gado Nelore pode ajudar a reduzir emissões de metano",
@@ -38,16 +47,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2025/07/touros-nelore-no-campo.jpg",
         "publishedAt": "2026-11-13T09:01:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 11
-      },
-      {
-        "title": "Boi gordo sobe, mas ritmo de alta é menos intenso; confira as cotações",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-mas-ritmo-de-alta-e-menos-intenso-confira-as-cotacoes/",
-        "summary": "Já o mercado atacadista segue com preços acomodados. Expectativa de aproximação do auge do consumo doméstico permanece no radar O post Boi gordo sobe, mas ritmo de alta é menos intenso; confira as cotações apareceu prime",
-        "image": "https://imagens-cdn.canalrural.com.br/2023/09/pecuaria-boi-parana-scaled-1.jpg",
-        "publishedAt": "2026-11-12T22:13:43.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 10
+        "relevancia": 9
       }
     ]
   },
@@ -56,66 +56,64 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Embrapa Pesca e Aquicultura realiza primeira edição gênica fora do Tocantins",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150115116/embrapa-pesca-e-aquicultura-realiza-primeira-edicao-genica-fora-do-tocantins",
-        "summary": "Melhoramento genético",
-        "image": "https://www.embrapa.br/documents/1355321/0/ovos.jpeg/2ca9174d-186a-ca01-5753-6273c3e054d3?version=1.0&t=1794593733042",
-        "publishedAt": "2026-11-13T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Melhoramento genético"
-        ],
-        "relevancia": 3
-      },
-      {
-        "title": "Custo de produção do frango sobe no Paraná, enquanto o do suíno recua em Santa Catarina em outubro",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150114969/custo-de-producao-do-frango-sobe-no-parana-enquanto-o-do-suino-recua-em-santa-catarina-em-outubro",
-        "summary": "Estudos socioeconômicos e ambientais",
-        "image": null,
-        "publishedAt": "2026-11-13T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Estudos socioeconômicos e ambientais"
-        ],
-        "relevancia": 3
-      },
-      {
-        "title": "Tecnologias para pecuária e agricultura no Semiárido ganham destaque no FestBerro 2026",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150113606/tecnologias-para-pecuaria-e-agricultura-no-semiarido-ganham-destaque-no-festberro-2026",
-        "summary": "Agricultura familiar · Mudanças climáticas · Pesquisa, Desenvolvimento e Inovação · Produção animal · Produção vegetal · Transferência de Tecnologia · Convivência com a Seca",
-        "image": "https://www.embrapa.br/documents/1355090/86934705/CaprinosPasto.jpg/7f1abc01-1d8e-1ac9-b31c-039cb5c79d9b?version=1.0&t=1794590946103",
-        "publishedAt": "2026-11-13T12:00:00.000Z",
+        "title": "Pesquisa da Embrapa abre caminho para novas cultivares de nogueira-pecã no Brasil",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150138951/pesquisa-da-embrapa-abre-caminho-para-novas-cultivares-de-nogueira-peca-no-brasil",
+        "summary": "Agricultura familiar · Agroindústria · Florestas e silvicultura",
+        "image": "https://www.embrapa.br/documents/1354346/0/26_11_13_3o+Enapecan_orlandi+%2870%29_v1_redim.jpg/237f4738-54d6-ddfb-6d15-359135185e91?version=1.0&t=1794668927724",
+        "publishedAt": "2026-11-14T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Agricultura familiar",
-          "Mudanças climáticas",
-          "Pesquisa, Desenvolvimento e Inovação",
-          "Produção animal",
-          "Produção vegetal",
-          "Transferência de Tecnologia",
-          "Convivência com a Seca"
+          "Agroindústria",
+          "Florestas e silvicultura"
         ],
-        "relevancia": 8
-      },
-      {
-        "title": "Sobre besouros metálicos, educação e pesquisa",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150112571/sobre-besouros-metalicos-educacao-e-pesquisa",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=150112572&t=1794591661059",
-        "publishedAt": "2026-11-13T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
         "relevancia": 3
       },
       {
-        "title": "ARTIGO - A próxima evolução da agricultura não é a Inteligência Artificial",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150112091/artigo---a-proxima-evolucao-da-agricultura--nao-e-a-inteligencia-artificial",
+        "title": "Embrapa lança programa Trigo Baixo Carbono para ampliar sustentabilidade e competitividade da produção nacional",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150122800/embrapa-lanca-programa-trigo-baixo-carbono-para-ampliar-sustentabilidade-e-competitividade-da-producao-nacional",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=150112092&t=1794590243739",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=150122848&t=1794610013928",
         "publishedAt": "2026-11-13T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 3
+        "relevancia": 1
+      },
+      {
+        "title": "Pesquisador Antônio Santiago recebe título de Cidadão Honorário de Alagoas",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150120233/pesquisador-antonio-santiago-recebe-titulo-de-cidadao-honorario-de-alagoas",
+        "summary": "Pesquisa, Desenvolvimento e Inovação",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=150120234&t=1794600189486",
+        "publishedAt": "2026-11-13T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Pesquisa, Desenvolvimento e Inovação"
+        ],
+        "relevancia": 1
+      },
+      {
+        "title": "AgGateway confere prêmio Action Award América Latina ao chefe-geral da Embrapa Agricultura Digital",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150118960/aggateway-confere-premio-action-award-america-latina-ao-chefe-geral-da-embrapa-agricultura-digital",
+        "summary": "Mecanização e Automação",
+        "image": "https://www.embrapa.br/documents/1355331/54295255/Stanley+AgGateway.jpg/39a5ba4e-50e4-2d38-5a8f-a0ddf9445d42?version=1.0&t=1794599279799",
+        "publishedAt": "2026-11-13T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Mecanização e Automação"
+        ],
+        "relevancia": 1
+      },
+      {
+        "title": "GeoPantanal apresenta experiências internacionais de políticas públicas apoiadas por geotecnologias",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150115685/geopantanal-apresenta-experiencias-internacionais-de-politicas-publicas-apoiadas-por-geotecnologias",
+        "summary": "Geotecnologia",
+        "image": "https://www.embrapa.br/documents/1355331/54295255/Reserva+do+Caba%C3%A7al+%28MT%29-Foto+Jes%C3%A3+Pereira+Kreitlow-Unemat.png/32580091-4f63-b572-092e-7b1373c6b1b2?version=1.0&t=1794594373673",
+        "publishedAt": "2026-11-13T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Geotecnologia"
+        ],
+        "relevancia": 1
       }
     ]
   },
@@ -136,16 +134,25 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/05/gado_11.05.2026.jpg",
       "publishedAt": "2026-11-12T11:48:50.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 14
+      "relevancia": 13
     },
     {
-      "title": "Boi gordo sobe R$ 5 por arroba em GO e MT; oferta restrita sustenta preços",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-r-5-por-arroba-em-go-e-mt-oferta-restrita-sustenta-precos/",
-      "summary": "Segundo Cepea, o mercado do boi gordo iniciou a semana com negociações em ritmo mais lento e valorização pontual da arroba em algumas praças O post Boi gordo sobe R$ 5 por arroba em GO e MT; oferta restrita sustenta preç",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/I80KiuGr-Madson-Maranhao-Seagro-TO-03.jpg",
-      "publishedAt": "2026-11-10T12:42:52.000Z",
+      "title": "Confinamento bovino em Mato Grosso cresce 13,7% mesmo com alta de custos",
+      "link": "https://www.canalrural.com.br/pecuaria/confinamento-bovino-em-mato-grosso-cresce-137-mesmo-com-alta-de-custos/",
+      "summary": "Pecuaristas intensificam o uso de instrumentos de proteção de preços para reduzir a exposição ao mercado O post Confinamento bovino em Mato Grosso cresce 13,7% mesmo com alta de custos apareceu primeiro em Canal Rural .",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/08/confinamento_foto_Reproducao_20.08.2025-1.jpg",
+      "publishedAt": "2026-11-13T22:49:48.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 11
+    },
+    {
+      "title": "Boi gordo se despede da semana em alta: veja as cotações em 10 estados",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-se-despede-da-semana-em-alta-veja-as-cotacoes-em-10-estados/",
+      "summary": "Valorização esteve mais contida ao longo da 1ª quinzena do mês, mas tende aumentar na virada para dezembro, de acordo com analista O post Boi gordo se despede da semana em alta: veja as cotações em 10 estados apareceu pr",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
+      "publishedAt": "2026-11-13T23:39:40.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 9
     },
     {
       "title": "Embrapa investiga como o gado Nelore pode ajudar a reduzir emissões de metano",
@@ -154,16 +161,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2025/07/touros-nelore-no-campo.jpg",
       "publishedAt": "2026-11-13T09:01:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 11
-    },
-    {
-      "title": "Boi gordo sobe, mas ritmo de alta é menos intenso; confira as cotações",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-mas-ritmo-de-alta-e-menos-intenso-confira-as-cotacoes/",
-      "summary": "Já o mercado atacadista segue com preços acomodados. Expectativa de aproximação do auge do consumo doméstico permanece no radar O post Boi gordo sobe, mas ritmo de alta é menos intenso; confira as cotações apareceu prime",
-      "image": "https://imagens-cdn.canalrural.com.br/2023/09/pecuaria-boi-parana-scaled-1.jpg",
-      "publishedAt": "2026-11-12T22:13:43.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 10
+      "relevancia": 9
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",

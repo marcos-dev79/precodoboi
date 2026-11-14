@@ -1,10 +1,10 @@
 {
-  "atualizado_em": "2026-11-13T18:52:13.833Z",
+  "atualizado_em": "2026-11-14T17:24:46.455Z",
   "fonte": "CEPEA/ESALQ · NoticiasAgricolas · Scot Consultoria",
   "licenca": "CC-BY-4.0 · atribuicao AgroDoc AI",
   "referencia_cepea_sp": 390,
   "media_nacional": {
-    "preco_arroba": 376.26
+    "preco_arroba": 376.44
   },
   "estados": [
     {
@@ -24,20 +24,20 @@
       "praca": "SP"
     },
     {
+      "uf": "MG",
+      "nome": "Minas Gerais",
+      "regiao": "Sudeste",
+      "preco_arroba": 395,
+      "origem": "api",
+      "praca": "MG"
+    },
+    {
       "uf": "RJ",
       "nome": "Rio de Janeiro",
       "regiao": "Sudeste",
       "preco_arroba": 393.9,
       "origem": "estimado",
       "praca": "estimativa regional (Sudeste)"
-    },
-    {
-      "uf": "MG",
-      "nome": "Minas Gerais",
-      "regiao": "Sudeste",
-      "preco_arroba": 392,
-      "origem": "api",
-      "praca": "MG"
     },
     {
       "uf": "MS",
@@ -91,7 +91,7 @@
       "uf": "TO",
       "nome": "Tocantins",
       "regiao": "Norte",
-      "preco_arroba": 380,
+      "preco_arroba": 382,
       "origem": "api",
       "praca": "TO"
     },
