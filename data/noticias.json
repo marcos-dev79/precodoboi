@@ -1,18 +1,9 @@
 {
-  "atualizado_em": "2026-11-14T17:24:48.727Z",
+  "atualizado_em": "2026-11-15T18:05:37.921Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
-      {
-        "title": "Boi gordo: oferta restrita mantém preços firmes e sustenta perspectiva de alta",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-oferta-restrita-mantem-precos-firmes-e-sustenta-perspectiva-de-alta/",
-        "summary": "Escalas de abate seguem entre cinco e seis dias úteis na maioria das regiões, enquanto exportações reduzem a disponibilidade de carne bovina no mercado interno O post Boi gordo: oferta restrita mantém preços firmes e sus",
-        "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
-        "publishedAt": "2026-11-10T21:59:34.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 16
-      },
       {
         "title": "Exportações de gado vivo crescem 157% em outubro, aponta Cepea",
         "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-gado-vivo-crescem-157-em-outubro-aponta-cepea/",
@@ -29,16 +20,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/2025/08/confinamento_foto_Reproducao_20.08.2025-1.jpg",
         "publishedAt": "2026-11-13T22:49:48.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 11
+        "relevancia": 9
       },
       {
-        "title": "Boi gordo se despede da semana em alta: veja as cotações em 10 estados",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-se-despede-da-semana-em-alta-veja-as-cotacoes-em-10-estados/",
-        "summary": "Valorização esteve mais contida ao longo da 1ª quinzena do mês, mas tende aumentar na virada para dezembro, de acordo com analista O post Boi gordo se despede da semana em alta: veja as cotações em 10 estados apareceu pr",
-        "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
-        "publishedAt": "2026-11-13T23:39:40.000Z",
+        "title": "Você viu? Filha abandona sonho de carreira internacional para ajudar o pai na fazenda e se torna referência na pecuária",
+        "link": "https://www.canalrural.com.br/pecuaria/voce-viu-filha-abandona-sonho-de-carreira-internacional-para-ajudar-o-pai-na-fazenda-e-se-torna-referencia-na-pecuaria/",
+        "summary": "À frente da Fazenda Cigana, Ana Paula dos Santos Silva transformou a propriedade da família em referência de rentabilidade e sustentabilidade O post Você viu? Filha abandona sonho de carreira internacional para ajudar o ",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/11/Ana-Paula-_-home.jpg",
+        "publishedAt": "2026-11-14T23:06:55.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 9
+        "relevancia": 8
       },
       {
         "title": "Embrapa investiga como o gado Nelore pode ajudar a reduzir emissões de metano",
@@ -47,7 +38,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/2025/07/touros-nelore-no-campo.jpg",
         "publishedAt": "2026-11-13T09:01:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 9
+        "relevancia": 8
+      },
+      {
+        "title": "Boi gordo se despede da semana em alta: veja as cotações em 10 estados",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-se-despede-da-semana-em-alta-veja-as-cotacoes-em-10-estados/",
+        "summary": "Valorização esteve mais contida ao longo da 1ª quinzena do mês, mas tende aumentar na virada para dezembro, de acordo com analista O post Boi gordo se despede da semana em alta: veja as cotações em 10 estados apareceu pr",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
+        "publishedAt": "2026-11-13T23:39:40.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 7
       }
     ]
   },
@@ -55,6 +55,34 @@
     "fonte": "Embrapa · notícias",
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
+      {
+        "title": "PROSA RURAL – Trabalho de Conservação do Gado Sindi no Semiárido",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150172606/prosa-rural--trabalho-de-conservacao-do-gado-sindi-no-semiarido",
+        "summary": "Melhoramento genético · Produção animal · Convivência com a Seca",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=150172607&t=1794753041994",
+        "publishedAt": "2026-11-15T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Melhoramento genético",
+          "Produção animal",
+          "Convivência com a Seca"
+        ],
+        "relevancia": 7
+      },
+      {
+        "title": "Embrapa, Faesp e Senar-SP articulam parceria para aproximar pesquisa das demandas dos produtores rurais",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150149820/embrapa-faesp-e-senar-sp-articulam-parceria-para-aproximar-pesquisa-das-demandas-dos-produtores-rurais",
+        "summary": "Segurança alimentar, nutrição e saúde · Transferência de Tecnologia · Gestão ambiental e territorial",
+        "image": "https://www.embrapa.br/documents/1355145/0/tirso+peq380.jpg/9b2d1aee-2f98-e57d-2014-330720e844b4?version=1.0&t=1794691882693",
+        "publishedAt": "2026-11-14T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Segurança alimentar, nutrição e saúde",
+          "Transferência de Tecnologia",
+          "Gestão ambiental e territorial"
+        ],
+        "relevancia": 1
+      },
       {
         "title": "Pesquisa da Embrapa abre caminho para novas cultivares de nogueira-pecã no Brasil",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150138951/pesquisa-da-embrapa-abre-caminho-para-novas-cultivares-de-nogueira-peca-no-brasil",
@@ -67,66 +95,33 @@
           "Agroindústria",
           "Florestas e silvicultura"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Embrapa lança programa Trigo Baixo Carbono para ampliar sustentabilidade e competitividade da produção nacional",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150122800/embrapa-lanca-programa-trigo-baixo-carbono-para-ampliar-sustentabilidade-e-competitividade-da-producao-nacional",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=150122848&t=1794610013928",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=150122848&t=1794610066163",
         "publishedAt": "2026-11-13T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 1
+        "relevancia": 0
       },
       {
         "title": "Pesquisador Antônio Santiago recebe título de Cidadão Honorário de Alagoas",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150120233/pesquisador-antonio-santiago-recebe-titulo-de-cidadao-honorario-de-alagoas",
         "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=150120234&t=1794600189486",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=150120234&t=1794600269600",
         "publishedAt": "2026-11-13T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 1
-      },
-      {
-        "title": "AgGateway confere prêmio Action Award América Latina ao chefe-geral da Embrapa Agricultura Digital",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150118960/aggateway-confere-premio-action-award-america-latina-ao-chefe-geral-da-embrapa-agricultura-digital",
-        "summary": "Mecanização e Automação",
-        "image": "https://www.embrapa.br/documents/1355331/54295255/Stanley+AgGateway.jpg/39a5ba4e-50e4-2d38-5a8f-a0ddf9445d42?version=1.0&t=1794599279799",
-        "publishedAt": "2026-11-13T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Mecanização e Automação"
-        ],
-        "relevancia": 1
-      },
-      {
-        "title": "GeoPantanal apresenta experiências internacionais de políticas públicas apoiadas por geotecnologias",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150115685/geopantanal-apresenta-experiencias-internacionais-de-politicas-publicas-apoiadas-por-geotecnologias",
-        "summary": "Geotecnologia",
-        "image": "https://www.embrapa.br/documents/1355331/54295255/Reserva+do+Caba%C3%A7al+%28MT%29-Foto+Jes%C3%A3+Pereira+Kreitlow-Unemat.png/32580091-4f63-b572-092e-7b1373c6b1b2?version=1.0&t=1794594373673",
-        "publishedAt": "2026-11-13T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Geotecnologia"
-        ],
-        "relevancia": 1
+        "relevancia": 0
       }
     ]
   },
   "noticias": [
-    {
-      "title": "Boi gordo: oferta restrita mantém preços firmes e sustenta perspectiva de alta",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-oferta-restrita-mantem-precos-firmes-e-sustenta-perspectiva-de-alta/",
-      "summary": "Escalas de abate seguem entre cinco e seis dias úteis na maioria das regiões, enquanto exportações reduzem a disponibilidade de carne bovina no mercado interno O post Boi gordo: oferta restrita mantém preços firmes e sus",
-      "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
-      "publishedAt": "2026-11-10T21:59:34.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 16
-    },
     {
       "title": "Exportações de gado vivo crescem 157% em outubro, aponta Cepea",
       "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-gado-vivo-crescem-157-em-outubro-aponta-cepea/",
@@ -143,16 +138,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/2025/08/confinamento_foto_Reproducao_20.08.2025-1.jpg",
       "publishedAt": "2026-11-13T22:49:48.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 11
+      "relevancia": 9
     },
     {
-      "title": "Boi gordo se despede da semana em alta: veja as cotações em 10 estados",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-se-despede-da-semana-em-alta-veja-as-cotacoes-em-10-estados/",
-      "summary": "Valorização esteve mais contida ao longo da 1ª quinzena do mês, mas tende aumentar na virada para dezembro, de acordo com analista O post Boi gordo se despede da semana em alta: veja as cotações em 10 estados apareceu pr",
-      "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
-      "publishedAt": "2026-11-13T23:39:40.000Z",
+      "title": "Você viu? Filha abandona sonho de carreira internacional para ajudar o pai na fazenda e se torna referência na pecuária",
+      "link": "https://www.canalrural.com.br/pecuaria/voce-viu-filha-abandona-sonho-de-carreira-internacional-para-ajudar-o-pai-na-fazenda-e-se-torna-referencia-na-pecuaria/",
+      "summary": "À frente da Fazenda Cigana, Ana Paula dos Santos Silva transformou a propriedade da família em referência de rentabilidade e sustentabilidade O post Você viu? Filha abandona sonho de carreira internacional para ajudar o ",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/11/Ana-Paula-_-home.jpg",
+      "publishedAt": "2026-11-14T23:06:55.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 9
+      "relevancia": 8
     },
     {
       "title": "Embrapa investiga como o gado Nelore pode ajudar a reduzir emissões de metano",
@@ -161,7 +156,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/2025/07/touros-nelore-no-campo.jpg",
       "publishedAt": "2026-11-13T09:01:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 9
+      "relevancia": 8
+    },
+    {
+      "title": "Boi gordo se despede da semana em alta: veja as cotações em 10 estados",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-se-despede-da-semana-em-alta-veja-as-cotacoes-em-10-estados/",
+      "summary": "Valorização esteve mais contida ao longo da 1ª quinzena do mês, mas tende aumentar na virada para dezembro, de acordo com analista O post Boi gordo se despede da semana em alta: veja as cotações em 10 estados apareceu pr",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
+      "publishedAt": "2026-11-13T23:39:40.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 7
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
