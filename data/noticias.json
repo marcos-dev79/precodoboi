@@ -1,17 +1,26 @@
 {
-  "atualizado_em": "2026-11-15T18:05:37.921Z",
+  "atualizado_em": "2026-11-16T21:21:29.462Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
       {
-        "title": "Exportações de gado vivo crescem 157% em outubro, aponta Cepea",
-        "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-gado-vivo-crescem-157-em-outubro-aponta-cepea/",
-        "summary": "Além dos embarques de animais vivos, as exportações brasileiras de carne bovina permaneceram aquecidas no mês passado O post Exportações de gado vivo crescem 157% em outubro, aponta Cepea apareceu primeiro em Canal Rural",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/05/gado_11.05.2026.jpg",
-        "publishedAt": "2026-11-12T11:48:50.000Z",
+        "title": "Arroba do boi gordo acumula alta de 1,41% em novembro, aponta Cepea",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-acumula-alta-de-141-em-novembro-aponta-cepea/",
+        "summary": "A alta ocorre em meio à oferta restrita de animais para abate em algumas regiões do país, cenário que tem sustentado as cotações O post Arroba do boi gordo acumula alta de 1,41% em novembro, aponta Cepea apareceu primeir",
+        "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
+        "publishedAt": "2026-11-16T12:40:34.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
+        "relevancia": 15
+      },
+      {
+        "title": "Carne bovina brasileira movimenta US$ 170 milhões na CIIE 2026, na China",
+        "link": "https://www.canalrural.com.br/pecuaria/carne-bovina-brasileira-movimenta-us-170-milhoes-na-ciie-2026-na-china/",
+        "summary": "Participação da ABIEC em Xangai projeta US$ 2 bilhões em negócios nos próximos 12 meses e soma mais de 1,5 mil contatos comerciais. O post Carne bovina brasileira movimenta US$ 170 milhões na CIIE 2026, na China apareceu",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
+        "publishedAt": "2026-11-16T20:37:02.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 10
       },
       {
         "title": "Confinamento bovino em Mato Grosso cresce 13,7% mesmo com alta de custos",
@@ -20,7 +29,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/2025/08/confinamento_foto_Reproducao_20.08.2025-1.jpg",
         "publishedAt": "2026-11-13T22:49:48.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 9
+        "relevancia": 8
+      },
+      {
+        "title": "Intenção de confinamento em Mato Grosso chega a 1,4 milhão de cabeças em 2026",
+        "link": "https://www.canalrural.com.br/pecuaria/intencao-de-confinamento-em-mato-grosso-chega-a-14-milhao-de-cabecas-em-2026/",
+        "summary": "Levantamento do Imea mostra avanço ante julho, concentração em grandes estruturas e aumento no custo da diária confinada. O post Intenção de confinamento em Mato Grosso chega a 1,4 milhão de cabeças em 2026 apareceu prim",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/11/intencao-de-confinamento-em-mato-grosso-chega-a-1-4-milhao-de-cabecas-em-2026.png",
+        "publishedAt": "2026-11-16T12:18:04.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 6
       },
       {
         "title": "Você viu? Filha abandona sonho de carreira internacional para ajudar o pai na fazenda e se torna referência na pecuária",
@@ -29,25 +47,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2026/11/Ana-Paula-_-home.jpg",
         "publishedAt": "2026-11-14T23:06:55.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 8
-      },
-      {
-        "title": "Embrapa investiga como o gado Nelore pode ajudar a reduzir emissões de metano",
-        "link": "https://www.canalrural.com.br/pecuaria/embrapa-investiga-como-o-gado-nelore-pode-ajudar-a-reduzir-emissoes-de-metano/",
-        "summary": "Pesquisadores identificam na microbiota intestinal dos bovinos formas de reduzir a produção do gás pelos animais e aumentar eficiência alimentar O post Embrapa investiga como o gado Nelore pode ajudar a reduzir emissões ",
-        "image": "https://imagens-cdn.canalrural.com.br/2025/07/touros-nelore-no-campo.jpg",
-        "publishedAt": "2026-11-13T09:01:00.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 8
-      },
-      {
-        "title": "Boi gordo se despede da semana em alta: veja as cotações em 10 estados",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-se-despede-da-semana-em-alta-veja-as-cotacoes-em-10-estados/",
-        "summary": "Valorização esteve mais contida ao longo da 1ª quinzena do mês, mas tende aumentar na virada para dezembro, de acordo com analista O post Boi gordo se despede da semana em alta: veja as cotações em 10 estados apareceu pr",
-        "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
-        "publishedAt": "2026-11-13T23:39:40.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 7
+        "relevancia": 6
       }
     ]
   },
@@ -56,80 +56,82 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "PROSA RURAL – Trabalho de Conservação do Gado Sindi no Semiárido",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150172606/prosa-rural--trabalho-de-conservacao-do-gado-sindi-no-semiarido",
-        "summary": "Melhoramento genético · Produção animal · Convivência com a Seca",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=150172607&t=1794753041994",
-        "publishedAt": "2026-11-15T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Melhoramento genético",
-          "Produção animal",
-          "Convivência com a Seca"
-        ],
-        "relevancia": 7
-      },
-      {
-        "title": "Embrapa, Faesp e Senar-SP articulam parceria para aproximar pesquisa das demandas dos produtores rurais",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150149820/embrapa-faesp-e-senar-sp-articulam-parceria-para-aproximar-pesquisa-das-demandas-dos-produtores-rurais",
-        "summary": "Segurança alimentar, nutrição e saúde · Transferência de Tecnologia · Gestão ambiental e territorial",
-        "image": "https://www.embrapa.br/documents/1355145/0/tirso+peq380.jpg/9b2d1aee-2f98-e57d-2014-330720e844b4?version=1.0&t=1794691882693",
-        "publishedAt": "2026-11-14T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Segurança alimentar, nutrição e saúde",
-          "Transferência de Tecnologia",
-          "Gestão ambiental e territorial"
-        ],
-        "relevancia": 1
-      },
-      {
-        "title": "Pesquisa da Embrapa abre caminho para novas cultivares de nogueira-pecã no Brasil",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150138951/pesquisa-da-embrapa-abre-caminho-para-novas-cultivares-de-nogueira-peca-no-brasil",
-        "summary": "Agricultura familiar · Agroindústria · Florestas e silvicultura",
-        "image": "https://www.embrapa.br/documents/1354346/0/26_11_13_3o+Enapecan_orlandi+%2870%29_v1_redim.jpg/237f4738-54d6-ddfb-6d15-359135185e91?version=1.0&t=1794668927724",
-        "publishedAt": "2026-11-14T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Agricultura familiar",
-          "Agroindústria",
-          "Florestas e silvicultura"
-        ],
-        "relevancia": 1
-      },
-      {
-        "title": "Embrapa lança programa Trigo Baixo Carbono para ampliar sustentabilidade e competitividade da produção nacional",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150122800/embrapa-lanca-programa-trigo-baixo-carbono-para-ampliar-sustentabilidade-e-competitividade-da-producao-nacional",
+        "title": "Embrapa apresenta mapeamento de resíduos e entulhos das enchentes de 2024 em seminário do Ministério Público do RS",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150226189/embrapa-apresenta-mapeamento-de-residuos-e-entulhos-das-enchentes-de-2024-em-seminario-do-ministerio-publico-do-rs",
         "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=150122848&t=1794610066163",
-        "publishedAt": "2026-11-13T12:00:00.000Z",
+        "image": null,
+        "publishedAt": "2026-11-16T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 0
+        "relevancia": 3
       },
       {
-        "title": "Pesquisador Antônio Santiago recebe título de Cidadão Honorário de Alagoas",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150120233/pesquisador-antonio-santiago-recebe-titulo-de-cidadao-honorario-de-alagoas",
-        "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=150120234&t=1794600269600",
-        "publishedAt": "2026-11-13T12:00:00.000Z",
+        "title": "2ª Seleção de Vinhos BRS Lorena - Conheça os Produtos Premiados!",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150219106/2-selecao-de-vinhos-brs-lorena---conheca-os-produtos-premiados",
+        "summary": "Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=150219133&t=1794846206536",
+        "publishedAt": "2026-11-16T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Pesquisa, Desenvolvimento e Inovação"
+          "Transferência de Tecnologia"
         ],
-        "relevancia": 0
+        "relevancia": 3
+      },
+      {
+        "title": "Embrapa detalha Zarc Níveis de Manejo na segunda safra de milho em reunião virtual",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150216422/embrapa-detalha-zarc-niveis-de-manejo-na-segunda-safra-de-milho-em-reuniao-virtual",
+        "summary": "Zoneamentos",
+        "image": "https://www.embrapa.br/documents/1355331/54295255/milho900.jpg/6dfc3872-ec13-b17b-0fd8-a3f15696a1f1?version=1.0&t=1794841540010",
+        "publishedAt": "2026-11-16T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Zoneamentos"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Simpósio internacional discute avanços em processos biológicos para remoção de nitrogênio",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150217201/simposio-internacional-discute-avancos-em-processos-biologicos-para-remocao-de-nitrogenio",
+        "summary": "",
+        "image": "https://www.embrapa.br/documents/1355242/1529337/deams.png/5f60bd4a-51e5-1d53-4c3e-4786cda0f1d2?version=1.0&t=1794841392256",
+        "publishedAt": "2026-11-16T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 3
+      },
+      {
+        "title": "Pesquisador Decio Karam, da Embrapa, é reconhecido pelo Notable People Project",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150214789/pesquisador-decio-karam-da-embrapa-e-reconhecido-pelo-notable-people-project",
+        "summary": "Pesquisa, Desenvolvimento e Inovação · Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=150214790&t=1794838461821",
+        "publishedAt": "2026-11-16T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Pesquisa, Desenvolvimento e Inovação",
+          "Transferência de Tecnologia"
+        ],
+        "relevancia": 3
       }
     ]
   },
   "noticias": [
     {
-      "title": "Exportações de gado vivo crescem 157% em outubro, aponta Cepea",
-      "link": "https://www.canalrural.com.br/pecuaria/exportacoes-de-gado-vivo-crescem-157-em-outubro-aponta-cepea/",
-      "summary": "Além dos embarques de animais vivos, as exportações brasileiras de carne bovina permaneceram aquecidas no mês passado O post Exportações de gado vivo crescem 157% em outubro, aponta Cepea apareceu primeiro em Canal Rural",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/05/gado_11.05.2026.jpg",
-      "publishedAt": "2026-11-12T11:48:50.000Z",
+      "title": "Arroba do boi gordo acumula alta de 1,41% em novembro, aponta Cepea",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-acumula-alta-de-141-em-novembro-aponta-cepea/",
+      "summary": "A alta ocorre em meio à oferta restrita de animais para abate em algumas regiões do país, cenário que tem sustentado as cotações O post Arroba do boi gordo acumula alta de 1,41% em novembro, aponta Cepea apareceu primeir",
+      "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
+      "publishedAt": "2026-11-16T12:40:34.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
+      "relevancia": 15
+    },
+    {
+      "title": "Carne bovina brasileira movimenta US$ 170 milhões na CIIE 2026, na China",
+      "link": "https://www.canalrural.com.br/pecuaria/carne-bovina-brasileira-movimenta-us-170-milhoes-na-ciie-2026-na-china/",
+      "summary": "Participação da ABIEC em Xangai projeta US$ 2 bilhões em negócios nos próximos 12 meses e soma mais de 1,5 mil contatos comerciais. O post Carne bovina brasileira movimenta US$ 170 milhões na CIIE 2026, na China apareceu",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
+      "publishedAt": "2026-11-16T20:37:02.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 10
     },
     {
       "title": "Confinamento bovino em Mato Grosso cresce 13,7% mesmo com alta de custos",
@@ -138,7 +140,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/2025/08/confinamento_foto_Reproducao_20.08.2025-1.jpg",
       "publishedAt": "2026-11-13T22:49:48.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 9
+      "relevancia": 8
+    },
+    {
+      "title": "Intenção de confinamento em Mato Grosso chega a 1,4 milhão de cabeças em 2026",
+      "link": "https://www.canalrural.com.br/pecuaria/intencao-de-confinamento-em-mato-grosso-chega-a-14-milhao-de-cabecas-em-2026/",
+      "summary": "Levantamento do Imea mostra avanço ante julho, concentração em grandes estruturas e aumento no custo da diária confinada. O post Intenção de confinamento em Mato Grosso chega a 1,4 milhão de cabeças em 2026 apareceu prim",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/11/intencao-de-confinamento-em-mato-grosso-chega-a-1-4-milhao-de-cabecas-em-2026.png",
+      "publishedAt": "2026-11-16T12:18:04.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 6
     },
     {
       "title": "Você viu? Filha abandona sonho de carreira internacional para ajudar o pai na fazenda e se torna referência na pecuária",
@@ -147,25 +158,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2026/11/Ana-Paula-_-home.jpg",
       "publishedAt": "2026-11-14T23:06:55.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 8
-    },
-    {
-      "title": "Embrapa investiga como o gado Nelore pode ajudar a reduzir emissões de metano",
-      "link": "https://www.canalrural.com.br/pecuaria/embrapa-investiga-como-o-gado-nelore-pode-ajudar-a-reduzir-emissoes-de-metano/",
-      "summary": "Pesquisadores identificam na microbiota intestinal dos bovinos formas de reduzir a produção do gás pelos animais e aumentar eficiência alimentar O post Embrapa investiga como o gado Nelore pode ajudar a reduzir emissões ",
-      "image": "https://imagens-cdn.canalrural.com.br/2025/07/touros-nelore-no-campo.jpg",
-      "publishedAt": "2026-11-13T09:01:00.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 8
-    },
-    {
-      "title": "Boi gordo se despede da semana em alta: veja as cotações em 10 estados",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-se-despede-da-semana-em-alta-veja-as-cotacoes-em-10-estados/",
-      "summary": "Valorização esteve mais contida ao longo da 1ª quinzena do mês, mas tende aumentar na virada para dezembro, de acordo com analista O post Boi gordo se despede da semana em alta: veja as cotações em 10 estados apareceu pr",
-      "image": "https://imagens-cdn.canalrural.com.br/2025/11/boi-gordo-preco-em-alta.jpg",
-      "publishedAt": "2026-11-13T23:39:40.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 7
+      "relevancia": 6
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
