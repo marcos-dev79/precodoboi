@@ -1,10 +1,10 @@
 {
-  "atualizado_em": "2026-11-16T21:21:26.973Z",
+  "atualizado_em": "2026-11-17T20:09:32.525Z",
   "fonte": "CEPEA/ESALQ · NoticiasAgricolas · Scot Consultoria",
   "licenca": "CC-BY-4.0 · atribuicao AgroDoc AI",
   "referencia_cepea_sp": 390,
   "media_nacional": {
-    "preco_arroba": 376.44
+    "preco_arroba": 376.55
   },
   "estados": [
     {
@@ -112,20 +112,20 @@
       "praca": "MT"
     },
     {
+      "uf": "RO",
+      "nome": "Rondônia",
+      "regiao": "Norte",
+      "preco_arroba": 375,
+      "origem": "api",
+      "praca": "RO"
+    },
+    {
       "uf": "BA",
       "nome": "Bahia",
       "regiao": "Nordeste",
       "preco_arroba": 374.4,
       "origem": "estimado",
       "praca": "estimativa regional (Nordeste)"
-    },
-    {
-      "uf": "RO",
-      "nome": "Rondônia",
-      "regiao": "Norte",
-      "preco_arroba": 372,
-      "origem": "api",
-      "praca": "RO"
     },
     {
       "uf": "PE",

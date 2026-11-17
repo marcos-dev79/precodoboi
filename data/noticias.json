@@ -1,9 +1,27 @@
 {
-  "atualizado_em": "2026-11-16T21:21:29.462Z",
+  "atualizado_em": "2026-11-17T20:09:35.375Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Arroba do boi gordo sobe R$ 5 em 2 regiões do país, mas mercado trava em SP",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-sobe-r-5-em-2-regioes-do-pais-mas-mercado-trava-em-sp/",
+        "summary": "Oferta restrita de animais e escalas curtas de abate sustentam reajustes no Pará e em Rondônia, enquanto demanda enfraquecida limita negócios no mercado paulista O post Arroba do boi gordo sobe R$ 5 em 2 regiões do país,",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/bdichG9X-fazenda-igarape-grande-maranhao-dia-de-campo-2018-1.jpg",
+        "publishedAt": "2026-11-17T12:20:59.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 16
+      },
+      {
+        "title": "Arroba do boi gordo estreia a semana com altas mais comedidas",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-estreia-a-semana-com-altas-mais-comedidas/",
+        "summary": "Em geral, as escalas de abate seguem pouco confortáveis, mas frigoríficos de maior porte já conseguem estender melhor suas programações O post Arroba do boi gordo estreia a semana com altas mais comedidas apareceu primei",
+        "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
+        "publishedAt": "2026-11-16T22:40:14.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
       {
         "title": "Arroba do boi gordo acumula alta de 1,41% em novembro, aponta Cepea",
         "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-acumula-alta-de-141-em-novembro-aponta-cepea/",
@@ -11,7 +29,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
         "publishedAt": "2026-11-16T12:40:34.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
+        "relevancia": 13
       },
       {
         "title": "Carne bovina brasileira movimenta US$ 170 milhões na CIIE 2026, na China",
@@ -23,31 +41,13 @@
         "relevancia": 10
       },
       {
-        "title": "Confinamento bovino em Mato Grosso cresce 13,7% mesmo com alta de custos",
-        "link": "https://www.canalrural.com.br/pecuaria/confinamento-bovino-em-mato-grosso-cresce-137-mesmo-com-alta-de-custos/",
-        "summary": "Pecuaristas intensificam o uso de instrumentos de proteção de preços para reduzir a exposição ao mercado O post Confinamento bovino em Mato Grosso cresce 13,7% mesmo com alta de custos apareceu primeiro em Canal Rural .",
-        "image": "https://imagens-cdn.canalrural.com.br/2025/08/confinamento_foto_Reproducao_20.08.2025-1.jpg",
-        "publishedAt": "2026-11-13T22:49:48.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 8
-      },
-      {
-        "title": "Intenção de confinamento em Mato Grosso chega a 1,4 milhão de cabeças em 2026",
-        "link": "https://www.canalrural.com.br/pecuaria/intencao-de-confinamento-em-mato-grosso-chega-a-14-milhao-de-cabecas-em-2026/",
-        "summary": "Levantamento do Imea mostra avanço ante julho, concentração em grandes estruturas e aumento no custo da diária confinada. O post Intenção de confinamento em Mato Grosso chega a 1,4 milhão de cabeças em 2026 apareceu prim",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/11/intencao-de-confinamento-em-mato-grosso-chega-a-1-4-milhao-de-cabecas-em-2026.png",
-        "publishedAt": "2026-11-16T12:18:04.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 6
-      },
-      {
         "title": "Você viu? Filha abandona sonho de carreira internacional para ajudar o pai na fazenda e se torna referência na pecuária",
         "link": "https://www.canalrural.com.br/pecuaria/voce-viu-filha-abandona-sonho-de-carreira-internacional-para-ajudar-o-pai-na-fazenda-e-se-torna-referencia-na-pecuaria/",
         "summary": "À frente da Fazenda Cigana, Ana Paula dos Santos Silva transformou a propriedade da família em referência de rentabilidade e sustentabilidade O post Você viu? Filha abandona sonho de carreira internacional para ajudar o ",
         "image": "https://imagens-cdn.canalrural.com.br/2026/11/Ana-Paula-_-home.jpg",
         "publishedAt": "2026-11-14T23:06:55.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 6
+        "relevancia": 5
       }
     ]
   },
@@ -56,59 +56,58 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Embrapa apresenta mapeamento de resíduos e entulhos das enchentes de 2024 em seminário do Ministério Público do RS",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150226189/embrapa-apresenta-mapeamento-de-residuos-e-entulhos-das-enchentes-de-2024-em-seminario-do-ministerio-publico-do-rs",
+        "title": "Sanidade aquícola é tema de evento em Palmas",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150273932/sanidade-aquicola-e-tema-de-evento-em-palmas",
+        "summary": "Pesca e aquicultura",
+        "image": "https://www.embrapa.br/documents/1355321/90050570/PLATAFORMA+EAD.png/d99235aa-3148-4405-7155-e7b3e6efdf09?version=1.0&t=1794944414535",
+        "publishedAt": "2026-11-17T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Pesca e aquicultura"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Mais de 200 participantes celebram renovação na gestão da Embrapa Soja",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150272499/mais-de-200-participantes-celebram-renovacao-na-gestao-da-embrapa-soja",
         "summary": "",
-        "image": null,
-        "publishedAt": "2026-11-16T12:00:00.000Z",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=150272500&t=1794942868323",
+        "publishedAt": "2026-11-17T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
         "relevancia": 3
       },
       {
-        "title": "2ª Seleção de Vinhos BRS Lorena - Conheça os Produtos Premiados!",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150219106/2-selecao-de-vinhos-brs-lorena---conheca-os-produtos-premiados",
-        "summary": "Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=150219133&t=1794846206536",
-        "publishedAt": "2026-11-16T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Transferência de Tecnologia"
-        ],
-        "relevancia": 3
-      },
-      {
-        "title": "Embrapa detalha Zarc Níveis de Manejo na segunda safra de milho em reunião virtual",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150216422/embrapa-detalha-zarc-niveis-de-manejo-na-segunda-safra-de-milho-em-reuniao-virtual",
-        "summary": "Zoneamentos",
-        "image": "https://www.embrapa.br/documents/1355331/54295255/milho900.jpg/6dfc3872-ec13-b17b-0fd8-a3f15696a1f1?version=1.0&t=1794841540010",
-        "publishedAt": "2026-11-16T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Zoneamentos"
-        ],
-        "relevancia": 3
-      },
-      {
-        "title": "Simpósio internacional discute avanços em processos biológicos para remoção de nitrogênio",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150217201/simposio-internacional-discute-avancos-em-processos-biologicos-para-remocao-de-nitrogenio",
+        "title": "Embrapa e Crop Trust estreitam parceria para agregar informações e ampliar uso de germoplasma do Brasil",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150270511/embrapa-e-crop-trust-estreitam-parceria-para-agregar-informacoes-e-ampliar-uso-de-germoplasma-do-brasil",
         "summary": "",
-        "image": "https://www.embrapa.br/documents/1355242/1529337/deams.png/5f60bd4a-51e5-1d53-4c3e-4786cda0f1d2?version=1.0&t=1794841392256",
-        "publishedAt": "2026-11-16T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/d/portal/261117_portal_embrapa-e-crop-trust_abstract",
+        "publishedAt": "2026-11-17T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
         "relevancia": 3
       },
       {
-        "title": "Pesquisador Decio Karam, da Embrapa, é reconhecido pelo Notable People Project",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150214789/pesquisador-decio-karam-da-embrapa-e-reconhecido-pelo-notable-people-project",
-        "summary": "Pesquisa, Desenvolvimento e Inovação · Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=150214790&t=1794838461821",
-        "publishedAt": "2026-11-16T12:00:00.000Z",
+        "title": "Embrapa Semiárido realiza transmissão de cargo de chefe-geral ao pesquisador Carlos Gava",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150268037/embrapa-semiarido-realiza-transmissao-de-cargo-de-chefe-geral-ao-pesquisador-carlos-gava",
+        "summary": "Gestão Estratégica",
+        "image": "https://www.embrapa.br/documents/1355026/144739781/Posse_Chefia_Geral_2026-Dest.png/898c661f-b172-dda3-7943-2776a4badcff?version=1.0&t=1794936611785",
+        "publishedAt": "2026-11-17T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Pesquisa, Desenvolvimento e Inovação",
-          "Transferência de Tecnologia"
+          "Gestão Estratégica"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Plantas de cobertura: pesquisador apresenta resultados de pesquisa em evento internacional",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150254246/plantas-de-cobertura-pesquisador-apresenta-resultados-de-pesquisa-em-evento-internacional",
+        "summary": "Pesquisa, Desenvolvimento e Inovação",
+        "image": "https://www.embrapa.br/documents/d/cerrados/apresentacao-canvas-2026_4-jpg?download=true",
+        "publishedAt": "2026-11-17T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Pesquisa, Desenvolvimento e Inovação"
         ],
         "relevancia": 3
       }
@@ -116,13 +115,31 @@
   },
   "noticias": [
     {
+      "title": "Arroba do boi gordo sobe R$ 5 em 2 regiões do país, mas mercado trava em SP",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-sobe-r-5-em-2-regioes-do-pais-mas-mercado-trava-em-sp/",
+      "summary": "Oferta restrita de animais e escalas curtas de abate sustentam reajustes no Pará e em Rondônia, enquanto demanda enfraquecida limita negócios no mercado paulista O post Arroba do boi gordo sobe R$ 5 em 2 regiões do país,",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/bdichG9X-fazenda-igarape-grande-maranhao-dia-de-campo-2018-1.jpg",
+      "publishedAt": "2026-11-17T12:20:59.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 16
+    },
+    {
+      "title": "Arroba do boi gordo estreia a semana com altas mais comedidas",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-estreia-a-semana-com-altas-mais-comedidas/",
+      "summary": "Em geral, as escalas de abate seguem pouco confortáveis, mas frigoríficos de maior porte já conseguem estender melhor suas programações O post Arroba do boi gordo estreia a semana com altas mais comedidas apareceu primei",
+      "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
+      "publishedAt": "2026-11-16T22:40:14.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
+    {
       "title": "Arroba do boi gordo acumula alta de 1,41% em novembro, aponta Cepea",
       "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-acumula-alta-de-141-em-novembro-aponta-cepea/",
       "summary": "A alta ocorre em meio à oferta restrita de animais para abate em algumas regiões do país, cenário que tem sustentado as cotações O post Arroba do boi gordo acumula alta de 1,41% em novembro, aponta Cepea apareceu primeir",
       "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
       "publishedAt": "2026-11-16T12:40:34.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
+      "relevancia": 13
     },
     {
       "title": "Carne bovina brasileira movimenta US$ 170 milhões na CIIE 2026, na China",
@@ -134,31 +151,13 @@
       "relevancia": 10
     },
     {
-      "title": "Confinamento bovino em Mato Grosso cresce 13,7% mesmo com alta de custos",
-      "link": "https://www.canalrural.com.br/pecuaria/confinamento-bovino-em-mato-grosso-cresce-137-mesmo-com-alta-de-custos/",
-      "summary": "Pecuaristas intensificam o uso de instrumentos de proteção de preços para reduzir a exposição ao mercado O post Confinamento bovino em Mato Grosso cresce 13,7% mesmo com alta de custos apareceu primeiro em Canal Rural .",
-      "image": "https://imagens-cdn.canalrural.com.br/2025/08/confinamento_foto_Reproducao_20.08.2025-1.jpg",
-      "publishedAt": "2026-11-13T22:49:48.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 8
-    },
-    {
-      "title": "Intenção de confinamento em Mato Grosso chega a 1,4 milhão de cabeças em 2026",
-      "link": "https://www.canalrural.com.br/pecuaria/intencao-de-confinamento-em-mato-grosso-chega-a-14-milhao-de-cabecas-em-2026/",
-      "summary": "Levantamento do Imea mostra avanço ante julho, concentração em grandes estruturas e aumento no custo da diária confinada. O post Intenção de confinamento em Mato Grosso chega a 1,4 milhão de cabeças em 2026 apareceu prim",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/11/intencao-de-confinamento-em-mato-grosso-chega-a-1-4-milhao-de-cabecas-em-2026.png",
-      "publishedAt": "2026-11-16T12:18:04.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 6
-    },
-    {
       "title": "Você viu? Filha abandona sonho de carreira internacional para ajudar o pai na fazenda e se torna referência na pecuária",
       "link": "https://www.canalrural.com.br/pecuaria/voce-viu-filha-abandona-sonho-de-carreira-internacional-para-ajudar-o-pai-na-fazenda-e-se-torna-referencia-na-pecuaria/",
       "summary": "À frente da Fazenda Cigana, Ana Paula dos Santos Silva transformou a propriedade da família em referência de rentabilidade e sustentabilidade O post Você viu? Filha abandona sonho de carreira internacional para ajudar o ",
       "image": "https://imagens-cdn.canalrural.com.br/2026/11/Ana-Paula-_-home.jpg",
       "publishedAt": "2026-11-14T23:06:55.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 6
+      "relevancia": 5
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
