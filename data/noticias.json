@@ -1,9 +1,27 @@
 {
-  "atualizado_em": "2026-11-17T20:09:35.375Z",
+  "atualizado_em": "2026-11-18T19:41:04.781Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
+      {
+        "title": "Boi gordo sobe R$ 10 em Goiás, enquanto contrato futuro da arroba recua na B3",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-r-10-em-goias-enquanto-contrato-futuro-da-arroba-recua-na-b3/",
+        "summary": "De maneira geral, a liquidez foi considerada razoável, com a maior parte dos negócios mantendo os preços praticados na segunda-feira O post Boi gordo sobe R$ 10 em Goiás, enquanto contrato futuro da arroba recua na B3 ap",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/07/bovinos_gado_de_corte_12.05.2025-3-1024x576-1.webp",
+        "publishedAt": "2026-11-18T12:36:40.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
+      {
+        "title": "Arroba do boi gordo começa a dar sinais de desaceleração; confira as cotações",
+        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-comeca-a-dar-sinais-de-desaceleracao-confira-as-cotacoes/",
+        "summary": "Analista diz que incidência de animais de parceria de grandes indústrias e posição mais confortável em escalas de abate explicam movimento O post Arroba do boi gordo começa a dar sinais de desaceleração; confira as cotaç",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
+        "publishedAt": "2026-11-17T23:27:38.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 15
+      },
       {
         "title": "Arroba do boi gordo sobe R$ 5 em 2 regiões do país, mas mercado trava em SP",
         "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-sobe-r-5-em-2-regioes-do-pais-mas-mercado-trava-em-sp/",
@@ -11,7 +29,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/bdichG9X-fazenda-igarape-grande-maranhao-dia-de-campo-2018-1.jpg",
         "publishedAt": "2026-11-17T12:20:59.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 16
+        "relevancia": 14
       },
       {
         "title": "Arroba do boi gordo estreia a semana com altas mais comedidas",
@@ -20,7 +38,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
         "publishedAt": "2026-11-16T22:40:14.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
+        "relevancia": 13
       },
       {
         "title": "Arroba do boi gordo acumula alta de 1,41% em novembro, aponta Cepea",
@@ -29,25 +47,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
         "publishedAt": "2026-11-16T12:40:34.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 13
-      },
-      {
-        "title": "Carne bovina brasileira movimenta US$ 170 milhões na CIIE 2026, na China",
-        "link": "https://www.canalrural.com.br/pecuaria/carne-bovina-brasileira-movimenta-us-170-milhoes-na-ciie-2026-na-china/",
-        "summary": "Participação da ABIEC em Xangai projeta US$ 2 bilhões em negócios nos próximos 12 meses e soma mais de 1,5 mil contatos comerciais. O post Carne bovina brasileira movimenta US$ 170 milhões na CIIE 2026, na China apareceu",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
-        "publishedAt": "2026-11-16T20:37:02.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 10
-      },
-      {
-        "title": "Você viu? Filha abandona sonho de carreira internacional para ajudar o pai na fazenda e se torna referência na pecuária",
-        "link": "https://www.canalrural.com.br/pecuaria/voce-viu-filha-abandona-sonho-de-carreira-internacional-para-ajudar-o-pai-na-fazenda-e-se-torna-referencia-na-pecuaria/",
-        "summary": "À frente da Fazenda Cigana, Ana Paula dos Santos Silva transformou a propriedade da família em referência de rentabilidade e sustentabilidade O post Você viu? Filha abandona sonho de carreira internacional para ajudar o ",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/11/Ana-Paula-_-home.jpg",
-        "publishedAt": "2026-11-14T23:06:55.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 5
+        "relevancia": 12
       }
     ]
   },
@@ -56,43 +56,34 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Sanidade aquícola é tema de evento em Palmas",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150273932/sanidade-aquicola-e-tema-de-evento-em-palmas",
-        "summary": "Pesca e aquicultura",
-        "image": "https://www.embrapa.br/documents/1355321/90050570/PLATAFORMA+EAD.png/d99235aa-3148-4405-7155-e7b3e6efdf09?version=1.0&t=1794944414535",
-        "publishedAt": "2026-11-17T12:00:00.000Z",
+        "title": "Embrapa apresenta avanços em Ciência, Inovação e Bioeconomia na ExpoCannabis Brasil 2026",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150332671/embrapa-apresenta-avancos-em-ciencia-inovacao-e-bioeconomia-na-expocannabis-brasil-2026",
+        "summary": "",
+        "image": "https://www.embrapa.br/documents/1355163/150332579/expo+cannabis.jpg/5f6a7773-4052-73e3-910f-88a1e9cb890b?version=1.0&t=1795023154458",
+        "publishedAt": "2026-11-18T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
+        "relevancia": 3
+      },
+      {
+        "title": "Embrapa Hortaliças participa da Semana Nacional de C&T",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150332623/embrapa-hortalicas-participa-da-semana-nacional-de-ct",
+        "summary": "Comunicação · Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/documents/1355126/145073250/Ab%C3%B3boras+%28cr%C3%A9dito+foto+Paula+Rodrigues%29.jpg/46830a11-2b3f-fc59-eb43-7fd3e3349228?version=1.0&t=1795023145888",
+        "publishedAt": "2026-11-18T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Pesca e aquicultura"
+          "Comunicação",
+          "Transferência de Tecnologia"
         ],
         "relevancia": 3
       },
       {
-        "title": "Mais de 200 participantes celebram renovação na gestão da Embrapa Soja",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150272499/mais-de-200-participantes-celebram-renovacao-na-gestao-da-embrapa-soja",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=150272500&t=1794942868323",
-        "publishedAt": "2026-11-17T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Embrapa e Crop Trust estreitam parceria para agregar informações e ampliar uso de germoplasma do Brasil",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150270511/embrapa-e-crop-trust-estreitam-parceria-para-agregar-informacoes-e-ampliar-uso-de-germoplasma-do-brasil",
-        "summary": "",
-        "image": "https://www.embrapa.br/documents/d/portal/261117_portal_embrapa-e-crop-trust_abstract",
-        "publishedAt": "2026-11-17T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Embrapa Semiárido realiza transmissão de cargo de chefe-geral ao pesquisador Carlos Gava",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150268037/embrapa-semiarido-realiza-transmissao-de-cargo-de-chefe-geral-ao-pesquisador-carlos-gava",
+        "title": "Visita da presidente da Embrapa ao Grupo Cogny valoriza parceria e destaca novas tecnologias",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150329920/visita-da-presidente-da-embrapa-ao-grupo-cogny-valoriza-parceria-e-destaca-novas-tecnologias",
         "summary": "Gestão Estratégica",
-        "image": "https://www.embrapa.br/documents/1355026/144739781/Posse_Chefia_Geral_2026-Dest.png/898c661f-b172-dda3-7943-2776a4badcff?version=1.0&t=1794936611785",
-        "publishedAt": "2026-11-17T12:00:00.000Z",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=150329921&t=1795018741830",
+        "publishedAt": "2026-11-18T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
           "Gestão Estratégica"
@@ -100,20 +91,46 @@
         "relevancia": 3
       },
       {
-        "title": "Plantas de cobertura: pesquisador apresenta resultados de pesquisa em evento internacional",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150254246/plantas-de-cobertura-pesquisador-apresenta-resultados-de-pesquisa-em-evento-internacional",
-        "summary": "Pesquisa, Desenvolvimento e Inovação",
-        "image": "https://www.embrapa.br/documents/d/cerrados/apresentacao-canvas-2026_4-jpg?download=true",
-        "publishedAt": "2026-11-17T12:00:00.000Z",
+        "title": "Genética avícola da Embrapa passa a integrar a produção da Granja do Torto, em Brasília",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150324858/genetica-avicola-da-embrapa-passa-a-integrar-a-producao-da-granja-do-torto-em-brasilia",
+        "summary": "",
+        "image": "https://www.embrapa.br/documents/1355242/1529337/7b803fe0-ca06-4271-8f4d-94145ec9aa9e.jpg/f8e7f851-5899-117d-1f7c-92833f1d4b3c?version=1.0&t=1795010896777",
+        "publishedAt": "2026-11-18T12:00:00.000Z",
         "fonte": "Embrapa",
-        "tags": [
-          "Pesquisa, Desenvolvimento e Inovação"
-        ],
+        "tags": [],
+        "relevancia": 3
+      },
+      {
+        "title": "Semana de Inovação: Brasil e Suécia buscam parceria para impulsionar a bioeconomia",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150324620/semana-de-inovacao-brasil-e-suecia-buscam-parceria-para-impulsionar-a-bioeconomia",
+        "summary": "",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=150324621&t=1795010702807",
+        "publishedAt": "2026-11-18T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [],
         "relevancia": 3
       }
     ]
   },
   "noticias": [
+    {
+      "title": "Boi gordo sobe R$ 10 em Goiás, enquanto contrato futuro da arroba recua na B3",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-r-10-em-goias-enquanto-contrato-futuro-da-arroba-recua-na-b3/",
+      "summary": "De maneira geral, a liquidez foi considerada razoável, com a maior parte dos negócios mantendo os preços praticados na segunda-feira O post Boi gordo sobe R$ 10 em Goiás, enquanto contrato futuro da arroba recua na B3 ap",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/07/bovinos_gado_de_corte_12.05.2025-3-1024x576-1.webp",
+      "publishedAt": "2026-11-18T12:36:40.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
+    {
+      "title": "Arroba do boi gordo começa a dar sinais de desaceleração; confira as cotações",
+      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-comeca-a-dar-sinais-de-desaceleracao-confira-as-cotacoes/",
+      "summary": "Analista diz que incidência de animais de parceria de grandes indústrias e posição mais confortável em escalas de abate explicam movimento O post Arroba do boi gordo começa a dar sinais de desaceleração; confira as cotaç",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
+      "publishedAt": "2026-11-17T23:27:38.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 15
+    },
     {
       "title": "Arroba do boi gordo sobe R$ 5 em 2 regiões do país, mas mercado trava em SP",
       "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-sobe-r-5-em-2-regioes-do-pais-mas-mercado-trava-em-sp/",
@@ -121,7 +138,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/bdichG9X-fazenda-igarape-grande-maranhao-dia-de-campo-2018-1.jpg",
       "publishedAt": "2026-11-17T12:20:59.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 16
+      "relevancia": 14
     },
     {
       "title": "Arroba do boi gordo estreia a semana com altas mais comedidas",
@@ -130,7 +147,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
       "publishedAt": "2026-11-16T22:40:14.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
+      "relevancia": 13
     },
     {
       "title": "Arroba do boi gordo acumula alta de 1,41% em novembro, aponta Cepea",
@@ -139,25 +156,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
       "publishedAt": "2026-11-16T12:40:34.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 13
-    },
-    {
-      "title": "Carne bovina brasileira movimenta US$ 170 milhões na CIIE 2026, na China",
-      "link": "https://www.canalrural.com.br/pecuaria/carne-bovina-brasileira-movimenta-us-170-milhoes-na-ciie-2026-na-china/",
-      "summary": "Participação da ABIEC em Xangai projeta US$ 2 bilhões em negócios nos próximos 12 meses e soma mais de 1,5 mil contatos comerciais. O post Carne bovina brasileira movimenta US$ 170 milhões na CIIE 2026, na China apareceu",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/06/exportacao-de-frango-de-santa-catarina-soma-us-1-15-bilhao-ate-maio.png",
-      "publishedAt": "2026-11-16T20:37:02.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 10
-    },
-    {
-      "title": "Você viu? Filha abandona sonho de carreira internacional para ajudar o pai na fazenda e se torna referência na pecuária",
-      "link": "https://www.canalrural.com.br/pecuaria/voce-viu-filha-abandona-sonho-de-carreira-internacional-para-ajudar-o-pai-na-fazenda-e-se-torna-referencia-na-pecuaria/",
-      "summary": "À frente da Fazenda Cigana, Ana Paula dos Santos Silva transformou a propriedade da família em referência de rentabilidade e sustentabilidade O post Você viu? Filha abandona sonho de carreira internacional para ajudar o ",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/11/Ana-Paula-_-home.jpg",
-      "publishedAt": "2026-11-14T23:06:55.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 5
+      "relevancia": 12
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
