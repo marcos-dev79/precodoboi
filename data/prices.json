@@ -1,10 +1,10 @@
 {
-  "atualizado_em": "2026-11-18T19:41:02.123Z",
+  "atualizado_em": "2026-11-19T19:41:13.859Z",
   "fonte": "CEPEA/ESALQ · NoticiasAgricolas · Scot Consultoria",
   "licenca": "CC-BY-4.0 · atribuicao AgroDoc AI",
   "referencia_cepea_sp": 392,
   "media_nacional": {
-    "preco_arroba": 378.19
+    "preco_arroba": 378.67
   },
   "estados": [
     {
@@ -48,6 +48,14 @@
       "praca": "MS"
     },
     {
+      "uf": "PA",
+      "nome": "Pará",
+      "regiao": "Norte",
+      "preco_arroba": 390,
+      "origem": "api",
+      "praca": "PA"
+    },
+    {
       "uf": "ES",
       "nome": "Espírito Santo",
       "regiao": "Sudeste",
@@ -72,12 +80,12 @@
       "praca": "GO"
     },
     {
-      "uf": "PA",
-      "nome": "Pará",
+      "uf": "TO",
+      "nome": "Tocantins",
       "regiao": "Norte",
       "preco_arroba": 387,
       "origem": "api",
-      "praca": "PA"
+      "praca": "TO"
     },
     {
       "uf": "RS",
@@ -86,14 +94,6 @@
       "preco_arroba": 384.16,
       "origem": "estimado",
       "praca": "estimativa regional (Sul)"
-    },
-    {
-      "uf": "TO",
-      "nome": "Tocantins",
-      "regiao": "Norte",
-      "preco_arroba": 382,
-      "origem": "api",
-      "praca": "TO"
     },
     {
       "uf": "DF",
@@ -112,20 +112,20 @@
       "praca": "MT"
     },
     {
+      "uf": "RO",
+      "nome": "Rondônia",
+      "regiao": "Norte",
+      "preco_arroba": 380,
+      "origem": "api",
+      "praca": "RO"
+    },
+    {
       "uf": "BA",
       "nome": "Bahia",
       "regiao": "Nordeste",
       "preco_arroba": 376.32,
       "origem": "estimado",
       "praca": "estimativa regional (Nordeste)"
-    },
-    {
-      "uf": "RO",
-      "nome": "Rondônia",
-      "regiao": "Norte",
-      "preco_arroba": 375,
-      "origem": "api",
-      "praca": "RO"
     },
     {
       "uf": "PE",

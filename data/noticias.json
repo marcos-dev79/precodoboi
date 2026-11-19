@@ -1,53 +1,53 @@
 {
-  "atualizado_em": "2026-11-18T19:41:04.781Z",
+  "atualizado_em": "2026-11-19T19:41:16.447Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
     "noticias": [
       {
-        "title": "Boi gordo sobe R$ 10 em Goiás, enquanto contrato futuro da arroba recua na B3",
-        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-r-10-em-goias-enquanto-contrato-futuro-da-arroba-recua-na-b3/",
-        "summary": "De maneira geral, a liquidez foi considerada razoável, com a maior parte dos negócios mantendo os preços praticados na segunda-feira O post Boi gordo sobe R$ 10 em Goiás, enquanto contrato futuro da arroba recua na B3 ap",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/07/bovinos_gado_de_corte_12.05.2025-3-1024x576-1.webp",
-        "publishedAt": "2026-11-18T12:36:40.000Z",
+        "title": "Carne bovina perde competitividade e alta da arroba encontra resistência",
+        "link": "https://www.canalrural.com.br/opiniao-noticias/carne-bovina-perde-competitividade-e-alta-da-arroba-encontra-resistencia/",
+        "summary": "Juros altos, crédito restrito e perda de poder de compra pressionam as margens do pecuarista e limitam o espaço para novas altas do boi gordo O post Carne bovina perde competitividade e alta da arroba encontra resistênci",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/11/close-de-tres-bifes-de-carne-crua-fresca-com-osso-em-papel-artesanal-branco-de-cima.jpg",
+        "publishedAt": "2026-11-19T18:59:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 15
+        "relevancia": 22
       },
       {
-        "title": "Arroba do boi gordo começa a dar sinais de desaceleração; confira as cotações",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-comeca-a-dar-sinais-de-desaceleracao-confira-as-cotacoes/",
-        "summary": "Analista diz que incidência de animais de parceria de grandes indústrias e posição mais confortável em escalas de abate explicam movimento O post Arroba do boi gordo começa a dar sinais de desaceleração; confira as cotaç",
-        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
-        "publishedAt": "2026-11-17T23:27:38.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 15
-      },
-      {
-        "title": "Arroba do boi gordo sobe R$ 5 em 2 regiões do país, mas mercado trava em SP",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-sobe-r-5-em-2-regioes-do-pais-mas-mercado-trava-em-sp/",
-        "summary": "Oferta restrita de animais e escalas curtas de abate sustentam reajustes no Pará e em Rondônia, enquanto demanda enfraquecida limita negócios no mercado paulista O post Arroba do boi gordo sobe R$ 5 em 2 regiões do país,",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/bdichG9X-fazenda-igarape-grande-maranhao-dia-de-campo-2018-1.jpg",
-        "publishedAt": "2026-11-17T12:20:59.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 14
-      },
-      {
-        "title": "Arroba do boi gordo estreia a semana com altas mais comedidas",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-estreia-a-semana-com-altas-mais-comedidas/",
-        "summary": "Em geral, as escalas de abate seguem pouco confortáveis, mas frigoríficos de maior porte já conseguem estender melhor suas programações O post Arroba do boi gordo estreia a semana com altas mais comedidas apareceu primei",
-        "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
-        "publishedAt": "2026-11-16T22:40:14.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 13
-      },
-      {
-        "title": "Arroba do boi gordo acumula alta de 1,41% em novembro, aponta Cepea",
-        "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-acumula-alta-de-141-em-novembro-aponta-cepea/",
-        "summary": "A alta ocorre em meio à oferta restrita de animais para abate em algumas regiões do país, cenário que tem sustentado as cotações O post Arroba do boi gordo acumula alta de 1,41% em novembro, aponta Cepea apareceu primeir",
-        "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
-        "publishedAt": "2026-11-16T12:40:34.000Z",
+        "title": "Repasses adicionais dos preços da carne ao consumidor tendem a limitar altas da arroba, diz Itaú BBA",
+        "link": "https://www.canalrural.com.br/pecuaria/repasses-adicionais-dos-precos-da-carne-ao-consumidor-tendem-a-limitar-altas-da-arroba-diz-itau-bba/",
+        "summary": "Valores da carcaça no atacado já estão 17% acima do registrado no mesmo período do ano passado O post Repasses adicionais dos preços da carne ao consumidor tendem a limitar altas da arroba, diz Itaú BBA apareceu primeiro",
+        "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
+        "publishedAt": "2026-11-18T20:35:54.000Z",
         "fonte": "Canal Rural",
         "relevancia": 12
+      },
+      {
+        "title": "Etiópia recebe primeira remessa de carne bovina brasileira",
+        "link": "https://www.canalrural.com.br/pecuaria/etiopia-recebe-primeira-remessa-de-carne-bovina-brasileira/",
+        "summary": "Desembarque ocorreu no dia 12, meses após a abertura do mercado etíope e a definição do certificado sanitário para o produto. O post Etiópia recebe primeira remessa de carne bovina brasileira apareceu primeiro em Canal R",
+        "image": "https://imagens-cdn.canalrural.com.br/2026/10/china-suspende-importacoes-de-carne-bovina-de-unidade-da-mbrf-em-promissao.png",
+        "publishedAt": "2026-11-18T19:42:18.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 11
+      },
+      {
+        "title": "Preços do boi gordo voltam a apresentar alta mais consistente",
+        "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-gordo-voltam-a-apresentar-alta-mais-consistente/",
+        "summary": "No mercado atacadista, expectativa de aproximação do auge do consumo doméstico permanece no radar O post Preços do boi gordo voltam a apresentar alta mais consistente apareceu primeiro em Canal Rural .",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/08/derivativos-boi-gordo.jpg",
+        "publishedAt": "2026-11-18T22:02:12.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 10
+      },
+      {
+        "title": "Boi gordo alcança maior preço real desde 1994, aponta Cepea",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-alcanca-maior-preco-real-desde-1994-aponta-cepea/",
+        "summary": "Segundo o centro de estudos, a média parcial de novembro registra um novo recorde real da série histórica iniciada em 1994 O post Boi gordo alcança maior preço real desde 1994, aponta Cepea apareceu primeiro em Canal Rur",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
+        "publishedAt": "2026-11-19T12:04:17.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 9
       }
     ]
   },
@@ -56,56 +56,57 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Embrapa apresenta avanços em Ciência, Inovação e Bioeconomia na ExpoCannabis Brasil 2026",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150332671/embrapa-apresenta-avancos-em-ciencia-inovacao-e-bioeconomia-na-expocannabis-brasil-2026",
+        "title": "Técnica usada no agro vai analisar o esgoto urbano de São Carlos",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150379812/tecnica-usada-no-agro-integra-centro-de-ciencia-pioneiro-para-analisar-o-esgoto-de-sao-carlos",
+        "summary": "Pesquisa, Desenvolvimento e Inovação",
+        "image": null,
+        "publishedAt": "2026-11-19T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Pesquisa, Desenvolvimento e Inovação"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Embrapa apresenta seleções promissoras e cultivares na Festa Municipal do Pêssego de Pelotas",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150372620/embrapa-apresenta-selecoes-promissoras-e-cultivares-na-festa-municipal-do-pessego-de-pelotas",
         "summary": "",
-        "image": "https://www.embrapa.br/documents/1355163/150332579/expo+cannabis.jpg/5f6a7773-4052-73e3-910f-88a1e9cb890b?version=1.0&t=1795023154458",
-        "publishedAt": "2026-11-18T12:00:00.000Z",
+        "image": "https://www.embrapa.br/documents/1354346/84065225/Safra+P%C3%AAssego+2026+lanzetta.jpg/f5c89411-3ff1-2366-ee11-cc772f530087?version=1.0&t=1795107152083",
+        "publishedAt": "2026-11-19T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
         "relevancia": 3
       },
       {
-        "title": "Embrapa Hortaliças participa da Semana Nacional de C&T",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150332623/embrapa-hortalicas-participa-da-semana-nacional-de-ct",
-        "summary": "Comunicação · Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/documents/1355126/145073250/Ab%C3%B3boras+%28cr%C3%A9dito+foto+Paula+Rodrigues%29.jpg/46830a11-2b3f-fc59-eb43-7fd3e3349228?version=1.0&t=1795023145888",
-        "publishedAt": "2026-11-18T12:00:00.000Z",
+        "title": "Embrapa capacita pesquisadores da Etiópia em pecuária leiteira",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150370482/embrapa-capacita-pesquisadores-da-etiopia-em-pecuaria-leiteira",
+        "summary": "Transferência de Tecnologia",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=150370483&t=1795106590244",
+        "publishedAt": "2026-11-19T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Comunicação",
           "Transferência de Tecnologia"
         ],
-        "relevancia": 3
+        "relevancia": 8
       },
       {
-        "title": "Visita da presidente da Embrapa ao Grupo Cogny valoriza parceria e destaca novas tecnologias",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150329920/visita-da-presidente-da-embrapa-ao-grupo-cogny-valoriza-parceria-e-destaca-novas-tecnologias",
-        "summary": "Gestão Estratégica",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=150329921&t=1795018741830",
-        "publishedAt": "2026-11-18T12:00:00.000Z",
+        "title": "Comunidade indígena Potiguara realiza colheita de algodão agroecológico na Paraíba",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150368662/comunidade-indigena-potiguara-realiza-colheita-de-algodao-agroecologico-na-paraiba",
+        "summary": "Agroecologia e produção orgânica",
+        "image": "https://www.embrapa.br/documents/1355081/1527228/ALGOD%C3%83O+AGROECOLOGICO+NAS+TERRAS+IND%C3%8DGENA2.jpg/b0bf3922-a9ff-d576-490d-9c0b797068fc?version=1.0&t=1795100533665",
+        "publishedAt": "2026-11-19T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [
-          "Gestão Estratégica"
+          "Agroecologia e produção orgânica"
         ],
         "relevancia": 3
       },
       {
-        "title": "Genética avícola da Embrapa passa a integrar a produção da Granja do Torto, em Brasília",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150324858/genetica-avicola-da-embrapa-passa-a-integrar-a-producao-da-granja-do-torto-em-brasilia",
+        "title": "Biogás e biodigestores: a transformação dos resíduos agrícolas em energia e nutrientes",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150368883/biogas-e-biodigestores-a-transformacao-dos-residuos-agricolas-em-energia-e-nutrientes",
         "summary": "",
-        "image": "https://www.embrapa.br/documents/1355242/1529337/7b803fe0-ca06-4271-8f4d-94145ec9aa9e.jpg/f8e7f851-5899-117d-1f7c-92833f1d4b3c?version=1.0&t=1795010896777",
-        "publishedAt": "2026-11-18T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Semana de Inovação: Brasil e Suécia buscam parceria para impulsionar a bioeconomia",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150324620/semana-de-inovacao-brasil-e-suecia-buscam-parceria-para-impulsionar-a-bioeconomia",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=150324621&t=1795010702807",
-        "publishedAt": "2026-11-18T12:00:00.000Z",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=150368884&t=1795101271528",
+        "publishedAt": "2026-11-19T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
         "relevancia": 3
@@ -114,49 +115,49 @@
   },
   "noticias": [
     {
-      "title": "Boi gordo sobe R$ 10 em Goiás, enquanto contrato futuro da arroba recua na B3",
-      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-sobe-r-10-em-goias-enquanto-contrato-futuro-da-arroba-recua-na-b3/",
-      "summary": "De maneira geral, a liquidez foi considerada razoável, com a maior parte dos negócios mantendo os preços praticados na segunda-feira O post Boi gordo sobe R$ 10 em Goiás, enquanto contrato futuro da arroba recua na B3 ap",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/07/bovinos_gado_de_corte_12.05.2025-3-1024x576-1.webp",
-      "publishedAt": "2026-11-18T12:36:40.000Z",
+      "title": "Carne bovina perde competitividade e alta da arroba encontra resistência",
+      "link": "https://www.canalrural.com.br/opiniao-noticias/carne-bovina-perde-competitividade-e-alta-da-arroba-encontra-resistencia/",
+      "summary": "Juros altos, crédito restrito e perda de poder de compra pressionam as margens do pecuarista e limitam o espaço para novas altas do boi gordo O post Carne bovina perde competitividade e alta da arroba encontra resistênci",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/11/close-de-tres-bifes-de-carne-crua-fresca-com-osso-em-papel-artesanal-branco-de-cima.jpg",
+      "publishedAt": "2026-11-19T18:59:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 15
+      "relevancia": 22
     },
     {
-      "title": "Arroba do boi gordo começa a dar sinais de desaceleração; confira as cotações",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-comeca-a-dar-sinais-de-desaceleracao-confira-as-cotacoes/",
-      "summary": "Analista diz que incidência de animais de parceria de grandes indústrias e posição mais confortável em escalas de abate explicam movimento O post Arroba do boi gordo começa a dar sinais de desaceleração; confira as cotaç",
-      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
-      "publishedAt": "2026-11-17T23:27:38.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 15
-    },
-    {
-      "title": "Arroba do boi gordo sobe R$ 5 em 2 regiões do país, mas mercado trava em SP",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-sobe-r-5-em-2-regioes-do-pais-mas-mercado-trava-em-sp/",
-      "summary": "Oferta restrita de animais e escalas curtas de abate sustentam reajustes no Pará e em Rondônia, enquanto demanda enfraquecida limita negócios no mercado paulista O post Arroba do boi gordo sobe R$ 5 em 2 regiões do país,",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/bdichG9X-fazenda-igarape-grande-maranhao-dia-de-campo-2018-1.jpg",
-      "publishedAt": "2026-11-17T12:20:59.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 14
-    },
-    {
-      "title": "Arroba do boi gordo estreia a semana com altas mais comedidas",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-estreia-a-semana-com-altas-mais-comedidas/",
-      "summary": "Em geral, as escalas de abate seguem pouco confortáveis, mas frigoríficos de maior porte já conseguem estender melhor suas programações O post Arroba do boi gordo estreia a semana com altas mais comedidas apareceu primei",
-      "image": "https://imagens-cdn.canalrural.com.br/2024/10/cVxPzzI3-boi-gordo-2.jpg",
-      "publishedAt": "2026-11-16T22:40:14.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 13
-    },
-    {
-      "title": "Arroba do boi gordo acumula alta de 1,41% em novembro, aponta Cepea",
-      "link": "https://www.canalrural.com.br/pecuaria/arroba-do-boi-gordo-acumula-alta-de-141-em-novembro-aponta-cepea/",
-      "summary": "A alta ocorre em meio à oferta restrita de animais para abate em algumas regiões do país, cenário que tem sustentado as cotações O post Arroba do boi gordo acumula alta de 1,41% em novembro, aponta Cepea apareceu primeir",
-      "image": "https://imagens-cdn.canalrural.com.br/2023/12/boi-gordo-giro-do-boi.jpg",
-      "publishedAt": "2026-11-16T12:40:34.000Z",
+      "title": "Repasses adicionais dos preços da carne ao consumidor tendem a limitar altas da arroba, diz Itaú BBA",
+      "link": "https://www.canalrural.com.br/pecuaria/repasses-adicionais-dos-precos-da-carne-ao-consumidor-tendem-a-limitar-altas-da-arroba-diz-itau-bba/",
+      "summary": "Valores da carcaça no atacado já estão 17% acima do registrado no mesmo período do ano passado O post Repasses adicionais dos preços da carne ao consumidor tendem a limitar altas da arroba, diz Itaú BBA apareceu primeiro",
+      "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
+      "publishedAt": "2026-11-18T20:35:54.000Z",
       "fonte": "Canal Rural",
       "relevancia": 12
+    },
+    {
+      "title": "Etiópia recebe primeira remessa de carne bovina brasileira",
+      "link": "https://www.canalrural.com.br/pecuaria/etiopia-recebe-primeira-remessa-de-carne-bovina-brasileira/",
+      "summary": "Desembarque ocorreu no dia 12, meses após a abertura do mercado etíope e a definição do certificado sanitário para o produto. O post Etiópia recebe primeira remessa de carne bovina brasileira apareceu primeiro em Canal R",
+      "image": "https://imagens-cdn.canalrural.com.br/2026/10/china-suspende-importacoes-de-carne-bovina-de-unidade-da-mbrf-em-promissao.png",
+      "publishedAt": "2026-11-18T19:42:18.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 11
+    },
+    {
+      "title": "Preços do boi gordo voltam a apresentar alta mais consistente",
+      "link": "https://www.canalrural.com.br/pecuaria/precos-do-boi-gordo-voltam-a-apresentar-alta-mais-consistente/",
+      "summary": "No mercado atacadista, expectativa de aproximação do auge do consumo doméstico permanece no radar O post Preços do boi gordo voltam a apresentar alta mais consistente apareceu primeiro em Canal Rural .",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/08/derivativos-boi-gordo.jpg",
+      "publishedAt": "2026-11-18T22:02:12.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 10
+    },
+    {
+      "title": "Boi gordo alcança maior preço real desde 1994, aponta Cepea",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-alcanca-maior-preco-real-desde-1994-aponta-cepea/",
+      "summary": "Segundo o centro de estudos, a média parcial de novembro registra um novo recorde real da série histórica iniciada em 1994 O post Boi gordo alcança maior preço real desde 1994, aponta Cepea apareceu primeiro em Canal Rur",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
+      "publishedAt": "2026-11-19T12:04:17.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 9
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
