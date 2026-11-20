@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-19T19:41:16.447Z",
+  "atualizado_em": "2026-11-20T19:21:01.088Z",
   "canal_rural": {
     "fonte": "Canal Rural · RSS pecuária",
     "feed": "https://www.canalrural.com.br/pecuaria/feed/",
@@ -11,25 +11,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/2025/11/close-de-tres-bifes-de-carne-crua-fresca-com-osso-em-papel-artesanal-branco-de-cima.jpg",
         "publishedAt": "2026-11-19T18:59:00.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 22
+        "relevancia": 20
       },
       {
-        "title": "Repasses adicionais dos preços da carne ao consumidor tendem a limitar altas da arroba, diz Itaú BBA",
-        "link": "https://www.canalrural.com.br/pecuaria/repasses-adicionais-dos-precos-da-carne-ao-consumidor-tendem-a-limitar-altas-da-arroba-diz-itau-bba/",
-        "summary": "Valores da carcaça no atacado já estão 17% acima do registrado no mesmo período do ano passado O post Repasses adicionais dos preços da carne ao consumidor tendem a limitar altas da arroba, diz Itaú BBA apareceu primeiro",
-        "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
-        "publishedAt": "2026-11-18T20:35:54.000Z",
+        "title": "Boi gordo: exportações e consumo doméstico dão suporte à arroba",
+        "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-exportacoes-e-consumo-domestico-dao-suporte-a-arroba/",
+        "summary": "No mercado atacadista, a entrada dos salários na economia fortalece as compras e a reposição entre atacado e varejo O post Boi gordo: exportações e consumo doméstico dão suporte à arroba apareceu primeiro em Canal Rural ",
+        "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi.jpg",
+        "publishedAt": "2026-11-19T22:32:26.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 12
-      },
-      {
-        "title": "Etiópia recebe primeira remessa de carne bovina brasileira",
-        "link": "https://www.canalrural.com.br/pecuaria/etiopia-recebe-primeira-remessa-de-carne-bovina-brasileira/",
-        "summary": "Desembarque ocorreu no dia 12, meses após a abertura do mercado etíope e a definição do certificado sanitário para o produto. O post Etiópia recebe primeira remessa de carne bovina brasileira apareceu primeiro em Canal R",
-        "image": "https://imagens-cdn.canalrural.com.br/2026/10/china-suspende-importacoes-de-carne-bovina-de-unidade-da-mbrf-em-promissao.png",
-        "publishedAt": "2026-11-18T19:42:18.000Z",
-        "fonte": "Canal Rural",
-        "relevancia": 11
+        "relevancia": 18
       },
       {
         "title": "Preços do boi gordo voltam a apresentar alta mais consistente",
@@ -38,7 +29,7 @@
         "image": "https://imagens-cdn.canalrural.com.br/2025/08/derivativos-boi-gordo.jpg",
         "publishedAt": "2026-11-18T22:02:12.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 10
+        "relevancia": 8
       },
       {
         "title": "Boi gordo alcança maior preço real desde 1994, aponta Cepea",
@@ -47,7 +38,16 @@
         "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
         "publishedAt": "2026-11-19T12:04:17.000Z",
         "fonte": "Canal Rural",
-        "relevancia": 9
+        "relevancia": 7
+      },
+      {
+        "title": "Abate de bovinos recua 13,4% no terceiro trimestre de 2026, diz IBGE",
+        "link": "https://www.canalrural.com.br/pecuaria/abate-de-bovinos-recua-134-no-terceiro-trimestre-de-2026-diz-ibge/",
+        "summary": "Prévia do instituto também mostra avanço no abate de suínos e frangos na comparação anual e frente ao trimestre anterior. O post Abate de bovinos recua 13,4% no terceiro trimestre de 2026, diz IBGE apareceu primeiro em C",
+        "image": "https://imagens-cdn.canalrural.com.br/2025/09/bovinos_confinamento_foto_Reproducao_11.07.2025-2.jpg",
+        "publishedAt": "2026-11-19T12:28:02.000Z",
+        "fonte": "Canal Rural",
+        "relevancia": 5
       }
     ]
   },
@@ -56,7 +56,47 @@
     "feed": "https://www.embrapa.br/noticias-rss",
     "noticias": [
       {
-        "title": "Técnica usada no agro vai analisar o esgoto urbano de São Carlos",
+        "title": "Prosa Rural - Novo espaçamento e número de estipes para elevar produção de açaí irrigado",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150322845/prosa-rural---novo-espacamento-e-numero-de-estipes-para-elevar-producao-de-acai-irrigado",
+        "summary": "Agricultura familiar · Agroindústria · Biodiversidade · Produção vegetal · Manejo de Recursos Hídricos",
+        "image": "https://www.embrapa.br/documents/1354337/0/Espa%C3%A7amento_de_estipes_de_a%C3%A7a%C3%AD+.jpg+%281%29.jpeg/cb2b4203-c707-ddca-6358-19a1fd6a9d4d?version=1.0&t=1795008948963",
+        "publishedAt": "2026-11-20T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Agricultura familiar",
+          "Agroindústria",
+          "Biodiversidade",
+          "Produção vegetal",
+          "Manejo de Recursos Hídricos"
+        ],
+        "relevancia": 3
+      },
+      {
+        "title": "Intercâmbio articula ações emergenciais para leite no sertão sergipano",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150387220/intercambio-articula-acoes-emergenciais-para-leite-no-sertao-sergipano",
+        "summary": "Mudanças climáticas",
+        "image": "https://www.embrapa.br/image/journal/article?img_id=150387221&t=1795141421847",
+        "publishedAt": "2026-11-19T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Mudanças climáticas"
+        ],
+        "relevancia": 1
+      },
+      {
+        "title": "Tecnologias para a cafeicultura de montanha são destaque durante evento em Caconde",
+        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150385850/tecnologias-para-a-cafeicultura-de-montanha-sao-destaque-durante-evento-em-caconde",
+        "summary": "Agricultura familiar",
+        "image": null,
+        "publishedAt": "2026-11-19T12:00:00.000Z",
+        "fonte": "Embrapa",
+        "tags": [
+          "Agricultura familiar"
+        ],
+        "relevancia": 1
+      },
+      {
+        "title": "Técnica usada no agro integra Centro de Ciência pioneiro para analisar o esgoto de São Carlos",
         "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150379812/tecnica-usada-no-agro-integra-centro-de-ciencia-pioneiro-para-analisar-o-esgoto-de-sao-carlos",
         "summary": "Pesquisa, Desenvolvimento e Inovação",
         "image": null,
@@ -65,7 +105,7 @@
         "tags": [
           "Pesquisa, Desenvolvimento e Inovação"
         ],
-        "relevancia": 3
+        "relevancia": 1
       },
       {
         "title": "Embrapa apresenta seleções promissoras e cultivares na Festa Municipal do Pêssego de Pelotas",
@@ -75,41 +115,7 @@
         "publishedAt": "2026-11-19T12:00:00.000Z",
         "fonte": "Embrapa",
         "tags": [],
-        "relevancia": 3
-      },
-      {
-        "title": "Embrapa capacita pesquisadores da Etiópia em pecuária leiteira",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150370482/embrapa-capacita-pesquisadores-da-etiopia-em-pecuaria-leiteira",
-        "summary": "Transferência de Tecnologia",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=150370483&t=1795106590244",
-        "publishedAt": "2026-11-19T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Transferência de Tecnologia"
-        ],
-        "relevancia": 8
-      },
-      {
-        "title": "Comunidade indígena Potiguara realiza colheita de algodão agroecológico na Paraíba",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150368662/comunidade-indigena-potiguara-realiza-colheita-de-algodao-agroecologico-na-paraiba",
-        "summary": "Agroecologia e produção orgânica",
-        "image": "https://www.embrapa.br/documents/1355081/1527228/ALGOD%C3%83O+AGROECOLOGICO+NAS+TERRAS+IND%C3%8DGENA2.jpg/b0bf3922-a9ff-d576-490d-9c0b797068fc?version=1.0&t=1795100533665",
-        "publishedAt": "2026-11-19T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [
-          "Agroecologia e produção orgânica"
-        ],
-        "relevancia": 3
-      },
-      {
-        "title": "Biogás e biodigestores: a transformação dos resíduos agrícolas em energia e nutrientes",
-        "link": "https://www.embrapa.br/busca-de-noticias/-/noticia/150368883/biogas-e-biodigestores-a-transformacao-dos-residuos-agricolas-em-energia-e-nutrientes",
-        "summary": "",
-        "image": "https://www.embrapa.br/image/journal/article?img_id=150368884&t=1795101271528",
-        "publishedAt": "2026-11-19T12:00:00.000Z",
-        "fonte": "Embrapa",
-        "tags": [],
-        "relevancia": 3
+        "relevancia": 1
       }
     ]
   },
@@ -121,25 +127,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/2025/11/close-de-tres-bifes-de-carne-crua-fresca-com-osso-em-papel-artesanal-branco-de-cima.jpg",
       "publishedAt": "2026-11-19T18:59:00.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 22
+      "relevancia": 20
     },
     {
-      "title": "Repasses adicionais dos preços da carne ao consumidor tendem a limitar altas da arroba, diz Itaú BBA",
-      "link": "https://www.canalrural.com.br/pecuaria/repasses-adicionais-dos-precos-da-carne-ao-consumidor-tendem-a-limitar-altas-da-arroba-diz-itau-bba/",
-      "summary": "Valores da carcaça no atacado já estão 17% acima do registrado no mesmo período do ano passado O post Repasses adicionais dos preços da carne ao consumidor tendem a limitar altas da arroba, diz Itaú BBA apareceu primeiro",
-      "image": "https://imagens-cdn.canalrural.com.br/2023/10/carne-vermelha-fresca-e-trabalhador-de-acougue-trabalhando-em-segundo-plano.jpg",
-      "publishedAt": "2026-11-18T20:35:54.000Z",
+      "title": "Boi gordo: exportações e consumo doméstico dão suporte à arroba",
+      "link": "https://www.canalrural.com.br/pecuaria/boi-gordo-exportacoes-e-consumo-domestico-dao-suporte-a-arroba/",
+      "summary": "No mercado atacadista, a entrada dos salários na economia fortalece as compras e a reposição entre atacado e varejo O post Boi gordo: exportações e consumo doméstico dão suporte à arroba apareceu primeiro em Canal Rural ",
+      "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/novilhasGiroDoBoi.jpg",
+      "publishedAt": "2026-11-19T22:32:26.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 12
-    },
-    {
-      "title": "Etiópia recebe primeira remessa de carne bovina brasileira",
-      "link": "https://www.canalrural.com.br/pecuaria/etiopia-recebe-primeira-remessa-de-carne-bovina-brasileira/",
-      "summary": "Desembarque ocorreu no dia 12, meses após a abertura do mercado etíope e a definição do certificado sanitário para o produto. O post Etiópia recebe primeira remessa de carne bovina brasileira apareceu primeiro em Canal R",
-      "image": "https://imagens-cdn.canalrural.com.br/2026/10/china-suspende-importacoes-de-carne-bovina-de-unidade-da-mbrf-em-promissao.png",
-      "publishedAt": "2026-11-18T19:42:18.000Z",
-      "fonte": "Canal Rural",
-      "relevancia": 11
+      "relevancia": 18
     },
     {
       "title": "Preços do boi gordo voltam a apresentar alta mais consistente",
@@ -148,7 +145,7 @@
       "image": "https://imagens-cdn.canalrural.com.br/2025/08/derivativos-boi-gordo.jpg",
       "publishedAt": "2026-11-18T22:02:12.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 10
+      "relevancia": 8
     },
     {
       "title": "Boi gordo alcança maior preço real desde 1994, aponta Cepea",
@@ -157,7 +154,16 @@
       "image": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/boi-gordo-mt.jpg",
       "publishedAt": "2026-11-19T12:04:17.000Z",
       "fonte": "Canal Rural",
-      "relevancia": 9
+      "relevancia": 7
+    },
+    {
+      "title": "Abate de bovinos recua 13,4% no terceiro trimestre de 2026, diz IBGE",
+      "link": "https://www.canalrural.com.br/pecuaria/abate-de-bovinos-recua-134-no-terceiro-trimestre-de-2026-diz-ibge/",
+      "summary": "Prévia do instituto também mostra avanço no abate de suínos e frangos na comparação anual e frente ao trimestre anterior. O post Abate de bovinos recua 13,4% no terceiro trimestre de 2026, diz IBGE apareceu primeiro em C",
+      "image": "https://imagens-cdn.canalrural.com.br/2025/09/bovinos_confinamento_foto_Reproducao_11.07.2025-2.jpg",
+      "publishedAt": "2026-11-19T12:28:02.000Z",
+      "fonte": "Canal Rural",
+      "relevancia": 5
     }
   ],
   "fonte": "Canal Rural · RSS pecuária",
